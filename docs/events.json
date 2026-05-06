@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-06T09:22:04Z",
-  "count": 136,
+  "updated_at": "2026-05-06T15:27:15Z",
+  "count": 129,
   "events": [
+    {
+      "title": "Mérida lanza Eulalia, el asistente virtual que gestionará reservas de Emerita Lvdica por WhatsApp",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/06/merida-estrena-eulalia-asistente-virtual-municipal-whatsapp-129907403.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rubert Cordero, de radioperador de taxi en Bolivia al taller de Mérida donde los zapatos resucitan",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/06/rubert-cordero-bolivia-merida-zapatero-historia-radioperador-129904212.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Curso de cajero-reponedor en Mérida con prácticas en empresas",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Torre Ocaso, el rascacielos veterano de Mérida, sigue liderando el skyline de la capital extremeña",
+      "title": "Fotogalería | Rubert Cordero: de radioperador de taxi en Bolivia a ser el zapatero y \"manitas\" de Mérida",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/04/torre-ocaso-rascacielos-veterano-merida-129815866.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El gigante chino de los cátodos que puede cambiar el futuro industrial de Mérida",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/04/gigante-chino-catodos-cambiar-futuro-industrial-merida-129715736.html",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/05/06/fotogaleria-viaje-merida-bolivia-rubert-cordero-zapatero-129908986.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -139,19 +147,35 @@
       "location": "Mérida"
     },
     {
-      "title": "Vídeo | La Guardia Civil investiga el acoso de tres furgonetas de aficionados de la Real Sociedad a una autocaravana del Atlético",
+      "title": "El sindicato CSIF pide al Ministerio de Cultura que aumente la plantilla del Museo Romano de Mérida",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/20/video-guardia-civil-investiga-acoso-a-5-merida-furgonetas-real-sociedad-ateltico-madrid-129299911.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/sindicato-csif-pide-ministerio-cultura-aumente-plantilla-20260506133655-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
-      "title": "Vídeo | De viviendas sociales a lienzo de arte urbano: el cambio de La Antigua en Mérida",
+      "title": "El Ayuntamiento de Mérida pone en marcha un asistente virtual para reservar entradas, pagar tasas y solicitar documentos",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/04/19/video-viviendas-sociales-lienzo-arte-urbano-barriada-la-antigua-merida-129283867.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-pone-marcha-asistente-virtual-reservar-20260506124844-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Audiencia duplica las penas contra dos menores que violaron en grupo a una niña en Mérida: «Follamos todos o matamos a tu familia»",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.hoy.es/merida/duplican-condena-menores-violacion-grupal-merida-20260506114605-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Escuela de Arte de Mérida acoge la exposición 'Cerámica de alacena' de Javier Fernández de Molina",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.hoy.es/merida/escuela-arte-merida-acoge-exposicion-ceramica-alacena-20260506132343-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -159,22 +183,6 @@
       "description": "",
       "date": "2026-05-06",
       "url": "https://www.hoy.es/merida/encuentro-nacional-musicaeduca-reunira-merida-300-participantes-20260505112550-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Conservatorio de Mérida celebra el décimo aniversario de su proyecto pionero NeuroRedes",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://www.hoy.es/merida/conservatorio-merida-celebra-decimo-aniversario-proyecto-pionero-20260505121651-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida cubrirá 123 puestos de forma temporal con contratos de hasta un año",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-cubrira-123-puestos-forma-temporal-20260504141625-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -195,83 +203,115 @@
       "location": "Mérida"
     },
     {
-      "title": "La Policía Local atendió 12 siniestros viales la semana pasada",
-      "description": "May 5, 2026 | Seguridad Ciudadana , Tráfico",
+      "title": "El Instituto Coordenadas critica el retraso del Sistema Nacional de Salud en nuevas terapias",
+      "description": "El Instituto Coordenadas de Gobernanza y Economía Aplicada (ICGEA) señala en un análisis elaborado sobre el acceso a la innovación terapéutica que el sistema...",
       "date": "2026-05-06",
-      "url": "https://merida.es/la-policia-local-atendio-12-siniestros-viales-la-semana-pasada/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://www.meridadiario.com/2026/05/06/el-instituto-coordenadas-critica-el-retraso-del-sistema-nacional-de-salud-en-nuevas-terapias/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Predicción meteorológica: Mérida, 6 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.meridadiario.com/2026/05/06/prediccion-meteorologica-merida-6-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Real Madrid denuncia la producción y comercialización audiovisual conjunta de la Copa del Rey",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.meridadiario.com/2026/05/06/el-real-madrid-denuncia-la-produccion-y-comercializacion-audiovisual-conjunta-de-la-copa-del-rey/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "XTART FP y CaixaBank Tech conectan la FP con el talento tecnológico financiero",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.meridadiario.com/2026/05/06/xtart-fp-y-caixabank-tech-conectan-la-fp-con-el-talento-tecnologico-financiero/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
+      "description": "por Mérida Noticias en Mérida 0",
+      "date": "2026-05-06",
+      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Feria del Libro comienza esta tarde con 15 expositores y 35 presentaciones literarias junto a actividades infantiles y conciertos cada día",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://meridanoticias.com/2026/05/06/la-feria-del-libro-comienza-esta-tarde-con-15-expositores-y-35-presentaciones-literarias-junto-a-actividades-infantiles-y-conciertos-cada-dia/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 12 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://meridanoticias.com/2026/05/05/la-policia-local-atendio-12-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El proyecto Neuroredes, del Conservatorio Profesional de Música “Esteban Sánchez”, y pionero en Europa, celebra mañana miércoles su X aniversario",
-      "description": "May 5, 2026 | Educación",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/el-proyecto-neuroredes-del-conservatorio-profesional-de-musica-esteban-sanchez-y-pionero-en-europa-celebra-manana-miercoles-su-x-aniversario/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/05/el-proyecto-neuroredes-del-conservatorio-profesional-de-musica-esteban-sanchez-y-pionero-en-europa-celebra-manana-miercoles-su-x-aniversario/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "La Feria del Libro tendrá conciertos cada día en el Templo de Diana y una amplia programación infantil y juvenil en el Centro Cultural Alcazaba",
-      "description": "May 5, 2026 | Cultura",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/la-feria-del-libro-tendra-conciertos-cada-dia-en-el-templo-de-diana-y-una-amplia-programacion-infantil-y-juvenil-en-el-centro-cultural-alcazaba/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/05/la-feria-del-libro-tendra-conciertos-cada-dia-en-el-templo-de-diana-y-una-amplia-programacion-infantil-y-juvenil-en-el-centro-cultural-alcazaba/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Programa CRISOL inicia en Mérida una nueva acción formativa de Cajero/a-Reponedor/a",
-      "description": "May 5, 2026 | Servicios Sociales",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/el-programa-crisol-inicia-en-merida-una-nueva-accion-formativa-de-cajero-a-reponedor-a/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/05/el-programa-crisol-inicia-en-merida-una-nueva-accion-formativa-de-cajero-a-reponedor-a/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Ayuntamiento impulsa el nuevo Programa de Colaboración Económica Municipal de Empleo con 123 puestos de trabajo y una inversión de más de 2,7 millones de euros para las anualidades 2026-2027",
-      "description": "May 4, 2026 | Recursos Humanos",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/el-ayuntamiento-impulsa-el-nuevo-programa-de-colaboracion-economica-municipal-de-empleo-con-123-puestos-de-trabajo-y-una-inversion-de-mas-de-27-millones-de-euros-para-las-anualidades-2026-2027/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/04/el-ayuntamiento-impulsa-el-nuevo-programa-de-colaboracion-economica-municipal-de-empleo-con-123-puestos-de-trabajo-y-una-inversion-de-mas-de-27-millones-de-euros-para-las-anualidades-2026-2027/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "La Feria del Libro ofrecerá las presentaciones de seis autoras y dos autores emeritenses en su edición de este año",
-      "description": "May 4, 2026 | Cultura",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/la-feria-del-libro-ofrecera-las-presentaciones-de-cinco-autoras-y-dos-autores-emeritenses-en-su-edicion-de-este-ano/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/04/la-feria-del-libro-ofrecera-las-presentaciones-de-seis-autoras-y-dos-autores-emeritenses-en-su-edicion-de-este-ano/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El arquitecto emeritense, Rubén Cabecera Soriano, abre el ciclo de conferencias «Nova Emérita»",
-      "description": "May 4, 2026 | Cultura",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/el-arquitecto-emeritense-ruben-cabecera-soriano-abre-el-ciclo-de-conferencias-nova-emerita/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/04/el-arquitecto-emeritense-ruben-cabecera-soriano-abre-el-ciclo-de-conferencias-nova-emerita/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Ayuntamiento de Mérida informa de que, con motivo de una intervención técnica programada para reforzar la estabilidad y seguridad de la infraestructura tecnológica municipal, se producirá una interrupción temporal de los sistemas y servicios digitales.",
-      "description": "Abr 30, 2026 | Noticias , Nuevas Tecnologías",
+      "description": "",
       "date": "2026-05-06",
-      "url": "https://merida.es/el-ayuntamiento-de-merida-informa-de-que-con-motivo-de-una-intervencion-tecnica-programada-para-reforzar-la-estabilidad-y-seguridad-de-la-infraestructura-tecnologica-municipal-se-producira-una-inter/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "A partir del lunes se cortará al tráfico la calle Graciano para proceder a trabajos de reparación en la calzada",
-      "description": "Abr 30, 2026 | Urbanismo",
-      "date": "2026-05-06",
-      "url": "https://merida.es/a-partir-del-lunes-se-cortara-al-trafico-la-calle-graciano-para-proceder-a-trabajos-de-reparacion-en-la-calzada/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "7SillasFest regresa los próximos 15 y 16 de mayo al Parque de Las Siete Sillas",
-      "description": "Abr 30, 2026 | Cultura",
-      "date": "2026-05-06",
-      "url": "https://merida.es/7sillasfest-regresa-los-proximos-15-y-16-de-mayo-al-parque-de-las-siete-sillas/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/04/30/el-ayuntamiento-de-merida-informa-de-que-con-motivo-de-una-intervencion-tecnica-programada-para-reforzar-la-estabilidad-y-seguridad-de-la-infraestructura-tecnologica-municipal-se-producira-una-inter/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -347,14 +387,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida acogerá del 22 al 25 de octubre el XIV Congreso Internacional de Asociaciones Jacobeas",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://meridanoticias.com/2026/04/23/merida-acogera-del-22-al-25-de-octubre-el-xiv-congreso-internacional-de-asociaciones-jacobeas/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
       "description": "por Mérida Noticias en Eventos 0",
       "date": "2026-05-06",
@@ -366,7 +398,7 @@
       "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
       "description": "Funcionarios",
       "date": "2026-05-06",
-      "url": "https://www.lacronicabadajoz.com/badajoz/2026/05/06/noticias-destacadas-6-mayo-2026-badajoz-125829415.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/05/reclaman-museo-romano-merida-plantilla-129881437.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -507,6 +539,14 @@
       "location": "Mérida"
     },
     {
+      "title": "'Eulalia' nace para asistir virtualmente a la ciudadanía de Mérida",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/eulalia-nace-para-asistir-virtualmente-a-la-ciudadania-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Desciende el paro en Mérida en 159 personas",
       "description": "",
       "date": "2026-05-06",
@@ -523,10 +563,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El nuevo Programa de Colaboración Económica Municipal de Empleo cuenta con 123 puestos de trabajo",
+      "title": "Los libreros emeritenses invitan a la ciudadanía a visitar la Feria del Libro",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/04/el-nuevo-programa-de-colaboracion-economica-municipal-de-empleo-cuenta-con-123-puestos-de-trabajo-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/los-libreros-emeritenses-invitan-a-la-ciudadania-a-visitar-la-feria-del-libro-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -555,10 +595,10 @@
       "location": "Mérida"
     },
     {
-      "title": "'Pillion', ópera prima de Harry Lighton, en el ciclo de cine VOSE de Mérida",
+      "title": "La compañía emergente La Imbuición realiza la última residencia artística de 'Bailando en Plata' en Almendralejo",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/04/pillion-opera-prima-de-harry-lighton-en-el-ciclo-de-cine-vose-de-merida-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/04/30/la-compania-emergente-la-imbuicion-realiza-la-ultima-residencia-artistica-de-bailando-en-plata-en-almendralejo-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -587,10 +627,42 @@
       "location": "Mérida"
     },
     {
-      "title": "\"Muchos accidentes laborales se pueden prevenir cumpliendo la normativa de seguridad y salud laboral\"",
+      "title": "Arranca la Feria del Libro de Plasencia",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/04/28/muchos-accidentes-laborales-se-pueden-prevenir-cumpliendo-la-normativa-de-seguridad-y-salud-laboral-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/arranca-la-feria-del-libro-de-plasencia-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres apuesta por conciertos gratuitos y artistas nacionales en la Feria de San Fernando",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/caceres-apuesta-por-conciertos-gratuitos-y-artistas-nacionales-en-la-feria-de-san-fernando-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nombramiento de Encarna Solís al frente del SES obliga a reorganizar el Gobierno local de Cáceres",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/el-nombramiento-de-encarna-solis-al-frente-del-ses-obliga-a-reorganizar-el-gobierno-local-de-caceres-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáritas y el Colegio de Abogados de Cáceres unen fuerzas para facilitar la regularización de migrantes",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/caritas-y-el-colegio-de-abogados-de-caceres-unen-fuerzas-para-facilitar-la-regularizacion-de-migrantes-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Carri (Carmen Carrizosa): \"la escritura es una vía de expresión y válvula de escape”",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://cadenaser.com/extremadura/2026/05/06/carri-carmen-carrizosa-la-escritura-es-una-via-de-expresion-y-valvula-de-escape-ser-vegas-altas/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -659,30 +731,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Arranca la campaña de riego en el Canal de Orellana con falta de lluvias y aumento de temperaturas",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/05/arranca-la-campana-de-riego-en-el-canal-de-orellana-con-falta-de-lluvias-y-aumento-de-temperaturas-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Plasencia homenajea a Robe y Manolo Chinato con un nuevo mural",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/05/plasencia-homenajea-a-robe-y-manolo-chinato-con-un-nuevo-mural-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "PP y Vox acuerdan los presupuestos de Cáceres para 2026, que superarán los 90 millones y aumentan un 75% las inversiones",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/04/pp-y-vox-acuerdan-los-presupuestos-de-caceres-para-2026-que-superaran-los-90-millones-y-aumentan-un-75-las-inversiones-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "La Policía Local de Mérida atiende en la última semana 12 siniestros viales con tres enjuiciamientos rápidos",
       "description": "",
       "date": "2026-05-06",
@@ -691,10 +739,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Feria del Libro de Mérida 2026 incluirá presentaciones de seis autoras y dos autores locales",
+      "title": "El proyecto NeuroRedes celebra con recitales y un documental sus 10 años de estimulación neuronal con música en Mérida",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/feria-libro-merida-2026-incluira-presentaciones-seis-autoras-dos-autores-locales_2026050469f884aa1ba3656059ab02a0.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/proyecto-neuroredes-celebra-recitales-documental-sus-10-anos-estimulacion-neuronal-musica-merida_2026050569f9c282af266c105eaec615.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -715,18 +763,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (04/05/26)",
+      "title": "Noticias mediodía Extremadura (06/05/26)",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-040526_2026050469f88c07cdc20b0007b344f2.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-060526_2026050669fb2dd19c5cb0e42d738346.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativo Más de Uno Mérida (06/05/2026)",
+      "title": "Noticias Mediodía Mérida (06/05/2026)",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-06052026_2026050669fadbec8d8077000700192e.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-06052026_2026050669fb2ae8fb5fb0e4a14e440c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -751,6 +799,22 @@
       "description": "",
       "date": "2026-05-06",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/parafarmacia-elisa-tena-nos-ofrece-algunas-ideas-regalar-salud-bienestar-dia-madre_2026043069f348dfeadda700075f7e2f.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Mérida (06/06/2026)",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-06062026_2026050669fb2bd5fb5fb0e4ab4e440c.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativo Más de Uno Mérida (06/05/2026)",
+      "description": "",
+      "date": "2026-05-06",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-06052026_2026050669fadbec8d8077000700192e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -787,18 +851,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias Mediodía Mérida (04/05/2026)",
+      "title": "Quintana señala que no hay imágenes del robo en el Arqueológico de Badajoz y que la gestión del museo es de la Junta",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-04052026_2026050469f887f52d32b0e402f058db.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Mérida (04/05/2026)",
-      "description": "",
-      "date": "2026-05-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-04052026_2026050469f88778eadda700075f8610.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/quintana-senala-que-hay-imagenes-robo-arqueologico-badajoz-que-gestion-museo-junta_2026042769eef0c3fc22f2299f77b96b.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -811,43 +867,19 @@
       "location": "Mérida"
     },
     {
-      "title": "El Plan Avanzamos 2026 de la Diputación de Badajoz dedica 50 millones de euros a 160 municipios y 15 entidades locales",
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-05-06",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/plan-avanzamos-2026-diputacion-badajoz-dedica-50-millones-euros-160-municipios-15-entidades-locales_2026050569f9e51abc29410a04686a73.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Quintana señala que no hay imágenes del robo en el Arqueológico de Badajoz y que la gestión del museo es de la Junta",
+      "title": "El Conservatorio de Mérida celebra el décimo aniversario de su proyecto pionero NeuroRedes para estimulación neuronal",
       "description": "",
-      "date": "2026-05-06",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/quintana-senala-que-hay-imagenes-robo-arqueologico-badajoz-que-gestion-museo-junta_2026042769eef0c3fc22f2299f77b96b.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "XLV Feria del Libro",
-      "description": "La XLV edición de la Feria del Libro de Mérida, que se celebra del 6 al 10 de mayo en el Templo de Diana, contará con seis autores principales que encabezan la programación literaria de cada jornada. La apertura del evento, el miércoles 6 de mayo, estará a cargo de la reconocida escritora y filós...",
-      "date": "2026-05-06",
-      "url": "https://merida.es/agenda/feria-libro-merida-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "10º Aniversario Proyecto NeuroRedes",
-      "description": "Con motivo del 10º aniversario del Proyecto NeuroRedes se ha organizado una exposición fotográfica de Emilio Jiménez que recoge la evolución del proyecto y de las personas que han formado parte de él a lo largo de esta década. Podrá visitarse del 6 al 22 de mayo, en el Centro Cultural Alcazaba. C...",
-      "date": "2026-05-06",
-      "url": "https://merida.es/agenda/10o-aniversario-proyecto-neuroredes/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Conferencias Liceo: «El área funeraria de la Casa del Anfiteatro: el mausoleo del dintel de los ríos» por Ana Bejarano",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-05-06",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-el-area-funeraria-de-la-casa-del-anfiteatro-el-mausoleo-del-dintel-de-los-rios-por-ana-bejarano/",
-      "source": "Ayuntamiento - Agenda",
+      "date": "2026-05-05",
+      "url": "https://www.hoy.es/merida/conservatorio-merida-celebra-decimo-aniversario-proyecto-pionero-20260505121651-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -883,35 +915,19 @@
       "location": "Mérida"
     },
     {
-      "title": "Roca analiza las tendencias que transforman el baño en un refugio personal",
-      "description": "- Roca analiza las principales tendencias y necesidades del consumidor en relación al espacio de baño El espacio de baño es una de las estancias...",
+      "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
+      "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
       "date": "2026-05-05",
-      "url": "https://www.meridadiario.com/2026/05/05/roca-analiza-las-tendencias-que-transforman-el-bano-en-un-refugio-personal/",
+      "url": "https://www.meridadiario.com/2026/05/05/el-conservatorio-profesional-de-musica-esteban-sanchez-celebra-el-decimo-aniversario-del-proyecto-neuroredes-pionero-en-europa/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "AEMET: El tiempo para Mérida – 5 de Mayo de 2026",
+      "title": "Mérida lanza un nuevo curso de formación de Cajero/a-Reponedor/a dentro del Programa CRISOL",
       "description": "",
       "date": "2026-05-05",
-      "url": "https://www.meridadiario.com/2026/05/05/aemet-el-tiempo-para-merida-5-de-mayo-de-2026/",
+      "url": "https://www.meridadiario.com/2026/05/05/merida-lanza-un-nuevo-curso-de-formacion-de-cajero-a-reponedor-a-dentro-del-programa-crisol/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "XXIII Jornadas Artilleras en Extremadura ‘El Vigor de la Tormenta’",
-      "description": "La Fundación Santa Bárbara y Santa Eulalia organiza los días 5, 6 y 7 de mayo una nueva edición de las Jornadas Artilleras en Extremadura volviendo a ahondar en la cultura de la defensa y continuar con la tradición artillera de Extremadura, además de generar un lugar de encuentro entre artilleros...",
-      "date": "2026-05-05",
-      "url": "https://merida.es/agenda/xxiii-jornadas-artilleras-en-extremadura-el-vigor-de-la-tormenta/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mes de las Aves 2026",
-      "description": "A lo largo de todo el mes de mayo, ADENEX, con la colaboración y financiación del Ayuntamiento de Mérida, organiza la XII edición del \"Mes de las aves de Mérida\", con multitud de actividades para todos los públicos. El mes de mayo es la época de mayor actividad ornitológica, cuando miles de espec...",
-      "date": "2026-05-05",
-      "url": "https://merida.es/agenda/mes-de-las-aves-2026/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -919,6 +935,14 @@
       "description": "",
       "date": "2026-05-04",
       "url": "https://www.hoy.es/merida/cubillana-hara-obra-calles-santa-lucia-san-20260504125058-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida cubrirá 123 puestos de forma temporal con contratos de hasta un año",
+      "description": "",
+      "date": "2026-05-04",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-cubrira-123-puestos-forma-temporal-20260504141625-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -955,58 +979,10 @@
       "location": "Mérida"
     },
     {
-      "title": "FEVAL aprueba su calendario ferial para 2027 y elige a Elisabeth Medina como nueva presidenta",
-      "description": "",
-      "date": "2026-05-04",
-      "url": "https://www.meridadiario.com/2026/05/04/feval-aprueba-su-calendario-ferial-para-2027-y-elige-a-elisabeth-medina-como-nueva-presidenta/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "La “droga” de bolsillo: el 80% de los niños extremeños ya no puede vivir sin ella",
       "description": "",
       "date": "2026-05-04",
       "url": "https://www.meridadiario.com/2026/05/04/la-droga-de-bolsillo-el-80-de-los-ninos-extremenos-ya-no-puede-vivir-sin-ella/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los pozos de nieve del solar en la calle Reyes Huertas, no las termas",
-      "description": "",
-      "date": "2026-05-03",
-      "url": "https://www.hoy.es/merida/pozos-nieve-solar-calle-reyes-huertas-termas-20260503205339-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El colegio Salesiano de Mérida pasa sus dos equipos a la semifinal del Concurso Regional de Debate Escolar",
-      "description": "",
-      "date": "2026-05-03",
-      "url": "https://www.hoy.es/merida/colegio-salesiano-merida-pasa-dos-equipos-semifinal-20260503205949-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Trinidad Tortosa sustituye a Pedro Mateos al frente del Instituto de Arqueología de Mérida",
-      "description": "",
-      "date": "2026-05-03",
-      "url": "https://www.hoy.es/merida/trinidad-tortosa-sustituye-pedro-mateos-frente-instituto-20260503211857-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La céntrica calle Graciano se corta casi dos semanas para arreglar su calzada",
-      "description": "",
-      "date": "2026-05-02",
-      "url": "https://www.hoy.es/merida/centrica-calle-graciano-corta-dos-semanas-arreglar-20260502204323-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Corte de tráfico en la calle Graciano de Mérida para obras de reparación",
-      "description": "",
-      "date": "2026-04-30",
-      "url": "https://www.meridadiario.com/2026/04/30/corte-de-trafico-en-la-calle-graciano-de-merida-para-obras-de-reparacion/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -1019,74 +995,42 @@
       "location": "Mérida"
     },
     {
-      "title": "XII Mérida en Danza",
-      "description": "Mérida celebra los días 30 de abril y 15-16 de mayo la XII edición de 'Mérida en Danza', un evento que congrega a 13 academias de baile y danza de la ciudad en el escenario monumental del Templo de Diana. Esta cita, consolidada como una de las más populares de la programación cultural, permite a […]",
+      "title": "Corte de tráfico en la calle Graciano de Mérida para obras de reparación",
+      "description": "",
       "date": "2026-04-30",
-      "url": "https://merida.es/agenda/merida-en-danza-2026/",
-      "source": "Ayuntamiento - Agenda",
+      "url": "https://www.meridadiario.com/2026/04/30/corte-de-trafico-en-la-calle-graciano-de-merida-para-obras-de-reparacion/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "La campaña de cribado de Alcer busca detectar a tiempo la enfermedad renal crónica",
-      "description": "Resumen de siniestros viales en MéridaEn la semana del 23 al 29 de marzo, la Policía Local de Mérida registró un total de ocho...",
+      "title": "La Junta de Extremadura invierte 1,7 millones en el programa ‘Construye tu Futuro’ para reinsertar laboralmente a jóvenes con antecedentes judiciales",
+      "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
       "date": "2026-04-29",
       "url": "https://www.meridadiario.com/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Mérida impulsa la formación y el empleo de mujeres a través de nuevos programas de emprendimiento digital y artesanal",
-      "description": "",
-      "date": "2026-04-29",
-      "url": "https://www.meridadiario.com/2026/04/29/merida-impulsa-la-formacion-y-el-empleo-de-mujeres-a-traves-de-nuevos-programas-de-emprendimiento-digital-y-artesanal/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Convocatoria de los Premios Extraordinarios de FP de Grado Superior por parte de la Consejería de Educación",
-      "description": "Convocatoria de Premios Extraordinarios de Formación ProfesionalLa Consejería de Educación, Ciencia y Formación Profesional ha anunciado la apertura de candidaturas para los Premios Extraordinarios...",
+      "description": "",
       "date": "2026-04-28",
       "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Convocatoria del XXXI Premio Joaquín Sama a la Innovación Educativa por la Consejería de Educación",
-      "description": "",
-      "date": "2026-04-27",
-      "url": "https://www.meridadiario.com/2026/04/27/convocatoria-del-xxxi-premio-joaquin-sama-a-la-innovacion-educativa-por-la-consejeria-de-educacion/",
+      "title": "AEMET: El tiempo para Mérida – 20 de Diciembre de 2025",
+      "description": "Pronóstico del Tiempo para Mérida: 20 de diciembre de 2025 ¡Buenos días, Mérida! Hoy es un día que promete ser particularmente fresco y húmedo. Les...",
+      "date": "2025-12-20",
+      "url": "https://www.meridadiario.com/2025/12/20/aemet-el-tiempo-para-merida-20-de-diciembre-de-2025/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Exposición ‘Arkeología de la Moda’ de Carmen Palop",
-      "description": "La sala de exposiciones Santa Clara acoge del 25 de marzo al 18 de mayo la muestra 'Arkeología de la moda', de la artista llerenense Carmen Palop, una exposición que propone una mirada crítica a los sistemas de consumo, la vida útil de los objetos y el impacto medioambiental y social de la indust...",
-      "date": "2026-03-25",
-      "url": "https://merida.es/agenda/exposicion-arkeologia-de-la-moda-de-carmen-palop/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mit Jazz Festival Mérida 2026",
-      "description": "Del 7 de marzo al 17 de junio se desarrollará la tercera edición del Miz Jazz Festival Mérida 2026 que volverá a sentir el latido del jazz en una ciudad de más de 2.000 años de historia. El festival acogerá dos citas ineludibles en el Palacio de Congresos: el concierto de presentación el 7 de […]",
-      "date": "2026-03-07",
-      "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida en alerta por una partida de pollo con salmonella que podrías tener en casa",
-      "description": "Alerta en Mérida: Detectan Salmonella en pollo proveniente de España y ordenan su retiro urgente de los supermercados Una preocupante noticia sacude a Mérida. El...",
-      "date": "2024-05-02",
-      "url": "https://www.meridadiario.com/2024/05/02/merida-en-alerta-por-una-partida-de-pollo-con-salmonella-que-podrias-tener-en-casa/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El BNPL es la elección de pago para un tercio de los españoles",
-      "description": "Oney presenta análisis sobre tendencias de pago en su nuevo libro blanco 31 OCT 2023 10:03H MADRID - SERVIMEDIA Oney, reconocida compañía europea de pagos fraccionados...",
-      "date": "2023-10-31",
-      "url": "https://www.meridadiario.com/2023/10/31/el-bnpl-es-la-eleccion-de-pago-para-un-tercio-de-los-espanoles/",
+      "title": "Mejoras de eficiencia energética en el Polideportivo de La Paz",
+      "description": "Se va a proceder a la sustitución de las luminarias, a una instalación solar fotovoltaica para autoconsumo, a la sustitución de equipo para agua...",
+      "date": "2023-04-13",
+      "url": "https://www.meridadiario.com/2023/04/13/mejoras-de-eficiencia-energetica-en-el-polideportivo-de-la-paz/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
