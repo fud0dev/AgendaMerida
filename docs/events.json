@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-09T14:16:30Z",
-  "count": 138,
+  "updated_at": "2026-05-09T19:56:47Z",
+  "count": 133,
   "events": [
+    {
+      "title": "La lluvia obliga a trasladar la Feria del Libro de Mérida al Alcazaba y aplaza el concierto tributo a Manolo García",
+      "description": "",
+      "date": "2026-05-09",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/09/lluvia-obliga-trasladar-feria-libro-130044482.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El instituto Santa Eulalia de Mérida honra a Robe Iniesta en la graduación de sus alumnos",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-05-09",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/08/joven-pacense-autismo-verbal-recibira-toga-romana-emerita-lvdica-129971925.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fábrica china de cátodos se prepara para iniciar las obras en Mérida con 800 millones sobre la mesa",
-      "description": "",
-      "date": "2026-05-09",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/07/fabrica-china-catodos-prepara-iniciar-obras-800-millones-euros-merida-129968450.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -824,46 +824,6 @@
       "date": "2026-05-09",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/congreso-dehesa-montado-arranca-este-miercoles-badajoz-mas-250-congresistas-inscritos_2022061362a70d7d837e3c00012c5a00.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Torneo Solidario ‘Hugo Serrano Álvarez’",
-      "description": "El sábado 9 de mayo, de 9:00 a 19:00 horas, el Campo de Fútbol de Nueva Ciudad albergará el Torneo Solidario a favor de Hugo Serrano Álvarez con la participación de diferentes equipos de categoría benjamín y alevín.",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/torneo-solidario-hugo-serrano-alvarez-2/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Concierto ‘Vive Musicaeduca’",
-      "description": "Dentro de la programación de la XLV Feria del Libro de Mérida, el Centro Cultural Alcazaba acoge el Concierto 'Vive Musicaeduca' de las escuelas Musicaeduca (Alcalá, Almería y Guadalajara). Entrada libre Organiza Musicaeduca dentro de las actividades pararelas de su VIII Encuentro Nacional",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/concierto-vive-musicaeduca/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Lorenzo Santamaría. 50 años para que no me olvides",
-      "description": "Tras la grabación de un disco en directo con las 25 canciones más emblemáticas de toda su carrera, LORENZO SANTAMARÍA se despide de los escenarios con una extensa gira por España y Latinoamérica, acompañado por una gran banda y un repertorio con sus temas más importantes. Artista pop de raíces ro...",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/lorenzo-santamaria-50-anos-para-que-no-me-olvides/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Grandes Pianistas Internacionales en Mérida: «Chico Pérez»",
-      "description": "El Teatro María Luisa acogerá un concierto del pianista español Chico Pérez el sábado 9 de mayo de 2026, a las 20:30 horas, dentro del Ciclo Grandes Pianistas Internacionales en Mérida fruto de la colaboración entre la Fundación Scherzo y el Festival Mitjazz de Mérida. Chico Pérez es, por derecho...",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/ciclo-grandes-pianistas-internacionales-en-merida-chico-perez/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Teatro: «Las que tienen que servir»",
-      "description": "Espectáculo: Las que tienen que servir Compañía: Ayuso Producciones Sinopsis: “Las que tienen que servir” nos propone un viaje en el tiempo. Esta comedia musical nos traslada al Madrid de los años 70, ciudad que acogió a numerosas jóvenes que llegaban desde distintos lugares de España para trabaj...",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/teatro-las-que-tienen-que-servir/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
