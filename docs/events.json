@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T15:54:50Z",
-  "count": 120,
+  "updated_at": "2026-05-11T20:46:16Z",
+  "count": 108,
   "events": [
     {
       "title": "Un taller gratuito en Mérida enseña a crear pulseras romanas para Emerita Lvdica",
@@ -147,7 +147,15 @@
       "location": "Mérida"
     },
     {
-      "title": "Las primeras actividades de Emerita Lvdica se agotan en minutos",
+      "title": "Fotogalería | La fábrica de cátodos en Expacio Mérida",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/30/fotogaleria-fabrica-catodos-expacio-merida-129705169.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las primeras actividades de Emerita Lvdica se agotan en ocho minutos",
       "description": "",
       "date": "2026-05-11",
       "url": "https://www.hoy.es/merida/ayuntamiento-merida-abre-plazo-inscribirse-actividades-emerita-20260511121414-nt.html",
@@ -192,6 +200,46 @@
       "date": "2026-05-11",
       "url": "https://www.hoy.es/merida/emerita-lvdica-activa-formularios-inscribirse-rutas-juegos-20260511162057-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Filmoteca de Extremadura programa ocho ciclos y trece películas para el mes de mayo en sus distintas sedes",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "B. Braun apuesta por los gemelos digitales y los datos sintéticos en producción",
+      "description": "B. Braun destaca el impacto de la automatización, la robótica y la digitalización en la tecnología médica B. Braun, compañía de tecnología médica, ha tenido...",
+      "date": "2026-05-11",
+      "url": "https://www.meridadiario.com/2026/05/11/b-braun-apuesta-por-los-gemelos-digitales-y-los-datos-sinteticos-en-produccion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 11 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.meridadiario.com/2026/05/11/el-tiempo-en-merida-hoy-11-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los biomarcadores inmunológicos impulsan la medicina preventiva",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.meridadiario.com/2026/05/11/los-biomarcadores-inmunologicos-impulsan-la-medicina-preventiva/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La crisis del hantavirus en Tenerife dispara la exposición internacional de Canarias",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.meridadiario.com/2026/05/11/la-crisis-del-hantavirus-en-tenerife-dispara-la-exposicion-internacional-de-canarias/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -507,190 +555,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Una sentencia del TSJEx desestima la petición de anulación del concurso de la Zona de Bajas Emisiones en Mérida",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/una-sentencia-del-tsjex-desestima-la-peticion-de-anulacion-del-concurso-de-la-zona-de-bajas-emisiones-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "LEDA deja de prestar el servicio de transporte por carretera entre Mérida y Sevilla",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/leda-deja-de-prestar-el-servicio-de-transporte-por-carretera-entre-merida-y-sevilla-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "CSIF pide más trabajadores para el MNAR",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/csif-pide-mas-trabajadores-para-el-mnar-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Continúa el Mes de las Aves en Mérida",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/continua-el-mes-de-las-aves-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'La hija pequeña', una de las películas más bellas del año, en el ciclo VOSE de Mérida",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/la-hija-pequena-una-de-las-peliculas-mas-bellas-del-ano-en-el-ciclo-vose-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Feria del libro, el corto de Rodrigo Olmedo y conciertos",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/merida-cultura-feria-del-libro-el-corto-de-rodrigo-olmedo-y-conciertos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ana Moreno, enfermera pediátrica, insiste en la concienciación ciudadana sobre primeros auxilios pediátricos",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/07/ana-moreno-enfermera-pediatrica-insiste-en-la-concienciacion-ciudadana-sobre-primeros-auxilios-pediatricos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los libreros emeritenses invitan a la ciudadanía a visitar la Feria del Libro",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/06/los-libreros-emeritenses-invitan-a-la-ciudadania-a-visitar-la-feria-del-libro-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Rubén Cabecera, arquitecto: \"Cuando se trabaja en un entorno patrimonial y público hay que asumir que el proyecto está vivo\"",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/05/ruben-cabecera-arquitecto-cuando-se-trabaja-en-un-entorno-patrimonial-y-publico-hay-que-asumir-que-el-proyecto-esta-vivo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los proyectos presentados al 'Premio al Mejor Proyecto de Accesibilidad Universal y Diseño para Todas las Personas' ya abordan sistemas integrados complejos que incorporan IA y robótica",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/05/los-proyectos-presentados-al-premio-al-mejor-proyecto-de-accesibilidad-universal-y-diseno-para-todas-las-personas-ya-abordan-sistemas-integrados-complejos-que-incorporan-ia-y-robotica-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El I Concurso Nacional de Cante Flamenco Ciudad de Mérida se celebrará el 30 de mayo",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/04/el-i-concurso-nacional-de-cante-flamenco-ciudad-de-merida-se-celebrara-el-30-de-mayo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"La cereza acaba estallando\": las lluvias amenazan la campaña en el Valle del Jerte",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/las-lluvias-amenazan-la-campana-de-la-cereza-en-el-valle-del-jerte-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva señaliza colonias felinas para reducir atropellos y mejorar la convivencia",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/villanueva-senaliza-colonias-felinas-para-reducir-atropellos-y-mejorar-la-convivencia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Cocosa, astroturismo y divulgación científica en la provincia de Badajoz",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/10/la-cocosa-astroturismo-y-divulgacion-cientifica-en-la-provincia-de-badajoz-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El 5G que salva vidas: Extremadura prueba un sistema pionero para emergencias",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/10/el-5g-que-salva-vidas-extremadura-prueba-un-sistema-pionero-para-emergencias-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Hornachos homenajea a la familia Cadenas Meneses y la UCO",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/10/hornachos-homenajea-a-la-familia-cadenas-meneses-y-la-uco-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La época de montanera se cierra con los mejores datos desde la temporada 22/23",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/09/la-epoca-de-montanera-se-cierra-con-los-mejores-datos-desde-la-temporada-2223-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cermi presenta el protocolo regional para atender a mujeres con discapacidad víctimas de violencia",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/09/cermi-presenta-el-protocolo-regional-para-atender-a-mujeres-con-discapacidad-victimas-de-violencia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "308 obras han participado en la 42 edición del Premio Literario Felipe Trigo Infantil y Juvenil de Villanueva",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/308-obras-han-participado-en-la-42-edicion-del-premio-literario-felipe-trigo-infantil-y-juvenil-de-villanueva-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Profesionales sanitarios se concentran en el centro de salud Zona Centro de Badajoz para reclamar contratos de fidelización",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/profesionales-sanitarios-se-concentran-en-el-centro-de-salud-zona-centro-de-badajoz-para-reclamar-contratos-de-fidelizacion-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "FCC-Mérida firma un acuerdo de mejora de las condiciones económicas de la plantilla y desconvoca la concentración prevista",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/fcc-merida-firma-un-acuerdo-de-mejora-de-las-condiciones-economicas-de-la-plantilla-y-desconvoca-la-concentracion-prevista-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El campo tabaquero extremeño mira a la digitalización para asegurar su futuro",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/07/el-campo-tabaquero-extremeno-mira-a-la-digitalizacion-para-asegurar-su-futuro-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Imaginación y performance para reivindicar mejoras laborales en la protesta de Técnicos de Infantil",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://cadenaser.com/extremadura/2026/05/07/imaginacion-y-performance-para-reivindicar-mejoras-laborales-en-la-protesta-de-tecnicos-de-infantil-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Eulalia: EL nuevo asistente virtual para conseguir las entradas de los eventos de Emerita Lvdica en Mérida",
       "description": "",
       "date": "2026-05-11",
@@ -883,14 +747,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consistorio emeritense lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
-      "description": "",
-      "date": "2026-05-08",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
-      "location": "Mérida"
-    },
-    {
       "title": "Deportes oferta 600 plazas para los cursos de natación y de tecnificación deportiva para este verano",
       "description": "",
       "date": "2026-05-07",
@@ -931,6 +787,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
+      "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
+      "date": "2026-05-05",
+      "url": "https://www.meridadiario.com/2026/05/05/el-conservatorio-profesional-de-musica-esteban-sanchez-celebra-el-decimo-aniversario-del-proyecto-neuroredes-pionero-en-europa/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida lanza un nuevo curso de formación de Cajero/a-Reponedor/a dentro del Programa CRISOL",
+      "description": "",
+      "date": "2026-05-05",
+      "url": "https://www.meridadiario.com/2026/05/05/merida-lanza-un-nuevo-curso-de-formacion-de-cajero-a-reponedor-a-dentro-del-programa-crisol/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Mes de las Aves 2026",
       "description": "A lo largo de todo el mes de mayo, ADENEX, con la colaboración y financiación del Ayuntamiento de Mérida, organiza la XII edición del \"Mes de las aves de Mérida\", con multitud de actividades para todos los públicos. El mes de mayo es la época de mayor actividad ornitológica, cuando miles de espec...",
       "date": "2026-05-05",
@@ -947,6 +819,30 @@
       "location": "Mérida"
     },
     {
+      "title": "El Museo de Muralismo Contemporáneo de Mérida sigue creciendo con el nuevo mural de la portuguesa Tamara Alves que promueve la Igualdad de Género y que ha sido visitado hoy por el alcalde de la ciudad",
+      "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
+      "date": "2026-04-29",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Convocatoria de los Premios Extraordinarios de FP de Grado Superior por parte de la Consejería de Educación",
+      "description": "",
+      "date": "2026-04-28",
+      "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El alcalde de Mérida supervisa las recientes obras de mejora en Proserpina con una inversión superando el millón de euros",
+      "description": "Inversión significativa para ProserpinaEl Alcalde de Mérida, Antonio Rodríguez Osuna, ha realizado una visita a las obras de mejora y rehabilitación en Proserpina, donde...",
+      "date": "2026-03-27",
+      "url": "https://www.meridadiario.com/2026/03/27/el-alcalde-de-merida-supervisa-las-recientes-obras-de-mejora-en-proserpina-con-una-inversion-superando-el-millon-de-euros/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘Arkeología de la Moda’ de Carmen Palop",
       "description": "La sala de exposiciones Santa Clara acoge del 25 de marzo al 18 de mayo la muestra 'Arkeología de la moda', de la artista llerenense Carmen Palop, una exposición que propone una mirada crítica a los sistemas de consumo, la vida útil de los objetos y el impacto medioambiental y social de la indust...",
       "date": "2026-03-25",
@@ -960,6 +856,14 @@
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida, escenario de la brutal pelea entre Andy y Lucas",
+      "description": "La agresión ocurrió en los camerinos durante la gira de despedida, dejando a Andy lesionado y en el hospital de Mérida\nEl final de la...",
+      "date": "2025-10-20",
+      "url": "https://www.meridadiario.com/2025/10/20/merida-escenario-de-la-brutal-pelea-entre-andy-y-lucas/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
