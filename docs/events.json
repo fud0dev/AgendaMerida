@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-12T09:36:37Z",
-  "count": 107,
+  "updated_at": "2026-05-12T15:39:05Z",
+  "count": 108,
   "events": [
+    {
+      "title": "Una colisión en cadena con seis coches resume una semana con alcohol, fugas y 30 incidentes viales en Mérida",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/colision-cadena-seis-coches-alcohol-fugas-incidencias-policia-local-merida-130138830.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los fumadores pierden terreno en Mérida con ocho zonas sin humo",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/fumadores-pierden-terreno-merida-ocho-espacios-sin-humo-130135566.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El artista extremeño Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de The European",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/samuel-lopez-lago-premio-internacional-creatividad-130138797.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Por Mérida denuncia que la Concatedral tiene \"un entorno de segunda\"",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/por-merida-denuncia-concatedral-santa-maria-entorno-segunda-ayuntamiento-130131492.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida empieza a despertar a la Roma que lleva dentro",
       "description": "",
@@ -55,38 +87,6 @@
       "description": "",
       "date": "2026-05-12",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/11/gran-romeria-san-isidro-merida-proserpina-130071924.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Feria del Libro de Mérida apura sus últimas horas con Susana Martín Gijón y música en el Templo de Diana",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/10/feria-libro-merida-apura-ultimas-130069974.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La batalla por la Zona de Bajas Emisiones de Mérida se enreda: Fondenex acusa a Osuna de \"confundir\" a los vecinos",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/10/batalla-zona-bajas-emisiones-merida-fondenex-osuna-130069461.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El impacto de las autovías A-5 y A-66 para Mérida: suelo, turismo y más empleo",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/10/impacto-autovias-a-5-a-66-merida-130043348.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fábrica de cátodos de Mérida, un hito que exige mirar más allá",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/10/fabrica-catodos-merida-hito-exige-130042037.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -147,10 +147,34 @@
       "location": "Mérida"
     },
     {
-      "title": "Las primeras actividades de Emerita Lvdica se agotan en ocho minutos",
+      "title": "Fotogalería | La fábrica de cátodos en Expacio Mérida",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-abre-plazo-inscribirse-actividades-emerita-20260511121414-nt.html",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/04/30/fotogaleria-fabrica-catodos-expacio-merida-129705169.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una incidencia en la red de Telefónica ralentiza la reserva de entradas para Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.hoy.es/merida/incidencia-red-telefonica-ralentiza-reserva-entradas-espectaculos-20260512133845-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El grupo Por Mérida propone un concurso de ideas para \"dignificar\" el entorno de la concatedral de Santa María",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.hoy.es/merida/grupo-merida-propone-concurso-ideas-dignificar-entorno-20260512124200-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El emeritense Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de 'The European'",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.hoy.es/merida/emeritense-samuel-lopezlago-distinguido-premio-internacional-creatividad-20260512122152-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -171,19 +195,43 @@
       "location": "Mérida"
     },
     {
-      "title": "La multiusos Casa del Anfiteatro de Mérida",
+      "title": "El Festival de Mérida supera las 30.000 entradas vendidas para su 72ª edición en menos de dos meses",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.hoy.es/merida/multiusos-casa-anfiteatro-merida-20260511140237-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
-      "title": "Susana Martín Gijón: «Los jóvenes leen, hacen colas para que firmemos sus libros»",
-      "description": "",
+      "title": "Más de 900 escolares se darán cita los días 19 y 20 de mayo en el Teatro Romano para la representación de la obra de teatro “Octavia, ¡soy yo!”, dentro de la programación de la XVI edición de Emerita Lvdica",
+      "description": "May 12, 2026 | Educación",
       "date": "2026-05-12",
-      "url": "https://www.hoy.es/merida/susana-martin-gijon-desmontado-topico-jovenes-leen-20260510120937-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/mas-de-900-escolares-se-daran-cita-los-dias-19-y-20-de-mayo-en-el-teatro-romano-para-la-representacion-de-la-obra-de-teatro-octavia-soy-yo-dentro-de-la-programacion-de-la-xv/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento reafirma su apuesta firme por situar el bienestar y la salud de las mujeres en el centro de las políticas públicas municipales con motivo del Día Internacional de Acción para la Salud de las Mujeres",
+      "description": "May 12, 2026 | Igualdad",
+      "date": "2026-05-12",
+      "url": "https://merida.es/el-ayuntamiento-reafirma-su-apuesta-firme-por-situar-el-bienestar-y-la-salud-de-las-mujeres-en-el-centro-de-las-politicas-publicas-municipales-con-motivo-del-dia-internacional-de-accion-para-la-salud/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento habilita ocho “espacios sin humo” en diferentes zonas de juegos infantiles",
+      "description": "May 12, 2026 | Alcaldía , Parques y Jardines",
+      "date": "2026-05-12",
+      "url": "https://merida.es/el-ayuntamiento-habilita-ocho-espacios-sin-humo-en-diferentes-zonas-de-juegos-infantiles/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 30 siniestros viales la semana pasada",
+      "description": "May 12, 2026 | Noticias , Seguridad Ciudadana",
+      "date": "2026-05-12",
+      "url": "https://merida.es/la-policia-local-atendio-30-siniestros-viales-la-semana-pasada/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -236,34 +284,10 @@
     },
     {
       "title": "Abierto el plazo de presentación de trabajos para el concurso de elección del cartel de la Feria de Mérida 2026",
-      "description": "May 8, 2026 | Festejos",
+      "description": "",
       "date": "2026-05-12",
-      "url": "https://merida.es/abierto-el-plazo-de-presentacion-de-trabajos-para-el-concurso-de-eleccion-del-cartel-de-la-feria-de-merida-2026/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Regino de Miguel recibirá, en la ceremonia del fuego de Emerita Lvdica, la toga de ciudadano romano",
-      "description": "May 7, 2026 | Accesibilidad Universal e Inclusión",
-      "date": "2026-05-12",
-      "url": "https://merida.es/regino-de-miguel-recibira-en-la-ceremonia-del-fuego-de-emerita-lvdica-la-toga-de-ciudadano-romano/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento oferta más de 600 plazas para los cursos de natación y de tecnificación deportiva de atletismo, gimnasia y tenis para el próximo verano",
-      "description": "May 7, 2026 | Deporte",
-      "date": "2026-05-12",
-      "url": "https://merida.es/el-ayuntamiento-oferta-mas-de-600-plazas-para-los-cursos-de-natacion-y-de-tecnificacion-deportiva-de-atletismo-gimnasia-y-tenis-para-el-proximo-verano/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro Cultural Alcazaba acoge el 13 de mayo el encuentro “OnlyFans, un espacio blanqueado del negocio del sexo”dentro del Espacio de Pensamiento Feminista",
-      "description": "May 7, 2026 | Igualdad , Noticias",
-      "date": "2026-05-12",
-      "url": "https://merida.es/el-centro-cultural-alcazaba-acoge-el-13-de-mayo-el-encuentro-onlyfans-un-espacio-blanqueado-del-negocio-del-sexodentro-del-espacio-de-pensamiento-feminista/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/05/08/abierto-el-plazo-de-presentacion-de-trabajos-para-el-concurso-de-eleccion-del-cartel-de-la-feria-de-merida-2026/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -283,10 +307,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Policía Local intervino en 11 incidentes relacionados con la siniestralidad vial en la ciudad la semana pasada",
+      "title": "El Ayuntamiento oferta más de 600 plazas para los cursos de natación y de tecnificación deportiva de atletismo, gimnasia y tenis para el próximo verano",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://meridanoticias.com/2026/04/21/la-policia-local-intervino-en-11-incidentes-relacionados-con-la-siniestralidad-vial-en-la-ciudad-la-semana-pasada/",
+      "url": "https://meridanoticias.com/2026/05/07/el-ayuntamiento-oferta-mas-de-600-plazas-para-los-cursos-de-natacion-y-de-tecnificacion-deportiva-de-atletismo-gimnasia-y-tenis-para-el-proximo-verano/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -355,18 +379,34 @@
       "location": "Mérida"
     },
     {
-      "title": "Reclaman al Museo Romano de Mérida una ampliación \"urgente\" de la plantilla ante la sobrecarga de trabajo",
-      "description": "Campaña de sensibilización",
+      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
+      "description": "Cultura",
       "date": "2026-05-12",
-      "url": "https://www.lacronicabadajoz.com/badajoz/2026/05/12/noticias-destacadas-12-mayo-2026-badajoz-125829415.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/12/samuel-lopez-lago-premio-internacional-creatividad-130138798.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
+      "description": "Funcionarios",
+      "date": "2026-05-12",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/05/reclaman-museo-romano-merida-plantilla-129881437.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cinco denuncias por las presuntas grabaciones en los vestuarios de la Ciudad Deportiva de Mérida",
+      "description": "Suceso",
+      "date": "2026-05-12",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/cinco-denuncias-grabaciones-delito-policia-merida-129624560.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
       "title": "La Feria del Libro de Mérida reunirá en el Templo de Diana a Elsa Punset, Manuel Vilas y Marta Robles",
-      "description": "Suceso",
+      "description": "La XLV edición se celebrará del 6 al 10 de mayo",
       "date": "2026-05-12",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/cinco-denuncias-grabaciones-delito-policia-merida-129624560.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/feria-libro-literatura-escritores-letras-merida-129612559.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -399,14 +439,6 @@
       "description": "Tercera edición",
       "date": "2026-05-12",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/feria-cerveza-artesanal-acueducto-ocio-evento-merida-129572706.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
-      "description": "Suceso",
-      "date": "2026-05-12",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/hombre-jovenes-delito-suceso-detencion-policia-merida-129566203.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -483,34 +515,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
-      "description": "Copa del Rey",
-      "date": "2026-05-12",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/guardia-civil-detiene-merida-dos-seguidores-real-sociedad-acoso-bandera-espana-atletico-de-madrid-furgoneta-a-5-129345949.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un ciclista atropellado y un choque entre un patinete y un coche sacuden el tráfico en Mérida",
-      "description": "Seguridad vial",
-      "date": "2026-05-12",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/21/atropellan-ciclista-choque-patinete-coche-accidentes-merida-129343364.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eulalia: EL nuevo asistente virtual para conseguir las entradas de los eventos de Emerita Lvdica en Mérida",
+      "title": "La Policía Local de Mérida atendió 30 siniestros viales la semana pasada",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/eulalia-nuevo-asistente-virtual-conseguir-entradas-eventos-emerita-lvdica-merida_2026050669fafed34352047f0dccb353.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/policia-local-merida-atendio-30-siniestros-viales-semana-pasada_202605126a0319fedd62c3164d270757.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Salesianos de Mérida inicia los actos de su mes de María Auxiliadora",
+      "title": "Ocho zonas de juegos infantiles de Mérida se señalizan como \"espacios sin humo\"",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/salesianos-merida-inicia-actos-mes-maria-auxiliadora_202605116a016faab5b06629960bac4e.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/ocho-zonas-juegos-infantiles-merida-senalizan-como-espacios-humo_202605126a0305d5dd62c3164d26e5c8.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -531,18 +547,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (11/05/26)",
+      "title": "Noticias mediodía Extremadura (12/05/26)",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-110526_202605116a01c61f7995e40008cb606c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-120526_202605126a0317c6fc3a040007969f4e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativo Más de Uno Mérida (12/05/2026)",
+      "title": "Informativo mediodía Mérida (12/05/2026)",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-12052026_202605126a02d9ff6ab9b0e4bdbecc47.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mediodia-merida-12052026_202605126a0314846ab9b0e445c0cc47.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -563,6 +579,30 @@
       "location": "Mérida"
     },
     {
+      "title": "El restaurador Pedro Manzano elabora un informe técnico sobre el estado de conservación de la imagen de Santa Eulalia, una actuación que no se realizaba desde 1996",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/restaurador-pedro-manzano-elabora-informe-tecnico-estado-conservacion-imagen-santa-eulalia-actuacion-que-realizaba-1996_202605126a0318916ab9b0e46bc0cc47.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Mérida (12/05/2026)",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-12052026_202605126a03161e7995e40008cb641d.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativo Más de Uno Mérida (12/05/2026)",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-12052026_202605126a02d9ff6ab9b0e4bdbecc47.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "\"La hija pequeña\" dirigida por Hafsia Herzi hoy en Cines Victoria a las 19:00 y a las 21:30",
       "description": "",
       "date": "2026-05-12",
@@ -579,26 +619,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (11/05/2026)",
+      "title": "La Cátedra CESYC presentará el Portal EXT ESTAT, el primer portal estadístico de la Economía Social de Extremadura",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-11052026_202605116a01bed4acfab20007afcf0d.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativo Más de Uno Mérida (11/05/2026)",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-11052026_202605116a01879cf64fb0e42cf583f7.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (08/05/26)",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-080526_2026050869fdd2f2fc3a0400079694f1.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/catedra-cesyc-presentara-portal-extestat-primer-portal-estadistico-economia-social-extremadura_202605116a01a1c7716e9c57146b3beb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -611,11 +635,19 @@
       "location": "Mérida"
     },
     {
-      "title": "La Cátedra CESYC presentará el Portal EXT ESTAT, el primer portal estadístico de la Economía Social de Extremadura",
+      "title": "'Más de uno Badajoz', en directo desde el Colegio Sagrada Familia",
       "description": "",
       "date": "2026-05-12",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/catedra-cesyc-presentara-portal-extestat-primer-portal-estadistico-economia-social-extremadura_202605116a01a1c7716e9c57146b3beb.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/mas-uno-badajoz-directo-colegio-sagrada-familia_2024022065d46e72344c980001b0285a.html",
       "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las plazas de las primeras actividades de Emerita Lvdica se agotan en ocho minutos",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-abre-plazo-inscribirse-actividades-emerita-20260511121414-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -627,19 +659,19 @@
       "location": "Mérida"
     },
     {
+      "title": "La multiusos Casa del Anfiteatro de Mérida",
+      "description": "",
+      "date": "2026-05-11",
+      "url": "https://www.hoy.es/merida/multiusos-casa-anfiteatro-merida-20260511140237-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Emerita Lvdica activa los formularios para inscribirse en rutas y juegos",
       "description": "",
       "date": "2026-05-11",
       "url": "https://www.hoy.es/merida/emerita-lvdica-activa-formularios-inscribirse-rutas-juegos-20260511162057-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Filmoteca de Extremadura programa ocho ciclos y trece películas para el mes de mayo en sus distintas sedes",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
@@ -680,6 +712,14 @@
       "date": "2026-05-11",
       "url": "https://merida.es/agenda/festival-escolar-teatro-clasico-con-letras-de-oro-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Susana Martín Gijón: «Se ha desmontado el tópico de que los jóvenes no leen. Hacen colas para que firmemos sus libros favoritos»",
+      "description": "",
+      "date": "2026-05-10",
+      "url": "https://www.hoy.es/merida/susana-martin-gijon-desmontado-topico-jovenes-leen-20260510120937-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -735,38 +775,6 @@
       "description": "",
       "date": "2026-05-08",
       "url": "https://www.hoy.es/merida/comienza-obra-rehabilitar-antigua-gasolinera-cepansa-merida-20260508184548-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Firmado un acuerdo en FCC Mérida con paga  extraordinaria para 2026 e incremento salarial",
-      "description": "",
-      "date": "2026-05-08",
-      "url": "https://www.hoy.es/merida/firmado-acuerdo-fcc-merida-paga-extraordinaria-2026-20260508094835-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Deportes oferta 600 plazas para los cursos de natación y de tecnificación deportiva para este verano",
-      "description": "",
-      "date": "2026-05-07",
-      "url": "https://www.hoy.es/merida/deportes-oferta-600-plazas-cursos-natacion-tecnificacion-20260507135508-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ángel Vaquero estrena en Mérida su exposición pictórica 'Medea'",
-      "description": "",
-      "date": "2026-05-07",
-      "url": "https://www.hoy.es/merida/angel-vaquero-estrena-merida-exposicion-pictorica-medea-20260507110252-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El instituto Emérita Augusta celebra la próxima semana su Festival Escolar de Teatro Clásico Europeo",
-      "description": "",
-      "date": "2026-05-07",
-      "url": "https://www.hoy.es/merida/instituto-emerita-augusta-celebra-proxima-semana-festival-20260507094648-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
