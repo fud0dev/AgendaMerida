@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-13T15:42:38Z",
-  "count": 106,
+  "updated_at": "2026-05-13T20:44:37Z",
+  "count": 104,
   "events": [
+    {
+      "title": "La Mérida romana toma asiento en la Eurocámara con dos obras extremeñas",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/13/merida-romana-toma-asiento-eurocamara-dos-obras-extremenas-bruselas-130196146.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida planta cara a las ratas y ratones barrio a barrio antes del verano",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-05-13",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/11/taller-gratuito-merida-ensena-crear-pulseras-emerita-lvdica-130094895.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Leda pide 150.000 euros para ceder la línea Mérida-Sevilla y el Gobierno inicia la retirada de la concesión",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/11/leda-pide-150-000-euros-ceder-linea-sevilla-merida-130093500.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -200,6 +200,38 @@
       "date": "2026-05-13",
       "url": "https://www.hoy.es/merida/coachella-feria-sevilla-influencer-magdalenita-apuesta-extremadura-20260513123815-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Surtruck presenta en TECMA soluciones sostenibles que marcan el futuro del sector",
+      "description": "Mostrará la tecnología con la que está ayudando en los servicios de limpieza más exigentes\nLa empresa sevillana Surtruck participará del 9 al 11 de...",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/surtruck-presenta-en-tecma-soluciones-sostenibles-que-marcan-el-futuro-del-sector/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 13 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/aemet-el-tiempo-para-merida-13-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Propietarios y gestores afrontan incertidumbre por medidas de vivienda sin desarrollar",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/propietarios-y-gestores-afrontan-incertidumbre-por-medidas-de-vivienda-sin-desarrollar/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "NBA Europe pone a prueba el modelo abierto y meritocrático del deporte europeo",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/nba-europe-pone-a-prueba-el-modelo-abierto-y-meritocratico-del-deporte-europeo/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -611,22 +643,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Espacio de Pensamiento Feminista: «Isabel Sanz Morán»",
-      "description": "El Ayuntamiento de Mérida, a través de la Delegación de Igualdad, celebrará una nueva sesión del Espacio de Pensamiento Feminista con la charla “OnlyFans, un espacio blanqueado del negocio del sexo” a cargo de la coordinadora de programas de la Federación de Mujeres Jóvenes, Isabel Sanz Morán, qu...",
-      "date": "2026-05-13",
-      "url": "https://merida.es/agenda/espacio-de-pensamiento-feminista-isabel-sanz-moran/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Conferencias Liceo: «La alcazaba, testigo de la historia de la ciudad de Mérida» por Pedro Delgado Molina",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-05-13",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-la-alcazaba-testigo-de-la-historia-de-la-ciudad-de-merida-por-pedro-delgado-molina/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "El emeritense Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de 'The European'",
       "description": "",
       "date": "2026-05-12",
@@ -656,38 +672,6 @@
       "date": "2026-05-12",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
-      "location": "Mérida"
-    },
-    {
-      "title": "Open Cosmos presenta en Sevilla los satélites españoles de la Constelación Atlántica",
-      "description": "Open Cosmos presenta el diseño final de los ocho satélites españoles de la Constelación Atlántica La Constelación Atlántica es un ambicioso programa impulsado por...",
-      "date": "2026-05-12",
-      "url": "https://www.meridadiario.com/2026/05/12/open-cosmos-presenta-en-sevilla-los-satelites-espanoles-de-la-constelacion-atlantica/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 12 de Mayo de 2026",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.meridadiario.com/2026/05/12/aemet-el-tiempo-para-merida-12-de-mayo-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El doctor Nicolás Olea analiza en la Fundación Jiménez Díaz el impacto de los químicos ambientales",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.meridadiario.com/2026/05/12/el-doctor-nicolas-olea-analiza-en-la-fundacion-jimenez-diaz-el-impacto-de-los-quimicos-ambientales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "UAX impulsa proyectos solidarios alineados con los Objetivos de Desarrollo Sostenible",
-      "description": "",
-      "date": "2026-05-12",
-      "url": "https://www.meridadiario.com/2026/05/12/uax-impulsa-proyectos-solidarios-alineados-con-los-objetivos-de-desarrollo-sostenible/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -803,7 +787,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El IES Lacimurga Constantia Iulia de Navalvillar de Pela, ganador del Premio Nacional a Centros Educativos Sostenibles",
+      "title": "El taller ‘Escribir la danza’ permitirá conocer cómo elaborar una crítica periodística dentro de las actividades de La Noche del Patrimonio",
       "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
       "date": "2026-04-29",
       "url": "https://www.meridadiario.com/",
@@ -815,6 +799,14 @@
       "description": "",
       "date": "2026-04-28",
       "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 19 de Abril de 2026",
+      "description": "Pronóstico del Tiempo para Hoy en Mérida\nHoy, 19 de abril de 2026, la ciudad de Mérida disfrutará de un clima mayormente estable y agradable,...",
+      "date": "2026-04-19",
+      "url": "https://www.meridadiario.com/2026/04/19/aemet-el-tiempo-para-merida-19-de-abril-de-2026/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -835,18 +827,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Previsión meteorológica para Mérida",
-      "description": "Para hoy por la mañana en Mérida habrá nubes altas. Por la tarde habrá cielos nubosos. En relación a las temperaturas, estas se moverán...",
-      "date": "2023-02-11",
-      "url": "https://www.meridadiario.com/2023/02/11/prevision-meteorologica-para-merida-36/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Previsión del tiempo para Mérida",
-      "description": "Durante el día de hoy en Mérida se esperan cielos sin nubes. En cuanto a las temperaturas, estas oscilarán entre los 18 grados de...",
-      "date": "2023-02-05",
-      "url": "https://www.meridadiario.com/2023/02/05/prevision-del-tiempo-para-merida-35/",
+      "title": "EL MÉRIDA Y AKITO MUKAI SEPARAN SUS CAMINOS",
+      "description": "La Asociación Deportiva Mérida y el futbolista japonés, Akito Mukai, separan sus caminos poniendo fin a su relación contractual.  Desde la entidad queremos dar las...",
+      "date": "2024-01-31",
+      "url": "https://www.meridadiario.com/2024/01/31/el-merida-y-akito-mukai-separan-sus-caminos/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
