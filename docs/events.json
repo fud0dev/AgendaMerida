@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-13T09:43:46Z",
-  "count": 121,
+  "updated_at": "2026-05-13T15:42:38Z",
+  "count": 106,
   "events": [
+    {
+      "title": "Mérida planta cara a las ratas y ratones barrio a barrio antes del verano",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/13/merida-planta-cara-ratones-ratas-barrio-130178828.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Sergio Pérez es Yörik, el actor multiusos de Mérida que encontró en Hamlet su nombre",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/13/sergio-perez-yorik-actor-multiusos-merida-hamlet-130174116.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Nuevo éxito de Emerita Lvdica: agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición'",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida acoge el rodaje de 'Lo normal cambia' para prevenir el consumo de alcohol en menores",
+      "title": "Video | Sergio Pérez es Yörik, el actor multiusos de Mérida que encontró en Hamlet su nombre",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/11/merida-rodaje-campana-prevencion-alcohol-130092883.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El parque de referencia de Mérida que ahora también será aula: así cambia la Ciudad de la Infancia",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/11/parque-referencia-merida-ahora-sera-aula-colegios-ciudad-infancia-estudiantes-130091469.html",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -147,10 +155,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Emerita Lvdica reparte casi todas las entradas",
+      "title": "Mérida obsequia al Parlamento Europeo con un mosaico y un busto realizados por Luisa Díaz Liviano",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.hoy.es/merida/merida-obsequia-parlamento-europeo-mosaico-busto-realizados-20260513103627-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Emerita Lvdica reparte casi todas las entradas para los espectáculos",
       "description": "",
       "date": "2026-05-13",
       "url": "https://www.hoy.es/merida/emerita-lvdica-reparte-14000-15000-entradas-espectaculos-20260513224341-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida inicia la campaña intensiva de desratización",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-inicia-campana-intensiva-desratizacion-20260513124620-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -171,19 +195,43 @@
       "location": "Mérida"
     },
     {
-      "title": "El emeritense Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de 'The European'",
+      "title": "«Ni Coachella, ni la Feria de Sevilla»: la influencer Magdalenita apuesta por Extremadura",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.hoy.es/merida/emeritense-samuel-lopezlago-distinguido-premio-internacional-creatividad-20260512122152-nt.html",
+      "url": "https://www.hoy.es/merida/coachella-feria-sevilla-influencer-magdalenita-apuesta-extremadura-20260513123815-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
     {
-      "title": "La Ciudad de la Infancia de Mérida incorpora carteles inclusivos",
-      "description": "",
+      "title": "ALREX imparte un taller de gestión emocional dirigido a prevenir las recaídas en el caso de adicción al alcohol",
+      "description": "May 13, 2026 | Participación Ciudadana",
       "date": "2026-05-13",
-      "url": "https://www.hoy.es/merida/ciudad-infancia-merida-incorpora-carteles-inclusivos-20260512190211-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/alrex-imparte-un-taller-de-gestion-emocional-dirigido-a-prevenir-las-recaidas-en-el-caso-de-adiccion-al-alcohol/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El podcast “Territorio Igualdad” analiza el bienestar y el cuidado del cuerpo femenino en su duodécimo episodio",
+      "description": "May 13, 2026 | Igualdad",
+      "date": "2026-05-13",
+      "url": "https://merida.es/el-podcast-territorio-igualdad-analiza-el-bienestar-y-el-cuidado-del-cuerpo-femenino-en-su-duodecimo-episodio/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida refuerza su compromiso con la salud pública y pone en marcha una nueva campaña de desratización en toda la ciudad",
+      "description": "May 13, 2026 | Limpieza",
+      "date": "2026-05-13",
+      "url": "https://merida.es/el-ayuntamiento-de-merida-refuerza-su-compromiso-con-la-salud-publica-y-pone-en-marcha-una-nueva-campana-de-desratizacion-en-toda-la-ciudad/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El torneo Street Basket Tour 3×3, de la Fundación José Manuel Calderón, se celebra el sábado en la Plaza Margarita Xirgu",
+      "description": "May 13, 2026 | Deporte",
+      "date": "2026-05-13",
+      "url": "https://merida.es/el-torneo-street-basket-tour-3x3-de-la-fundacion-jose-manuel-calderon-se-celebra-el-sabado-en-la-plaza-margarita-xirgu/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -235,40 +283,8 @@
       "location": "Mérida"
     },
     {
-      "title": "El Programa CRISOL organiza un taller gratuito de pulseras romanas con motivo de la XVI edición de Emerita Lvdica",
-      "description": "May 11, 2026 | Servicios Sociales",
-      "date": "2026-05-13",
-      "url": "https://merida.es/el-programa-crisol-organiza-un-taller-gratuito-de-pulseras-romanas-con-motivo-de-la-xvi-edicion-de-emerita-lvdica/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento valora positivamente la sentencia del TSJEx, que desestima la petición de anulación del concurso de la Zona de Bajas Emisiones en Mérida",
-      "description": "May 8, 2026 | Ciudad",
-      "date": "2026-05-13",
-      "url": "https://merida.es/el-ayuntamiento-valora-positivamente-la-sentencia-del-tsjex-que-desestima-la-peticion-de-anulacion-del-concurso-de-la-zona-de-bajas-emisiones-en-merida/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento refuerza los servicios municipales con la creación de dos nuevas bolsas de empleo en las categorías de Albañilería y Jardinería",
-      "description": "May 8, 2026 | Recursos Humanos",
-      "date": "2026-05-13",
-      "url": "https://merida.es/el-ayuntamiento-refuerza-los-servicios-municipales-con-la-creacion-de-dos-nuevas-bolsas-de-empleo-en-las-categorias-de-albanileria-y-jardineria/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Ciudad de la Infancia refuerza su uso educativo con la apertura matinal los jueves y viernes para centros escolares",
-      "description": "May 8, 2026 | Parques y Jardines",
-      "date": "2026-05-13",
-      "url": "https://merida.es/la-ciudad-de-la-infancia-refuerza-su-uso-educativo-con-la-apertura-matinal-los-jueves-y-viernes-para-centros-escolares/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "Pipe no continuará en el Mérida",
-      "description": "por Mérida Noticias en Deportes 0",
+      "description": "",
       "date": "2026-05-13",
       "url": "https://meridanoticias.com/2026/05/13/pipe-no-continuara-en-el-merida/",
       "source": "Mérida Noticias",
@@ -315,14 +331,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Promoción entradas para el Mérida frente al Lugo de la jornada 35",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://meridanoticias.com/2026/04/27/promocion-entradas-para-el-merida-frente-al-lugo-de-la-jornada-35/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
       "description": "",
       "date": "2026-05-13",
@@ -352,14 +360,6 @@
       "date": "2026-05-13",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ligero repunte de temperaturas, pero siguen las lluvias en Badajoz",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.lacronicabadajoz.com/extremadura/2026/05/13/ligero-repunte-temperaturas-lluvias-extremadura-130168421.html",
-      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
@@ -499,174 +499,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Emerita Lvdica agota entradas para los espectáculos de la XVI edición",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/emerita-lvdica-agota-entradas-para-los-espectaculos-de-la-xvi-edicion-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Nuestro bienestar importa\" es el lema con el que Mérida celebra la salud de las mujeres",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/nuestro-bienestar-importa-es-el-lema-con-el-que-merida-celebra-la-salud-de-las-mujeres-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una sentencia del TSJEx desestima la petición de anulación del concurso de la Zona de Bajas Emisiones en Mérida",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/una-sentencia-del-tsjex-desestima-la-peticion-de-anulacion-del-concurso-de-la-zona-de-bajas-emisiones-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Emerita Lvdica: Collegivm Emeritae ultima preparativos para la fiesta recreacionista",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/emerita-lvdica-collegium-emeritae-ultima-preparativos-para-la-fiesta-recreacionista-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Octavia, ¡soy yo!', es el texto teatral que se ha creado dentro del programa la escuela adopta un monumento",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/octavia-soy-yo-es-texto-teatral-que-se-ha-creado-dentro-del-programa-la-escuela-adopta-un-monumento-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Vélez: \"Estamos satisfechos con el desarrollo de la Feria del libro de Mérida\"",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/antonio-velez-estamos-satisfechos-con-el-desarrollo-de-la-feria-del-libro-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Continúa el Mes de las Aves en Mérida",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/continua-el-mes-de-las-aves-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Feria del libro, el corto de Rodrigo Olmedo y conciertos",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/08/merida-cultura-feria-del-libro-el-corto-de-rodrigo-olmedo-y-conciertos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ana Moreno, enfermera pediátrica, insiste en la concienciación ciudadana sobre primeros auxilios pediátricos",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/07/ana-moreno-enfermera-pediatrica-insiste-en-la-concienciacion-ciudadana-sobre-primeros-auxilios-pediatricos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La edición editorial y tipográfica, protagonistas en la Escuela de Arte y Superior de Diseño de Mérida",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/07/la-edicion-editorial-y-tipografica-protagonistas-en-la-escuela-de-arte-y-superior-de-diseno-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los libreros emeritenses invitan a la ciudadanía a visitar la Feria del Libro",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/06/los-libreros-emeritenses-invitan-a-la-ciudadania-a-visitar-la-feria-del-libro-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Don Benito y PROINES refuerzan su compromiso con la salud mental a través de un nuevo convenio",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/el-ayuntamiento-de-don-benito-y-proines-refuerzan-su-compromiso-con-la-salud-mental-a-traves-de-un-nuevo-convenio-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los Plasencia Ducks conquistan su sexta Liga Extremeña consecutiva y sueñan ya con el fútbol americano",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/los-plasencia-ducks-conquistan-su-sexta-liga-extremena-consecutiva-y-suenan-ya-con-el-futbol-americano-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Diputación de Cáceres y la localidad portuguesa de Sertã refuerzan su cooperación con la presencia lusa en JATO",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/la-diputacion-de-caceres-y-la-localidad-portuguesa-de-serta-refuerzan-su-cooperacion-con-la-presencia-lusa-en-jato-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres contratará a 155 personas desempleadas con el nuevo programa regional de empleo",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/caceres-contratara-a-155-personas-desempleadas-con-el-nuevo-programa-regional-de-empleo-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nacen 31 cachorros de lince ibérico en los centros de El Acebuche y Zarza de Granadilla",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/nacional/2026/05/12/nacen-31-cachorros-de-lince-iberico-en-los-centros-de-el-acebuche-y-zarza-de-granadilla-cadena-ser/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "AFIBRODON reclama más recursos y visibilidad en el Día Internacional de la Fibromialgia",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/afibrodon-reclama-mas-recursos-y-visibilidad-en-el-dia-internacional-de-la-fibromialgia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"La cereza acaba estallando\": las lluvias amenazan la campaña en el Valle del Jerte",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/las-lluvias-amenazan-la-campana-de-la-cereza-en-el-valle-del-jerte-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva señaliza colonias felinas para reducir atropellos y mejorar la convivencia",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/villanueva-senaliza-colonias-felinas-para-reducir-atropellos-y-mejorar-la-convivencia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Cocosa, astroturismo y divulgación científica en la provincia de Badajoz",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/10/la-cocosa-astroturismo-y-divulgacion-cientifica-en-la-provincia-de-badajoz-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El 5G que salva vidas: Extremadura prueba un sistema pionero para emergencias",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://cadenaser.com/extremadura/2026/05/10/el-5g-que-salva-vidas-extremadura-prueba-un-sistema-pionero-para-emergencias-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El PP reclama transparencia y una solución responsable al tramo de obras en el Hornito abierto al tráfico sin haber recepcionado la obra",
       "description": "",
       "date": "2026-05-13",
@@ -675,18 +507,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Parlamento Europeo recibe dos piezas de valor cultural realizadas por la artista extremeña Luisa Díaz Silvano.",
+      "title": "La obra 'Octavia, ¡soy yo!' reunirá a más de 900 escolares los días 19 y 20 de mayo en el Teatro Romano de Mérida",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/parlamento-europeo-recibe-dos-piezas-valor-cultural-realizadas-artista-extremena-luisa-diaz-silvano_202605136a041b14716e9c57146d9593.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Ciudad de la Infancia de Mérida refuerza la accesibilidad con paneles informativos para personas con discapacidad",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/ciudad-infancia-merida-refuerza-accesibilidad-paneles-informativos-personas-discapacidad_202605126a02c088716e9c57146c3fe2.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/obra-octavia-soy-reunira-mas-900-escolares-dias-19-20-mayo-teatro-romano-merida_202605136a04143db5b06629960e391f.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -699,26 +523,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (12/05/26)",
+      "title": "Noticias mediodía Extremadura (13/05/26)",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-120526_202605126a0317c6fc3a040007969f4e.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-130526_202605136a046b91ae178000073f5ebe.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias Más de Uno Mérida (13/05/2026)",
+      "title": "Informativo mediodía Mérida (13/05/2026)",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-13052026_202605136a041b712a11b0e454d75cb5.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mediodia-merida-13052026_202605136a04667fae178000073f5e94.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "La psicóloga Belén de la Osa nos adentra en las relaciones de pareja y cómo en entorno influye en esa relación.",
+      "title": "\"Algodones de Azuquita\" el nuevo tema de Jesús Juez \"Shuli\" y Darío González que transmite muy buen rollo y que habla del amor y las relaciones de pareja",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/psicologa-belen-osa-nos-adentra-relaciones-pareja-como-entorno-influye-esa-relacion_2026050569f9dc837a5cb0e4096b54d9.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/algodones-azuquita-nuevo-tema-jesus-juez-shuli-dario-gonzalez-que-transmite-muy-buen-rollo-que-habla-amor-relaciones-pareja_202605136a046c680d97f10007dec20e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -739,6 +563,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (13/05/2026)",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-13052026_202605136a0465c33b7cb0e4f678ce26.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativo Más de Uno Mérida (13/05/2026)",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-13052026_202605136a041b712a11b0e454d75cb5.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (12/05/2026)",
       "description": "",
       "date": "2026-05-13",
@@ -755,30 +595,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo Más de Uno Mérida (12/05/2026)",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-12052026_202605126a02d9ff6ab9b0e4bdbecc47.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Infotmativo Matinal Extremadura (12/05/2026)",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/infotmativo-matinal-extremadura-12052026_202605126a02c3677995e40008cb623e.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Cátedra CESYC presentará el Portal EXT ESTAT, el primer portal estadístico de la Economía Social de Extremadura",
-      "description": "",
-      "date": "2026-05-13",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/catedra-cesyc-presentara-portal-extestat-primer-portal-estadistico-economia-social-extremadura_202605116a01a1c7716e9c57146b3beb.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Una tesis doctoral propone un modelo de intercooperación entre cooperativas agroalimentarias para impulsar el desarrollo territorial en Extremadura",
       "description": "",
       "date": "2026-05-13",
@@ -787,10 +603,10 @@
       "location": "Mérida"
     },
     {
-      "title": "'Más de uno Badajoz', en directo desde el Colegio Sagrada Familia",
+      "title": "La Cátedra CESYC presentará el Portal EXT ESTAT, el primer portal estadístico de la Economía Social de Extremadura",
       "description": "",
       "date": "2026-05-13",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/mas-uno-badajoz-directo-colegio-sagrada-familia_2024022065d46e72344c980001b0285a.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/catedra-cesyc-presentara-portal-extestat-primer-portal-estadistico-economia-social-extremadura_202605116a01a1c7716e9c57146b3beb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -811,6 +627,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El emeritense Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de 'The European'",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.hoy.es/merida/emeritense-samuel-lopezlago-distinguido-premio-internacional-creatividad-20260512122152-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Ciudad de la Infancia de Mérida incorpora carteles inclusivos",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.hoy.es/merida/ciudad-infancia-merida-incorpora-carteles-inclusivos-20260512190211-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "‘Lo normal cambia’, nueva campaña contra el consumo  de alcohol en menores",
       "description": "",
       "date": "2026-05-12",
@@ -824,6 +656,38 @@
       "date": "2026-05-12",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Open Cosmos presenta en Sevilla los satélites españoles de la Constelación Atlántica",
+      "description": "Open Cosmos presenta el diseño final de los ocho satélites españoles de la Constelación Atlántica La Constelación Atlántica es un ambicioso programa impulsado por...",
+      "date": "2026-05-12",
+      "url": "https://www.meridadiario.com/2026/05/12/open-cosmos-presenta-en-sevilla-los-satelites-espanoles-de-la-constelacion-atlantica/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 12 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.meridadiario.com/2026/05/12/aemet-el-tiempo-para-merida-12-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El doctor Nicolás Olea analiza en la Fundación Jiménez Díaz el impacto de los químicos ambientales",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.meridadiario.com/2026/05/12/el-doctor-nicolas-olea-analiza-en-la-fundacion-jimenez-diaz-el-impacto-de-los-quimicos-ambientales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "UAX impulsa proyectos solidarios alineados con los Objetivos de Desarrollo Sostenible",
+      "description": "",
+      "date": "2026-05-12",
+      "url": "https://www.meridadiario.com/2026/05/12/uax-impulsa-proyectos-solidarios-alineados-con-los-objetivos-de-desarrollo-sostenible/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -907,35 +771,19 @@
       "location": "Mérida"
     },
     {
-      "title": "La Ciudad de la Infancia de Mérida abrirá jueves y viernes por las mañanas hasta junio pensando en los escolares",
-      "description": "",
-      "date": "2026-05-08",
-      "url": "https://www.hoy.es/merida/ciudad-infancia-merida-abrira-jueves-viernes-mananas-20260508191905-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El TSJEx exige al Ayuntamiento de Mérida que certifique que no se pueden activar cámaras y pantallas en la zona de bajas emisiones",
-      "description": "",
-      "date": "2026-05-08",
-      "url": "https://www.hoy.es/merida/tsjex-exige-ayuntamiento-merida-certifique-pueden-activar-20260508141320-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Comienza la obra para rehabilitar la antigua gasolinera de Cepansa en Mérida",
-      "description": "",
-      "date": "2026-05-08",
-      "url": "https://www.hoy.es/merida/comienza-obra-rehabilitar-antigua-gasolinera-cepansa-merida-20260508184548-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "10º Aniversario Proyecto NeuroRedes",
       "description": "Con motivo del 10º aniversario del Proyecto NeuroRedes se ha organizado una exposición fotográfica de Emilio Jiménez que recoge la evolución del proyecto y de las personas que han formado parte de él a lo largo de esta década. Podrá visitarse del 6 al 22 de mayo, en el Centro Cultural Alcazaba. C...",
       "date": "2026-05-06",
       "url": "https://merida.es/agenda/10o-aniversario-proyecto-neuroredes/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
+      "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
+      "date": "2026-05-05",
+      "url": "https://www.meridadiario.com/2026/05/05/el-conservatorio-profesional-de-musica-esteban-sanchez-celebra-el-decimo-aniversario-del-proyecto-neuroredes-pionero-en-europa/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -955,6 +803,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El IES Lacimurga Constantia Iulia de Navalvillar de Pela, ganador del Premio Nacional a Centros Educativos Sostenibles",
+      "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
+      "date": "2026-04-29",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Convocatoria de los Premios Extraordinarios de FP de Grado Superior por parte de la Consejería de Educación",
+      "description": "",
+      "date": "2026-04-28",
+      "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘Arkeología de la Moda’ de Carmen Palop",
       "description": "La sala de exposiciones Santa Clara acoge del 25 de marzo al 18 de mayo la muestra 'Arkeología de la moda', de la artista llerenense Carmen Palop, una exposición que propone una mirada crítica a los sistemas de consumo, la vida útil de los objetos y el impacto medioambiental y social de la indust...",
       "date": "2026-03-25",
@@ -968,6 +832,22 @@
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Previsión meteorológica para Mérida",
+      "description": "Para hoy por la mañana en Mérida habrá nubes altas. Por la tarde habrá cielos nubosos. En relación a las temperaturas, estas se moverán...",
+      "date": "2023-02-11",
+      "url": "https://www.meridadiario.com/2023/02/11/prevision-meteorologica-para-merida-36/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Previsión del tiempo para Mérida",
+      "description": "Durante el día de hoy en Mérida se esperan cielos sin nubes. En cuanto a las temperaturas, estas oscilarán entre los 18 grados de...",
+      "date": "2023-02-05",
+      "url": "https://www.meridadiario.com/2023/02/05/prevision-del-tiempo-para-merida-35/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
