@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-14T15:17:10Z",
-  "count": 119,
+  "updated_at": "2026-05-14T20:26:57Z",
+  "count": 107,
   "events": [
+    {
+      "title": "El Museo Romano de Mérida abrirá de noche con teatro de sombras y recreaciones de la antigua Roma",
+      "description": "",
+      "date": "2026-05-14",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/museo-romano-merida-noche-visitas-museos-cultura-130239311.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Así se mantiene el jardín vertical de Mérida con 12.300 plantas en 350 metros cuadrados",
+      "description": "",
+      "date": "2026-05-14",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/jardin-vertical-plantas-santa-eulalia-merida-130232982.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida buscará el mejor vino romano en una cata popular previa a Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-14",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/vino-romano-emerita-ludica-cata-mulsum-merida-130223082.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida reivindicará la salud de las mujeres con talleres, charlas y un paseo saludable",
+      "description": "",
+      "date": "2026-05-14",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/merida-reivindicara-salud-mujeres-talleres-130226392.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida premiará con 10 euros en gasolina a los jóvenes conductores que den 0,0 en alcohol",
       "description": "",
@@ -15,14 +47,6 @@
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/romeria-fiesta-festividad-proserpina-san-isidro-merida-130217464.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida reivindicará la salud de las mujeres con talleres, charlas y un paseo saludable",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/merida-reivindicara-salud-mujeres-talleres-130226392.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/13/sergio-perez-yorik-actor-multiusos-merida-hamlet-130174116.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nuevo éxito de Emerita Lvdica: agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición'",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/13/nuevo-exito-emerita-lvdica-agotadas-entradas-actividades-merida-2026-130166413.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las baldosas de Santa Eulalia de Mérida también tropiezan con la guerra política",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/pp-acusa-psoe-merida-caos-obras-hornito-trafico-asfalto-130155340.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una colisión en cadena con seis coches resume una semana con alcohol, fugas y 30 incidentes viales en Mérida",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/12/colision-cadena-seis-coches-alcohol-fugas-incidencias-policia-local-merida-130138830.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -163,7 +163,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El jardín vertical junto a la plaza de Santa Eulalia recibe su primera gran poda y cambia plantas",
+      "title": "Gran poda al jardín vertical de Santa Eulalia",
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.hoy.es/merida/jardin-vertical-junto-plaza-santa-eulalia-recibe-20260514142754-nt.html",
@@ -171,7 +171,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Conducir sin  alcohol tiene premio en Mérida",
+      "title": "Conducir sin una sola gota de alcohol tiene premio esta noche en Mérida: un vale de 10 euros para carburante",
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.hoy.es/merida/conducir-sola-gota-alcohol-premio-noche-merida-20260514130201-nt.html",
@@ -191,6 +191,14 @@
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.hoy.es/merida/merida-obsequia-parlamento-europeo-mosaico-busto-realizados-20260513103627-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida cierra el pasado año con un superávit de 36,5 millones",
+      "description": "",
+      "date": "2026-05-14",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-cierra-pasado-ano-superavit-365-20260514184654-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -363,18 +371,34 @@
       "location": "Mérida"
     },
     {
-      "title": "El artista extremeño Samuel López-Lago, distinguido con el Premio Internacional a la Creatividad de The European",
-      "description": "Mérida",
+      "title": "Nuevo éxito de Emerita Lvdica: agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición'",
+      "description": "Noche Europea de los Museos",
       "date": "2026-05-14",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/13/nuevo-exito-emerita-lvdica-agotadas-130166417.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/14/museo-romano-merida-noche-visitas-museos-cultura-130239312.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Delegación del Gobierno aclara que las dos detenciones no fueron por el acoso a la furgoneta del Atleti en Mérida",
+      "description": "Cultura",
+      "date": "2026-05-14",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/12/samuel-lopez-lago-premio-internacional-creatividad-130138798.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida acoge el rodaje de 'Lo normal cambia' para prevenir el consumo de alcohol en menores",
+      "description": "Campaña de sensibilización",
+      "date": "2026-05-14",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/11/merida-rodaje-campana-prevencion-alcohol-130092881.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
       "title": "Reclaman al Museo Romano de Mérida una ampliación \"urgente\" de la plantilla ante la sobrecarga de trabajo",
-      "description": "Campaña de sensibilización",
+      "description": "Funcionarios",
       "date": "2026-05-14",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/11/merida-rodaje-campana-prevencion-alcohol-130092881.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/05/reclaman-museo-romano-merida-plantilla-129881437.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -499,174 +523,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Instituto de Arqueología de Mérida estudia un excepcional souvenir romano del siglo II hallado en Soria",
-      "description": "Ciencia y pasado",
-      "date": "2026-05-14",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/23/instituto-arqueologia-merida-estudia-excepcional-souvenir-romano-siglo-ii-soria-129438762.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida avanza en la accesibilidad con nueva panelería turística en braille",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/merida-avanza-en-la-accesibilidad-con-nueva-paneleria-turistica-en-braille-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida recupera la romería de San Isidro de la mano de la asociación de vecinos de Proserpina",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/merida-recupera-la-romeria-de-san-isidro-de-la-mano-de-la-asociacion-de-vecinos-de-proserpina-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Arranca la campaña de desratización en Mérida",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/arranca-la-campana-de-desratizacion-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abel Morcillo, de Ara Concordiae: \"El gran reto de Emerita Lvdica es saber conservarlo y mantenerlo\"",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/abel-morcillo-de-ara-concordiae-el-gran-reto-de-emerita-lvdica-es-saber-conservarlo-y-mantenerlo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Carri, poeta extremeña, presenta su tercera publicación 'Personal y transferible'",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/carri-poeta-extremena-presenta-su-tercera-publicacion-personal-y-transferible-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cley, de Protectores Avgvsti Norstri, cuida hasta el último detalle en cuanto a los elementos de recreación",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/cley-de-protectores-avgvsti-norstri-cuida-hasta-el-ultimo-detalle-en-cuanto-a-los-elementos-de-recreacion-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Samuel López-Lago, el emeritense que lleva la creatividad local por todo el mundo",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/samuel-lopez-lago-el-emeritense-que-lleva-la-creatividad-local-por-todo-el-mundo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Octavia, ¡soy yo!', es el texto teatral que se ha creado dentro del programa la escuela adopta un monumento",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/octavia-soy-yo-es-texto-teatral-que-se-ha-creado-dentro-del-programa-la-escuela-adopta-un-monumento-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Vélez: \"Estamos satisfechos con el desarrollo de la Feria del libro de Mérida\"",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/antonio-velez-estamos-satisfechos-con-el-desarrollo-de-la-feria-del-libro-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Continúa el Mes de las Aves en Mérida",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/continua-el-mes-de-las-aves-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'La hija pequeña', una de las películas más bellas del año, en el ciclo VOSE de Mérida",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/11/la-hija-pequena-una-de-las-peliculas-mas-bellas-del-ano-en-el-ciclo-vose-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Audiencia de Badajoz confirma la condena de los dos menores coautores del crimen de la educadora social",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/la-audiencia-de-badajoz-confirma-la-condena-de-los-dos-menores-coautores-del-crimen-de-la-educadora-social-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva de la Serena homenajea a los deportados a Mauthausen en el aniversario de su liberación",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/villanueva-de-la-serena-homenajea-a-los-deportados-a-mauthausen-en-el-aniversario-de-su-liberacion-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los sindicatos docentes exigen a la nueva consejera de Educación reactivar la negociación para la homologación salarial en Extremadura",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/14/los-sindicatos-docentes-exigen-a-la-nueva-consejera-de-educacion-reactivar-la-negociacion-para-la-homologacion-salarial-en-extremadura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Primeras Flores Amarillas 2026: guía completa para disfrutar del festival en Plasencia que homenajea a Robe Iniesta",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/primeras-flores-amarillas-2026-guia-completa-para-disfrutar-del-festival-en-plasencia-que-homenajea-a-robe-iniesta-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Argentina llevará su arte flamenco a la Plaza de la Catedral de Plasencia",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/argentina-llevara-su-arte-flamenco-a-la-plaza-de-la-catedral-de-plasencia-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Villanueva se suma al Día Internacional de los Museos con varias actividades",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/el-ayuntamiento-de-villanueva-se-suma-al-dia-internacional-de-los-museos-con-varias-actividades-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Semos+ impulsa la visibilidad LGTBI en el entorno rural con sus primeras jornadas “Guareña con Orgullo”",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/semos-impulsa-la-visibilidad-lgtbi-en-el-entorno-rural-con-sus-primeras-jornadas-guarena-con-orgullo-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Emerita Lvdica agota entradas para los espectáculos de la XVI edición",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/13/emerita-lvdica-agota-entradas-para-los-espectaculos-de-la-xvi-edicion-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Don Benito y PROINES refuerzan su compromiso con la salud mental a través de un nuevo convenio",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://cadenaser.com/extremadura/2026/05/12/el-ayuntamiento-de-don-benito-y-proines-refuerzan-su-compromiso-con-la-salud-mental-a-traves-de-un-nuevo-convenio-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición' en Emerita Lvdica de Mérida 2026",
       "description": "",
       "date": "2026-05-14",
@@ -787,27 +643,11 @@
       "location": "Mérida"
     },
     {
-      "title": "La Cátedra CESYC presentará el Portal EXT ESTAT, el primer portal estadístico de la Economía Social de Extremadura",
+      "title": "La Audiencia de Badajoz confirma la condena de los dos menores coautores del crimen de la educadora social",
       "description": "",
       "date": "2026-05-14",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/catedra-cesyc-presentara-portal-extestat-primer-portal-estadistico-economia-social-extremadura_202605116a01a1c7716e9c57146b3beb.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audiencia-badajoz-confirma-condena-dos-menores-coautores-crimen-educadora-social_202605146a05c328b5b0662996100df1.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo de Conferencias MNAR Grandes personajes de la Antigüedad II: «L. Fulcinius Trio, un gobernador de Lusitania y sus amistades peligrosas»",
-      "description": "“Grandes personajes de la Antigüedad” es un encuentro semanal que pretende aproximar, a los participantes en las conferencias, a las más diversas personalidades que hicieron la Historia Antigua, desde oriente a occidente, tanto hombres como mujeres, generalmente silenciadas, a las que damos visib...",
-      "date": "2026-05-14",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-mnar-grandes-personajes-de-la-antiguedad-ii-l-fulcinius-trio-un-gobernador-de-lusitania-y-sus-amistades-peligrosas/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cine Filmoteca: «Your Name»",
-      "description": "Título original: Kimi no aw a País: Japón Año: 2016 Duración: 106’ Dirección: Makoto Shinkai Guion: Makoto Shinkai Género: Animación. Drama. Romance Reparto: - Sinopsis: Taki y Mitsuha descubren un día que durante el sueño sus cuerpos se intercambian, y comienzan a comunicarse por medio de notas....",
-      "date": "2026-05-14",
-      "url": "https://merida.es/agenda/cine-filmoteca-your-name/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -832,6 +672,38 @@
       "date": "2026-05-13",
       "url": "https://www.hoy.es/merida/emerita-lvdica-reparte-14000-15000-entradas-espectaculos-20260513224341-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Surtruck presenta en TECMA soluciones sostenibles que marcan el futuro del sector",
+      "description": "Mostrará la tecnología con la que está ayudando en los servicios de limpieza más exigentes\nLa empresa sevillana Surtruck participará del 9 al 11 de...",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/surtruck-presenta-en-tecma-soluciones-sostenibles-que-marcan-el-futuro-del-sector/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 13 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/aemet-el-tiempo-para-merida-13-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Propietarios y gestores afrontan incertidumbre por medidas de vivienda sin desarrollar",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/propietarios-y-gestores-afrontan-incertidumbre-por-medidas-de-vivienda-sin-desarrollar/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "NBA Europe pone a prueba el modelo abierto y meritocrático del deporte europeo",
+      "description": "",
+      "date": "2026-05-13",
+      "url": "https://www.meridadiario.com/2026/05/13/nba-europe-pone-a-prueba-el-modelo-abierto-y-meritocratico-del-deporte-europeo/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -899,14 +771,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Emerita Lvdica activa los formularios para inscribirse en rutas y juegos",
-      "description": "",
-      "date": "2026-05-11",
-      "url": "https://www.hoy.es/merida/emerita-lvdica-activa-formularios-inscribirse-rutas-juegos-20260511162057-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición ‘Medea’ de Ángel Vaquero",
       "description": "En el corazón de Mérida, la pintura de Ángel Vaquero Román se presenta como un puente entre lo ancestral y lo íntimo, tomando la figura de Medea como eje central. La exposición propone una visión del mito desde lo humano y lo contemporáneo, donde los personajes aparecen fragmentados, suspendidos ...",
       "date": "2026-05-09",
@@ -920,6 +784,14 @@
       "date": "2026-05-06",
       "url": "https://merida.es/agenda/10o-aniversario-proyecto-neuroredes/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
+      "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
+      "date": "2026-05-05",
+      "url": "https://www.meridadiario.com/2026/05/05/el-conservatorio-profesional-de-musica-esteban-sanchez-celebra-el-decimo-aniversario-del-proyecto-neuroredes-pionero-en-europa/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -939,6 +811,30 @@
       "location": "Mérida"
     },
     {
+      "title": "El taller ‘Escribir la danza’ permitirá conocer cómo elaborar una crítica periodística dentro de las actividades de La Noche del Patrimonio",
+      "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
+      "date": "2026-04-29",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Convocatoria de los Premios Extraordinarios de FP de Grado Superior por parte de la Consejería de Educación",
+      "description": "",
+      "date": "2026-04-28",
+      "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 19 de Abril de 2026",
+      "description": "Pronóstico del Tiempo para Hoy en Mérida\nHoy, 19 de abril de 2026, la ciudad de Mérida disfrutará de un clima mayormente estable y agradable,...",
+      "date": "2026-04-19",
+      "url": "https://www.meridadiario.com/2026/04/19/aemet-el-tiempo-para-merida-19-de-abril-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘Arkeología de la Moda’ de Carmen Palop",
       "description": "La sala de exposiciones Santa Clara acoge del 25 de marzo al 18 de mayo la muestra 'Arkeología de la moda', de la artista llerenense Carmen Palop, una exposición que propone una mirada crítica a los sistemas de consumo, la vida útil de los objetos y el impacto medioambiental y social de la indust...",
       "date": "2026-03-25",
@@ -952,6 +848,14 @@
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "EL MÉRIDA Y AKITO MUKAI SEPARAN SUS CAMINOS",
+      "description": "La Asociación Deportiva Mérida y el futbolista japonés, Akito Mukai, separan sus caminos poniendo fin a su relación contractual.  Desde la entidad queremos dar las...",
+      "date": "2024-01-31",
+      "url": "https://www.meridadiario.com/2024/01/31/el-merida-y-akito-mukai-separan-sus-caminos/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
