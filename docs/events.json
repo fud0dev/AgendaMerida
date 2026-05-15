@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-15T15:11:57Z",
-  "count": 107,
+  "updated_at": "2026-05-15T20:15:52Z",
+  "count": 125,
   "events": [
+    {
+      "title": "Emerita Lvdica agota 15.000 entradas en 24 horas y roza el lleno hotelero en Mérida",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/fiesta-emerita-lvdica-autobus-entradas-alojamientos-merida-130273934.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El superávit municipal de Mérida deja 28,5 millones para nuevas obras en los barrios",
       "description": "",
@@ -11,10 +19,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Un autobús gratuito conectará el recinto ferial de Mérida con el centro durante Emerita Lvdica",
+      "title": "El Santa Eulalia de Mérida premia a los alumnos que rescatan del olvido a las científicas",
       "description": "",
       "date": "2026-05-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/autobus-gratuito-recinto-ferial-transporte-emerita-lvdica-merida-130261535.html",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/santa-eulalia-merida-premia-alumnos-educacion-mujeres-130272556.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -23,6 +31,14 @@
       "description": "",
       "date": "2026-05-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/ciencia-cerveza-festival-ocio-bares-merida-130265346.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un autobús gratuito conectará el recinto ferial de Mérida con el centro durante Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/autobus-gratuito-recinto-ferial-transporte-emerita-lvdica-merida-130261535.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-05-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/merida-reivindicara-salud-mujeres-talleres-130226392.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida premiará con 10 euros en gasolina a los jóvenes conductores que den 0,0 en alcohol",
-      "description": "",
-      "date": "2026-05-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/gasolina-conductores-seguridad-vial-alcohol-jovenes-merida-130220566.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La romería que Mérida no celebraba desde hace 36 años vuelve este domingo a Proserpina",
-      "description": "",
-      "date": "2026-05-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/14/romeria-fiesta-festividad-proserpina-san-isidro-merida-130217464.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -143,6 +143,14 @@
       "description": "",
       "date": "2026-05-15",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/05/06/video-merida-lanza-eulalia-asistente-virtual-municipal-129911730.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fotogalería | Rubert Cordero: de radioperador de taxi en Bolivia a ser el zapatero y \"manitas\" de Mérida",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/05/06/fotogaleria-viaje-merida-bolivia-rubert-cordero-zapatero-129908986.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -507,6 +515,166 @@
       "location": "Mérida"
     },
     {
+      "title": "El Ayuntamiento de Mérida cierra 2025 con un superávit de casi 36,5 millones de euros",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/el-ayuntamiento-de-merida-cierra-2025-con-un-superavit-de-casi-365-millones-de-euros-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cierre al tráfico de la calle John Lennon por mejoras en el adoquinado",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/cierre-al-trafico-de-la-calle-john-lennor-por-mejoras-en-el-adoquinado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida avanza en la accesibilidad con nueva panelería turística en braille",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/merida-avanza-en-la-accesibilidad-con-nueva-paneleria-turistica-en-braille-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Día de los Museos, 7Sillas Fest y previa de Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/merida-cultural-dia-de-los-museos-7sillas-fest-y-previa-de-emerita-lvdica-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abel Morcillo, de Ara Concordiae: \"El gran reto de Emerita Lvdica es saber conservarlo y mantenerlo\"",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/abel-morcillo-de-ara-concordiae-el-gran-reto-de-emerita-lvdica-es-saber-conservarlo-y-mantenerlo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Carri, poeta extremeña, presenta su tercera publicación 'Personal y transferible'",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/carri-poeta-extremena-presenta-su-tercera-publicacion-personal-y-transferible-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cley, de Protectores Avgvsti Norstri, cuida hasta el último detalle en cuanto a los elementos de recreación",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/13/cley-de-protectores-avgvsti-norstri-cuida-hasta-el-ultimo-detalle-en-cuanto-a-los-elementos-de-recreacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Emerita Lvdica: Collegivm Emeritae ultima preparativos para la fiesta recreacionista",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/12/emerita-lvdica-collegium-emeritae-ultima-preparativos-para-la-fiesta-recreacionista-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Octavia, ¡soy yo!', es el texto teatral que se ha creado dentro del programa la escuela adopta un monumento",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/13/octavia-soy-yo-es-texto-teatral-que-se-ha-creado-dentro-del-programa-la-escuela-adopta-un-monumento-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Antonio Vélez: \"Estamos satisfechos con el desarrollo de la Feria del libro de Mérida\"",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/12/antonio-velez-estamos-satisfechos-con-el-desarrollo-de-la-feria-del-libro-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Continúa el Mes de las Aves en Mérida",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/11/continua-el-mes-de-las-aves-en-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fallece un varón de 52 años por disparos de arma de fuego en Villanueva de la Serena",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/fallece-un-varon-de-52-anos-por-disparos-de-arma-de-fuego-en-villanueva-de-la-serena-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura renueva su compromiso contra la LGTBIfobia",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/extremadura-renueva-su-compromiso-contra-la-lgtbifobia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Cáceres propone conceder la Medalla de la Ciudad al restaurante Atrio",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/el-ayuntamiento-de-caceres-propone-conceder-la-medalla-de-la-ciudad-al-restaurante-atrio-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Diputación de Cáceres entregará el 21 de mayo el III Premio de Memoria Histórica y Democrática ‘Conchita Viera’",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/la-diputacion-de-caceres-entregara-el-21-de-mayo-el-iii-premio-de-memoria-historica-y-democratica-conchita-viera-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La justicia avala al Ayuntamiento de Cáceres y descarta obligarle a arreglar el camino de Monte Almeida",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/la-justicia-avala-al-ayuntamiento-de-caceres-y-descarta-obligarle-a-arreglar-el-camino-de-monte-almeida-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Desarticulado un grupo delictivo dedicado a robos en diferentes municipios extremeños",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/desarticulado-un-grupo-delictivo-dedicado-a-robos-en-diferentes-municipios-extremenos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Audiencia de Badajoz confirma la condena de los dos menores coautores del crimen de la educadora social",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/la-audiencia-de-badajoz-confirma-la-condena-de-los-dos-menores-coautores-del-crimen-de-la-educadora-social-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida recupera la romería de San Isidro de la mano de la asociación de vecinos de Proserpina",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/merida-recupera-la-romeria-de-san-isidro-de-la-mano-de-la-asociacion-de-vecinos-de-proserpina-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva de la Serena homenajea a los deportados a Mauthausen en el aniversario de su liberación",
+      "description": "",
+      "date": "2026-05-15",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/villanueva-de-la-serena-homenajea-a-los-deportados-a-mauthausen-en-el-aniversario-de-su-liberacion-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición' en Emerita Lvdica de Mérida 2026",
       "description": "",
       "date": "2026-05-15",
@@ -627,34 +795,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Audiencia de Badajoz confirma la condena de los dos menores coautores del crimen de la educadora social",
-      "description": "",
-      "date": "2026-05-15",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audiencia-badajoz-confirma-condena-dos-menores-coautores-crimen-educadora-social_202605146a05c328b5b0662996100df1.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "7 Sillas Fest",
       "description": "7SillasFest regresa los próximos 15 y 16 de mayo al Parque de Las Siete Sillas con una propuesta que huye de lo obvio y reivindica el festival como espacio de descubrimiento, cruce de escenas y celebración de la cultura musical en toda su amplitud. Lejos de fórmulas prefabricadas, el cartel de es...",
       "date": "2026-05-15",
       "url": "https://merida.es/agenda/7-sillas-fest-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Teatro: «Tres en línea»",
-      "description": "Obra: Tres en línea Compañía: Samarkanda Teatro Sinopsis: Un Juego teatral, una propuesta divertida, un reencuentro con todos ustedes en el patio de butacas o en la calle, un ejercicio de comunicación en paz, sin violencia, sin amenazas, con el único propósito de expresarnos libremente, de compar...",
-      "date": "2026-05-15",
-      "url": "https://merida.es/agenda/teatro-tres-en-linea/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "III Concurso de Mulsvm",
-      "description": "Dentro de las actividades previas a Emerita Lvdica, el viernes, 15 de mayo, las asociaciones de recreación histórica Emerita Antiqua y Ara Concordiae, convocan el segundo concurso de MVLSVM, vino romano elaborado con miel, especies y frutas. Será a partir de las 21:00 horas en la zona del Arco de...",
-      "date": "2026-05-15",
-      "url": "https://merida.es/agenda/iii-concurso-de-mulsvm/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
