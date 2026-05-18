@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-18T16:21:27Z",
+  "updated_at": "2026-05-18T20:23:30Z",
   "count": 133,
   "events": [
+    {
+      "title": "La profe de Mérida que quiere que los niños aprendan inglés este verano sin abrir un libro",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/18/profe-merida-quiere-ninos-aprendan-ingles-sin-abrir-libro-este-verano-130373222.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La factura de cuidar Mérida llega a Felipe VI de la mano de Osuna",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/santa-eulalia-merida-premia-alumnos-educacion-mujeres-130272556.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Emerita Lvdica agota 15.000 entradas en 24 horas y roza el lleno hotelero en Mérida",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/fiesta-emerita-lvdica-autobus-entradas-alojamientos-merida-130273934.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -171,6 +171,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Rey recibe a las Ciudades Patrimonio de la Humanidad",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.hoy.es/extremadura/rey-recibe-ciudades-patrimonio-humanidad-caceres-merida-20260518204014-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Emerita Lvdica dispara la actividad de las tiendas textiles de Mérida",
       "description": "",
       "date": "2026-05-18",
@@ -211,11 +219,43 @@
       "location": "Mérida"
     },
     {
-      "title": "Talleres de Suelo Pélvico el 26 de mayo y 4, 9 y 17 de junio en el Centro Clara Campoamor",
+      "title": "La Junta de Extremadura aprueba ayudas de hasta 15.000 euros para fomentar la contratación de 300 jóvenes cualificados",
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dopplemind impulsa el primer gemelo digital entrevistado en directo ante público institucional",
+      "description": "La Bolsa de Madrid ha acogido el primer caso europeo de entrevista institucional en directo a un gemelo digital. Manuel López Torrents, director general...",
+      "date": "2026-05-18",
+      "url": "https://www.meridadiario.com/2026/05/18/dopplemind-impulsa-el-primer-gemelo-digital-entrevistado-en-directo-ante-publico-institucional/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Predicción meteorológica: Mérida, 18 de Mayo de 2026",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.meridadiario.com/2026/05/18/prediccion-meteorologica-merida-18-de-mayo-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Servihabitat alerta del déficit de vivienda y prevé una subida del 12,4% en 2026",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.meridadiario.com/2026/05/18/servihabitat-alerta-del-deficit-de-vivienda-y-preve-una-subida-del-124-en-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "IGNITE Copilot lanza un agente de IA que ayuda a los profesores a planificar sus clases",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.meridadiario.com/2026/05/18/ignite-copilot-lanza-un-agente-de-ia-que-ayuda-a-los-profesores-a-planificar-sus-clases/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -883,14 +923,6 @@
       "location": "Mérida"
     },
     {
-      "title": "39º Ciclo de Cine VOSE: «Altas capacidades»",
-      "description": "Título original: Altas capacidades País: España Año: 2026 Duración: 101’ Dirección: Víctor García León Guion: Borja Cobeaga, Víctor García León Género: Comedia Reparto: Marián Álvarez, Israel Elejalde, Juan Diego Botto, Pilar Castro, Natalia Reyes Sinopsis: Alicia y Gonzalo, una pareja de clase m...",
-      "date": "2026-05-18",
-      "url": "https://merida.es/agenda/39o-ciclo-de-cine-vose-altas-capacidades/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "«La Alcazaba es el hermano pobre del yacimiento arqueológico emeritense»",
       "description": "",
       "date": "2026-05-17",
@@ -912,30 +944,6 @@
       "date": "2026-05-17",
       "url": "https://www.hoy.es/merida/pone-autobuses-especiales-ferial-paseo-roma-viernes-20260517150351-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Telefónica consolida su mejora operativa tras un trimestre sólido",
-      "description": "Telefónica ha comenzado 2026 con unos resultados trimestrales que han sido valorados positivamente por importantes firmas internacionales de análisis, destacando que el grupo liderado...",
-      "date": "2026-05-17",
-      "url": "https://www.meridadiario.com/2026/05/17/telefonica-consolida-su-mejora-operativa-tras-un-trimestre-solido/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 17 de Mayo de 2026",
-      "description": "",
-      "date": "2026-05-17",
-      "url": "https://www.meridadiario.com/2026/05/17/aemet-el-tiempo-para-merida-17-de-mayo-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Telefónica gana impulso bursátil tras presentar resultados superiores a lo esperado",
-      "description": "",
-      "date": "2026-05-17",
-      "url": "https://www.meridadiario.com/2026/05/17/telefonica-gana-impulso-bursatil-tras-presentar-resultados-superiores-a-lo-esperado/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -987,14 +995,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El jardín vertical junto a la plaza de Santa Eulalia recibe su primera gran poda y cambia 150 plantas",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.hoy.es/merida/jardin-vertical-junto-plaza-santa-eulalia-recibe-20260514142754-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición ‘Medea’ de Ángel Vaquero",
       "description": "En el corazón de Mérida, la pintura de Ángel Vaquero Román se presenta como un puente entre lo ancestral y lo íntimo, tomando la figura de Medea como eje central. La exposición propone una visión del mito desde lo humano y lo contemporáneo, donde los personajes aparecen fragmentados, suspendidos ...",
       "date": "2026-05-09",
@@ -1019,7 +1019,7 @@
       "location": "Mérida"
     },
     {
-      "title": "La Asociación Deportiva Mérida, BeSoccer y BeSoccer Pro irán de la mano con un acuerdo de colaboración",
+      "title": "Veinte centros educativos participan en el Día Escolar de la Bicicleta",
       "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
       "date": "2026-04-29",
       "url": "https://www.meridadiario.com/",
@@ -1051,18 +1051,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El alcalde destaca que con el Stone & Music Festival se ha conseguido “un antes y un después en los datos de turismo del mes de septiembre”",
-      "description": "Ha destacado “la apuesta que hizo el Ayuntamiento pro defender este Festival frente a gente que no quiso nunca, y fuimos un gobierno que...",
-      "date": "2022-09-27",
-      "url": "https://www.meridadiario.com/2022/09/27/el-alcalde-destaca-que-con-el-stone-music-festival-se-ha-conseguido-un-antes-y-un-despues-en-los-datos-de-turismo-del-mes-de-septiembre/",
+      "title": "Mérida Renueva su Compromiso con la Campaña ‘Conmigo No Cuentes’ Durante las Fiestas Navideñas",
+      "description": "Compromiso del Ayuntamiento de Mérida con la Violencia de GéneroEl Ayuntamiento de Mérida ha vuelto a lanzar, en esta ocasión por segundo año consecutivo,...",
+      "date": "2025-12-23",
+      "url": "https://www.meridadiario.com/2025/12/23/merida-renueva-su-compromiso-con-la-campana-conmigo-no-cuentes-durante-las-fiestas-navidenas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Rodríguez Osuna anuncia la puesta en marcha de la campaña ‘Elígeme, Consume Mérida’ en beneficio del comercio y la hostelería local",
-      "description": "El alcalde de Mérida, Antonio Rodríguez Osuna, afirma que el objetivo es “aumentar el consumo en nuestros comercios locales y en la hostelería de...",
-      "date": "2022-01-28",
-      "url": "https://www.meridadiario.com/2022/01/28/rodriguez-osuna-anuncia-la-puesta-en-marcha-de-la-campana-eligeme-consume-merida-en-beneficio-del-comercio-y-la-hosteleria-local/",
+      "title": "El tiempo para hoy en Mérida, 24 de mayo de 2023",
+      "description": "En las primeras horas del día en Mérida se espera nubes escasas. A medida que avance el día se esperan más nubes que claros...",
+      "date": "2023-05-24",
+      "url": "https://www.meridadiario.com/2023/05/24/el-tiempo-para-hoy-en-merida-24-de-mayo-de-2023/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
