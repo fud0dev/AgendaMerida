@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-18T11:06:24Z",
-  "count": 109,
+  "updated_at": "2026-05-18T16:21:27Z",
+  "count": 133,
   "events": [
+    {
+      "title": "La factura de cuidar Mérida llega a Felipe VI de la mano de Osuna",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/18/factura-cuidar-merida-llega-felipe-vi-mano-osuna-130370911.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un crimen ficticio sacudirá los comercios de La Antigua y San Luis en Mérida",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/18/merida-cluedo-crimen-ficticio-negocios-la-antigua-130356247.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Subida de sueldo en el Ayuntamiento de Mérida: cuándo se cobra y a quién afecta",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La ciencia se toma una cerveza en Mérida: el festival Pint of Science llega al Jazz Bar",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/ciencia-cerveza-festival-ocio-bares-merida-130265346.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El superávit municipal de Mérida deja 28,5 millones para nuevas obras en los barrios",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/15/superavit-obras-barrios-infraestructuras-economia-merida-130263176.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Video | Sergio Pérez es Yörik, el actor multiusos de Mérida que encontró en Hamlet su nombre",
       "description": "",
       "date": "2026-05-18",
@@ -147,10 +147,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Video | Rubert Cordero, de radioperador de taxi en Bolivia al taller de Mérida donde los zapatos resucitan",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/05/06/video-rubert-cordero-radioperador-taxi-zapatero-merida-129920464.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida destina 350.000 euros para pagar la subida salarial del 1,5% a sus empleados",
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.hoy.es/merida/ayuntamiento-merida-destina-350000-euros-pagar-subida-20260518105335-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Antigua y San Luis, escenarios de un cluedo urbano en Mérida con los comercios como escenarios del juego",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.hoy.es/merida/antigua-san-luis-escenarios-cluedo-urbano-merida-20260518143938-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -179,18 +195,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Se superan las 30.000 entradas vendidas",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.hoy.es/merida/superan-30000-entradas-vendidas-20260518093519-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "900 escolares se dan cita en el Teatro Romano para representar la obra 'Octavia, ¡soy yo!',",
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.hoy.es/merida/900-escolares-dan-cita-teatro-romano-representar-20260518165842-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se superan las 30.000 entradas vendidas",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.hoy.es/merida/superan-30000-entradas-vendidas-20260518093519-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -200,6 +216,22 @@
       "date": "2026-05-18",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento pone en marcha una campaña de sensibilización y prevención frente a las agresiones sexistas durante la XVI edición de Emerita Lvdica",
+      "description": "May 18, 2026 | Igualdad",
+      "date": "2026-05-18",
+      "url": "https://merida.es/el-ayuntamiento-pone-en-marcha-una-campana-de-sensibilizacion-y-prevencion-frente-a-las-agresiones-sexistas-durante-la-xvi-edicion-de-emerita-lvdica/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Barriada de La Antigua acogerá el 29 de mayo el primer Cluedo Urbano Comercial, una propuesta innovadora dirigida a todos los públicos",
+      "description": "May 18, 2026 | Juventud",
+      "date": "2026-05-18",
+      "url": "https://merida.es/la-barriada-de-la-antigua-acogera-el-29-de-mayo-el-primer-cluedo-urbano-comercial-una-propuesta-innovadora-dirigida-a-todos-los-publicos/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -263,22 +295,6 @@
       "description": "May 14, 2026 | Sanidad",
       "date": "2026-05-18",
       "url": "https://merida.es/espirituosos-espana-y-el-ayuntamiento-de-merida-consolidan-su-alianza-por-la-conduccion-responsable-con-una-nueva-edicion-de-los-noc-turnos/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "ALREX imparte un taller de gestión emocional dirigido a prevenir las recaídas en el caso de adicción al alcohol",
-      "description": "May 13, 2026 | Participación Ciudadana",
-      "date": "2026-05-18",
-      "url": "https://merida.es/alrex-imparte-un-taller-de-gestion-emocional-dirigido-a-prevenir-las-recaidas-en-el-caso-de-adiccion-al-alcohol/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El podcast “Territorio Igualdad” analiza el bienestar y el cuidado del cuerpo femenino en su duodécimo episodio",
-      "description": "May 13, 2026 | Igualdad",
-      "date": "2026-05-18",
-      "url": "https://merida.es/el-podcast-territorio-igualdad-analiza-el-bienestar-y-el-cuidado-del-cuerpo-femenino-en-su-duodecimo-episodio/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -380,14 +396,6 @@
     },
     {
       "title": "El Museo Romano de Mérida abrirá de noche con teatro de sombras y recreaciones de la antigua Roma",
-      "description": "Transporte urbano",
-      "date": "2026-05-18",
-      "url": "https://www.lacronicabadajoz.com/extremadura/2026/05/18/extremadura-semana-calurosa-maximas-ascenso-130345556.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un autobús gratuito conectará el recinto ferial de Mérida con el centro durante Emerita Lvdica",
       "description": "Transporte urbano",
       "date": "2026-05-18",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/15/autobus-gratuito-recinto-ferial-transporte-emerita-lvdica-merida-130261536.html",
@@ -531,6 +539,190 @@
       "location": "Mérida"
     },
     {
+      "title": "El Ayuntamiento de Mérida y Vectalia anuncian autobús gratuito en Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/el-ayuntamiento-de-merida-y-vectalia-anuncian-autobus-gratuito-en-emerita-lvdica-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Casa Viva, el proyecto de Red ENEA que pone en valor la rehabilitación de la vivienda deshabitada",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/17/casa-viva-el-proyecto-de-red-enea-que-pone-en-valor-la-rehabilitacion-de-la-vivienda-deshabitada-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida cierra 2025 con un superávit de casi 36,5 millones de euros",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/el-ayuntamiento-de-merida-cierra-2025-con-un-superavit-de-casi-365-millones-de-euros-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La hermandad de la Vera Cruz celebra el XXV aniversario de la talla del cristo",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/la-hermandad-de-la-vera-cruz-celebra-el-xxv-aniversario-de-la-talla-del-cristo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Altas capacidades' abre el apartado español del Ciclo de Cine en VOSE de Mérida",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/altas-capacidades-abre-el-apartado-espanol-del-ciclo-de-cine-en-vose-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Día de los Museos, 7Sillas Fest y previa de Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/merida-cultural-dia-de-los-museos-7sillas-fest-y-previa-de-emerita-lvdica-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abel Morcillo, de Ara Concordiae: \"El gran reto de Emerita Lvdica es saber conservarlo y mantenerlo\"",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/14/abel-morcillo-de-ara-concordiae-el-gran-reto-de-emerita-lvdica-es-saber-conservarlo-y-mantenerlo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cley, de Protectores Avgvsti Norstri, cuida hasta el último detalle en cuanto a los elementos de recreación",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/13/cley-de-protectores-avgvsti-norstri-cuida-hasta-el-ultimo-detalle-en-cuanto-a-los-elementos-de-recreacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Samuel López-Lago, el emeritense que lleva la creatividad local por todo el mundo",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/13/samuel-lopez-lago-el-emeritense-que-lleva-la-creatividad-local-por-todo-el-mundo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Emerita Lvdica: Collegivm Emeritae ultima preparativos para la fiesta recreacionista",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/12/emerita-lvdica-collegium-emeritae-ultima-preparativos-para-la-fiesta-recreacionista-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Octavia, ¡soy yo!', es el texto teatral que se ha creado dentro del programa la escuela adopta un monumento",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/13/octavia-soy-yo-es-texto-teatral-que-se-ha-creado-dentro-del-programa-la-escuela-adopta-un-monumento-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Quintana reitera que por el momento no hay detenidos por la muerte de Matías de Paula el pasado viernes en Villanueva",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/quintana-reitera-que-por-el-momento-no-hay-detenidos-por-la-muerte-de-matias-de-paula-el-pasado-viernes-en-villanueva-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El barrio de San Sebastián de Don Benito acoge este fin de semana las fiestas de la Cruz de Mayo",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/el-barrio-de-san-sebastian-de-don-benito-acoge-este-fin-de-semana-las-fiestas-de-la-cruz-de-mayo-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres y su CP Cacereño: las ciudades también juegan",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/caceres-y-su-cp-cacereno-las-ciudades-tambien-juegan-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "“Los adolescentes no son conscientes de las consecuencias de abusar de los medicamentos”",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/los-adolescentes-no-son-conscientes-de-las-consecuencias-de-abusar-de-los-medicamentos-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La cultura extremeña, ante el reto de permanecer más allá de Cáceres 2031",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/17/la-cultura-extremena-ante-el-reto-de-permanecer-mas-alla-de-caceres-2031-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un cambio en el modelo productivo frenaría el aumento de la conflictividad laboral, según UGT Extremadura",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/16/ugt-considera-que-un-cambio-en-el-modelo-productivo-frenaria-el-aumento-de-la-conflictividad-laboral-en-la-region-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida avanza en accesibilidad con dotaciones para mejorar la comunicación inclusiva",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/16/merida-avanza-en-accesibilidad-con-dotaciones-para-mejorar-la-comunicacion-inclusiva-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Es un insulto a lo más sagrado de los frexnenses. El pueblo está consternado\"",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/16/es-un-insulto-a-lo-mas-sagrado-de-los-frexnenses-el-pueblo-esta-consternado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fallece un varón de 52 años por disparos de arma de fuego en Villanueva de la Serena",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/fallece-un-varon-de-52-anos-por-disparos-de-arma-de-fuego-en-villanueva-de-la-serena-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El hombre asesinado en Villanueva de la Serena es el cantaor flamenco Matías de Paula",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/fallece-un-varon-de-52-anos-por-disparos-de-arma-de-fuego-en-villanueva-de-la-serena-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura renueva su compromiso contra la LGTBIfobia",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/extremadura-renueva-su-compromiso-contra-la-lgtbifobia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cierre al tráfico de la calle John Lennon por mejoras en el adoquinado",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://cadenaser.com/extremadura/2026/05/15/cierre-al-trafico-de-la-calle-john-lennor-por-mejoras-en-el-adoquinado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida logra un superávit de 36,5 millones en 2025 y compromete ya 7,5 millones en obras de mejora",
       "description": "",
       "date": "2026-05-18",
@@ -563,10 +755,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo Más de Uno Mérida (18/05/2026)",
+      "title": "Informativo mediodía Mérida (18/05/2026)",
       "description": "",
       "date": "2026-05-18",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-18052026_202605186a0aaf1c97bf2400079acc7c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mediodia-merida-18052026_202605186a0afcf32a11b0e443e65cb5.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -591,6 +783,30 @@
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/restaurador-pedro-manzano-elabora-informe-tecnico-estado-conservacion-imagen-santa-eulalia-actuacion-que-realizaba-1996_202605126a0318916ab9b0e46bc0cc47.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Mérida (18/05/2026)",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-18052026_202605186a0afdf697bf2400079ace19.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ciclo de Cine en VOSE proyecta la comedia \"Altas Capacidades\" dirigida por Víctor García León en Cines Victoria",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/ciclo-cine-vose-proyecta-comedia-altas-capacidades-dirigida-victor-garcia-leon-cines-victoria_202605186a0afd48ae178000073f6c5d.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativo Más de Uno Mérida (18/05/2026)",
+      "description": "",
+      "date": "2026-05-18",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mas-uno-merida-18052026_202605186a0aaf1c97bf2400079acc7c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -627,18 +843,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo mediodía Mérida (13/05/2026)",
+      "title": "Una tesis doctoral propone un modelo de intercooperación entre cooperativas agroalimentarias para impulsar el desarrollo territorial en Extremadura",
       "description": "",
       "date": "2026-05-18",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-mediodia-merida-13052026_202605136a04667fae178000073f5e94.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Mérida (13/05/2026)",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-13052026_202605136a0465c33b7cb0e4f678ce26.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/tesis-doctoral-propone-modelo-intercooperacion-cooperativas-agroalimentarias-impulsar-desarrollo-territorial-extremadura_2026050869fd7eeddd62c3164d2218f2.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -655,14 +863,6 @@
       "description": "",
       "date": "2026-05-18",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/iglesia-jesus-obrero-cerro-reyes-cercana-rotonda-grullas-fueron-epicentro-actos-motivo-25-aniversario-riada-badajoz_202211076368c873c7ecd00001c1ad1b.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Detenido un varón en Badajoz con más de 25 gramos de cocaína en su poder mientras viajaba en un taxi",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/detenido-varon-badajoz-mas-25-gramos-cocaina-poder-mientras-viajaba-taxi_20230330642566dcf7cb370001d48ef2.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -791,14 +991,6 @@
       "description": "",
       "date": "2026-05-14",
       "url": "https://www.hoy.es/merida/jardin-vertical-junto-plaza-santa-eulalia-recibe-20260514142754-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Museo Abierto de Mérida acoge juegos de guerra en miniatura, talleres y una exposición de modelismo histórico",
-      "description": "",
-      "date": "2026-05-14",
-      "url": "https://www.hoy.es/merida/museo-abierto-merida-acoge-juegos-guerra-miniatura-20260514140201-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
