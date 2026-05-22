@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-22T10:23:49Z",
+  "updated_at": "2026-05-22T15:47:36Z",
   "count": 104,
   "events": [
+    {
+      "title": "El parque acuático de la Ciudad de la Infancia ya pone a remojo el verano en Mérida",
+      "description": "",
+      "date": "2026-05-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/22/parque-acuatico-ciudad-infancia-pone-remojo-verano-merida-130536484.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Decretan el ingreso en prisión del hombre acusado de un presunto abuso sexual a una joven de Mérida y se desata la tormenta política por la inmigración ilegal",
+      "description": "",
+      "date": "2026-05-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/22/pasa-disposicion-judicial-detenido-presunto-130535953.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Festival de Teatro Clásico de Mérida dispara la taquilla: más de 30.000 entradas vendidas en menos de dos meses",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Emerita Lvdica impulsa la hostelería de Mérida con dos horas extra de cierre para los locales",
-      "description": "",
-      "date": "2026-05-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/20/emerita-lvdica-impulsa-hosteleria-merida-130470925.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El MNAR no quiere perderse Emerita Lvdica: una boda romana para viajar a la Mérida más antigua",
-      "description": "",
-      "date": "2026-05-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/20/mnar-no-quiere-perderse-emerita-lvdica-merida-130449213.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | María Guardiola, en Emerita Lvdica",
       "description": "",
       "date": "2026-05-22",
@@ -103,6 +103,14 @@
       "description": "",
       "date": "2026-05-22",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/05/21/video-sido-gran-carrera-cuadrigas-130498862.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Video | Emerita Lvdica: el Recorrido del Fuego guía una de las noches grandes de la fiesta romana",
+      "description": "",
+      "date": "2026-05-22",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/05/21/video-emerita-lvdica-recorrido-fuego-130481512.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -147,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La agresión sexual a una joven en Mérida se convierte en una polémica política por la inmigración ilegal",
+      "description": "",
+      "date": "2026-05-22",
+      "url": "https://www.hoy.es/merida/prision-provisional-hombre-detenido-intento-agresion-sexual-20260522171345-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El campamento legionario y los oficios romanos se unen en el parque de las Méridas del Mundo",
       "description": "",
       "date": "2026-05-22",
@@ -163,26 +179,18 @@
       "location": "Mérida"
     },
     {
+      "title": "La Ciudad de la Infancia ya tiene en funcionamiento su zona acuática",
+      "description": "",
+      "date": "2026-05-22",
+      "url": "https://www.hoy.es/merida/ciudad-infancia-funcionamiento-zona-acuatica-20260522133748-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La Polícía Nacional detiene en Mérida al presunto autor de una agresión sexual y robo con violencia",
       "description": "",
       "date": "2026-05-22",
       "url": "https://www.hoy.es/merida/policia-nacional-detiene-merida-presunto-autor-agresion-20260521113416-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fallece José Trejo, cofundador y expresidente de la Escuela de Fútbol Emérita Augusta",
-      "description": "",
-      "date": "2026-05-22",
-      "url": "https://www.hoy.es/merida/fallece-jose-trejo-cofundador-expresidente-escuela-futbol-20260521150640-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ocho parques de Mérida, con la catalogación de espacios sin humo en zonas de juegos infantiles",
-      "description": "",
-      "date": "2026-05-22",
-      "url": "https://www.hoy.es/merida/ocho-parques-merida-catalogacion-espacios-humo-zonas-20260521143830-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -523,10 +531,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Extremadura (21/05/26)",
+      "title": "Noticias mediodía Extremadura (22/05/26)",
       "description": "",
       "date": "2026-05-22",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-210526_202605216a0ef52ec577c70007fca973.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-220526_202605226a10474dc577c70007fcad5d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -616,6 +624,22 @@
       "date": "2026-05-22",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/premios-hosteleria-porelclima-2026-reconocen-establecimiento-extremeno-picon-compromiso-ambiental_202605206a0d6d1360e5bd6066fa53b7.html",
       "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fallece José Trejo, cofundador y expresidente de la Escuela de Fútbol Emérita Augusta",
+      "description": "",
+      "date": "2026-05-21",
+      "url": "https://www.hoy.es/merida/fallece-jose-trejo-cofundador-expresidente-escuela-futbol-20260521150640-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ocho parques de Mérida, con la catalogación de espacios sin humo en zonas de juegos infantiles",
+      "description": "",
+      "date": "2026-05-21",
+      "url": "https://www.hoy.es/merida/ocho-parques-merida-catalogacion-espacios-humo-zonas-20260521143830-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -744,30 +768,6 @@
       "date": "2026-05-19",
       "url": "https://www.meridadiario.com/2026/05/19/abandonan-cuatro-cachorros-en-un-saco-junto-a-un-contenedor-en-fuentes-de-leon/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Antigua y San Luis, escenarios de un cluedo urbano en Mérida con los comercios como escenarios del juego",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.hoy.es/merida/antigua-san-luis-escenarios-cluedo-urbano-merida-20260518143938-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Emerita Lvdica dispara la actividad de las tiendas textiles y de complementos de la ciudad",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.hoy.es/merida/emerita-lvdica-dispara-actividad-tiendas-textiles-complementos-20260517200053-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida destina 350.000 euros para pagar la subida salarial del 1,5% a sus empleados",
-      "description": "",
-      "date": "2026-05-18",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-destina-350000-euros-pagar-subida-20260518105335-nt.html",
-      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
