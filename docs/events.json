@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-23T14:28:41Z",
-  "count": 102,
+  "updated_at": "2026-05-23T20:05:17Z",
+  "count": 98,
   "events": [
+    {
+      "title": "Gladiadores, vino con miel y tabernas romanas: cuando Mérida vuelve a ser Augusta Emerita",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/23/gladiadores-vino-miel-tabernas-romanas-130578189.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La fábrica de cátodos de Mérida facturará más que las cinco mayores empresas extremeñas",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.elperiodicoextremadura.com/extremadura/2026/05/23/fabrica-catodos-merida-facturara-cinco-130574334.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Emérita Lvdica también conquista al influencer del Imperio Romano",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/23/emerita-lvdica-conquista-influencer-imperio-130574053.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida vive el último gran asalto de Emerita Lvdica: actividades imprescindibles del sábado y domingo",
       "description": "",
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-05-23",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/21/diocles-gloria-emerita-lvdica-cuadrigas-fiesta-recreacionista-merida-130374714.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Detenido el presunto autor de la agresión sexual y el robo con violencia a una joven en Mérida",
-      "description": "",
-      "date": "2026-05-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/21/detenido-presunto-autor-agresion-sexual-delito-merida-130485967.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "De las cuadrigas a los rituales nocturnos: todo lo que trae Emerita Lvdica este jueves en Mérida",
-      "description": "",
-      "date": "2026-05-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/21/cuadrigas-rituales-emerita-lvdica-ocio-fiesta-recreacion-merida-130469912.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Denuncian una presunta agresión sexual y un robo con violencia a una joven de Mérida",
-      "description": "",
-      "date": "2026-05-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/21/denuncian-agresion-sexual-robo-merida-130481913.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -347,6 +347,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Fotogalería | Todo lo mejor de Emerita Lvdica, en imágenes",
+      "description": "Mérida",
+      "date": "2026-05-23",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/23/fotogaleria-mejor-emerita-lvdica-imagenes-130576029.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "Fotogalería | Lo mejor de Emerita Lvdica, en imágenes",
       "description": "Mérida",
       "date": "2026-05-23",
@@ -355,10 +363,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Nuevo éxito de Emerita Lvdica: agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición'",
-      "description": "Cultura",
+      "title": "Denuncian una presunta agresión sexual y un robo con violencia a una joven de Mérida",
+      "description": "Suceso",
       "date": "2026-05-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/20/festival-merida-participa-72a-asamblea-130455077.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/21/denuncian-agresion-sexual-robo-merida-130481914.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -375,6 +383,14 @@
       "description": "Noche Europea de los Museos",
       "date": "2026-05-23",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/14/museo-romano-merida-noche-visitas-museos-cultura-130239312.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Nuevo éxito de Emerita Lvdica: agotadas las entradas para las Gladiaturas y la obra de teatro 'La Aparición'",
+      "description": "Mérida",
+      "date": "2026-05-23",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/13/nuevo-exito-emerita-lvdica-agotadas-130166417.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -463,30 +479,6 @@
       "description": "En mi Atalaya",
       "date": "2026-05-23",
       "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/sirenas-marcaban-ritmo-diario-merida-129558378.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La danza toma la Sala Trajano de Mérida con actividades para jóvenes y profesionales",
-      "description": "29 de abril",
-      "date": "2026-05-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/danza-toma-sala-trajano-merida-129558375.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fallece en Mérida el joven Hugo Serrano Álvarez, ejemplo de lucha contra el cáncer",
-      "description": "Obituario",
-      "date": "2026-05-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/26/hugo-romeria-nueva-ciudad-fallecido-cancer-merida-129540431.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Hospital de Mérida avanza en humanización con un baño adaptado para personas ostomizadas",
-      "description": "Atención sanitaria",
-      "date": "2026-05-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/26/hospital-merida-avanza-humanizacion-bano-129533827.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -595,18 +587,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Los Premios Hostelería #PorElClima 2026 reconocen al establecimiento extremeño Picón por su compromiso ambiental",
-      "description": "",
-      "date": "2026-05-23",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/premios-hosteleria-porelclima-2026-reconocen-establecimiento-extremeno-picon-compromiso-ambiental_202605206a0d6d1360e5bd6066fa53b7.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "La Oferta de Empleo Público 2026 del Ayuntamiento de Badajoz incluye 43 plazas de turno libre y 52 de promoción interna",
       "description": "",
       "date": "2026-05-23",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/oferta-empleo-publico-2026-ayuntamiento-badajoz-incluye-43-plazas-turno-libre-52-promocion-interna_202605206a0daba247d35c454e0a7073.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los Premios Hostelería #PorElClima 2026 reconocen al establecimiento extremeño Picón por su compromiso ambiental",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/premios-hosteleria-porelclima-2026-reconocen-establecimiento-extremeno-picon-compromiso-ambiental_202605206a0d6d1360e5bd6066fa53b7.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -763,22 +755,6 @@
       "location": "Mérida"
     },
     {
-      "title": "XVI Emerita Lvdica",
-      "description": "Del 18 al 24 de mayo de 2026 se celebrará la XVI edición de Emerita Lvdica, una fiesta en la que se ofrece la oportunidad de ser testigos (o preferentemente actores y figurantes) de escenas cotidianas del mundo romano, aproximándonos a sus modos de vida, utilizando los escenarios originales que c...",
-      "date": "2026-05-18",
-      "url": "https://merida.es/agenda/xvi-emerita-lvdica/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Exposición ‘Medea’ de Ángel Vaquero",
-      "description": "En el corazón de Mérida, la pintura de Ángel Vaquero Román se presenta como un puente entre lo ancestral y lo íntimo, tomando la figura de Medea como eje central. La exposición propone una visión del mito desde lo humano y lo contemporáneo, donde los personajes aparecen fragmentados, suspendidos ...",
-      "date": "2026-05-09",
-      "url": "https://merida.es/agenda/exposicion-medea-de-angel-vaquero/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
       "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
       "date": "2026-05-05",
@@ -792,14 +768,6 @@
       "date": "2026-04-28",
       "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mit Jazz Festival Mérida 2026",
-      "description": "Del 7 de marzo al 17 de junio se desarrollará la tercera edición del Miz Jazz Festival Mérida 2026 que volverá a sentir el latido del jazz en una ciudad de más de 2.000 años de historia. El festival acogerá dos citas ineludibles en el Palacio de Congresos: el concierto de presentación el 7 de […]",
-      "date": "2026-03-07",
-      "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
