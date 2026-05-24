@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-24T14:23:21Z",
-  "count": 102,
+  "updated_at": "2026-05-24T20:03:59Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Emérita Lvdica: la fiesta que ha convertido la recreación romana en motor económico de Mérida",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/24/emerita-lvdica-fiesta-convertido-recreacion-130601311.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Claves de la Zona de Bajas Emisiones en Mérida: entre la obligación legal y la batalla en los tribunales",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Guardiola pasea por Emerita Lvdica en Mérida y asiste a una clase de orfebrería con Julián Ortega",
-      "description": "",
-      "date": "2026-05-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/21/guardiola-pasea-emerita-lvdica-merida-130511650.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | María Guardiola, en Emerita Lvdica",
       "description": "",
       "date": "2026-05-24",
@@ -155,6 +155,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Domingo de entrenamientos militares y un cierre musical de película en el Teatro Romano",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://www.hoy.es/merida/emerita-lvdica-redobla-exito-participacion-implicacion-popular-20260524204847-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Pleno de Jerez de los Caballeros aprobará el miércoles la solicitud de medalla de Extremadura para Alfonso Gallardo",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://www.hoy.es/prov-badajoz/pleno-jerez-caballeros-aprobara-miercoles-solicitud-medalla-20260524183838-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Domingo de entrenamientos militares y un cierre de película en el Teatro Romano",
       "description": "",
       "date": "2026-05-24",
@@ -179,18 +195,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Viernes en Emerita Lvdica: campamento, desfile civil y entrada de las legiones romanas",
+      "title": "La asociación de Amigos del Museo promueve la medalla de Extremadura para el Romano",
       "description": "",
       "date": "2026-05-24",
-      "url": "https://www.hoy.es/merida/legiones-romanas-entran-merida-gladiadores-esperan-sabado-20260523074856-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Recreaciones históricas de una boda romana y 'El fuego invisible' en el Museo",
-      "description": "",
-      "date": "2026-05-24",
-      "url": "https://www.hoy.es/merida/recreaciones-historicas-boda-romana-fuego-invisible-museo-20260523074849-nt.html",
+      "url": "https://www.hoy.es/merida/asociacion-amigos-museo-promueve-medalla-extremadura-romano-20260524204857-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -364,9 +372,9 @@
     },
     {
       "title": "Fotogalería | Emerita Lvdica devuelve el rugido de los gladiadores al Anfiteatro Romano de Mérida",
-      "description": "Mérida",
+      "description": "Balance de la XVI edición",
       "date": "2026-05-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/24/fotogaleria-emerita-lvdica-devuelve-rugido-130595682.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/24/emerita-lvdica-fiesta-convertido-recreacion-130601312.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -491,11 +499,187 @@
       "location": "Mérida"
     },
     {
-      "title": "Investigan a un hombre por grabar presuntamente a jóvenes en los vestuarios de la Ciudad Deportiva de Mérida",
-      "description": "Suceso",
+      "title": "La Ser vive la II carrera de cuadrigas de Emerita Lvdica entre el calor de los emeritos",
+      "description": "",
       "date": "2026-05-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/27/hombre-jovenes-delito-suceso-detencion-policia-merida-129566203.html",
-      "source": "La Crónica de Badajoz",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/la-ser-vive-la-ii-carrera-de-cuadrigas-de-emerita-lvdica-entre-el-calor-de-los-emeritos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Asociación de Amigos del Museo de Arte Romano de Mérida solicita la Medalla de Extremadura para la institución",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/20/la-asociacion-de-amigos-del-museo-de-arte-romano-de-merida-solicita-la-medalla-de-extremadura-para-la-institucion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobado el aumento salarial del 1,5% para los empleados públicos del Ayuntamiento de Mérida",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/19/aprobado-el-aumento-salarial-del-15-para-los-empleados-publicos-del-ayuntamiento-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"A los padres, que crean; a la sociedad que nos sonría y nos pregunte\"",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/23/a-los-padres-que-crean-a-la-sociedad-que-nos-sonria-y-nos-pregunte-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Emerita Lvdica, vivir la historia en primera persona",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/merida-cultural-emerita-lvdica-vivir-la-historia-en-primera-persona-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alange celebra el IX Festival de los Vencejos este fin de semana",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/alange-celebra-el-ix-festival-de-los-vencejos-este-fin-de-semana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Hablamos con Tanit de la importancia del rigor histórico en Emerita Lvdica",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Miscelánea Social: La Fundación 'Hope Never Dies' nace como espacio para la práctica de la actividad física, la socialización y el aprendizaje en Mérida",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/20/miscelanea-social-la-fundacion-hope-never-dies-nace-como-espacio-para-la-practica-del-ejercicio-fisico-y-la-socializacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los alumnos de los colegios de Mérida representan en el teatro romano 'Octavia ¡Soy yo!'",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/19/los-alumnos-de-los-colegios-de-merida-representan-en-el-teatro-romano-octavia-soy-yo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La hermandad de la Vera Cruz celebra el XXV aniversario de la talla del cristo",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/la-hermandad-de-la-vera-cruz-celebra-el-xxv-aniversario-de-la-talla-del-cristo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Altas capacidades' abre el apartado español del Ciclo de Cine en VOSE de Mérida",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/18/altas-capacidades-abre-el-apartado-espanol-del-ciclo-de-cine-en-vose-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dimite en bloque la dirección del CEIP Cerro Gordo de Badajoz por la falta de personal",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/dimite-en-bloque-la-direccion-del-ceip-cerro-gordo-de-badajoz-por-la-falta-de-personal-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El II Congreso Mundial de Turismo de Interior se celebrará en noviembre en Guarda tras su estreno en Cáceres",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/el-ii-congreso-mundial-de-turismo-de-interior-se-celebrara-en-noviembre-en-guarda-tras-su-estreno-en-caceres-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Els Joglars, El Brujo y Paloma San Basilio protagonizan el XXXVII Festival de Teatro Clásico de Cáceres",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/els-joglars-el-brujo-y-paloma-san-basilio-protagonizan-el-xxxvii-festival-de-teatro-clasico-de-caceres-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Esther Rodríguez: “Queríamos traducir la investigación sobre Tartesos a un lenguaje comprensible”",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/esther-rodriguez-queriamos-traducir-la-investigacion-sobre-tartesos-a-un-lenguaje-comprensible-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Diputación y la Asociación de la Prensa de Badajoz digitalizan el histórico semanario la 'Hoja del Lunes'",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/la-diputacion-y-la-asociacion-de-la-prensa-de-badajoz-digitalizan-el-historico-semanario-la-hoja-del-lunes-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Gala “Humor en la SER” llena el Teatro Imperial de Don Benito con un recorrido por la historia de la comedia radiofónica",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/la-gala-humor-en-la-ser-llena-el-teatro-imperial-de-don-benito-con-un-recorrido-por-la-historia-de-la-comedia-radiofonica-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las Vegas del Guadiana continúan este viernes en aviso amarillo",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/22/las-vegas-del-guadiana-continua-este-viernes-en-aviso-amarillo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Guareña celebra el quinto aniversario del Turuñuelo como BIC con unas jornadas abiertas a la ciudadanía",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/21/guarena-celebra-el-quinto-aniversario-del-turunuelo-como-bien-de-interes-cultural-con-unas-jornadas-abiertas-a-la-ciudadania-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Don Benito solicita un millón de euros para una segunda fase de mejora de eficiencia energética en centros educativos",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/21/don-benito-solicita-un-millon-de-euros-para-una-segunda-fase-de-mejora-de-eficiencia-energetica-en-centros-educativos-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Don Benito mantiene una reunión con vecinos del sector 1.6 para avanzar en su impulso urbanístico",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/21/el-ayuntamiento-de-don-benito-mantiene-una-reunion-con-vecinos-del-sector-16-para-avanzar-en-su-impulso-urbanistico-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Diputación de Cáceres recibe 4,7 millones del Miteco para frenar la despoblación en Trasierra-Tierras de Granadilla",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/20/la-diputacion-de-caceres-recibe-47-millones-del-miteco-para-frenar-la-despoblacion-en-trasierra-tierras-de-granadilla-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres 2031 encara la fase decisiva con la mirada puesta en Europa y el territorio",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://cadenaser.com/extremadura/2026/05/20/caceres-2031-encara-la-fase-decisiva-con-la-mirada-puesta-en-europa-y-el-territorio-ser-caceres/",
+      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -627,10 +811,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Las legiones romanas entran en Mérida y los gladiadores esperan este sábado su turno",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.hoy.es/merida/legiones-romanas-entran-merida-gladiadores-esperan-sabado-20260523074856-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La Conferencia de San Vicente de Paul de Mérida culmina su semana de visibilización en el Templo de Diana",
       "description": "",
       "date": "2026-05-23",
       "url": "https://www.hoy.es/merida/conferencia-san-vicente-paul-merida-culmina-semana-20260523074840-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Recreaciones históricas de una boda romana y 'El fuego invisible' en el Museo",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.hoy.es/merida/recreaciones-historicas-boda-romana-fuego-invisible-museo-20260523074849-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -711,30 +911,6 @@
       "description": "",
       "date": "2026-05-21",
       "url": "https://www.hoy.es/merida/policia-nacional-detiene-merida-presunto-autor-agresion-20260521113416-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida actualiza sus orígenes con el brillo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-05-21",
-      "url": "https://www.hoy.es/merida/merida-actualiza-origenes-brillo-emerita-lvdica-20260521185249-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Reabre al tráfico con normalidad la avenida Fernández López tras culminar la obra de Aqualia",
-      "description": "",
-      "date": "2026-05-20",
-      "url": "https://www.hoy.es/merida/reabre-trafico-normalidad-avenida-fernandez-lopez-tras-20260520142003-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Emerita Lvdica da consejos contra el calor en los próximos días y sobre la entrada a los monumentos",
-      "description": "",
-      "date": "2026-05-20",
-      "url": "https://www.hoy.es/merida/emerita-lvdica-consejos-calor-proximos-dias-sobre-20260520142023-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
