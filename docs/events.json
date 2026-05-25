@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-25T15:49:50Z",
-  "count": 88,
+  "updated_at": "2026-05-25T20:21:45Z",
+  "count": 96,
   "events": [
+    {
+      "title": "La barriada más fiestera de Mérida tiene 10 días para darlo todo con carnaval, cluedo urbano, concursos y verbena",
+      "description": "",
+      "date": "2026-05-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/25/barriada-fiestera-merida-darlo-todo-10-dias-verbena-concursos-carnaval-cluedo-urbano-130648690.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "175.000 personas y 11 millones de euros: Emerita Lvdica revienta el contador en Mérida",
+      "description": "",
+      "date": "2026-05-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/25/175-000-personas-11-millones-balance-historico-emerita-lvdica-merida-130643772.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Imperio Romano quiere salir del museo: 70 obras para contar Mérida desde sus fachadas",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-05-25",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/23/emerita-lvdica-conquista-influencer-imperio-130574053.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida vive el último gran asalto de Emerita Lvdica: actividades imprescindibles del sábado y domingo",
-      "description": "",
-      "date": "2026-05-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/23/merida-vive-ultimo-gran-asalto-emerita-lvdica-actividades-sabado-domingo-130553573.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Roma volvió al colegio en Mérida",
-      "description": "",
-      "date": "2026-05-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/23/roma-volvio-colegio-merida-130551610.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -200,6 +200,14 @@
       "date": "2026-05-25",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 25 de Mayo de 2026",
+      "description": "Pronóstico del Tiempo para Mérida el 25 de mayo de 2026 En la hermosa ciudad de Mérida, este 25 de mayo de 2026, se espera...",
+      "date": "2026-05-25",
+      "url": "https://www.meridadiario.com/2026/05/25/el-tiempo-en-merida-hoy-25-de-mayo-de-2026/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -579,10 +587,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Entrevista a APAMEX sobre las novedades en materia de accesibilidad en Badajoz",
+      "title": "La Oferta de Empleo Público 2026 del Ayuntamiento de Badajoz incluye 43 plazas de turno libre y 52 de promoción interna",
       "description": "",
       "date": "2026-05-25",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/entrevista-apamex-novedades-materia-accesibilidad-badajoz_2026021769945ca81817b41eb64dc2d7.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/oferta-empleo-publico-2026-ayuntamiento-badajoz-incluye-43-plazas-turno-libre-52-promocion-interna_202605206a0daba247d35c454e0a7073.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -595,19 +603,19 @@
       "location": "Mérida"
     },
     {
-      "title": "39º Ciclo de Cine VOSE: «Calle Málaga»",
-      "description": "Título original: Calle Málaga País: España Año: 2025 Duración: 116’ Dirección: Maryam Touzani Guion: Maryam Touzani, Nabil Ayouch Género: Drama Reparto: Carmen Maura, Marta Etura, Ahmed Boulane, Maria Alfonsa Rosso, Miguel Garcés Sinopsis: María Ángeles es una española de 79 años que vive sola en...",
-      "date": "2026-05-25",
-      "url": "https://merida.es/agenda/39o-ciclo-de-cine-vose-calle-malaga/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "Un sábado imperial de fiesta en la capital de Lusitania",
       "description": "",
       "date": "2026-05-24",
       "url": "https://www.hoy.es/merida/sabado-imperial-fiesta-capital-lusitania-20260523185915-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 24 de Mayo de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-05-24",
+      "url": "https://www.meridadiario.com/2026/05/24/el-tiempo-hoy-24-de-mayo-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -640,6 +648,14 @@
       "date": "2026-05-23",
       "url": "https://www.hoy.es/merida/recreaciones-historicas-boda-romana-fuego-invisible-museo-20260523074849-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aminata Touré reaparece en el debate político de Senegal tras la dimisión del ejecutivo",
+      "description": "",
+      "date": "2026-05-23",
+      "url": "https://www.meridadiario.com/2026/05/23/aminata-toure-reaparece-en-el-debate-politico-de-senegal-tras-la-dimision-del-ejecutivo/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -691,6 +707,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El fútbol y la economía de España: 194,000 empleos y 8,390 millones de euros",
+      "description": "El consejero Francisco Ramírez aclara el contexto del incendio en Losar de la VeraEn una visita reciente a Losar de la Vera, el consejero...",
+      "date": "2026-05-19",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abandonan cuatro cachorros en un saco junto a un contenedor en Fuentes de León",
+      "description": "",
+      "date": "2026-05-19",
+      "url": "https://www.meridadiario.com/2026/05/19/abandonan-cuatro-cachorros-en-un-saco-junto-a-un-contenedor-en-fuentes-de-leon/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘Medea’ de Ángel Vaquero",
       "description": "En el corazón de Mérida, la pintura de Ángel Vaquero Román se presenta como un puente entre lo ancestral y lo íntimo, tomando la figura de Medea como eje central. La exposición propone una visión del mito desde lo humano y lo contemporáneo, donde los personajes aparecen fragmentados, suspendidos ...",
       "date": "2026-05-09",
@@ -699,11 +731,43 @@
       "location": "Mérida"
     },
     {
+      "title": "El Conservatorio Profesional de Música ‘Esteban Sánchez’ celebra el décimo aniversario del Proyecto NeuroRedes, pionero en Europa",
+      "description": "Celebración del X Aniversario del Proyecto NeuroRedesEl alcalde de Mérida, Antonio Rodríguez Osuna, ha presentado los actos conmemorativos por el décimo aniversario del Proyecto...",
+      "date": "2026-05-05",
+      "url": "https://www.meridadiario.com/2026/05/05/el-conservatorio-profesional-de-musica-esteban-sanchez-celebra-el-decimo-aniversario-del-proyecto-neuroredes-pionero-en-europa/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Convocatoria de los Premios Extraordinarios de FP de Grado Superior por parte de la Consejería de Educación",
+      "description": "",
+      "date": "2026-04-28",
+      "url": "https://www.meridadiario.com/2026/04/28/convocatoria-de-los-premios-extraordinarios-de-fp-de-grado-superior-por-parte-de-la-consejeria-de-educacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Mit Jazz Festival Mérida 2026",
       "description": "Del 7 de marzo al 17 de junio se desarrollará la tercera edición del Miz Jazz Festival Mérida 2026 que volverá a sentir el latido del jazz en una ciudad de más de 2.000 años de historia. El festival acogerá dos citas ineludibles en el Palacio de Congresos: el concierto de presentación el 7 de […]",
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Convenio histórico para luchar contra el racismo en el deporte español",
+      "description": "La ministra de Inclusión, Seguridad Social y Migraciones, Elma Saiz, y el presidente de LALIGA, Javier Tebas, firmaron este jueves un convenio para ser...",
+      "date": "2024-10-24",
+      "url": "https://www.meridadiario.com/2024/10/24/convenio-historico-para-luchar-contra-el-racismo-en-el-deporte-espanol/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo para hoy en Mérida, 16 de octubre de 2024",
+      "description": "Durante las primeras horas del día en Mérida el cielo estará cubierto con lluvia. Según pasen las horas habrá cielos nubosos con lluvia. En...",
+      "date": "2024-10-16",
+      "url": "https://www.meridadiario.com/2024/10/16/el-tiempo-para-hoy-en-merida-16-de-octubre-de-2024/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
