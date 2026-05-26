@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-26T16:41:51Z",
-  "count": 121,
+  "updated_at": "2026-05-26T20:52:00Z",
+  "count": 100,
   "events": [
+    {
+      "title": "Un peatón atropellado, tres conductores sin carné y 15 accidentes con daños en Mérida",
+      "description": "",
+      "date": "2026-05-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/26/peaton-atropellado-tres-conductores-sin-carne-merida-130685762.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La Junta le da a Mérida 44,8 millones de euros, 5,3 más de lo esperado: así se reparte el dinero",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Cambio en el mobiliario urbano de Mérida: 790 bancos, fuentes, papeleras y aparcabicicletas para sus parques",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/26/cambio-mobiliario-urbano-merida-790-elementos-parques-130667183.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "El ciclo 'Nova Emérita' continua con la conferencia de Juan Antonio Ortiz Orueta",
       "description": "",
       "date": "2026-05-26",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/26/ciclo-nova-emerita-continua-conferencia-130673200.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cambio en el mobiliario urbano de Mérida: 790 bancos, fuentes, papeleras y aparcabicicletas para sus parques",
+      "description": "",
+      "date": "2026-05-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/26/cambio-mobiliario-urbano-merida-790-elementos-parques-130667183.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-05-26",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/05/25/tres-detenidos-merida-policia-chalet-prostitucion-drogas-130626860.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Aquella época en la que Mérida se tiraba de la moto",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/05/25/epoca-merida-tiraba-moto-130601484.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -179,7 +179,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El Festival de Jazz trae este miércoles un concierto al Arco de Trajano",
+      "title": "El Festival de Jazz trae un concierto al Arco de Trajano",
       "description": "",
       "date": "2026-05-26",
       "url": "https://www.hoy.es/merida/festival-jazz-trae-miercoles-concierto-arco-trajano-20260526140541-nt.html",
@@ -523,158 +523,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El alcalde de Mérida pide a la Junta que interceda para conseguir una sede de la DGT en la ciudad",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/26/el-alcalde-de-merida-pide-a-la-junta-que-interceda-para-conseguir-una-sede-de-la-dgt-en-la-ciudad-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida destinará dos millones de euros en ayudas directas para autónomos y pymes",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/26/el-ayuntamiento-de-merida-destinara-dos-millones-de-euros-en-ayudas-directas-para-autonomos-y-pymes-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La XVI Edición de Emerita Lvdica arroja un balance de 175.000 visitantes y más de once millones de euros",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/la-xvi-edicion-de-emerita-lvdica-arroja-un-balance-de-175000-visitante-y-mas-de-once-millones-de-euros-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Arco de Trajano de Mérida se convierte en escenario para el MitJazz",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/26/el-arco-de-trajano-de-merida-se-convierte-en-escenario-para-el-mitjazz-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Calle Málaga' cierra la XXXIX Edición del Ciclo de Cine VOSE",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/calle-malaga-cierra-la-xxxix-edicion-del-ciclo-de-cine-vose-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"A los padres, que crean; a la sociedad que nos sonría y nos pregunte\"",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/23/a-los-padres-que-crean-a-la-sociedad-que-nos-sonria-y-nos-pregunte-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Emerita Lvdica, vivir la historia en primera persona",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/22/merida-cultural-emerita-lvdica-vivir-la-historia-en-primera-persona-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Hablamos con Tanit de la importancia del rigor histórico en Emerita Lvdica",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/22/cultura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "César Calvo, el emeritense tras las escenas de Playmobil de Emerita Lvdica",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/20/cesar-calvo-el-emeritense-tras-las-escenas-de-playmobil-de-emerita-lvdica-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Miscelánea Social: La Fundación 'Hope Never Dies' nace como espacio para la práctica de la actividad física, la socialización y el aprendizaje en Mérida",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/20/miscelanea-social-la-fundacion-hope-never-dies-nace-como-espacio-para-la-practica-del-ejercicio-fisico-y-la-socializacion-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los alumnos de los colegios de Mérida representan en el teatro romano 'Octavia ¡Soy yo!'",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/19/los-alumnos-de-los-colegios-de-merida-representan-en-el-teatro-romano-octavia-soy-yo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Aprobado el proyecto de remodelación de la confluencia entre las calles López de Ayala, Pocillo y Castelnovo",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/26/aprobado-el-proyecto-de-remodelacion-de-la-confluencia-entre-las-calles-lopez-de-ayala-pocillo-y-castelnovo-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Siempre Don Benito exige al PP que aclare los pasos para la nueva consulta sobre la Fusión",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/26/siempre-don-benito-exige-al-pp-que-aclare-los-pasos-para-la-nueva-consulta-sobre-la-fusion-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Campeonato de España de Silvestrismo reunirá en Don Benito a cerca de 400 pájaros de toda España",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/el-campeonato-de-espana-de-silvestrismo-reunira-en-don-benito-a-cerca-de-400-pajaros-de-toda-espana-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Técnicos sanitarios se movilizan en Don Benito-Villanueva para exigir la reclasificación salarial acordada en 2022",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/tecnicos-sanitarios-se-movilizan-en-don-benito-villanueva-para-exigir-la-reclasificacion-salarial-acordada-en-2022-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una Europa cercana, unida y con ambición estratégica es la reivindicación en el Premio Carlos V",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/una-europa-cercana-unida-y-con-ambicion-estrategica-es-la-reivindicacion-en-el-premio-carlos-v-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Pedro Porro, de Don Benito al Mundial 2026: el orgullo extremeño se cuela en la lista de España",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/pedro-porro-de-don-benito-al-mundial-2026-el-orgullo-extremeno-se-cuela-en-la-lista-de-espana-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La FD Mérida inicia la semana del baloncesto en femenino que culminará con el 3x3 Victoria",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/la-fd-merida-inicia-la-semana-del-baloncesto-en-femenino-que-culminara-con-el-3x3-victoria-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Valdepasillas se vuelca con sus fiestas vecinales entre cultura, música y convivencia",
-      "description": "",
-      "date": "2026-05-26",
-      "url": "https://cadenaser.com/extremadura/2026/05/25/valdepasillas-se-vuelca-con-sus-fiestas-vecinales-entre-cultura-musica-y-convivencia-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "'Mucha Música Muchacha' llega el 29 de mayo a Mérida para defender la cultura como sinónimo de bienestar de las mujeres",
       "description": "",
       "date": "2026-05-26",
@@ -792,22 +640,6 @@
       "date": "2026-05-26",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/tesis-doctoral-propone-modelo-intercooperacion-cooperativas-agroalimentarias-impulsar-desarrollo-territorial-extremadura_2026050869fd7eeddd62c3164d2218f2.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo de conferencias ‘Nova Emérita: arquitectura actual en la ciudad histórica’ por Juan Antonio Ortiz Orueta",
-      "description": "El ciclo Nova Emérita: arquitectura actual en la ciudad histórica, organizado por el Colegio Oficial de Arquitectos de Extremadura (COADE) y el Ayuntamiento de Mérida, continúa descubriendo nuestro legado contemporáneo con la conferencia de Juan Antonio Ortiz Orueta el próximo martes 26 de mayo a...",
-      "date": "2026-05-26",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-nova-emerita-arquitectura-actual-en-la-ciudad-historica-por-juan-antonio-ortiz-orueta/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Seminarios de Patrimonio «José Fernández López, empresario y Mecenas de Mérida»",
-      "description": "El martes 26 de mayo, a las 20:00 horas, la Sala Decumanus acoge un nuevo Seminario de Patrimonio \"Mérida, Arqueología e Historia\" a cargo del historiador Juan Carlos López Díaz (IES Sta. Eulalia de Mérida) que hablará acerca de «José Fernández López, empresario y Mecenas de Mérida», gran industr...",
-      "date": "2026-05-26",
-      "url": "https://merida.es/agenda/seminarios-de-patrimonio-jose-fernandez-lopez-empresario-y-mecenas-de-merida/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
