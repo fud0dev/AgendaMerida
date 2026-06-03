@@ -1,9 +1,33 @@
 {
-  "updated_at": "2026-06-03T11:55:29Z",
-  "count": 112,
+  "updated_at": "2026-06-03T17:59:16Z",
+  "count": 108,
   "events": [
     {
-      "title": "Mérida arropa a Juan Carlos Nieto, un funcionario que el SEPE ha expedientado por atender sin cita previa: \"No es caridad, es mi trabajo\"",
+      "title": "La prensa de Mérida premia al Festival de Teatro, la Guardia Civil y Máximo Durán en la gala de sus 25 años",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/asociacion-prensa-merida-premia-festival-teatro-guardia-civil-maximo-duran-25-anos-gala-130985909.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ministerio de Trabajo alega \"múltiples motivos\" en el expediente al funcionario Juan Carlos Nieto en Mérida",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/ministerio-trabajo-responde-caso-merida-juan-carlos-nieto-expediente-sepe-multiples-motivos-130983542.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "José Mercé, a las puertas de su concierto en el Teatro Romano: \"Cantar en Mérida es estar como en otra galaxia\"",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/jose-merce-concierto-teatro-romano-merida-stone-music-festival-130966752.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Concentración en Mérida para arropar a Juan Carlos Nieto, un funcionario que el SEPE ha expedientado por atender sin cita previa: \"No es caridad, es mi trabajo\"",
       "description": "",
       "date": "2026-06-03",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/merida-apoya-juan-carlos-nieto-funcionario-sepe-130962989.html",
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-06-03",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/02/tercera-fuga-triunfan-premios-max-130912676.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adif renovará cinco estaciones del tren Mérida-Sevilla: 6,6 millones para dejar atrás viejas carencias",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/01/adif-renovara-cinco-estaciones-tren-merida-sevilla-6-6-millones-euros-130906002.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El granero abandonado de 10.500 toneladas que Adenex y Fondenex quieren salvar como BIC en Mérida",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/01/adenex-fondenex-piden-declarar-bic-silo-merida-130888568.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El PP acusa a Osuna de dejar a Mérida expuesta a los incendios por los solares sin desbrozar",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/01/pp-acusa-osuna-merida-expuesta-riesgo-incendios-solares-desbrozar-130886320.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -171,6 +171,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Consorcio de la Ciudad Monumental presenta un libro sobre la decoración pictórica en Augusta Emerita",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-presenta-libro-sobre-decoracion-20260603143550-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Los vecinos de Montealto claman contra las carreras de motos, el ruido y la falta de luz en el parque",
       "description": "",
       "date": "2026-06-03",
@@ -187,10 +195,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida refuerza la atención a las mujeres que han sufrido violencia de género",
+      "title": "Esta es la música que sonará en el Stone&Music 2026",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.hoy.es/merida/merida-refuerza-atencion-mujeres-sufrido-violencia-genero-20260602123529-nt.html",
+      "url": "https://www.hoy.es/merida/musica-sonara-stonemusic-merida-artitas-grupos-2026-20251119091207-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -200,6 +208,14 @@
       "date": "2026-06-03",
       "url": "https://www.meridadiario.com/2026/06/03/el-tiempo-hoy-3-de-junio-de-2026-en-merida-segun-aemet/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rodríguez Osuna agradece el esfuerzo del empresariado emeritense tras la notable bajada de las cifras del paro registradas en el pasado mes de mayo",
+      "description": "Jun 3, 2026 | Ciudad",
+      "date": "2026-06-03",
+      "url": "https://merida.es/rodriguez-osuna-agradece-el-esfuerzo-del-empresariado-emeritense-tras-la-notable-bajada-de-las-cifras-del-paro-registradas-en-el-pasado-mes-de-mayo/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -271,14 +287,6 @@
       "description": "May 29, 2026 | Festejos",
       "date": "2026-06-03",
       "url": "https://merida.es/la-ii-gala-de-los-premios-pumu-se-traslada-al-hotel-velada-merida-ante-la-gran-acogida-del-publico/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida será el lunes la capital nacional de las artes escénicas con la celebración de la 29ª edición de los Premios Max en el Teatro Romano",
-      "description": "May 29, 2026 | Cultura , Noticias",
-      "date": "2026-06-03",
-      "url": "https://merida.es/merida-sera-el-lunes-la-capital-nacional-de-las-artes-escenicas-con-la-celebracion-de-la-29a-edicion-de-los-premios-max-en-el-teatro-romano/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -395,7 +403,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El Festival de Mérida participa en la 72ª Asamblea Anual de la Asociación Europea de Festivales en Budva",
+      "title": "Adif renovará cinco estaciones del tren Mérida-Sevilla: 6,6 millones para dejar atrás viejas carencias",
       "description": "Inversión ferroviaria",
       "date": "2026-06-03",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/01/adif-renovara-cinco-estaciones-tren-merida-sevilla-6-6-millones-euros-130906003.html",
@@ -467,6 +475,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Festival de Mérida participa en la 72ª Asamblea Anual de la Asociación Europea de Festivales en Budva",
+      "description": "Cultura",
+      "date": "2026-06-03",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/05/20/festival-merida-participa-72a-asamblea-130455077.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "Un autobús gratuito conectará el recinto ferial de Mérida con el centro durante Emerita Lvdica",
       "description": "Transporte urbano",
       "date": "2026-06-03",
@@ -515,26 +531,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Cinco denuncias por las presuntas grabaciones en los vestuarios de la Ciudad Deportiva de Mérida",
-      "description": "Suceso",
-      "date": "2026-06-03",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/cinco-denuncias-grabaciones-delito-policia-merida-129624560.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Feria del Libro de Mérida reunirá en el Templo de Diana a Elsa Punset, Manuel Vilas y Marta Robles",
-      "description": "La XLV edición se celebrará del 6 al 10 de mayo",
-      "date": "2026-06-03",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/04/28/feria-libro-literatura-escritores-letras-merida-129612559.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "70 obras artísticas reinterpretan piezas del Museo de Arte Romano en una exposición en el Centro Cultural Alcazaba",
+      "title": "Unión de Consumidores de Extremadura recupera casi 23.000 euros en una sentencia en Mérida por estafa de phishing",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/70-obras-artisticas-reinterpretan-piezas-museo-arte-romano-exposicion-centro-cultural-alcazaba_202605276a16e16d7d8b1d38125872bb.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/union-consumidores-extremadura-recupera-casi-23000-euros-sentencia-merida-estafa-phishing_202605286a1833247d8b1d38125bf67a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -547,10 +547,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Llega a Mérida la I Edición de 'Atardecer Llanero' el festival intercultural de música con actuaciones de artistas venezolanos",
+      "title": "Adif destinará 6,6 millones de euros a la remodelación de cinco estaciones en la línea Mérida-Los Rosales",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/llega-merida-edicion-atardecer-llaneros-festival-intercultural-musica-actuaciones-artistas-venezolanos_202605276a16e024cb17881aa259f57b.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/adif-destinara-66-millones-euros-remodelacion-cinco-estaciones-linea-meridalos-rosales_202606026a1e2d4f91bae05c35eae8e0.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -571,26 +571,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (27/05/26)",
+      "title": "Noticias mediodía Mérida (03/06/26)",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-270526_202605276a16da7febf0e900078a0588.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-030626_202606036a20161b4550c600071ae330.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Adenex solicita a la Junta de Extremadura un nuevo expediente BIC para proteger el Silo de Mérida.",
+      "title": "Abierto el plazo de inscripción para participar en la prueba solidaria 10k organizada por KM0 a favor de Feafes Salud Mental",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/adenex-solicita-junta-extremadura-nuevo-expediente-bic-proteger-silo-merida_202606016a1d7100973bb0e47e775313.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/abierto-plazo-inscripcion-participar-prueba-solidaria-10k-organizada-km0-favor-feafes-salud-mental_202606036a201c1eebf0e900078a1aec.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Vivir con epilepsia. Fernando Jaén presidente de DISEPILEX, nos cuenta su día a día y qué ayuda ofrecen desde la asociación a las personas que sufren esta enfermedad crónica.",
+      "title": "El emeritense Francisco Miranda expone \"Mi Tierra, mis gentes\" 25 óleos de inspirados en la esencia y las tradiciones de Extremadura",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/vivir-epilepsia-fernando-jaen-presidente-disepilex-nos-cuenta-dia-dia-que-ayuda-ofrecen-asociacion-personas-que-sufren-esta-enfermedad-cronica_202605256a143b6b1c65b0e4be8cf689.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/emeritense-francisco-miranda-expone-tierra-mis-gentes-25-oleos-inspirados-esencia-tradiciones-extremadura_202606036a20169c56a94a0007b56a45.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -603,34 +603,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Mérida (01/06/2026)",
+      "title": "Más de uno Mérida (03/06/2026)",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-01062026_202606016a1d700d98e2c40007cbcd27.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-03062026_202606036a201dc998e2c40007cbd47e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativo Matinal Más de Uno Mérida (01/06/2026)",
+      "title": "Adenex solicita a la Junta de Extremadura un nuevo expediente BIC para proteger el Silo de Mérida.",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-01062026_202606016a1d2705ebf0e900078a11bf.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Octava organiza \"Inesperados\" micro conciertos en lugares con encanto",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/octava-organiza-inesperados-micro-conciertos-lugares-encanto_202605296a197e67973bb0e471715313.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Gente Viajera de Extremadura (29/05/2026)",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/gente-viajera-extremadura-29052026_202605296a197d6056a94a0007b55cc4.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/adenex-solicita-junta-extremadura-nuevo-expediente-bic-proteger-silo-merida_202606016a1d7100973bb0e47e775313.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -643,18 +627,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento de Badajoz prevé entre 25.000 y 30.000 asistentes a los conciertos de 'Los Palomos 2026'",
-      "description": "",
-      "date": "2026-06-03",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ayuntamiento-badajoz-preve-25000-30000-asistentes-conciertos-palomos-2026_202605296a195173cb17881aa2604557.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-06-03",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Badajoz prevé entre 25.000 y 30.000 asistentes a los conciertos de 'Los Palomos 2026'",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ayuntamiento-badajoz-preve-25000-30000-asistentes-conciertos-palomos-2026_202605296a195173cb17881aa2604557.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -691,6 +675,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Mérida refuerza la atención a las mujeres que han sufrido violencia de género",
+      "description": "",
+      "date": "2026-06-02",
+      "url": "https://www.hoy.es/merida/merida-refuerza-atencion-mujeres-sufrido-violencia-genero-20260602123529-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Cerca de 660 alumnos se examinan desde esta mañana de la PAU en Mérida",
       "description": "",
       "date": "2026-06-02",
@@ -712,14 +704,6 @@
       "date": "2026-06-02",
       "url": "https://www.hoy.es/merida/pregon-eucaristico-arzobispo-20260602080545-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura registra en mayo el menor nivel de paro de su historia con 61.540 personas desempleadas y lidera la bajada a nivel nacional",
-      "description": "",
-      "date": "2026-06-02",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
@@ -799,22 +783,6 @@
       "description": "",
       "date": "2026-05-31",
       "url": "https://www.hoy.es/merida/liceo-emeritense-culmina-ciclo-conferencias-junio-tres-20260531104758-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Pedro Mateos: «El Teatro Romano que conocemos es el de su segunda transformación»",
-      "description": "",
-      "date": "2026-05-31",
-      "url": "https://www.hoy.es/merida/pedro-mateos-teatro-romano-conocemos-segunda-transformacion-20260531104007-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Fundación CB acoge una charla sobre meditación y salud",
-      "description": "",
-      "date": "2026-05-31",
-      "url": "https://www.hoy.es/merida/fundacion-acoge-charla-sobre-meditacion-salud-20260531085230-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
