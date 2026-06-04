@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-04T10:37:50Z",
-  "count": 109,
+  "updated_at": "2026-06-04T16:19:30Z",
+  "count": 99,
   "events": [
+    {
+      "title": "700 pequeños cocodrilos chapotean entre churros y flotadores en Mérida",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/04/700-pequenos-cocodrilos-chapotean-flotadores-churros-piscina-merida-131011169.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Policías nacionales de Mérida, al límite por el calor: denuncian 34 grados en la comisaría",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/04/policias-nacionales-merida-limite-calor-denuncia-34-grados-comisaria-131008841.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El PP sale en defensa del funcionario del SEPE de Mérida y acusa al Gobierno de castigar la vocación pública",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-04",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/zona-sur-merida-saca-barrio-semana-fiesta-130949511.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El profesor de Música de Mérida que enseña \"Clavelitos\" a sus alumnos con alma de tuno carnavalero",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/02/profesor-musica-ensena-alumnos-merida-clavelitos-alma-tuno-carnavalero-130945978.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Vecinos y Fondenex se rebelan contra la dejadez que condena al depósito histórico del acueducto de San Lázaro",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/02/vecinos-fondenex-condena-dejadez-deposito-historico-san-lazaro-merida-130932677.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -163,34 +163,34 @@
       "location": "Mérida"
     },
     {
+      "title": "La presidenta de la Junta se compromete a apoyar la creación de un colegio profesional de periodistas de Extremadura",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.hoy.es/merida/presidenta-junta-compromete-apoyar-creacion-colegio-profesional-20260604141522-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "700 escolares participan en el programa de natación escolar para niños de Infantil en La Argentina",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.hoy.es/merida/700-escolares-participan-programa-natacion-escolar-ninos-20260604141940-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La asociación de vecinos Jardín de Mérida celebra su primera Semana Cultural y Feria",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.hoy.es/merida/asociacion-vecinos-jardin-merida-celebra-primera-semana-20260604135329-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La Asociación de la Prensa de Mérida y el Ayuntamiento firman un convenio de colaboración",
       "description": "",
       "date": "2026-06-04",
       "url": "https://www.hoy.es/merida/asociacion-prensa-merida-ayuntamiento-firman-convenio-colaboracion-20260603134633-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Consorcio de la Ciudad Monumental presenta un libro sobre la decoración pictórica en Augusta Emerita",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-presenta-libro-sobre-decoracion-20260603143550-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los vecinos de Montealto claman contra las carreras de motos, el ruido y la falta de luz en el parque",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.hoy.es/merida/vecinos-montealto-claman-carreras-motos-ruido-falta-20260602074537-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Muere Pepe Sánchez, 'el de los relojes', expresidente de la asociación de comerciantes de Mérida",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.hoy.es/merida/muere-pepe-sanchez-relojes-expresidente-asociacion-comerciantes-20260602135420-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -203,27 +203,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Finaliza el plazo para solicitar ayudas de material escolar para el curso 2026-2027",
-      "description": "Ayudas de Material Escolar para el curso 2026-2027El Ayuntamiento de Mérida informa que el plazo para solicitar ayudas de Material Escolar estará abierto hasta...",
+      "title": "700 escolares participan en Pequeños Cocodrilos,  el programa de natación escolar para el alumnado de Infantil en La Argentina",
+      "description": "Jun 4, 2026 | Deporte",
       "date": "2026-06-04",
-      "url": "https://www.meridadiario.com/2026/06/04/finaliza-el-plazo-para-solicitar-ayudas-de-material-escolar-para-el-curso-2026-2027/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro de Estudios Agrarios lanza actividades en la Semana Internacional de los Archivos",
-      "description": "Actividades programadas en la Semana Internacional de los ArchivosEl Centro de Estudios Agrarios (CEA), situado bajo la Consejería de Agricultura, Ganadería y Medio Natural,...",
-      "date": "2026-06-04",
-      "url": "https://www.meridadiario.com/2026/06/04/el-centro-de-estudios-agrarios-lanza-actividades-en-la-semana-internacional-de-los-archivos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 4 de Junio de 2026",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.meridadiario.com/2026/06/04/aemet-el-tiempo-para-merida-4-de-junio-de-2026/",
-      "source": "Mérida Diario",
+      "url": "https://merida.es/700-escolares-participan-en-pequenos-cocodrilos-el-programa-de-natacion-escolar-para-el-alumnado-de-infantil-en-la-argentina/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -299,16 +283,8 @@
       "location": "Mérida"
     },
     {
-      "title": "El alcalde de Mérida valora la puesta en marcha de la terminal ferroviaria de ExpacioMérida como “un antes y un después para el desarrollo logístico e industrial de la ciudad”",
-      "description": "Jun 1, 2026 | Alcaldía , Urbanismo",
-      "date": "2026-06-04",
-      "url": "https://merida.es/el-alcalde-de-merida-valora-la-puesta-en-marcha-de-la-terminal-ferroviaria-de-expaciomerida-como-un-antes-y-un-despues-para-el-desarrollo-logistico-e-industrial-de-la-ciudad/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "René Martínez no continuará en el club Romano",
-      "description": "por Mérida Noticias en Deportes 0",
+      "description": "",
       "date": "2026-06-04",
       "url": "https://meridanoticias.com/2026/06/04/rene-martinez-no-continuara-en-el-club-romano/",
       "source": "Mérida Noticias",
@@ -319,14 +295,6 @@
       "description": "",
       "date": "2026-06-04",
       "url": "https://meridanoticias.com/2026/06/03/chiqui-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Mérida ficha a Adrián Csenterics 2029",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://meridanoticias.com/2026/06/02/el-merida-ficha-a-adrian-csenterics-2029/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -351,6 +319,14 @@
       "description": "",
       "date": "2026-06-04",
       "url": "https://meridanoticias.com/2026/05/12/la-policia-local-atendio-30-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Mérida ficha a Adrián Csenterics 2029",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://meridanoticias.com/2026/06/02/el-merida-ficha-a-adrian-csenterics-2029/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -547,10 +523,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Unión de Consumidores de Extremadura recupera casi 23.000 euros en una sentencia en Mérida por estafa de phishing",
+      "title": "CEP Extremadura denunciará ante Inspección si no mejoran las condiciones térmicas en comisarías de Plasencia y Mérida",
       "description": "",
       "date": "2026-06-04",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/union-consumidores-extremadura-recupera-casi-23000-euros-sentencia-merida-estafa-phishing_202605286a1833247d8b1d38125bf67a.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/cep-extremadura-denunciara-inspeccion-mejoran-condiciones-termicas-comisarias-plasencia-merida_202606036a2012437d8b1d3812678870.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -559,14 +535,6 @@
       "description": "",
       "date": "2026-06-04",
       "url": "https://www.ondacero.es/emisoras/extremadura/noticias/asociacion-prensa-merida-celebra-este-jueves-gala-25-aniversario_202606046a20e7bd44a9ef6825ed32d3.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adif destinará 6,6 millones de euros a la remodelación de cinco estaciones en la línea Mérida-Los Rosales",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/adif-destinara-66-millones-euros-remodelacion-cinco-estaciones-linea-meridalos-rosales_202606026a1e2d4f91bae05c35eae8e0.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -587,10 +555,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (03/06/26)",
+      "title": "Noticias mediodía Mérida (04/06/26)",
       "description": "",
       "date": "2026-06-04",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-030626_202606036a20161b4550c600071ae330.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-040626_202606046a2168be57dab0e4f6d8fed4.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -619,6 +587,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (04/06/2026)",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-04062026_202606046a216a3c92619700076ce0b9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (03/06/2026)",
       "description": "",
       "date": "2026-06-04",
@@ -627,18 +603,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo Matinal Más de Uno Mérida (03/06/2026)",
+      "title": "Noticias mediodía Mérida (03/06/26)",
       "description": "",
       "date": "2026-06-04",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-03062026_202606036a1fca3256a94a0007b56889.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-030626_202606036a20161b4550c600071ae330.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "La Asociación de Comerciantes celebra la Feria de la Primavera con actividades lúdicas y sorteo.",
+      "title": "Informativo Matinal Más de Uno Mérida (03/06/2026)",
       "description": "",
       "date": "2026-06-04",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/asociacion-comerciantes-celebra-feria-primavera-actividades-ludicas-sorteo_202606016a1d736156a94a0007b56326.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-03062026_202606036a1fca3256a94a0007b56889.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -699,11 +675,19 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida se prepara para el Encuentro Regional sobre Policonsumo en el Centro Cultural La Antigua",
+      "title": "El Consorcio de la Ciudad Monumental presenta un libro sobre la decoración pictórica en Augusta Emerita",
       "description": "",
       "date": "2026-06-03",
-      "url": "https://www.meridadiario.com/2026/06/03/merida-se-prepara-para-el-encuentro-regional-sobre-policonsumo-en-el-centro-cultural-la-antigua/",
-      "source": "Mérida Diario",
+      "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-presenta-libro-sobre-decoracion-20260603143550-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los vecinos de Montealto claman contra las carreras de motos, el ruido y la falta de luz en el parque",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.hoy.es/merida/vecinos-montealto-claman-carreras-motos-ruido-falta-20260602074537-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -711,6 +695,14 @@
       "description": "",
       "date": "2026-06-02",
       "url": "https://www.hoy.es/merida/vecinos-tierno-galvan-fondenex-piden-recuperacion-deposito-20260602131140-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Muere Pepe Sánchez, 'el de los relojes', expresidente de la asociación de comerciantes de Mérida",
+      "description": "",
+      "date": "2026-06-02",
+      "url": "https://www.hoy.es/merida/muere-pepe-sanchez-relojes-expresidente-asociacion-comerciantes-20260602135420-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -755,22 +747,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La PAU 2026 Inicia su Trayectoria en Extremadura con 5.873 Estudiantes Participantes",
-      "description": "",
-      "date": "2026-06-02",
-      "url": "https://www.meridadiario.com/2026/06/02/la-pau-2026-inicia-su-trayectoria-en-extremadura-con-5-873-estudiantes-participantes/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida lanza un innovador programa de acompañamiento grupal para mujeres víctimas de violencia de género",
-      "description": "",
-      "date": "2026-06-02",
-      "url": "https://www.meridadiario.com/2026/06/02/merida-lanza-un-innovador-programa-de-acompanamiento-grupal-para-mujeres-victimas-de-violencia-de-genero/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición ‘Mi tierra, mis gentes’ de Francisco Miranda",
       "description": "Durante el mes de junio se podrá visitar en la Asamblea de Extremadura la primera muestra de Francisco Miranda bajo el título 'Mi tierra, mis gentes', en la que comparte su mirada sobre Extremadura, sus paisajes humanos y emocionales, y esa identidad serena y profunda que define a nuestra región....",
       "date": "2026-06-02",
@@ -795,46 +771,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Una empresa invertirá 1,5 millones en una estación para recargar vehículos eléctricos en Mérida",
-      "description": "",
-      "date": "2026-06-01",
-      "url": "https://www.hoy.es/merida/empresa-invertira-millones-estacion-recargar-vehiculos-electricos-20260601185047-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El BOE publica la designación de Juan de Mena como fiscal jefe de Mérida",
-      "description": "",
-      "date": "2026-06-01",
-      "url": "https://www.hoy.es/merida/boe-publica-designacion-juan-mena-fiscal-jefe-20260601192845-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Liceo emeritense culmina su ciclo de conferencias este junio con tres ponentes",
-      "description": "",
-      "date": "2026-05-31",
-      "url": "https://www.hoy.es/merida/liceo-emeritense-culmina-ciclo-conferencias-junio-tres-20260531104758-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Consejería de Educación de Extremadura Lanza un Asistente Jurídico Virtual para el Profesorado",
-      "description": "",
-      "date": "2026-05-30",
-      "url": "https://www.meridadiario.com/2026/05/30/la-consejeria-de-educacion-de-extremadura-lanza-un-asistente-juridico-virtual-para-el-profesorado/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Según el Instituto IO, Isabel Díaz Ayuso encabeza el ranking de reconocimiento político en España",
-      "description": "Intervenciones de la Policía Local en Seguridad VialDurante la semana del 6 al 12 de abril de 2026, la Policía Local de Mérida llevó...",
-      "date": "2026-05-28",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición ‘Reinterpreta nuestro pasado con las manos del presente’ de la Escuela de Arte",
       "description": "La Escuela de Arte y Superior de Diseño de Mérida organiza la exposición “Reinterpreta nuestro pasado con las manos del presente”, un proyecto multidisciplinar que une patrimonio romano, artesanía contemporánea y espacio urbano a través de 70 obras únicas creadas por el alumnado de los ciclos de ...",
       "date": "2026-05-27",
@@ -856,22 +792,6 @@
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida intensifica su promoción turística en Estados Unidos y Canadá junto con el resto de Ciudades Patrimonio, mercados con grandes expectativas de crecimiento",
-      "description": "El presidente del Grupo y alcalde de La Laguna, Luis Yeray Gutiérrez, destaca que “la previsión en 2024 es llegar a 24 rutas directas...",
-      "date": "2024-04-19",
-      "url": "https://www.meridadiario.com/2024/04/19/merida-intensifica-su-promocion-turistica-en-estados-unidos-y-canada-junto-con-el-resto-de-ciudades-patrimonio-mercados-con-grandes-expectativas-de-crecimiento/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cambios en la EBAU en Mérida: Se incorporan cuestiones de selección múltiple, las faltas de ortografía penalizarán con un 10% menos, y habrá opción a elegir preguntas",
-      "description": "Claves de la nueva EBAU 2024\nLa Evaluación del Bachillerato para el Acceso a la Universidad (EBAU) se prepara para una transformación significativa en 2024,...",
-      "date": "2024-03-18",
-      "url": "https://www.meridadiario.com/2024/03/18/cambios-en-la-ebau-en-merida-se-incorporan-cuestiones-de-seleccion-multiple-las-faltas-de-ortografia-penalizaran-con-un-10-menos-y-habra-opcion-a-elegir-preguntas/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
