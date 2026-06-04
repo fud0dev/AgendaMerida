@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T16:19:30Z",
-  "count": 99,
+  "updated_at": "2026-06-04T20:55:30Z",
+  "count": 130,
   "events": [
+    {
+      "title": "Jardín de Mérida se estrena a lo grande con una semana cultural para llenar de vida el barrio",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/04/barriada-jardin-merida-estrena-fiesta-grande-vecinos-131026553.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "700 pequeños cocodrilos chapotean entre churros y flotadores en Mérida",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Zona Sur de Mérida saca el barrio a la calle para una semana de fiesta",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/03/zona-sur-merida-saca-barrio-semana-fiesta-130949511.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Mérida arropa a Juan Carlos Nieto, el funcionario del SEPE expedientado por atender sin cita previa",
       "description": "",
       "date": "2026-06-04",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Comienza el derribo de dos casas en ruinas en la calle Holguín para excavar allí",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.hoy.es/merida/comienza-derribo-dos-casas-ruinas-calle-holguin-20260604205256-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Apoyo a Juan Carlos, el funcionario expedientado por atender a gente sin cita en la oficina del Sepe de Mérida",
       "description": "",
       "date": "2026-06-04",
@@ -187,19 +195,35 @@
       "location": "Mérida"
     },
     {
-      "title": "La Asociación de la Prensa de Mérida y el Ayuntamiento firman un convenio de colaboración",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.hoy.es/merida/asociacion-prensa-merida-ayuntamiento-firman-convenio-colaboracion-20260603134633-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Extremadura registra en mayo el menor nivel de paro de su historia con 61.540 personas desempleadas y lidera la bajada a nivel nacional",
       "description": "",
       "date": "2026-06-04",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Finaliza el plazo para solicitar ayudas de material escolar para el curso 2026-2027",
+      "description": "Ayudas de Material Escolar para el curso 2026-2027El Ayuntamiento de Mérida informa que el plazo para solicitar ayudas de Material Escolar estará abierto hasta...",
+      "date": "2026-06-04",
+      "url": "https://www.meridadiario.com/2026/06/04/finaliza-el-plazo-para-solicitar-ayudas-de-material-escolar-para-el-curso-2026-2027/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Centro de Estudios Agrarios lanza actividades en la Semana Internacional de los Archivos",
+      "description": "Actividades programadas en la Semana Internacional de los ArchivosEl Centro de Estudios Agrarios (CEA), situado bajo la Consejería de Agricultura, Ganadería y Medio Natural,...",
+      "date": "2026-06-04",
+      "url": "https://www.meridadiario.com/2026/06/04/el-centro-de-estudios-agrarios-lanza-actividades-en-la-semana-internacional-de-los-archivos/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 4 de Junio de 2026",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://www.meridadiario.com/2026/06/04/aemet-el-tiempo-para-merida-4-de-junio-de-2026/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -523,6 +547,190 @@
       "location": "Mérida"
     },
     {
+      "title": "La Asociación de la Prensa de Mérida celebra sus veinticinco años de historia",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/la-asociacion-de-la-prensa-de-merida-celebra-sus-veinticinco-anos-de-historia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los centros de datos, una apuesta de desarrollo que no es inocua para Extremadura",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/los-centros-de-datos-una-apuesta-de-desarrollo-que-no-es-inocua-para-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Expedientado un trabajador del SEPE en Mérida por atender a ciudadanos sin cita previa",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/expedientado-un-trabajador-del-sepe-en-merida-por-atender-a-ciudadanos-sin-cita-previa-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las mejores hamburguesas de España aterrizan en Mérida del 4 al 14 de junio",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/las-mejores-hamburguesas-de-espana-aterrizan-en-merida-del-4-al-14-de-junio-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La Morera' llega a Mérida para acompañar a mujeres víctimas de violencia de género",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/la-morera-llega-a-merida-para-acompanar-a-mujeres-victimas-de-violencia-de-genero-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Adenex vuelve a solicitar que se declara como BIC el Silo de Mérida",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/02/adenex-vuelve-a-solicitar-que-se-declara-como-bic-el-silo-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "AOEX Mérida celebra la XIII edición de su Gala Solidaria",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/01/aoex-merida-celebra-la-xiii-edicion-de-su-gala-solidaria-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Usuarios de Down Mérida se formará para ser \"hospitaleros voluntarios\"",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/05/28/usuarios-de-down-merida-se-formara-para-ser-hospitaleros-voluntarios-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Antigua de Mérida celebra la 45º Semana Cultural en las calles del barrio",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/05/28/la-antigua-de-merida-celebra-la-45-semana-cultural-en-las-calles-del-barrio-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alumnos de la Escuela de Arte y Superior de Diseño de Mérida reinterpretan piezas del MNAR",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/05/27/alumnos-de-la-escuela-de-arte-y-superior-de-diseno-de-merida-reinterpretan-piezas-del-mnar-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Miscelánea Social: Feafes nos cuenta los detalles de la elaboración del I Plan de Prevención del Suicidio para Villafranca de los Barros",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/05/27/miscelanea-social-feafes-nos-cuenta-los-detalles-de-la-elaboracion-del-i-plan-de-prevencion-del-suicidio-para-villafranca-de-los-barros-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "David Sánchez, ante el tribunal: \"Ni tengo capacidad de decidir nada ni tengo información administrativa\"",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/nacional/2026/06/04/david-sanchez-hermano-del-presidente-del-gobierno-declara-este-jueves-tras-concluir-la-fase-testifical-cadena-ser/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El paro desciende en Mérida en 139 personas",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/el-paro-desciende-en-merida-en-139-personas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La justicia se persona en una fosa del franquismo en Castuera",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/la-justicia-se-persona-en-una-fosa-del-franquismo-en-castuera-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta niega recortes en el Cadex de Cáceres y garantiza la continuidad de todos los tratamientos",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/la-junta-niega-recortes-en-el-cadex-de-caceres-y-garantiza-la-continuidad-de-todos-los-tratamientos-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres se promocionará en las grandes pantallas de Madrid durante la visita del Papa León XIV",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/04/caceres-se-promocionara-en-las-grandes-pantallas-de-madrid-durante-la-visita-del-papa-leon-xiv-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fernández Calle descarta que el Centro Cereza de Plasencia acoja menas y defiende el recorte de más de 10 millones en cooperación internacional",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/fernandez-calle-descarta-que-el-centro-cereza-de-plasencia-acoja-menas-y-defiende-el-recorte-de-mas-de-10-millones-en-cooperacion-internacional-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La UCO sitúa en la cúpula política de la Diputación de Badajoz el origen de la plaza que ocupó David Sánchez",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/la-uco-situa-en-la-cupula-politica-de-la-diputacion-de-badajoz-el-origen-de-la-plaza-que-ocupo-david-sanchez-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Unidas por Extremadura denuncia en Miajadas la proliferación de proyectos para la instalación de plantas de biogás en Extremadura",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/unidas-por-extremadura-denuncia-en-miajadas-la-proliferacion-de-proyectos-para-la-instalacion-de-plantas-de-biogas-en-extremadura-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Medellín abre la Casa de María Asunción como nuevo espacio expositivo arqueológico",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/medellin-abre-la-casa-de-maria-asuncion-como-nuevo-espacio-expositivo-arqueologico-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Guareña acoge este sábado el I Torneo Benéfico de Fútbol 8 “Juntos somos más fuertes”",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/guarena-acoge-este-sabado-el-i-torneo-benefico-de-futbol-8-juntos-somos-mas-fuertes-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Baja el paro en Don Benito y Villanueva de la Serena en este mes de mayo",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/02/baja-el-paro-en-don-benito-y-villanueva-de-la-serena-en-este-mes-de-mayo-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Así ha arrancado la PAU en Vegas Altas y La Serena",
+      "description": "",
+      "date": "2026-06-04",
+      "url": "https://cadenaser.com/extremadura/2026/06/02/asi-ha-arrancado-la-pau-en-vegas-altas-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "CEP Extremadura denunciará ante Inspección si no mejoran las condiciones térmicas en comisarías de Plasencia y Mérida",
       "description": "",
       "date": "2026-06-04",
@@ -651,26 +859,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Cine Filmoteca: «Todo lo que fuimos»",
-      "description": "Título original: Allly baqi mink País: Palestina, Alemania, Francia Año: 2025 Duración: 145’ Dirección: Cherien Dabis Guion: Cherien Dabis Género: Drama Reparto: Cherien Dabis, Saleh Bakri, Mohammed Bakri, Adam Bakri Sinopsis: Durante una protesta en Cisjordania, un adolescente palestino se ve im...",
-      "date": "2026-06-04",
-      "url": "https://merida.es/agenda/cine-filmoteca-todo-lo-que-fuimos/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mit Jazz Festival: «Maciej Fortuna Band» (Noches en el Templo)",
-      "description": "Maciej Fortuna es un trompetista, compositor y productor polaco reconocido por su fusión innovadora de jazz, electrónica y world music. Es doctor en artes musicales, imparte clases en la Academia de Música de Poznań y dirige su propio sello, Fortuna Music.​ Ha ganado múltiples premios, lidera var...",
-      "date": "2026-06-04",
-      "url": "https://merida.es/agenda/mit-jazz-festival-maciej-fortuna-band-noches-en-el-templo/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "Esta es la música que sonará en el Stone&Music 2026",
       "description": "",
       "date": "2026-06-03",
       "url": "https://www.hoy.es/merida/musica-sonara-stonemusic-merida-artitas-grupos-2026-20251119091207-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Asociación de la Prensa de Mérida y el Ayuntamiento firman un convenio de colaboración",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.hoy.es/merida/asociacion-prensa-merida-ayuntamiento-firman-convenio-colaboracion-20260603134633-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -688,6 +888,14 @@
       "date": "2026-06-03",
       "url": "https://www.hoy.es/merida/vecinos-montealto-claman-carreras-motos-ruido-falta-20260602074537-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se prepara para el Encuentro Regional sobre Policonsumo en el Centro Cultural La Antigua",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.meridadiario.com/2026/06/03/merida-se-prepara-para-el-encuentro-regional-sobre-policonsumo-en-el-centro-cultural-la-antigua/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -747,6 +955,22 @@
       "location": "Mérida"
     },
     {
+      "title": "La PAU 2026 Inicia su Trayectoria en Extremadura con 5.873 Estudiantes Participantes",
+      "description": "",
+      "date": "2026-06-02",
+      "url": "https://www.meridadiario.com/2026/06/02/la-pau-2026-inicia-su-trayectoria-en-extremadura-con-5-873-estudiantes-participantes/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida lanza un innovador programa de acompañamiento grupal para mujeres víctimas de violencia de género",
+      "description": "",
+      "date": "2026-06-02",
+      "url": "https://www.meridadiario.com/2026/06/02/merida-lanza-un-innovador-programa-de-acompanamiento-grupal-para-mujeres-victimas-de-violencia-de-genero/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘Mi tierra, mis gentes’ de Francisco Miranda",
       "description": "Durante el mes de junio se podrá visitar en la Asamblea de Extremadura la primera muestra de Francisco Miranda bajo el título 'Mi tierra, mis gentes', en la que comparte su mirada sobre Extremadura, sus paisajes humanos y emocionales, y esa identidad serena y profunda que define a nuestra región....",
       "date": "2026-06-02",
@@ -763,11 +987,19 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento de Mérida ha capturado 1.731 palomas en las 20 jaulas colocadas",
+      "title": "La Consejería de Educación de Extremadura Lanza un Asistente Jurídico Virtual para el Profesorado",
       "description": "",
-      "date": "2026-06-01",
-      "url": "https://www.hoy.es/merida/ayuntamiento-capturado-1731-palomas-jaulas-colocadas-20260601184245-nt.html",
-      "source": "Hoy.es",
+      "date": "2026-05-30",
+      "url": "https://www.meridadiario.com/2026/05/30/la-consejeria-de-educacion-de-extremadura-lanza-un-asistente-juridico-virtual-para-el-profesorado/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Según el Instituto IO, Isabel Díaz Ayuso encabeza el ranking de reconocimiento político en España",
+      "description": "Intervenciones de la Policía Local en Seguridad VialDurante la semana del 6 al 12 de abril de 2026, la Policía Local de Mérida llevó...",
+      "date": "2026-05-28",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -792,6 +1024,22 @@
       "date": "2026-03-07",
       "url": "https://merida.es/agenda/mit-jazz-festival-merida-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida intensifica su promoción turística en Estados Unidos y Canadá junto con el resto de Ciudades Patrimonio, mercados con grandes expectativas de crecimiento",
+      "description": "El presidente del Grupo y alcalde de La Laguna, Luis Yeray Gutiérrez, destaca que “la previsión en 2024 es llegar a 24 rutas directas...",
+      "date": "2024-04-19",
+      "url": "https://www.meridadiario.com/2024/04/19/merida-intensifica-su-promocion-turistica-en-estados-unidos-y-canada-junto-con-el-resto-de-ciudades-patrimonio-mercados-con-grandes-expectativas-de-crecimiento/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cambios en la EBAU en Mérida: Se incorporan cuestiones de selección múltiple, las faltas de ortografía penalizarán con un 10% menos, y habrá opción a elegir preguntas",
+      "description": "Claves de la nueva EBAU 2024\nLa Evaluación del Bachillerato para el Acceso a la Universidad (EBAU) se prepara para una transformación significativa en 2024,...",
+      "date": "2024-03-18",
+      "url": "https://www.meridadiario.com/2024/03/18/cambios-en-la-ebau-en-merida-se-incorporan-cuestiones-de-seleccion-multiple-las-faltas-de-ortografia-penalizaran-con-un-10-menos-y-habra-opcion-a-elegir-preguntas/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
