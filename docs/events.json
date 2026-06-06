@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-06T09:24:27Z",
-  "count": 137,
+  "updated_at": "2026-06-06T14:28:36Z",
+  "count": 111,
   "events": [
+    {
+      "title": "El Acueducto de los Milagros se harta de eventos: vecinos de Mérida preparan una queja formal",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/vecinos-quejas-eventos-acueducto-milagros-merida-131093160.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "De \"El Rey León\" a \"Toy Story\": la Film Symphony Orchestra regala a Mérida una noche de película",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/film-symphony-orchestra-concierto-cine-teatro-romano-merida-131089458.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El botiquín emocional que llega a 405 adolescentes de Mérida contra el estrés en clase",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Jardín de Mérida se estrena a lo grande con una semana cultural para llenar de vida el barrio",
+      "title": "Vídeo | La Film Symphony Orchestra regala a Mérida una noche de película",
       "description": "",
       "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/04/barriada-jardin-merida-estrena-fiesta-grande-vecinos-131026553.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "700 pequeños cocodrilos chapotean entre churros y flotadores en Mérida",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/04/700-pequenos-cocodrilos-chapotean-flotadores-churros-piscina-merida-131011169.html",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -94,7 +102,15 @@
       "title": "Video | El centro histórico de Mérida pierde dos casas en ruina para sacar a la luz posibles restos romanos",
       "description": "",
       "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/05/video-centro-historico-merida-pierde-dos-casas-ruinosas-buscar-restos-romanos-131050444.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fotogalería | El Mercado de Calatrava de Mérida",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/03/fotogaleria-mercado-calatrava-merida-130987801.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -139,22 +155,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Fotogalería | Los galardonados en los Premios Max 2026 en Mérida",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/02/fotogaleria-galardonados-premios-max-2026-merida-130917527.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | La gala de los Premios Max en Mérida, en imágenes",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/02/fotogaleria-gala-premios-max-merida-130917289.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Apoyo a Juan Carlos, el funcionario expedientado por atender a gente sin cita en la oficina del Sepe de Mérida",
       "description": "",
       "date": "2026-06-06",
@@ -192,6 +192,38 @@
       "date": "2026-06-06",
       "url": "https://www.hoy.es/merida/700-escolares-participan-programa-natacion-escolar-ninos-20260604141940-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura premia a 65 alumnos en los Premios Extraordinarios y de Ortografía",
+      "description": "Un reconocimiento a la excelencia educativa en Extremadura La consejera de Educación y Formación Profesional de la Junta de Extremadura, Sandra Valencia, destacó en...",
+      "date": "2026-06-06",
+      "url": "https://www.meridadiario.com/2026/06/06/la-junta-de-extremadura-premia-a-65-alumnos-en-los-premios-extraordinarios-y-de-ortografia/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AEMET: El tiempo para Mérida – 6 de Junio de 2026",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.meridadiario.com/2026/06/06/aemet-el-tiempo-para-merida-6-de-junio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Escuela de Enfermería FJD-UAM consolida su prestigio académico y asistencial",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.meridadiario.com/2026/06/06/la-escuela-de-enfermeria-fjd-uam-consolida-su-prestigio-academico-y-asistencial/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura Comienza Mejoras en el Acceso a Solana de los Barros desde la EX 300",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.meridadiario.com/2026/06/06/la-junta-de-extremadura-comienza-mejoras-en-el-acceso-a-solana-de-los-barros-desde-la-ex-300/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -515,206 +547,6 @@
       "location": "Mérida"
     },
     {
-      "title": "\"Tener trabajo ya no es suficiente para salir de la rueda de la exclusión social\"",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/tener-trabajo-ya-no-es-suficiente-para-salir-de-la-rueda-de-la-exclusion-social-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Asociación de la Prensa de Mérida celebra sus veinticinco años de historia",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/la-asociacion-de-la-prensa-de-merida-celebra-sus-veinticinco-anos-de-historia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los centros de datos, una apuesta de desarrollo que no es inocua para Extremadura",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/03/los-centros-de-datos-una-apuesta-de-desarrollo-que-no-es-inocua-para-extremadura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las mejores hamburguesas de España aterrizan en Mérida del 4 al 14 de junio",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/las-mejores-hamburguesas-de-espana-aterrizan-en-merida-del-4-al-14-de-junio-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'La Morera' llega a Mérida para acompañar a mujeres víctimas de violencia de género",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/03/la-morera-llega-a-merida-para-acompanar-a-mujeres-victimas-de-violencia-de-genero-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adenex vuelve a solicitar que se declara como BIC el Silo de Mérida",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/02/adenex-vuelve-a-solicitar-que-se-declara-como-bic-el-silo-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "AOEX Mérida celebra la XIII edición de su Gala Solidaria",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/01/aoex-merida-celebra-la-xiii-edicion-de-su-gala-solidaria-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Usuarios de Down Mérida se formará para ser \"hospitaleros voluntarios\"",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/28/usuarios-de-down-merida-se-formara-para-ser-hospitaleros-voluntarios-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Antigua de Mérida celebra la 45º Semana Cultural en las calles del barrio",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/28/la-antigua-de-merida-celebra-la-45-semana-cultural-en-las-calles-del-barrio-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alumnos de la Escuela de Arte y Superior de Diseño de Mérida reinterpretan piezas del MNAR",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/27/alumnos-de-la-escuela-de-arte-y-superior-de-diseno-de-merida-reinterpretan-piezas-del-mnar-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Miscelánea Social: Feafes nos cuenta los detalles de la elaboración del I Plan de Prevención del Suicidio para Villafranca de los Barros",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/05/27/miscelanea-social-feafes-nos-cuenta-los-detalles-de-la-elaboracion-del-i-plan-de-prevencion-del-suicidio-para-villafranca-de-los-barros-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Oex estrena temporada en octubre con catorce programas principales y siete espectáculos diversos",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/la-oex-estrena-temporada-en-octubre-con-catorce-programas-principales-y-siete-espectaculos-diversos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito intensifica las medidas contra el virus del Nilo y la proliferación de palomas",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/don-benito-intensifica-las-medidas-contra-el-virus-del-nilo-y-la-proliferacion-de-palomas-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El fútbol extremeño llora la muerte de Ange, símbolo de esfuerzo e integración en Talayuela",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/el-futbol-extremeno-llora-la-muerte-de-ange-simbolo-de-esfuerzo-e-integracion-en-talayuela-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una década de trabajo constante consolida a la Unidad Canina de Villanueva como referente en Extremadura",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/una-decada-de-trabajo-constante-consolida-a-la-unidad-canina-de-villanueva-como-referente-en-extremadura-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El BCB busca apoyos para salir en Segunda FEB tras su brillante ascenso del sábado",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/el-bcb-busca-apoyos-para-salir-en-segunda-feb-tras-su-brillante-ascenso-del-sabado-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Judith García Montes, dispuesta a triunfar en el judo con las artes marciales en la sangre",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/judith-garcia-montes-dispuesta-a-triunfar-en-el-judo-con-las-artes-marciales-en-la-sangre-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los 40 Sessions busca congregar al público joven de Badajoz en el en el Auditorio Ricardo Carapeto",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/los-40-sessions-busca-congregar-al-publico-joven-de-badajoz-en-el-en-el-auditorio-ricardo-carapeto-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "David Sánchez, ante el tribunal: \"Ni tengo capacidad de decidir nada ni tengo información administrativa\"",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/nacional/2026/06/04/david-sanchez-hermano-del-presidente-del-gobierno-declara-este-jueves-tras-concluir-la-fase-testifical-cadena-ser/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El paro desciende en Mérida en 139 personas",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/el-paro-desciende-en-merida-en-139-personas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La justicia se persona en una fosa del franquismo en Castuera",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/la-justicia-se-persona-en-una-fosa-del-franquismo-en-castuera-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta niega recortes en el Cadex de Cáceres y garantiza la continuidad de todos los tratamientos",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/la-junta-niega-recortes-en-el-cadex-de-caceres-y-garantiza-la-continuidad-de-todos-los-tratamientos-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres se promocionará en las grandes pantallas de Madrid durante la visita del Papa León XIV",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/caceres-se-promocionara-en-las-grandes-pantallas-de-madrid-durante-la-visita-del-papa-leon-xiv-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fernández Calle descarta que el Centro Cereza de Plasencia acoja menas y defiende el recorte de más de 10 millones en cooperación internacional",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/03/fernandez-calle-descarta-que-el-centro-cereza-de-plasencia-acoja-menas-y-defiende-el-recorte-de-mas-de-10-millones-en-cooperacion-internacional-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La UCO sitúa en la cúpula política de la Diputación de Badajoz el origen de la plaza que ocupó David Sánchez",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://cadenaser.com/extremadura/2026/06/03/la-uco-situa-en-la-cupula-politica-de-la-diputacion-de-badajoz-el-origen-de-la-plaza-que-ocupo-david-sanchez-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "CEP Extremadura denunciará ante Inspección si no mejoran las condiciones térmicas en comisarías de Plasencia y Mérida",
       "description": "",
       "date": "2026-06-06",
@@ -835,14 +667,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Jornadas FALREX-ALREX: «La normalización del policonsumo»",
-      "description": "El sábado 6 de junio, a partir de las 9:30 horas, el Centro Cultural de La Antigua acoge la Jornada sobre 'La Normalización del Policonsumo' organizada por la Federación de Personas Alcohólicas Rehabilitadas y Familiares de Extremadura (FALREX) y la asociación ALREX Mérida. La jornada pretende pr...",
-      "date": "2026-06-06",
-      "url": "https://merida.es/agenda/jornadas-falrex-alrex-la-normalizacion-del-policonsumo/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "Queen Forever Tribute (APLAZADO)",
       "description": "Más que un tributo, Queen Forever es un espectáculo que revive la grandeza de Queen con una autenticidad impresionante. Cada show es un viaje en el tiempo, desde Live Aid hasta Wembley ‘86, recreando con precisión cada detalle: el sonido inconfundible, el vestuario icónico y la energía arrollador...",
       "date": "2026-06-06",
@@ -875,34 +699,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Servicio Extremeño de Salud (SES) destina más de 9,8 millones a la rehabilitación psicosocial en salud mental",
-      "description": "El SES impulsa la rehabilitación psicosocial en salud mentalEl Servicio Extremeño de Salud (SES) ha anunciado una significativa inversión de 9.816.006,71 euros para promover...",
+      "title": "El Curso 2026/2027 en Extremadura Comenzará el 10 de Septiembre",
+      "description": "Inicio de Clases en ExtremaduraLa actividad lectiva para el curso escolar 2026/2027 en Extremadura dará comienzo el próximo 10 de septiembre. Este inicio de...",
       "date": "2026-06-05",
-      "url": "https://www.meridadiario.com/2026/06/05/el-servicio-extremeno-de-salud-ses-destina-mas-de-98-millones-a-la-rehabilitacion-psicosocial-en-salud-mental/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Previsión de la AEMET en Mérida hoy 5 de Junio de 2026",
-      "description": "",
-      "date": "2026-06-05",
-      "url": "https://www.meridadiario.com/2026/06/05/prevision-de-la-aemet-en-merida-hoy-5-de-junio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura destina 1,3 millones de euros para mejorar las instalaciones deportivas municipales",
-      "description": "",
-      "date": "2026-06-05",
-      "url": "https://www.meridadiario.com/2026/06/05/la-junta-de-extremadura-destina-13-millones-de-euros-para-mejorar-las-instalaciones-deportivas-municipales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cultura destina casi medio millón de euros en ayudas para actividades culturales en Extremadura",
-      "description": "",
-      "date": "2026-06-05",
-      "url": "https://www.meridadiario.com/2026/06/05/cultura-destina-casi-medio-millon-de-euros-en-ayudas-para-actividades-culturales-en-extremadura/",
+      "url": "https://www.meridadiario.com/2026/06/05/el-curso-2026-2027-en-extremadura-comenzara-el-10-de-septiembre/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -932,25 +732,9 @@
     },
     {
       "title": "Extremadura brinda ayudas para el estudio de inglés a 671 estudiantes de ESO",
-      "description": "Ayudas al estudio de inglés en horario extraescolarLa Junta de Extremadura ha puesto en marcha una iniciativa que beneficiará a 671 alumnos de Educación...",
+      "description": "",
       "date": "2026-06-04",
       "url": "https://www.meridadiario.com/2026/06/04/extremadura-brinda-ayudas-para-el-estudio-de-ingles-a-671-estudiantes-de-eso/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Finaliza el plazo para solicitar ayudas de material escolar para el curso 2026-2027",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.meridadiario.com/2026/06/04/finaliza-el-plazo-para-solicitar-ayudas-de-material-escolar-para-el-curso-2026-2027/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro de Estudios Agrarios lanza actividades en la Semana Internacional de los Archivos",
-      "description": "",
-      "date": "2026-06-04",
-      "url": "https://www.meridadiario.com/2026/06/04/el-centro-de-estudios-agrarios-lanza-actividades-en-la-semana-internacional-de-los-archivos/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -992,6 +776,14 @@
       "date": "2026-06-03",
       "url": "https://www.hoy.es/merida/vecinos-montealto-claman-carreras-motos-ruido-falta-20260602074537-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida se prepara para el Encuentro Regional sobre Policonsumo en el Centro Cultural La Antigua",
+      "description": "",
+      "date": "2026-06-03",
+      "url": "https://www.meridadiario.com/2026/06/03/merida-se-prepara-para-el-encuentro-regional-sobre-policonsumo-en-el-centro-cultural-la-antigua/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1051,7 +843,7 @@
       "location": "Mérida"
     },
     {
-      "title": "La ocupación hotelera en Mérida, durante el primer fin de semana tras el Estado de Alarma, supera el 85%",
+      "title": "Restituidas al tráfico las calles Moreno de Vargas, Louis Braille, Concepción y Trajano para el acceso de residentes y autorizados.",
       "description": "Intervenciones de la Policía Local en Seguridad VialDurante la semana del 6 al 12 de abril de 2026, la Policía Local de Mérida llevó...",
       "date": "2026-05-28",
       "url": "https://www.meridadiario.com/",
@@ -1083,18 +875,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El botón de diamante de YouTube es ahora de LaLiga gracias a sus 10 millones de suscriptores",
-      "description": "LaLiga obtiene el botón de diamante en YouTube al conseguir 10 millones de suscriptores LaLiga alcanza los 10 millones de suscriptores...",
-      "date": "2024-03-23",
-      "url": "https://www.meridadiario.com/2024/03/23/el-boton-de-diamante-de-youtube-es-ahora-de-laliga-gracias-a-sus-10-millones-de-suscriptores/",
+      "title": "Málaga recibirá 34 millones con el inicio de DES2024",
+      "description": "DES - Digital Enterprise Show 2024, el mayor evento europeo dedicado a las tecnologías exponenciales, abre hoy sus puertas y hasta el próximo jueves,...",
+      "date": "2024-06-11",
+      "url": "https://www.meridadiario.com/2024/06/11/malaga-recibira-34-millones-con-el-inicio-de-des2024/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Entradas disponibles para «Están locos estos romanos», una actividad teatral organizada por las delegaciones de cultura y diversidad funcional",
-      "description": "Todavía hay entradas disponibles para asistir a la obra teatral, ‘ ‘Están locos estos romanos’, una comedia teatral que está inspirada en las obras del dramaturgo...",
-      "date": "2021-04-14",
-      "url": "https://www.meridadiario.com/2021/04/14/entradas-disponibles-para-estan-locos-estos-romanos-una-actividad-teatral-organizada-por-las-delegaciones-de-cultura-y-diversidad-funcional/",
+      "title": "Llamamiento a los nacidos en 1991 para vacunación 3ª dosis, viernes 4 de Febrero.",
+      "description": "El Área de Salud de Mérida convoca a los todos los nacidos en los años 1991 para vacunación masiva de 3ª dosis (Dosis de...",
+      "date": "2022-01-31",
+      "url": "https://www.meridadiario.com/2022/01/31/llamamiento-a-los-nacidos-en-1991-para-vacunacion-3a-dosis-viernes-4-de-febrero/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
