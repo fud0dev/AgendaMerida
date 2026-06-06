@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-06T14:28:36Z",
-  "count": 111,
+  "updated_at": "2026-06-06T20:07:40Z",
+  "count": 110,
   "events": [
+    {
+      "title": "Sergio Dalma revoluciona Mérida con un baño de seguidores antes de subirse al escenario",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/sergio-dalma-revoluciona-merida-antes-concierto-131102184.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Sanciones por no limpiar solares en Mérida ante el riesgo de incendios y plagas",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/solares-desbrozar-incendios-merida-sanciones-plagas-131099811.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Acueducto de los Milagros se harta de eventos: vecinos de Mérida preparan una queja formal",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El centro histórico de Mérida pierde dos casas en ruina para sacar a la luz posibles restos romanos",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/05/centro-historico-merida-pierde-casas-ruinas-para-buscar-restos-romanos-131048468.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Últimos días para pedir las ayudas de material escolar en Mérida",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/05/ultimos-dias-pedir-ayudas-material-escolar-merida-131028008.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | La Film Symphony Orchestra regala a Mérida una noche de película",
       "description": "",
       "date": "2026-06-06",
@@ -155,18 +155,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Apoyo a Juan Carlos, el funcionario expedientado por atender a gente sin cita en la oficina del Sepe de Mérida",
-      "description": "",
-      "date": "2026-06-06",
-      "url": "https://www.hoy.es/merida/defensor-pueblo-pide-sepe-informacion-expediente-abierto-20260605173458-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ayuntamiento recuerda a los propietarios de solares la obligatoriedad de que estén desbrozados",
       "description": "",
       "date": "2026-06-06",
       "url": "https://www.hoy.es/merida/ayuntamiento-recuerda-propietarios-solares-obligatoriedad-desbrozados-20260606112722-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Apoyo a Juan Carlos, el funcionario expedientado por atender a gente sin cita en la oficina del Sepe de Mérida",
+      "description": "",
+      "date": "2026-06-06",
+      "url": "https://www.hoy.es/merida/defensor-pueblo-pide-sepe-informacion-expediente-abierto-20260605173458-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -664,14 +664,6 @@
       "date": "2026-06-06",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/entrevista-apamex-novedades-materia-accesibilidad-badajoz_2026021769945ca81817b41eb64dc2d7.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Queen Forever Tribute (APLAZADO)",
-      "description": "Más que un tributo, Queen Forever es un espectáculo que revive la grandeza de Queen con una autenticidad impresionante. Cada show es un viaje en el tiempo, desde Live Aid hasta Wembley ‘86, recreando con precisión cada detalle: el sonido inconfundible, el vestuario icónico y la energía arrollador...",
-      "date": "2026-06-06",
-      "url": "https://merida.es/agenda/queen-forever-tribute/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
