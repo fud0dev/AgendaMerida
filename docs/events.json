@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-08T16:47:26Z",
-  "count": 136,
+  "updated_at": "2026-06-08T21:11:05Z",
+  "count": 100,
   "events": [
+    {
+      "title": "El Corpus de Mérida no será como siempre: el calor obliga a modificar la procesión",
+      "description": "",
+      "date": "2026-06-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/08/calor-obliga-cambiar-corpus-merida-este-domingo-131169173.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dos hermanos de Alange consolidan La Jara Festival por tercer año consecutivo con música, acampada y noches junto al pantano",
+      "description": "",
+      "date": "2026-06-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/08/hermanos-alange-consolidan-jara-festival-fiesta-tercer-ano-consecutivo-131167176.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El restaurante de Mérida que ha hecho flipar al 'influencer' culinario Cocituber con cocina extremeña de la de antes",
       "description": "",
@@ -11,18 +27,18 @@
       "location": "Mérida"
     },
     {
-      "title": "De los deportes acuáticos a las tirolinas, la fotografía o el inglés: Mérida prepara un verano con 2.130 actividades para niños y jóvenes",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/08/deportes-acuaticos-tirolinas-fotografia-ingles-actividades-verano-ninos-jovenes-merida-ayuntamiento-131153423.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Julio Vallejo, trabajador de la ONCE en Mérida, elegido mejor vendedor de Extremadura en 2025",
       "description": "",
       "date": "2026-06-08",
       "url": "https://www.elperiodicoextremadura.com/extremadura/2026/06/08/julio-vallejo-trabajador-once-merida-131155706.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "De los deportes acuáticos a las tirolinas, la fotografía o el inglés: Mérida prepara un verano con 2.130 actividades para niños y jóvenes",
+      "description": "",
+      "date": "2026-06-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/08/deportes-acuaticos-tirolinas-fotografia-ingles-actividades-verano-ninos-jovenes-merida-ayuntamiento-131153423.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/sergio-dalma-revoluciona-merida-antes-concierto-131102184.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Sanciones por no limpiar solares en Mérida ante el riesgo de incendios y plagas",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/solares-desbrozar-incendios-merida-sanciones-plagas-131099811.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Acueducto de los Milagros se harta de eventos: vecinos de Mérida preparan una queja formal",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/06/vecinos-quejas-eventos-acueducto-milagros-merida-131093160.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -331,94 +331,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Javi Areso, renovado en la AD Mérida",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/06/05/javi-areso-renovado-en-la-ad-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Acuerdo de colaboración con la Asociación de Fútbol Mérida Veteranos",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/06/04/acuerdo-de-colaboracion-con-la-asociacion-de-futbol-merida-veteranos/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cacha no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/06/04/cacha-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 16 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/05/26/la-policia-local-intervino-en-16-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida autoriza la ampliación del horario de cierre de los establecimientos hosteleros con motivo de la celebración de la XVI edición de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/05/20/el-ayuntamiento-de-merida-autoriza-la-ampliacion-del-horario-de-cierre-de-los-establecimientos-hosteleros-con-motivo-de-la-celebracion-de-la-xvi-edicion-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "René Martínez no continuará en el club Romano",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/06/04/rene-martinez-no-continuara-en-el-club-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Chiqui no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/06/03/chiqui-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-06-08",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "Concentración en Mérida para arropar a Juan Carlos Nieto, un funcionario que el SEPE ha expedientado por atender sin cita previa: \"No es caridad, es mi trabajo\"",
       "description": "Respuesta oficial",
       "date": "2026-06-08",
@@ -568,206 +480,6 @@
       "date": "2026-06-08",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/05/reclaman-museo-romano-merida-plantilla-129881437.html",
       "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La científica Eva Nogales clausura el VI Concurso Mujer y Ciencia del CPR de Almendralejo",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/la-cientifica-eva-nogales-clausura-el-vi-concurso-mujer-y-ciencia-del-cpr-de-almendralejo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Tener trabajo ya no es suficiente para salir de la rueda de la exclusión social\"",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/tener-trabajo-ya-no-es-suficiente-para-salir-de-la-rueda-de-la-exclusion-social-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Asociación de la Prensa de Mérida celebra sus veinticinco años de historia",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/la-asociacion-de-la-prensa-de-merida-celebra-sus-veinticinco-anos-de-historia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Asociación Regional Párkinson Extremadura abre sus puertas en una jornada de convivencia y concienciación",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/la-asociacion-regional-parkinson-extremadura-abre-sus-puertas-en-una-jornada-de-convivencia-y-concienciacion-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las mejores hamburguesas de España aterrizan en Mérida del 4 al 14 de junio",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/04/las-mejores-hamburguesas-de-espana-aterrizan-en-merida-del-4-al-14-de-junio-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'La Morera' llega a Mérida para acompañar a mujeres víctimas de violencia de género",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/03/la-morera-llega-a-merida-para-acompanar-a-mujeres-victimas-de-violencia-de-genero-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adenex vuelve a solicitar que se declara como BIC el Silo de Mérida",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/02/adenex-vuelve-a-solicitar-que-se-declara-como-bic-el-silo-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El cineasta emeritense Rodrigo Olmedo, vencedor del Audi Future Stories",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/05/29/el-cineasta-emeritense-rodrigo-olmedo-vencedor-del-audi-future-stories-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Usuarios de Down Mérida se formará para ser \"hospitaleros voluntarios\"",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/05/28/usuarios-de-down-merida-se-formara-para-ser-hospitaleros-voluntarios-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Antigua de Mérida celebra la 45º Semana Cultural en las calles del barrio",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/05/28/la-antigua-de-merida-celebra-la-45-semana-cultural-en-las-calles-del-barrio-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alumnos de la Escuela de Arte y Superior de Diseño de Mérida reinterpretan piezas del MNAR",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/05/27/alumnos-de-la-escuela-de-arte-y-superior-de-diseno-de-merida-reinterpretan-piezas-del-mnar-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Expertos y responsables institucionales reclaman reforzar la autonomía local y dar más peso a municipios y diputaciones",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/expertos-y-responsables-institucionales-reclaman-reforzar-la-autonomia-local-y-dar-mas-peso-a-municipios-y-diputaciones-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres recupera Fuente Hinche y estudia incorporarla al perímetro del Parque del Príncipe",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/caceres-recupera-fuente-hinche-y-estudia-incorporarla-al-perimetro-del-parque-del-principe-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres destinará los 650.000 euros del plan extraordinario de la Diputación a reformar la avenida de Portugal",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/caceres-destinara-los-650000-euros-del-plan-extraordinario-de-la-diputacion-a-reformar-la-avenida-de-portugal-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Juan Carlos Parejo recibe el Escudo de Oro de Don Benito durante la clausura de Extremagia",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/juan-carlos-parejo-recibe-el-escudo-de-oro-de-don-benito-durante-la-clausura-de-extremagia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jerez de los Caballeros acoge la décima edición de los Premios Porc d’Or Ibérico",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/08/jerez-de-los-caballeros-acoge-la-decima-edicion-de-los-premios-porc-dor-iberico-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los médicos extremeños piden que no se \"normalice\" la contratación de extracomunitarios sin especialidad homologada",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/07/los-medicos-extremenos-piden-que-no-se-normalice-la-contratacion-de-extracomunitarios-sin-especialidad-homologada-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura se plantea la creación de una Agencia Regional de Emergencias y Protección Civil",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/07/la-junta-de-extremadura-se-plantea-la-creacion-de-una-agencia-regional-de-emergencias-y-proteccion-civil-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jóvenes con TEA de Cáceres reviven en bici la 'Ruta del Cid Campeador'",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/07/jovenes-con-tea-de-caceres-reviven-en-bici-la-ruta-del-cid-campeador-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura desmantela su política de cooperación y deja la AEXCID sin liderazgo ni recursos",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/06/extremadura-desmantela-su-politica-de-cooperacion-y-deja-la-aexcid-sin-liderazgo-ni-recursos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Diez extremeños, tratados con una nueva terapia contra el glioblastoma: así funciona el innovador tratamiento",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/06/diez-extremenos-tratados-con-una-nueva-terapia-contra-el-glioblastoma-asi-funciona-el-innovador-tratamiento-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Oex estrena temporada en octubre con catorce programas principales y siete espectáculos diversos",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/la-oex-estrena-temporada-en-octubre-con-catorce-programas-principales-y-siete-espectaculos-diversos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito intensifica las medidas contra el virus del Nilo y la proliferación de palomas",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/don-benito-intensifica-las-medidas-contra-el-virus-del-nilo-y-la-proliferacion-de-palomas-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El fútbol extremeño llora la muerte de Ange, símbolo de esfuerzo e integración en Talayuela",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/el-futbol-extremeno-llora-la-muerte-de-ange-simbolo-de-esfuerzo-e-integracion-en-talayuela-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una década de trabajo constante consolida a la Unidad Canina de Villanueva como referente en Extremadura",
-      "description": "",
-      "date": "2026-06-08",
-      "url": "https://cadenaser.com/extremadura/2026/06/05/una-decada-de-trabajo-constante-consolida-a-la-unidad-canina-de-villanueva-como-referente-en-extremadura-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
