@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-10T16:34:45Z",
-  "count": 117,
+  "updated_at": "2026-06-10T21:24:33Z",
+  "count": 139,
   "events": [
+    {
+      "title": "Un hombre se pelea con un matrimonio en la calle Almendralejo y moviliza a la Policía Local y Nacional en Mérida",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/10/hombre-protagoniza-pelea-matrimonio-calle-almendralejo-merida-131257352.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La \"exclusividad\" del Teatro Romano de Mérida deja a Cáceres sin el concierto de Malú",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/10/exclusividad-stone-music-festival-merida-cancela-concierto-malu-caceres-131255281.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La actuación de Pablo López en Cáceres tumba su concierto en el Teatro Romano de Mérida",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-10",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/09/malu-pablo-lopez-conciertos-merida-teatro-romano-131193787.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El fuerte olor destapa una plantación de marihuana oculta en una nave de Mérida",
-      "description": "",
-      "date": "2026-06-10",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/09/el-fuerte-olor-destapa-plantacion-marihuana-merida-131190034.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un accidente con un herido grave y fuga marca una semana con 19 siniestros en Mérida",
-      "description": "",
-      "date": "2026-06-10",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/09/accidente-herido-grave-fuga-merida-policia-local-131187820.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -208,6 +208,62 @@
       "date": "2026-06-10",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "La II edición del festival CineBeat destaca el talento emergente en Mérida",
+      "description": "Intervenciones de la Policía Local en la Siniestralidad Vial\nDurante la semana del 13 al 19 de abril, la policía local de Mérida llevó a...",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Persán consolida su expansión global con resultados históricos",
+      "description": "La multinacional andaluza incrementa su cifra de negocio y eleva su Ebitda hasta los 135 millones de euros La multinacional Persán, especializada en los sectores...",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/persan-consolida-su-expansion-global-con-resultados-historicos/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 10 de Junio de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/el-tiempo-hoy-10-de-junio-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fetico refuerza su presencia en telecomunicaciones con la integración de FeSTS",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/fetico-refuerza-su-presencia-en-telecomunicaciones-con-la-integracion-de-fests/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las empresas vuelven a situar a IE University, UAX y Comillas a la cabeza",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/las-empresas-vuelven-a-situar-a-ie-university-uax-y-comillas-a-la-cabeza/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura aumenta su servicio de comedores escolares con seis nuevas instalaciones para el curso 2026-2027",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/extremadura-aumenta-su-servicio-de-comedores-escolares-con-seis-nuevas-instalaciones-para-el-curso-2026-2027/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "The Champions Burger trae a Mérida las hamburguesas más virales de internet",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.meridadiario.com/2026/06/10/the-champions-burger-trae-a-merida-las-hamburguesas-mas-virales-de-internet/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -531,6 +587,198 @@
       "location": "Mérida"
     },
     {
+      "title": "Ecovidrio lanza un reto a los municipios extremeños con la nueva campaña de sensibilización de reciclaje de vidrio",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/09/ecovidrio-lanza-un-reto-a-los-municipios-extremenos-con-la-nueva-campana-de-sensibilizacion-de-reciclaje-de-vidrio-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La científica Eva Nogales clausura el VI Concurso Mujer y Ciencia del CPR de Almendralejo",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/08/la-cientifica-eva-nogales-clausura-el-vi-concurso-mujer-y-ciencia-del-cpr-de-almendralejo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Tener trabajo ya no es suficiente para salir de la rueda de la exclusión social\"",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/05/tener-trabajo-ya-no-es-suficiente-para-salir-de-la-rueda-de-la-exclusion-social-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Recal Almendralejo vive una situación de saturación ante el abandono de gatos",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/recal-almendralejo-vive-una-situacion-de-saturacion-ante-el-abandono-de-gatos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Archivo Municipal de Mérida expone expedientes de causas civiles y criminales a través de planos y dibujos",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/el-archivo-municipal-de-merida-expone-expedientes-de-causas-civiles-y-criminales-a-traves-de-planos-y-dibujos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Isabel Robles, patinadora de Almendralejo, representará a Extremadura en el Campeonato de España",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/09/isabel-robles-patinadora-de-almendralejo-representara-a-extremadura-en-el-campeonato-de-espana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Asociación Regional Párkinson Extremadura abre sus puertas en una jornada de convivencia y concienciación",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/08/la-asociacion-regional-parkinson-extremadura-abre-sus-puertas-en-una-jornada-de-convivencia-y-concienciacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La Morera' llega a Mérida para acompañar a mujeres víctimas de violencia de género",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/03/la-morera-llega-a-merida-para-acompanar-a-mujeres-victimas-de-violencia-de-genero-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Adenex vuelve a solicitar que se declara como BIC el Silo de Mérida",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/02/adenex-vuelve-a-solicitar-que-se-declara-como-bic-el-silo-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "AOEX Mérida celebra la XIII edición de su Gala Solidaria",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/01/aoex-merida-celebra-la-xiii-edicion-de-su-gala-solidaria-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El cineasta emeritense Rodrigo Olmedo, vencedor del Audi Future Stories",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/05/29/el-cineasta-emeritense-rodrigo-olmedo-vencedor-del-audi-future-stories-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Hallan sin vida y con signos de violencia al vecino de Badajoz desaparecido desde el domingo",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/hallan-sin-vida-y-con-signos-de-violencia-al-vecino-de-badajoz-desaparecido-desde-el-domingo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Villanueva destina 20.000 euros para becas destinadas a la adquisición de libros de texto en Educación Infantil",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/el-ayuntamiento-de-villanueva-destina-20000-euros-para-becas-destinadas-a-la-adquisicion-de-libros-de-texto-en-educacion-infantil-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El BCB tendrá que duplicar su presupuesto a unos 400.000 euros para competir en Segunda FEB y trabaja muy duro para conseguirlo",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/el-bcb-tendra-que-duplicar-su-presupuesto-a-unos-400000-euros-para-competir-en-segunda-feb-y-trabaja-muy-duro-para-conseguirlo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Plasencia refuerza la seguridad y la prevención de agresiones sexuales durante las Ferias",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/plasencia-refuerza-la-seguridad-y-la-prevencion-de-agresiones-sexuales-durante-las-ferias-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La remodelación de la avenida Virgen de la Montaña da un paso decisivo con la propuesta de adjudicación de las obras",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/la-remodelacion-de-la-avenida-virgen-de-la-montana-da-un-paso-decisivo-con-la-propuesta-de-adjudicacion-de-las-obras-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta adquiere la sede del Museo Helga de Alvear para garantizar la estabilidad y continuidad del proyecto",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/la-junta-adquiere-la-sede-del-museo-helga-de-alvear-para-garantizar-la-estabilidad-y-continuidad-del-proyecto-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La piloto de Guareña que llevó al Papa en su viaje a Barcelona: “Se me paró el corazón”",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/la-piloto-de-guarena-que-llevo-al-papa-en-su-viaje-a-barcelona-se-me-paro-el-corazon-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura conmemora la Semana Internacional de los Archivos con \"ArchivosParaLaJusticia\"",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/extremadura-conmemora-la-semana-internacional-de-los-archivos-con-archivosparalajusticia-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La UP Plasencia lanza su campaña de abonos bajo el lema “Continúa la remontada”",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/la-up-plasencia-lanza-su-campana-de-abonos-bajo-el-lema-continua-la-remontada-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las piscinas municipales de verano de Badajoz abren sus puertas el 13 de junio",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/las-piscinas-municipales-de-verano-de-badajoz-abren-sus-puertas-el-13-de-junio-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El programa \"Vacaciones en Paz\" permitirá que este verano lleguen a Extremadura 210 niños saharauis",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/10/el-programa-vacaciones-en-paz-permitira-que-este-verano-lleguen-a-extremadura-210-ninos-saharauis-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "AMAL recibirá casi medio centenar de niños saharauis dentro del programa “Vacaciones en Paz”",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/09/amal-recibira-casi-medio-centenar-de-ninos-saharauis-dentro-del-programa-vacaciones-en-paz-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Guardia Civil investiga a un asesor en Zalamea de la Serena por apropiarse de 198.000 euros de una herencia",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/09/la-guardia-civil-investiga-a-un-asesor-en-zalamea-de-la-serena-por-apropiarse-de-198000-euros-de-una-herencia-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "CEP Extremadura denunciará ante Inspección si no mejoran las condiciones térmicas en comisarías de Plasencia y Mérida",
       "description": "",
       "date": "2026-06-10",
@@ -635,14 +883,6 @@
       "location": "Mérida"
     },
     {
-      "title": "'Más de uno Badajoz', en directo desde el Colegio Sagrada Familia",
-      "description": "",
-      "date": "2026-06-10",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/mas-uno-badajoz-directo-colegio-sagrada-familia_2024022065d46e72344c980001b0285a.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ayuntamiento de Badajoz prevé entre 25.000 y 30.000 asistentes a los conciertos de 'Los Palomos 2026'",
       "description": "",
       "date": "2026-06-10",
@@ -651,26 +891,18 @@
       "location": "Mérida"
     },
     {
+      "title": "'Más de uno Badajoz', en directo desde el Colegio Sagrada Familia",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/mas-de-uno/mas-uno-badajoz-directo-colegio-sagrada-familia_2024022065d46e72344c980001b0285a.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘ECOS. Después del grito’ de Trabajos de Diseño Editorial",
       "description": "Del 10 al 22 de junio se podrá ver, en el Centro Cultural Alcazaba, la exposición 'ECOS. Después del grito' en donde el alumnado de 4º curso de Diseño Editorial de la Escuela de Arte y Superior de Diseño de Mérida muestra 13 propuestas diferentes para un mismo texto poético. Cada estudiante ha de...",
       "date": "2026-06-10",
       "url": "https://merida.es/agenda/exposicion-ecos-despues-del-grito-de-trabajos-de-diseno-editorial/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ciclo Conferencias Liceo: «Un emeritense desconocido: Fernando Rodríguez y sus dibujos de Antigüedades» por Antonio Barroso Martínez",
-      "description": "El Liceo de Mérida organiza un nuevo ciclo de conferencias sobre historia y arqueología todos los miércoles, del 8 de abril al 17 junio de 2026, con un total de diez ponencias. En la charlas se abordará el patrimonio emeritense pero también habrá otras no tan enfocadas en los yacimientos de la ci...",
-      "date": "2026-06-10",
-      "url": "https://merida.es/agenda/ciclo-conferencias-liceo-un-emeritense-desconocido-fernando-rodriguez-y-sus-dibujos-de-antiguedades-por-antonio-barroso-martinez/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mit Jazz Festival: Rodrigo Parejo Quartet (Noches del Trajano)",
-      "description": "Rodrigo Parejo Quartet ofrece una experiencia musical que trasciende géneros y fronteras. Es un proyecto del músico transfronterizo Rodrigo Parejo, que teje puentes entre Oriente y Occidente, donde convergen lenguajes como el jazz, el flamenco, las músicas de Japón, Indonesia e India, así como lo...",
-      "date": "2026-06-10",
-      "url": "https://merida.es/agenda/mit-jazz-festival-noches-del-trajano-rodrigo-parejo-quartet/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
@@ -720,46 +952,6 @@
       "date": "2026-06-09",
       "url": "https://www.hoy.es/merida/procesion-corpus-cambia-recorrido-calor-20260609082316-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abierto el plazo de inscripción para participar en el Concurso regional de tamborada y percusión",
-      "description": "Intervenciones de la Policía Local en la Siniestralidad Vial\nDurante la semana del 13 al 19 de abril, la policía local de Mérida llevó a...",
-      "date": "2026-06-09",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida se une a la campaña de Ecovidrio para promover el reciclaje de vidrio",
-      "description": "La nueva campaña de Ecovidrio en MéridaLa delegada de Limpieza Viaria, Ana Aragoneses, anunció el inicio de la campaña “En Extremadura, lo NATURAL es...",
-      "date": "2026-06-09",
-      "url": "https://www.meridadiario.com/2026/06/09/merida-se-une-a-la-campana-de-ecovidrio-para-promover-el-reciclaje-de-vidrio/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Previsión de la AEMET en Mérida hoy 9 de Junio de 2026",
-      "description": "",
-      "date": "2026-06-09",
-      "url": "https://www.meridadiario.com/2026/06/09/prevision-de-la-aemet-en-merida-hoy-9-de-junio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Desalación y agua: España avanza con plantas clave y grandes empresas",
-      "description": "",
-      "date": "2026-06-09",
-      "url": "https://www.meridadiario.com/2026/06/09/desalacion-y-agua-espana-avanza-con-plantas-clave-y-grandes-empresas/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Quirónsalud lidera la transformación de la calidad en la sanidad privada",
-      "description": "",
-      "date": "2026-06-09",
-      "url": "https://www.meridadiario.com/2026/06/09/quironsalud-lidera-la-transformacion-de-la-calidad-en-la-sanidad-privada/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -835,26 +1027,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Intervención del Plan INFOEX en 27 incendios forestales esta semana en Extremadura",
-      "description": "",
-      "date": "2026-06-07",
-      "url": "https://www.meridadiario.com/2026/06/07/intervencion-del-plan-infoex-en-27-incendios-forestales-esta-semana-en-extremadura/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "El Curso 2026/2027 en Extremadura Comenzará el 10 de Septiembre",
       "description": "Inicio de Clases en ExtremaduraLa actividad lectiva para el curso escolar 2026/2027 en Extremadura dará comienzo el próximo 10 de septiembre. Este inicio de...",
       "date": "2026-06-05",
       "url": "https://www.meridadiario.com/2026/06/05/el-curso-2026-2027-en-extremadura-comenzara-el-10-de-septiembre/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida entrega 405 kits de bienestar emocional para estudiantes de secundaria",
-      "description": "",
-      "date": "2026-06-05",
-      "url": "https://www.meridadiario.com/2026/06/05/el-ayuntamiento-de-merida-entrega-405-kits-de-bienestar-emocional-para-estudiantes-de-secundaria/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -915,14 +1091,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura destina 2 millones de euros a ayudas para la destilación de subproductos de la vinificación",
-      "description": "Ayudas para la destilación de subproductos vinícolas en ExtremaduraEl Diario Oficial de Extremadura (DOE) ha anunciado recientemente la apertura de una convocatoria de ayudas...",
-      "date": "2026-04-09",
-      "url": "https://www.meridadiario.com/2026/04/09/la-junta-de-extremadura-destina-2-millones-de-euros-a-ayudas-para-la-destilacion-de-subproductos-de-la-vinificacion/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Mit Jazz Festival Mérida 2026",
       "description": "Del 7 de marzo al 17 de junio se desarrollará la tercera edición del Miz Jazz Festival Mérida 2026 que volverá a sentir el latido del jazz en una ciudad de más de 2.000 años de historia. El festival acogerá dos citas ineludibles en el Palacio de Congresos: el concierto de presentación el 7 de […]",
       "date": "2026-03-07",
@@ -931,10 +1099,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El alcalde destaca que “Mérida es de las pocas ciudades en el mundo en la que se puede realizar un campo de trabajo arqueológico”",
-      "description": "Antonio Rodríguez Osuna ha visitado el campo de voluntariado del yacimiento arqueológico de Mérida en la Casa del Mitreo, organizado por el Instituto de...",
-      "date": "2021-07-15",
-      "url": "https://www.meridadiario.com/2021/07/15/el-alcalde-destaca-que-merida-es-de-las-pocas-ciudades-en-el-mundo-en-la-que-se-puede-realizar-un-campo-de-trabajo-arqueologico/",
+      "title": "Predicción meteorológica: Mérida, 29 de Mayo de 2025",
+      "description": "Pronóstico del Tiempo para Mérida - 29 de mayo de 2025 Hoy en Mérida, se espera un día marcado por una oscilación térmica considerable. La...",
+      "date": "2025-05-29",
+      "url": "https://www.meridadiario.com/2025/05/29/prediccion-meteorologica-merida-29-de-mayo-de-2025/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "España lucha contra el consumo desmedido de antibióticos con dolor de muelas, cistitis y catarros",
+      "description": "Dolor de muelas, cistitis y catarros son las patologías en las que se observa un consumo excesivo de antibióticos en España, según revela el...",
+      "date": "2023-11-19",
+      "url": "https://www.meridadiario.com/2023/11/19/espana-lucha-contra-el-consumo-desmedido-de-antibioticos-con-dolor-de-muelas-cistitis-y-catarros/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
