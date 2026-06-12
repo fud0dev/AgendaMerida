@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-12T16:15:34Z",
-  "count": 124,
+  "updated_at": "2026-06-12T21:02:18Z",
+  "count": 109,
   "events": [
     {
       "title": "Javier Fernández de Molina convierte la cerámica cotidiana en arte en Mérida",
@@ -15,6 +15,14 @@
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/formacion-adultos-fp-empresas-cepa-merida-131327312.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida reunirá este sábado coches y motos clásicas para ayudar a personas con parkinson",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/merida-coches-motos-solidaridad-enfermedad-parkinson-131333317.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/11/jaime-lafita-solidaridad-sanidad-salud-ela-merida-131294600.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La norma que deja fuera a Pablo López del Teatro Romano de Mérida también afecta a Sanguijuelas del Guadiana",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/11/pablo-lopez-conciertos-musica-teatro-romano-merida-sanguijuelas-131280706.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -296,94 +296,6 @@
       "date": "2026-06-12",
       "url": "https://merida.es/alternativa-sound-ofrece-en-el-parque-de-las-vii-silas-musica-comunidad-y-talento-local/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eudald Vergés no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jacobo Martí no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 16 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/05/26/la-policia-local-intervino-en-16-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jota López, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Javi Areso, renovado en la AD Mérida",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/05/javi-areso-renovado-en-la-ad-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Acuerdo de colaboración con la Asociación de Fútbol Mérida Veteranos",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/06/04/acuerdo-de-colaboracion-con-la-asociacion-de-futbol-merida-veteranos/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-06-12",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -699,30 +611,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Dinamización Comercial La Antigua",
-      "description": "Mercadillo local, actividades de animación, talleres infantiles, conciertos y espectáculos al aire libre protagonizarán este viernes 12 de junio una jornada de dinamización comercial para reforzar el comercio de proximidad en la barriada de La Antigua. Esta jornada tendrá lugar en la Plaza Padre ...",
-      "date": "2026-06-12",
-      "url": "https://merida.es/agenda/dinamizacion-comercial-la-antigua/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Teatro: «Choriza» (CANCELADO)",
-      "description": "Espectáculo: Choriza Compañía: Aurora Jara Sinopsis: Una comedia negra con tintes almodovarianos, salpicada de retazos de nostalgia y de folklore. Nos habla, desde el humor, de las tradiciones y las raíces. De quien necesita de una identidad a la que aferrarse. De sensaciones y olores. De taparse...",
-      "date": "2026-06-12",
-      "url": "https://merida.es/agenda/teatro-choriza/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Stone & Music Festival: «Malú»",
-      "description": "Segunda vez también para Malú, que ya deslumbró con su actuación en el STONE&MUSIC Festival en el verano de 2022. ‘Todo sabe a ti’ y ‘El intento’ son los dos temas más recientes de la artista, pertenecientes a su nuevo álbum de estudio que todavía no ha visto la luz. Malú es una de las […]",
-      "date": "2026-06-12",
-      "url": "https://merida.es/agenda/stone-music-festival-malu-2/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "El Museo Romano de Mérida colabora con el municipio luso de Beja en la difusión del patrimonio",
       "description": "",
       "date": "2026-06-11",
@@ -816,14 +704,6 @@
       "date": "2026-06-10",
       "url": "https://www.hoy.es/merida/charla-sobre-dibujista-rodriguez-20260610144236-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "«ECOS. Después del grito»,  muestra los proyectos de diseño editorial realizados por estudiantes de 4.º curso del grado de Diseño Gráfico de la Escuela de Arte y Superior de Diseño de Mérida",
-      "description": "",
-      "date": "2026-06-10",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
