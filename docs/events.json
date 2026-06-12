@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-12T11:00:16Z",
-  "count": 111,
+  "updated_at": "2026-06-12T16:15:34Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Javier Fernández de Molina convierte la cerámica cotidiana en arte en Mérida",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/ceramica-cultura-exposicion-arte-easd-merida-131330939.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida amplía la formación para adultos con limpieza, servicios funerarios y transporte sanitario",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/formacion-adultos-fp-empresas-cepa-merida-131327312.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Antigua de Mérida celebra este viernes una tarde de mercadillo, magia y música",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/antigua-merida-celebra-viernes-tarde-131324116.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Consorcio confirma que Sanguijuelas del Guadiana no podrá actuar en el Teatro Romano de Mérida",
       "description": "",
@@ -15,14 +39,6 @@
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/investigados-vecinos-guardia-civil-delitos-merida-131321124.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Antigua de Mérida celebra este viernes una tarde de mercadillo, magia y música",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/12/antigua-merida-celebra-viernes-tarde-131324116.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/11/pablo-lopez-conciertos-musica-teatro-romano-merida-sanguijuelas-131280706.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Soraya y Samantha Hudson pondrán música a la fiesta regional del Orgullo en Mérida",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/11/soraya-samantha-hudson-musica-concierto-orgullo-merida-131284822.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Todo listo para que tres piscinas municipales de Mérida abran el 19 de junio mientras la del Diocles esperará a julio",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/11/piscinas-municipales-verano-banos-ayuntamiento-merida-131283629.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -195,6 +195,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El centro de educación permanente de adultos amplía su oferta con un nuevo grado y certificados profesionales",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.hoy.es/merida/centro-educacion-permanente-adultos-amplia-oferta-nuevo-20260612131417-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Toma de posesión del fiscal jefe de Mérida",
       "description": "",
       "date": "2026-06-12",
@@ -288,6 +296,94 @@
       "date": "2026-06-12",
       "url": "https://merida.es/alternativa-sound-ofrece-en-el-parque-de-las-vii-silas-musica-comunidad-y-talento-local/",
       "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Eudald Vergés no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jacobo Martí no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 16 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/05/26/la-policia-local-intervino-en-16-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jota López, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Javi Areso, renovado en la AD Mérida",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/05/javi-areso-renovado-en-la-ad-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Acuerdo de colaboración con la Asociación de Fútbol Mérida Veteranos",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/06/04/acuerdo-de-colaboracion-con-la-asociacion-de-futbol-merida-veteranos/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-06-12",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -467,10 +563,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo Matinal Más de Uno Extremadura (12/06/2026)",
+      "title": "Noticias mediodía Extremadura (12/06/26)",
       "description": "",
       "date": "2026-06-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-mas-uno-extremadura-12062026_202606126a2b996b8605b0e48e543864.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-120626_202606126a2bf5712a27c20007bbfb07.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -483,10 +579,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (11/06/26)",
+      "title": "Noticias mediodía Mérida (12/06/26)",
       "description": "",
       "date": "2026-06-12",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-110626_202606116a2aa17af045100007b07845.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-120626_202606126a2bf37d98857800075b490b.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -511,6 +607,14 @@
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/210-ninos-ninas-saharauis-participaran-este-verano-programa-vacaciones-paz-10-ellos-conviviran-casa-nur-valverde-merida_202606116a2a9cc13bc9ee00070920e6.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Noticias mediodía Mérida (11/06/26)",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-110626_202606116a2aa17af045100007b07845.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -547,18 +651,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Arranca Ecuextre 2026 en Ifeba (Badajoz) la gran cita ibérica dedicada al mundo del caballo y el toro",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/arranca-ecuextre-2026-ifeba-badajoz-gran-cita-iberica-dedicada-mundo-caballo-toro_202606116a2a52a60f0ef63eb6603878.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Badajoz acoge este viernes y sábado la 2ª Feria de Turismo de Onda Cero Extremadura y Portugal",
       "description": "",
       "date": "2026-06-12",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-acoge-este-viernes-sabado-2-feria-turismo-onda-cero-extremadura-portugal_202606116a2a8f120d35a17610a6d7ab.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arranca Ecuextre 2026 en Ifeba (Badajoz) la gran cita ibérica dedicada al mundo del caballo y el toro",
+      "description": "",
+      "date": "2026-06-12",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/arranca-ecuextre-2026-ifeba-badajoz-gran-cita-iberica-dedicada-mundo-caballo-toro_202606116a2a52a60f0ef63eb6603878.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -715,6 +819,14 @@
       "location": "Mérida"
     },
     {
+      "title": "«ECOS. Después del grito»,  muestra los proyectos de diseño editorial realizados por estudiantes de 4.º curso del grado de Diseño Gráfico de la Escuela de Arte y Superior de Diseño de Mérida",
+      "description": "",
+      "date": "2026-06-10",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición ‘ECOS. Después del grito’ de Trabajos de Diseño Editorial",
       "description": "Del 10 al 22 de junio se podrá ver, en el Centro Cultural Alcazaba, la exposición 'ECOS. Después del grito' en donde el alumnado de 4º curso de Diseño Editorial de la Escuela de Arte y Superior de Diseño de Mérida muestra 13 propuestas diferentes para un mismo texto poético. Cada estudiante ha de...",
       "date": "2026-06-10",
@@ -759,14 +871,6 @@
       "description": "",
       "date": "2026-06-09",
       "url": "https://www.hoy.es/merida/jornada-vespa-emerita-asociacion-parkinson-20260609082254-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Conferencia de Javier Marcos sobre la obra ‘Timón de Atenas’",
-      "description": "",
-      "date": "2026-06-09",
-      "url": "https://www.hoy.es/merida/conferencia-javier-marcos-sobre-obra-timon-atenas-20260609082305-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
