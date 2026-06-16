@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-16T12:10:56Z",
-  "count": 126,
+  "updated_at": "2026-06-16T18:03:59Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Pasar la ITV en Mérida, misión imposible: vecinos desesperados y reproches a la Junta por falta de previsión",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/16/quejas-vecinales-itv-merida-junta-extremadura-131473710.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los locales comerciales vacíos se acumulan en el centro de Mérida entre carteles de \"se alquila\" o \"se vende\"",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/16/locales-comerciales-vacios-se-acumulan-centro-merida-131468677.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El hombre apuñalado en Mérida ha sido operado y la Policía espera detener al agresor en pocas horas",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-16",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/15/junta-extremadura-deportes-piscina-olimpica-merida-131415399.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Ciudad de la Infancia de Mérida amplía su horario de verano con apertura diaria mañana y tarde",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/15/ciudad-infancia-horario-verano-ocio-merida-131415376.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida abrirá una mirada más allá de sus monumentos en una charla sobre arquitectura actual",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/15/monumentos-arquitectura-charla-patrimonio-merida-131414663.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -163,34 +163,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La Policía Nacional busca al autor de un apuñalamiento en Mérida, que ha dejado un herido grave",
+      "title": "El herido por un apuñalamiento en Mérida evoluciona favorablemente en el hospital",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/policia-nacional-busca-autor-apunalamiento-merida-dejado-20260615220030-nt.html",
+      "url": "https://www.hoy.es/merida/herido-apunalamiento-merida-evoluciona-favorablemente-hospital-20260616141005-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
     {
-      "title": "El centro universitario oferta Inteligencia Artificial para el nuevo curso y estima contar con 200 alumnos más",
+      "title": "Las fiestas de El Barrio arrancan la próxima semana con la recuperación del concurso de pesca",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/centro-universitario-oferta-inteligencia-artificial-nuevo-curso-20260615152358-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La tormenta de la noche en Mérida deja ramas caídas y 25,6 litros en poco más de una hora",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/tormeta-noche-merida-deja-256-litros-poco-20260615110211-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Ciudad de la Infancia de Mérida amplía desde hoy su horario durante el verano, con turnos de mañana y tarde",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/ciudad-infancia-merida-amplia-hoy-horario-verano-20260615152321-nt.html",
+      "url": "https://www.hoy.es/merida/fiestas-barrio-arrancan-proxima-semana-recuperacion-concurso-20260616135953-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -203,10 +187,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Las fiestas de El Barrio arrancan la próxima semana con la recuperación del concurso de pesca",
+      "title": "El centro universitario oferta Inteligencia Artificial para el nuevo curso y estima contar con 200 alumnos más",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/fiestas-barrio-arrancan-proxima-semana-recuperacion-concurso-20260616135953-nt.html",
+      "url": "https://www.hoy.es/merida/centro-universitario-oferta-inteligencia-artificial-nuevo-curso-20260615152358-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -491,6 +475,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Mor Yata, migrante afincado en Mérida y desde hoy ciudadano español",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://cadenaser.com/extremadura/2026/06/16/mor-yata-migrante-afincado-en-merida-y-desde-hoy-ciudadano-espanol-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Policía Nacional busca al presunto autor de un apuñalamiento en Mérida",
       "description": "",
       "date": "2026-06-16",
@@ -499,10 +491,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Elsa Ruíz, pregonera del Orgullo Extremeño 2026: \"Izar una bandera LGTBIQ+ en Extremadura me parece un acto de resistencia y provocación increíble\"",
+      "title": "El CEPA Legión V de Mérida muestra su oferta formativa a la ciudadanía",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/13/elsa-ruiz-pregonera-del-orgullo-extremeno-2026-izar-una-bandera-lgtbiq-en-extremadura-me-parece-un-acto-de-resistencia-y-provocacion-increible-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/06/16/el-cepa-legion-v-de-merida-muestra-su-oferta-formativa-a-la-ciudadania-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -531,6 +523,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El MNAR acoge la celebración de las Jornadas Europeas de Arqueología",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://cadenaser.com/extremadura/2026/06/11/el-mnar-acoge-la-celebracion-de-las-jornadas-europeas-de-arqueologia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Alange celebra la tercera edición de La Jara Festival",
       "description": "",
       "date": "2026-06-16",
@@ -555,10 +555,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Archivo Municipal de Mérida expone expedientes de causas civiles y criminales a través de planos y dibujos",
+      "title": "Don Benito acoge este sábado la XI edición del Día Mundial del Yoga con actividades gratuitas e inclusivas",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/10/el-archivo-municipal-de-merida-expone-expedientes-de-causas-civiles-y-criminales-a-traves-de-planos-y-dibujos-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/06/16/don-benito-acoge-este-sabado-la-xi-edicion-del-dia-mundial-del-yoga-con-actividades-gratuitas-e-inclusivas-ser-vegas-altas/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -627,6 +627,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Elsa Ruíz, pregonera del Orgullo Extremeño 2026: \"Izar una bandera LGTBIQ+ en Extremadura me parece un acto de resistencia y provocación increíble\"",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://cadenaser.com/extremadura/2026/06/13/elsa-ruiz-pregonera-del-orgullo-extremeno-2026-izar-una-bandera-lgtbiq-en-extremadura-me-parece-un-acto-de-resistencia-y-provocacion-increible-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Antonio Lozano renueva la presidencia de PROINES SALUD MENTAL con el respaldo de la asamblea",
       "description": "",
       "date": "2026-06-16",
@@ -639,14 +647,6 @@
       "description": "",
       "date": "2026-06-16",
       "url": "https://cadenaser.com/extremadura/2026/06/12/elena-ayuso-hara-historia-como-la-primera-mujer-del-mundo-en-competir-en-aguas-bravas-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura solicita a Fiscalía  que autorice las pruebas de determinación de edad para los Menores no Acompañados",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/12/extremadura-solicita-a-fiscalia-que-autorice-las-pruebas-de-determinacion-de-edad-para-los-menores-no-acompanados-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -699,10 +699,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Parafarmacia Elisa de Tena nos da los consejos para prevenir accidentes solares en personas que trabajan en el exterior.",
+      "title": "El Centro Universitario de Mérida se prepara para el próximo curso con dos nuevas especialidades y con la previsión del aumento de alumnos de nuevo ingreso",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/parafarmacia-elisa-tena-nos-consejos-prevenir-accidentes-solares-personas-que-trabajan-exterior_202606106a2952008d8db0e448492591.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/centro-universitario-merida-prepara-proximo-curso-dos-nuevas-especialidades-prevision-aumento-alumnos-nuevo-ingreso_202606166a31398ea574f50007be6d0d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -715,14 +715,6 @@
       "location": "Mérida"
     },
     {
-      "title": "210 niños y niñas saharauis participarán este verano en el programa \"vacaciones en paz\" 10 de ellos convivirán en la casa NUR en Valverde de Mérida.",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/210-ninos-ninas-saharauis-participaran-este-verano-programa-vacaciones-paz-10-ellos-conviviran-casa-nur-valverde-merida_202606116a2a9cc13bc9ee00070920e6.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El Mit Jazz Festival finaliza este miércoles con un homenaje al trompetista extremeño Félix Bote en una Jam Sesion que tendrá lugar en el Arco de Trajano",
       "description": "",
       "date": "2026-06-16",
@@ -731,10 +723,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Centro Universitario de Mérida se prepara para el próximo curso con dos nuevas especialidades y con la previsión del aumento de alumnos de nuevo ingreso",
+      "title": "Más de uno Mérida (16/06/2026)",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/centro-universitario-merida-prepara-proximo-curso-dos-nuevas-especialidades-prevision-aumento-alumnos-nuevo-ingreso_202606166a31398ea574f50007be6d0d.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-16062026_202606166a313dabb7c3c70007aebcf4.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -763,14 +755,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (11/06/26)",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-110626_202606116a2aa17af045100007b07845.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El detenido por la muerte del joven de 33 años en Badajoz pasará a disposición judicial este sábado",
       "description": "",
       "date": "2026-06-16",
@@ -795,19 +779,27 @@
       "location": "Mérida"
     },
     {
-      "title": "Concierto de Clausura 2026 Conservatorio Esteban Sánchez",
-      "description": "El Conservatorio Profesional de Música Esteban Sánchez de Mérida organiza su tradicional Concurso de Clausura del presente curso el martes 16 de junio, a partir de las 19:00 horas, en el Palacio de Congresos. Entrada libre",
-      "date": "2026-06-16",
-      "url": "https://merida.es/agenda/concierto-de-clausura-2026-conservatorio-esteban-sanchez/",
-      "source": "Ayuntamiento - Agenda",
+      "title": "La Policía Nacional busca al autor de un apuñalamiento en Mérida, que ha dejado un herido grave",
+      "description": "",
+      "date": "2026-06-15",
+      "url": "https://www.hoy.es/merida/policia-nacional-busca-autor-apunalamiento-merida-dejado-20260615220030-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
-      "title": "Ciclo de conferencias ‘Nova Emérita: arquitectura actual en la ciudad histórica’ por Dunar Arquitectos",
-      "description": "El ciclo Nova Emérita: arquitectura actual en la ciudad histórica, organizado por el Colegio Oficial de Arquitectos de Extremadura (COADE) y el Ayuntamiento de Mérida, continúa descubriendo nuestro legado contemporáneo con la conferencia de DUNAR arquitectos (Fco. Javier Robustillo Yagüe y Carlos...",
-      "date": "2026-06-16",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-nova-emerita-arquitectura-actual-en-la-ciudad-historica-por-dunar-arquitectos/",
-      "source": "Ayuntamiento - Agenda",
+      "title": "La tormenta de la noche en Mérida deja 25,6 litros en poco más de una hora y ramas caídas de árboles de gran porte",
+      "description": "",
+      "date": "2026-06-15",
+      "url": "https://www.hoy.es/merida/tormeta-noche-merida-deja-256-litros-poco-20260615110211-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Ciudad de la Infancia de Mérida amplía desde hoy su horario durante el verano, con turnos de mañana y tarde",
+      "description": "",
+      "date": "2026-06-15",
+      "url": "https://www.hoy.es/merida/ciudad-infancia-merida-amplia-hoy-horario-verano-20260615152321-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -895,14 +887,6 @@
       "description": "",
       "date": "2026-06-13",
       "url": "https://www.hoy.es/merida/fin-temporada-clubes-lectura-20260613132115-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un choque entre dos coches en Mérida deja seis heridos, cuatro de ellos menores",
-      "description": "",
-      "date": "2026-06-12",
-      "url": "https://www.hoy.es/merida/choque-dos-coches-merida-deja-seis-heridos-20260612230332-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
