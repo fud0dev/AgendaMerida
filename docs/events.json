@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T18:03:59Z",
-  "count": 124,
+  "updated_at": "2026-06-16T21:41:02Z",
+  "count": 114,
   "events": [
     {
       "title": "Pasar la ITV en Mérida, misión imposible: vecinos desesperados y reproches a la Junta por falta de previsión",
@@ -155,10 +155,10 @@
       "location": "Mérida"
     },
     {
-      "title": "151 municipios extremeños podrán acogerse a las ayudas del Gobierno por los daños causados por las borrascas",
+      "title": "El Gobierno local aprueba 18,2 millones para obras y un plan de empleo",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.hoy.es/extremadura/gobierno-central-incluye-badajoz-merida-ayudas-lluvias-20260615203536-nt.html",
+      "url": "https://www.hoy.es/merida/gobierno-local-aprueba-182-millones-obras-plan-20260616201913-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -171,14 +171,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Las fiestas de El Barrio arrancan la próxima semana con la recuperación del concurso de pesca",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/fiestas-barrio-arrancan-proxima-semana-recuperacion-concurso-20260616135953-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Por Mérida exige a la Junta que solucione cuanto antes el «colapso» de la ITV",
       "description": "",
       "date": "2026-06-16",
@@ -187,10 +179,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El centro universitario oferta Inteligencia Artificial para el nuevo curso y estima contar con 200 alumnos más",
+      "title": "151 municipios extremeños podrán acogerse a las ayudas del Gobierno por los daños causados por las borrascas",
       "description": "",
       "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/centro-universitario-oferta-inteligencia-artificial-nuevo-curso-20260615152358-nt.html",
+      "url": "https://www.hoy.es/extremadura/gobierno-central-incluye-badajoz-merida-ayudas-lluvias-20260615203536-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las fiestas de El Barrio arrancan la próxima semana con la recuperación del concurso de pesca",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://www.hoy.es/merida/fiestas-barrio-arrancan-proxima-semana-recuperacion-concurso-20260616135953-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -339,6 +339,102 @@
       "location": "Mérida"
     },
     {
+      "title": "Eudald Vergés no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 16 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/05/26/la-policia-local-intervino-en-16-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jacobo Martí no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jota López, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Javi Areso, renovado en la AD Mérida",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/05/javi-areso-renovado-en-la-ad-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Acuerdo de colaboración con la Asociación de Fútbol Mérida Veteranos",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/06/04/acuerdo-de-colaboracion-con-la-asociacion-de-futbol-merida-veteranos/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
+      "description": "",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-06-16",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Una mujer de 81 años muere y un hombre de 82 resulta herido grave en una salida de vía cerca de Torremejía",
       "description": "Mérida",
       "date": "2026-06-16",
@@ -472,182 +568,6 @@
       "date": "2026-06-16",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/14/museo-romano-merida-noche-visitas-museos-cultura-130239312.html",
       "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mor Yata, migrante afincado en Mérida y desde hoy ciudadano español",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/mor-yata-migrante-afincado-en-merida-y-desde-hoy-ciudadano-espanol-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Policía Nacional busca al presunto autor de un apuñalamiento en Mérida",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/policia-nacional-busca-al-presunto-autor-de-un-apunalamiento-en-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El CEPA Legión V de Mérida muestra su oferta formativa a la ciudadanía",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/el-cepa-legion-v-de-merida-muestra-su-oferta-formativa-a-la-ciudadania-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "DUNAR Arquitectos charlan sobre la transformación de Mérida como soporte de las actividades de sus habitantes",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/dunar-arquitectos-charlan-sobre-la-transformacion-de-merida-como-soporte-de-las-actividades-de-sus-habitantes-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Audífonos solidarios', la campaña que recupera dispositivos auditivos para quien no lo pueda comprar",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/15/audifonos-solidarios-la-campana-que-recupera-dispositivos-auditivos-para-quien-no-lo-pueda-comprar-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Pedro Hierro se vuelve a subir a la bici para 'La Revancha'",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/15/pedro-hierro-se-vuelve-a-subir-a-la-bici-para-la-revancha-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El MNAR acoge la celebración de las Jornadas Europeas de Arqueología",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/11/el-mnar-acoge-la-celebracion-de-las-jornadas-europeas-de-arqueologia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alange celebra la tercera edición de La Jara Festival",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/11/alange-celebra-la-tercera-edicion-de-la-jara-festival-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Alternativa Sound' se suma este fin de semana a la agenda cultural de Mérida",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/11/alternativa-sound-se-suma-este-fin-de-semana-a-la-agenda-cultural-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Recal Almendralejo vive una situación de saturación ante el abandono de gatos",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/10/recal-almendralejo-vive-una-situacion-de-saturacion-ante-el-abandono-de-gatos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito acoge este sábado la XI edición del Día Mundial del Yoga con actividades gratuitas e inclusivas",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/don-benito-acoge-este-sabado-la-xi-edicion-del-dia-mundial-del-yoga-con-actividades-gratuitas-e-inclusivas-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Nacional rinde homenaje en Badajoz a las víctimas del terrorismo y reclama que su memoria no caiga en el olvido",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/la-policia-nacional-rinde-homenaje-en-badajoz-a-las-victimas-del-terrorismo-y-reclama-que-su-memoria-no-caiga-en-el-olvido-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Guardia Civil detiene a un hombre por el robo de más de 9.000 perfumes valorados en 380.000 euros",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/la-guardia-civil-detiene-a-un-hombre-por-el-robo-de-mas-de-9000-perfumes-valorados-en-380000-euros-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Guardia Civil sorprende a dos cazadores furtivos en Fuente del Maestre",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/la-guardia-civil-sorprende-a-dos-cazadores-furtivos-en-fuente-del-maestre-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Elisabeth Medina: “La piscina abrirá este verano, aunque sin los vasos mediano y pequeño”",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/15/elisabeth-medina-la-piscina-abrira-este-verano-aunque-sin-los-vasos-mediano-y-pequeno-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un gol de Carlos Bravo en el 93 pone en ventaja al CD Badajoz (2-1) para la vuelta en Cuarte",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/15/un-gol-de-carlos-bravo-en-el-93-pone-en-ventaja-al-cd-badajoz-2-1-para-la-vuelta-en-cuarte-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Diputación de Badajoz destina más de 11 millones de euros a su Plan de Empleo Provincial 2026-2027",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/15/la-diputacion-de-badajoz-destina-mas-de-11-millones-de-euros-a-su-plan-de-empleo-provincial-2026-2027-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Zafra impulsa su futuro industrial con una fábrica de drones de alta tecnología",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/14/zafra-impulsa-su-futuro-industrial-con-una-fabrica-de-drones-de-alta-tecnologia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fundación Cajabadajoz dona 16 edificios valorados en 30 millones a asociaciones de discapacidad en Extremadura",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/14/fundacion-cajabadajoz-dona-16-edificios-valorados-en-30-millones-a-asociaciones-de-discapacidad-en-extremadura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Elsa Ruíz, pregonera del Orgullo Extremeño 2026: \"Izar una bandera LGTBIQ+ en Extremadura me parece un acto de resistencia y provocación increíble\"",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/13/elsa-ruiz-pregonera-del-orgullo-extremeno-2026-izar-una-bandera-lgtbiq-en-extremadura-me-parece-un-acto-de-resistencia-y-provocacion-increible-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Lozano renueva la presidencia de PROINES SALUD MENTAL con el respaldo de la asamblea",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/12/antonio-lozano-renueva-la-presidencia-de-proines-salud-mental-con-el-respaldo-de-la-asamblea-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Elena Ayuso hará historia como la primera mujer del mundo en competir en Aguas Bravas",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://cadenaser.com/extremadura/2026/06/12/elena-ayuso-hara-historia-como-la-primera-mujer-del-mundo-en-competir-en-aguas-bravas-radio-extremadura/",
-      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -787,6 +707,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El centro universitario oferta Inteligencia Artificial para el nuevo curso y estima contar con 200 alumnos más",
+      "description": "",
+      "date": "2026-06-15",
+      "url": "https://www.hoy.es/merida/centro-universitario-oferta-inteligencia-artificial-nuevo-curso-20260615152358-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La tormenta de la noche en Mérida deja 25,6 litros en poco más de una hora y ramas caídas de árboles de gran porte",
       "description": "",
       "date": "2026-06-15",
@@ -879,14 +807,6 @@
       "description": "",
       "date": "2026-06-13",
       "url": "https://www.hoy.es/merida/presentada-nueva-temporada-conciertos-orquesta-extremadura-20260613132114-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fin a la temporada de los Clubes de Lectura",
-      "description": "",
-      "date": "2026-06-13",
-      "url": "https://www.hoy.es/merida/fin-temporada-clubes-lectura-20260613132115-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
