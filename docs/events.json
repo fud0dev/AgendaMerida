@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-18T11:08:20Z",
-  "count": 125,
+  "updated_at": "2026-06-18T16:29:35Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Los concejales de Vox abandonan el pleno en Mérida tras la expulsión de su portavoz: \"Es una vergüenza\"",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/concejales-vox-abandonan-pleno-merida-131563743.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Casi 200 propietarios expedientados en Mérida por no desbrozar sus solares y parcelas ante el riesgo de incendios",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/200-propietarios-expedientados-merida-desbrozar-131558999.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Detenido el presunto autor del apuñalamiento de un hombre en Mérida",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Pasar la ITV en Mérida, misión imposible: vecinos desesperados y reproches a la Junta por falta de previsión",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/16/quejas-vecinales-itv-merida-junta-extremadura-131473710.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los locales comerciales vacíos se acumulan en el centro de Mérida entre carteles de \"se alquila\" o \"se vende\"",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/16/locales-comerciales-vacios-se-acumulan-centro-merida-131468677.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Imágenes del Corpus Christi en Mérida",
       "description": "",
       "date": "2026-06-18",
@@ -155,10 +155,26 @@
       "location": "Mérida"
     },
     {
+      "title": "La Policía Local recibirá 488.000 euros por horas extras y otros funcionarios, 176.000  por varios conceptos",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.hoy.es/merida/policia-local-recibira-488000-euros-horas-extras-20260618141120-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Detenido el presunto autor del apuñalamiento en Mérida",
       "description": "",
       "date": "2026-06-18",
       "url": "https://www.hoy.es/merida/policia-nacional-detiene-presunto-autor-apunalamiento-merida-20260618082517-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida ha desbrozado 65 hectáreas y tramitado casi 200 expedientes a dueños de solares",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-desbrozado-hectareas-tramitado-200-expedientes-20260618142713-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -187,22 +203,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Organizan una visita guiada al depósito del agua de Rabo de Buey para pedir su puesta en valor",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.hoy.es/merida/organizan-visita-guiada-deposito-agua-rabo-buey-20260617143519-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Agenda de cultura y ocio para el fin de semana en Mérida: música, cine, exposiciones y la celebración del Orgullo LGTBIQ+Extremadura",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
-      "location": "Mérida"
-    },
-    {
       "title": "El Milagrito consolida su modelo de cultura empresarial con la certificación Values-Based Company®",
       "description": "La empresa destaca desde hace dos años por ser referente en modelo interno de cultura empresarial para otras organizaciones El Milagrito acaba de obtener la...",
       "date": "2026-06-18",
@@ -224,6 +224,14 @@
       "date": "2026-06-18",
       "url": "https://www.meridadiario.com/2026/06/18/comienzan-las-obras-de-reparacion-en-la-avenida-de-extremadura-junto-a-santa-eulalia-el-22-de-junio/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento realiza desbroces en una superficie de 65 hectáreas en los distintos barrios y zonas de la ciudad",
+      "description": "Jun 18, 2026 | Parques y Jardines",
+      "date": "2026-06-18",
+      "url": "https://merida.es/el-ayuntamiento-realiza-desbroces-en-una-superficie-de-65-hectareas-en-los-distintos-barrios-y-zonas-de-la-ciudad/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -295,14 +303,6 @@
       "description": "Jun 12, 2026 | Educación",
       "date": "2026-06-18",
       "url": "https://merida.es/el-cepa-legion-v-de-merida-amplia-su-oferta-educativa-publica-y-gratuita-para-el-curso-2026-2027-con-un-nuevo-grado-basico-y-certificados-profesionales-vinculados-a-servicios-funerarios/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento presenta un programa para el Orgullo 2026 con talleres, presentaciones literarias , cine, eventos deportivos, artes escénicas y conciertos que culminarán con la manifestación regional el 28 de junio",
-      "description": "Jun 11, 2026 | LGTBI",
-      "date": "2026-06-18",
-      "url": "https://merida.es/el-ayuntamiento-presenta-un-programa-para-el-orgullo-2026-con-talleres-presentaciones-literarias-cine-eventos-deportivos-artes-escenicas-y-conciertos-que-culminaran-con-la-manifestacion-regional/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -467,6 +467,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La oferta formativa del IES Santa Eulalia se adapta a las necesidades reales de la ciudad de Mérida",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/la-oferta-formativa-del-ies-santa-eulalia-se-adapta-a-las-necesidades-reales-de-la-ciudad-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Las personas sordas reivindican que se cubran los principales ámbitos de la sociedad con un servicio de intérprete",
       "description": "",
       "date": "2026-06-18",
@@ -491,10 +499,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El CEPA Legión V de Mérida muestra su oferta formativa a la ciudadanía",
+      "title": "DUNAR Arquitectos charlan sobre la transformación de Mérida como soporte de las actividades de sus habitantes",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/el-cepa-legion-v-de-merida-muestra-su-oferta-formativa-a-la-ciudadania-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/06/16/dunar-arquitectos-charlan-sobre-la-transformacion-de-merida-como-soporte-de-las-actividades-de-sus-habitantes-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -523,10 +531,42 @@
       "location": "Mérida"
     },
     {
-      "title": "El MNAR acoge la celebración de las Jornadas Europeas de Arqueología",
+      "title": "La Junta de Extremadura denunciará a Quintana por la llegada de menores migrantes",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/11/el-mnar-acoge-la-celebracion-de-las-jornadas-europeas-de-arqueologia-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/la-junta-de-extremadura-denunciara-a-quintana-por-la-llegada-de-menores-migrantes-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres impulsará una actuación integral en Ronda Vadillo para transformar uno de los principales accesos a la ciudad",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/caceres-impulsara-una-actuacion-integral-en-ronda-vadillo-para-transformar-uno-de-los-principales-accesos-a-la-ciudad-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jaime Jabato se incorpora al Ayuntamiento de Cáceres y el gobierno local prepara una remodelación de competencias",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/jaime-jabato-se-incorpora-al-ayuntamiento-de-caceres-y-el-gobierno-local-prepara-una-remodelacion-de-competencias-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Guareña se vuelca con la diversidad en la primera edición de ‘Guareña con Orgullo 2026’",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/guarena-se-vuelca-con-la-diversidad-en-la-primera-edicion-de-guarena-con-orgullo-2026-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva de la Serena acoge el 5 de julio el Campeonato de Extremadura de triatlón sprint",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/villanueva-de-la-serena-acoge-el-5-de-julio-el-campeonato-de-extremadura-de-triatlon-sprint-ser-vegas-altas/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -579,66 +619,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Manuel Gómez: “Es un error de planificación total que la piscina abra solo con un vaso”",
+      "title": "Las obras de reparación de la Avenida de Extremadura comenzarán el 22 de junio y durarán cinco días",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/manuel-gomez-es-un-error-de-planificacion-total-que-la-piscina-abra-solo-con-un-vaso-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Badajoz Capital del Desayuno abre inscripciones para su séptima edición con nuevas categorías premiadas",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/badajoz-capital-del-desayuno-abre-inscripciones-para-su-septima-edicion-con-nuevas-categorias-premiadas-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Continúa aumentando el precio del alquiler en Extremadura",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/continua-aumentando-el-precio-del-alquiler-en-extremadura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito acoge este sábado la XI edición del Día Mundial del Yoga con actividades gratuitas e inclusivas",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/don-benito-acoge-este-sabado-la-xi-edicion-del-dia-mundial-del-yoga-con-actividades-gratuitas-e-inclusivas-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Nacional rinde homenaje en Badajoz a las víctimas del terrorismo y reclama que su memoria no caiga en el olvido",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/la-policia-nacional-rinde-homenaje-en-badajoz-a-las-victimas-del-terrorismo-y-reclama-que-su-memoria-no-caiga-en-el-olvido-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jaime Lafita recorre España en bicicleta para exigir la aplicación equitativa de la Ley ELA",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/jaime-lafita-recorre-espana-bicicleta-exigir-aplicacion-equitativa-ley-ela_202606116a2a87bb0d35a17610a6b1b6.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/obras-reparacion-avenida-extremadura-comenzaran-22-junio-duraran-cinco-dias_202606186a33dff39b079e64f68e9ac3.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Las solicitudes para las ayudas del Material Escolar para el curso 2026/27 finaliza el próximo 11 de junio",
+      "title": "La periodista Miriam Bañón recibe este jueves el I Premio Nacional de Periodismo de la Ruta del Vino y Cava Ribera del Guadiana",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/solicitudes-ayudas-material-escolar-curso-202627-finaliza-proximo-11-junio_202606046a216c8744a9ef6825ee170b.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/periodista-miriam-banon-recibe-este-jueves-premio-nacional-periodismo-ruta-vino-cava-ribera-guadiana_202606186a334f4f9b079e64f68daf52.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Detenido un varón de 29 años como responsable de una plantación de marihuana en Mérida",
+      "title": "Osuna anuncia que el 19 de junio abrirán tres piscinas de la ciudad menos la de Diocles que estará lista \"aproximamente\" la primera semana de julio",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/detenido-varon-29-anos-como-responsable-plantacion-marihuana-merida_202606106a28c1510d35a176109dede9.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/osuna-anuncia-que-19-junio-abriran-tres-piscinas-ciudad-menos-diocles-que-estara-lista-aproximamente-primera-semana-julio_202606116a2aa5570d35a17610a79c68.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -691,6 +691,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Extremadura (18/06/26)",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-180626_202606186a33da03a77b5b0007663f56.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (17/06/2026)",
       "description": "",
       "date": "2026-06-18",
@@ -711,14 +719,6 @@
       "description": "",
       "date": "2026-06-18",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mit-jazz-festival-finaliza-este-miercoles-homenaje-trompetista-extremeno-felix-bote-jam-sesion-que-tendra-lugar-arco-trajano_202606166a313c922b0b830007f94141.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Noticias mediodía Mérida (16/06/26)",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-160626_202606166a313bbc4b20e10007eed6f8.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -768,6 +768,14 @@
       "date": "2026-06-18",
       "url": "https://merida.es/agenda/cine-filmoteca-conoce-a-los-barbaros/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Organizan una visita guiada al depósito del agua de Rabo de Buey para pedir su puesta en valor",
+      "description": "",
+      "date": "2026-06-17",
+      "url": "https://www.hoy.es/merida/organizan-visita-guiada-deposito-agua-rabo-buey-20260617143519-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -879,22 +887,6 @@
       "description": "",
       "date": "2026-06-15",
       "url": "https://www.hoy.es/merida/edicion-feria-internacional-coleccionismo-emerita-augusta-abre-20260615071257-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "‘Flores bajo hielo’, película sobre represaliadas,  en el María Luisa",
-      "description": "",
-      "date": "2026-06-15",
-      "url": "https://www.hoy.es/merida/flores-bajo-hielo-pelicula-sobre-represaliadas-maria-20260615073425-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida se suma  a la campaña para el reciclaje de vidrio",
-      "description": "",
-      "date": "2026-06-15",
-      "url": "https://www.hoy.es/merida/merida-suma-campana-reciclaje-vidrio-20260615073429-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
