@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-19T11:20:56Z",
-  "count": 104,
+  "updated_at": "2026-06-19T15:58:11Z",
+  "count": 115,
   "events": [
+    {
+      "title": "A la cárcel sin fianza el detenido por dejar grave a un hombre de una puñalada en Mérida",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/19/carcel-sin-fianza-hombre-apunalamiento-merida-carretera-alange-131597859.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Siloé pone la piel de gallina en Mérida con un vendaval emocional de luz y música",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-06-19",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/novedades-stone-music-merida-cinturones-131522974.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de 200 empleos y nuevas instalaciones deportivas, ejes de la inversión de 18 millones de euros en Mérida",
-      "description": "",
-      "date": "2026-06-19",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/200-empleos-nuevas-instalaciones-deportivas-131517395.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -243,6 +243,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
+      "description": "Jun 19, 2026 | Deporte",
+      "date": "2026-06-19",
+      "url": "https://merida.es/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento y AUPEX ofrecen 25 acciones formativas en la Universidad Popular de Mérida",
       "description": "Jun 19, 2026 | Universidad Popular",
       "date": "2026-06-19",
@@ -315,11 +323,83 @@
       "location": "Mérida"
     },
     {
-      "title": "DUNAR Arquitectos, en el ciclo de conferencias “Nova Emérita”",
-      "description": "Jun 15, 2026 | Cultura",
+      "title": "Raúl Beneit seguirá defendiendo el escudo Romano",
+      "description": "",
       "date": "2026-06-19",
-      "url": "https://merida.es/dunar-arquitectos-en-el-ciclo-de-conferencias-nova-emerita/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/16/raul-beneit-seguira-defendiendo-el-escudo-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Eudald Vergés no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jacobo Martí no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jota López, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-06-19",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -483,10 +563,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo Matinal Más de Uno Extremadura (19/06/2026)",
+      "title": "Noticias mediodía Extremadura (19/06/26)",
       "description": "",
       "date": "2026-06-19",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-mas-uno-extremadura-19062026_202606196a34d3f9a77b5b000766418b.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-190626_202606196a352fa9ff3a5e000735747d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -499,10 +579,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (17/06/26)",
+      "title": "Noticias mediodía Mérida (19/06/26)",
       "description": "",
       "date": "2026-06-19",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202606176a328d55b7c3c70007aec105.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606196a352e3ca77b5b000766436f.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -555,10 +635,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Mérida (16/06/2026)",
+      "title": "Informativos mediodía Mérida",
       "description": "",
       "date": "2026-06-19",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-16062026_202606166a313dabb7c3c70007aebcf4.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202606176a328d55b7c3c70007aec105.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Noticias mediodía Mérida (17/06/26)",
+      "description": "",
+      "date": "2026-06-19",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-170626_202606176a328b9641b1b0e4da1a8711.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
