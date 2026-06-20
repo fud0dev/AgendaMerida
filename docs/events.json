@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-20T10:08:09Z",
-  "count": 117,
+  "updated_at": "2026-06-20T15:02:36Z",
+  "count": 139,
   "events": [
+    {
+      "title": "\"Todos los besos que damos, todos me saben a ti\": Siloé engrandece a Mérida",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/20/besos-damos-siloe-engrandece-merida-131625133.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Un balón de oxígeno de 1,5 millones de euros para invertir en vivienda y proyectos en Mérida",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-06-20",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/concejales-vox-abandonan-pleno-merida-131563743.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Casi 200 propietarios expedientados en Mérida por no desbrozar sus solares y parcelas ante el riesgo de incendios",
-      "description": "",
-      "date": "2026-06-20",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/18/200-propietarios-expedientados-merida-desbrozar-131558999.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -195,6 +195,38 @@
       "location": "Mérida"
     },
     {
+      "title": "El 20 de junio se llevará a cabo la primera prueba de oposiciones para el Cuerpo de Maestros en Extremadura",
+      "description": "Oposición al Cuerpo de Maestros: Detalles crucialesLa consejera de Educación, Ciencia y Formación Profesional en funciones, María Mercedes Vaquera, ha confidenciado que la primera...",
+      "date": "2026-06-20",
+      "url": "https://www.meridadiario.com/2026/06/20/el-20-de-junio-se-llevara-a-cabo-la-primera-prueba-de-oposiciones-para-el-cuerpo-de-maestros-en-extremadura/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alerta Naranja por Altas Temperaturas Este Domingo en Extremadura",
+      "description": "Alerta Naranja por Altas Temperaturas en ExtremaduraEste domingo, el Centro Coordinador de Emergencias 112 Extremadura activará una alerta naranja debido a las elevadas temperaturas...",
+      "date": "2026-06-20",
+      "url": "https://www.meridadiario.com/2026/06/20/alerta-naranja-por-altas-temperaturas-este-domingo-en-extremadura/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "AstraZeneca y CIBER se unen para potenciar la ciencia y la innovación en salud respiratoria",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://www.meridadiario.com/2026/06/20/astrazeneca-y-ciber-se-unen-para-potenciar-la-ciencia-y-la-innovacion-en-salud-respiratoria/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fetico destaca su papel en la negociación colectiva y la igualdad",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://www.meridadiario.com/2026/06/20/fetico-destaca-su-papel-en-la-negociacion-colectiva-y-la-igualdad/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
       "description": "Jun 19, 2026 | Deporte",
       "date": "2026-06-20",
@@ -272,6 +304,86 @@
       "date": "2026-06-20",
       "url": "https://merida.es/la-ciudad-de-la-infancia-amplia-su-horario-durante-la-temporada-estival/",
       "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Raúl Beneit seguirá defendiendo el escudo Romano",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/16/raul-beneit-seguira-defendiendo-el-escudo-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Eudald Vergés no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jacobo Martí no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jota López, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lanza ‘Eulalia’, el nuevo asistente virtual inteligente para agilizar la atención a la ciudadanía",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/05/06/el-ayuntamiento-de-merida-lanza-eulalia-el-nuevo-asistente-virtual-inteligente-para-agilizar-la-atencion-a-la-ciudadania/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-06-20",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -411,6 +523,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Desde jaulas y redes hasta el asesoramiento de Fedexcaza: los planes de acción municipales contra las palomas",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://cadenaser.com/extremadura/2026/06/20/desde-aulas-y-redes-hasta-el-asesoramiento-de-fedexcaza-los-planes-de-accion-municipales-contra-las-palomas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Ingresa en prisión el presunto autor de un apuñalamiento en Mérida",
       "description": "",
       "date": "2026-06-20",
@@ -423,14 +543,6 @@
       "description": "",
       "date": "2026-06-20",
       "url": "https://cadenaser.com/extremadura/2026/06/19/el-ayuntamiento-de-merida-aprueba-solicitar-a-la-junta-la-ampliacion-del-servicio-de-itv-en-la-ciudad-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las mejoras en el adoquinado de la Avenida de Extremadura se iniciarán la próxima semana y supondrá el corte al tráfico",
-      "description": "",
-      "date": "2026-06-20",
-      "url": "https://cadenaser.com/extremadura/2026/06/18/las-mejoras-en-el-adoquinado-de-la-avenida-de-extremadura-se-iniciaran-la-proxima-semana-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -495,6 +607,22 @@
       "description": "",
       "date": "2026-06-20",
       "url": "https://cadenaser.com/extremadura/2026/06/15/audifonos-solidarios-la-campana-que-recupera-dispositivos-auditivos-para-quien-no-lo-pueda-comprar-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Exoesqueletos infantiles para mejorar la rehabilitación de menores con discapacidad",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://cadenaser.com/extremadura/2026/06/20/exoesqueletos-infantiles-para-mejorar-la-rehabilitacion-de-menores-con-discapacidad-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cuando la proliferación de palomas y gatos se convierte en un problema de salud pública",
+      "description": "",
+      "date": "2026-06-20",
+      "url": "https://cadenaser.com/extremadura/2026/06/20/cuando-la-proliferacion-de-palomas-y-gatos-se-convierte-en-un-problema-de-salud-publica-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -567,30 +695,6 @@
       "description": "",
       "date": "2026-06-20",
       "url": "https://cadenaser.com/extremadura/2026/06/18/la-feria-de-san-juan-dispondra-de-codigos-qr-en-casetas-con-informacion-sobre-horarios-y-servicios-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La biblioteca ambulante “Tinta de Verano 2026’ volverá a recorrer 12 municipios de la provincia de Badajoz",
-      "description": "",
-      "date": "2026-06-20",
-      "url": "https://cadenaser.com/extremadura/2026/06/18/la-biblioteca-ambulante-tinta-de-verano-2026-volvera-a-recorrer-12-municipios-de-la-provincia-de-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "CCOO reclama mejoras en el sistema de atención a la dependencia de Extremadura",
-      "description": "",
-      "date": "2026-06-20",
-      "url": "https://cadenaser.com/extremadura/2026/06/18/ccoo-reclama-mejoras-en-el-sistema-de-atencion-a-la-dependencia-de-extremadura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cruz Roja y los Bomberos del CPEI son dos de los premiados con la Medalla al Mérito",
-      "description": "",
-      "date": "2026-06-20",
-      "url": "https://cadenaser.com/extremadura/2026/06/18/cruz-roja-y-los-bomberos-del-cpei-son-dos-de-los-premiados-con-la-medalla-al-merito-radio-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -827,6 +931,46 @@
       "location": "Mérida"
     },
     {
+      "title": "Osuna: » Es dinero de todos, 18 millones que vuelven a los ciudadanos convertido en empleo, servicios, infraestructuras y oportunidades”",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
+      "location": "Mérida"
+    },
+    {
+      "title": "Comienzan las obras de reparación en la Avenida de Extremadura junto a Santa Eulalia el 22 de junio",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.meridadiario.com/2026/06/18/comienzan-las-obras-de-reparacion-en-la-avenida-de-extremadura-junto-a-santa-eulalia-el-22-de-junio/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura Intensifica Controles ante el Fenómeno de Migrantes Adultos que se Hacen Pasar por Menores",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.meridadiario.com/2026/06/18/la-junta-de-extremadura-intensifica-controles-ante-el-fenomeno-de-migrantes-adultos-que-se-hacen-pasar-por-menores/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura promueve la construcción sostenible mediante el uso de materiales naturales y técnicas tradicionales",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.meridadiario.com/2026/06/18/la-junta-de-extremadura-promueve-la-construccion-sostenible-mediante-el-uso-de-materiales-naturales-y-tecnicas-tradicionales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida lleva a cabo desbroces en 65 hectáreas de la ciudad",
+      "description": "",
+      "date": "2026-06-18",
+      "url": "https://www.meridadiario.com/2026/06/18/el-ayuntamiento-de-merida-lleva-a-cabo-desbroces-en-65-hectareas-de-la-ciudad/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición “La rebelión de la alegría” de Lidia Santa Bárbara",
       "description": "En esta muestra, Lidia Santa Bárbara comparte sus últimas series y trabajos conectados con la madera, la naturaleza y también con una filosofía del hacer y aprender continuos. Sus múltiples inquietudes y referencias se mezclan en obras que quieren transmitir, en definitiva, el gozo del proceso cr...",
       "date": "2026-06-18",
@@ -899,11 +1043,27 @@
       "location": "Mérida"
     },
     {
+      "title": "La Consejería de Educación de Extremadura Lanza una Innovadora Aplicación para Reducir la Burocracia en los Procesos de Oposición",
+      "description": "",
+      "date": "2026-06-14",
+      "url": "https://www.meridadiario.com/2026/06/14/la-consejeria-de-educacion-de-extremadura-lanza-una-innovadora-aplicacion-para-reducir-la-burocracia-en-los-procesos-de-oposicion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Orgullo LGTBIQ+ Extremadura",
       "description": "Bajo el lema 'Orgullo y resistencia' se celebrará el Orgullo LGTBIQ+ Extremadura en Mérida con numerosas actividades entre el 12 y el 28 de junio organizadas por el Ayuntamiento en colaboración con las entidades LGTBI como Extremadura Entiende, Fundación Triángulo Extremadura y Diver Ceres, y tam...",
       "date": "2026-06-12",
       "url": "https://merida.es/agenda/orgullo-lgtbiq-extremadura-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "El alcalde de Mérida destaca los beneficios del nuevo Real Decreto que incrementará el presupuesto municipal en 1,5 millones de euros",
+      "description": "Intervenciones de la Policía Local en Siniestralidad VialLa Policía Local de Mérida llevó a cabo intervenciones en un total de 18 incidentes relacionados con...",
+      "date": "2026-06-11",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -936,6 +1096,22 @@
       "date": "2026-05-27",
       "url": "https://merida.es/agenda/exposicion-reinterpreta-nuestro-pasado-con-las-manos-del-presente-de-la-escuela-de-arte/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "PwC celebra la graduación de la primera promoción de Work Academy en Madrid",
+      "description": "PwC ha celebrado el acto de graduación de la primera promoción de su programa de talento Work Academy, un proyecto pionero en Europa que...",
+      "date": "2025-07-01",
+      "url": "https://www.meridadiario.com/2025/07/01/pwc-celebra-la-graduacion-de-la-primera-promocion-de-work-academy-en-madrid/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Education First España: España se coloca en el puesto 35 en destreza en inglés a nivel internacional",
+      "description": "España, en la posición 35 del mundo en dominio de inglés, según un informe de Education First España España ocupa la posición número 35...",
+      "date": "2024-03-20",
+      "url": "https://www.meridadiario.com/2024/03/20/education-first-espana-espana-se-coloca-en-el-puesto-35-en-destreza-en-ingles-a-nivel-internacional/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
