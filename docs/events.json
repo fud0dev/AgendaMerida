@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T15:10:49Z",
-  "count": 124,
+  "updated_at": "2026-06-21T20:24:09Z",
+  "count": 123,
   "events": [
     {
       "title": "\"Me prometo carnavales y pasar noches en vela, celebrando y no llorando que llegó la cosa buena\": Antoñito Molina, el himno de Mérida",
@@ -191,6 +191,14 @@
       "description": "",
       "date": "2026-06-21",
       "url": "https://www.hoy.es/merida/juez-merida-manda-prision-provisional-autor-apunalamiento-20260619130059-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rescatan a una mujer de 72 años con síntomas de ahogamiento en el lago de Proserpina",
+      "description": "",
+      "date": "2026-06-21",
+      "url": "https://www.hoy.es/merida/rescatan-mujer-sintomas-ahogamiento-lago-proserpina-20260621172601-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -763,14 +771,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Stone & Music Festival: «Pablo Alborán»",
-      "description": "Pablo Alborán vuelve al Teatro Romano de Mérida y al STONE&MUSIC Festival. Será el 21 de junio cuando el cantante se reencuentre con el público extremeño en su única actuación en la región dentro de su nueva gira global, KM0. Alborán vuelve a los escenarios con KM0, su séptimo álbum de estudio qu...",
-      "date": "2026-06-21",
-      "url": "https://merida.es/agenda/stone-music-festival-pablo-alboran/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "El 20 de junio se llevará a cabo la primera prueba de oposiciones para el Cuerpo de Maestros en Extremadura",
       "description": "",
       "date": "2026-06-20",
@@ -919,14 +919,6 @@
       "description": "",
       "date": "2026-06-16",
       "url": "https://www.hoy.es/merida/merida-exige-junta-solucione-colapso-itv-20260616140044-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El herido por un apuñalamiento en Mérida evoluciona favorablemente en el hospital",
-      "description": "",
-      "date": "2026-06-16",
-      "url": "https://www.hoy.es/merida/herido-apunalamiento-merida-evoluciona-favorablemente-hospital-20260616141005-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
