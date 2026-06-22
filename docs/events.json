@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-22T12:48:43Z",
-  "count": 110,
+  "updated_at": "2026-06-22T17:39:42Z",
+  "count": 100,
   "events": [
+    {
+      "title": "El mayo más romano de Mérida ya tiene fechas: Emerita Lvdica ocupará dos fines de semana en 2027",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/mayo-romano-merida-fechas-emerita-lvdica-2027-131696551.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Tú y tú y tú, y solamente tú\": Pablo Alborán, emperador de Mérida",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/pablo-alboran-emperador-merida-131673833.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La Mérida que se guardó en papel: revistas de 1929, prensa de los 50 y carteles del Festival de Teatro",
       "description": "",
@@ -15,14 +31,6 @@
       "description": "",
       "date": "2026-06-22",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/vecinos-merida-tiran-linterna-movil-calles-oscuras-centro-131674713.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Tú y tú y tú, y solamente tú\": Pablo Alborán, emperador de Mérida",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/pablo-alboran-emperador-merida-131673833.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,18 +91,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida oferta 25 talleres gratuitos de teatro, música, cerámica, idiomas y bienestar",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/21/talleres-universidad-popular-formacion-merida-131626667.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | Vecinos de Mérida tiran de la linterna del móvil para cruzar unas calles donde no se veía nada",
       "description": "",
       "date": "2026-06-22",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Vídeo | Así ha sido el concierto de Pablo Alborán en el teatro Romano de Mérida",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/22/video-concierto-pablo-alboran-merida-131674060.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -147,14 +155,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Rubentonces: \"Me veo en Mérida haciendo una parodia de 'La vida de Brian' vestido de romano\"",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/10/rubentonces-merida-parodia-la-vida-de-brian-131237318.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "La edición 2027 de Emerita Lvdica se celebrará del 7 al 16 de mayo por las elecciones",
       "description": "",
       "date": "2026-06-22",
@@ -195,6 +195,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La DGT inicia este lunes una campaña de control de tramos de carreteras en obras",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.hoy.es/merida/dgt-inicia-lunes-campana-control-tramos-carreteras-20260622170141-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Pablo Alborán reinventa su gira en el Teatro Romano y firma una noche irrepetible en el Stone&Music",
       "description": "",
       "date": "2026-06-22",
@@ -211,11 +219,35 @@
       "location": "Mérida"
     },
     {
-      "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
+      "title": "Helios cambia el etiquetado de su producto y apuesta por la denominación mahonesa",
+      "description": "El término \"mayonesa\" domina con claridad en el uso cotidiano (66%) frente a un minoritario \"mahonesa\". Helios ha llevado a cabo un estudio para medir...",
+      "date": "2026-06-22",
+      "url": "https://www.meridadiario.com/2026/06/22/helios-cambia-el-etiquetado-de-su-producto-y-apuesta-por-la-denominacion-mahonesa/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida ARDE: previsión semanal de la primera ola de calor masiva que arrasa la península",
       "description": "",
       "date": "2026-06-22",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
+      "url": "https://www.meridadiario.com/2026/06/22/merida-arde-prevision-semanal-de-la-primera-ola-de-calor-masiva-que-arrasa-la-peninsula/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Fundación Jiménez Díaz recibe el aval europeo a su modelo transversal contra el cáncer",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.meridadiario.com/2026/06/22/la-fundacion-jimenez-diaz-recibe-el-aval-europeo-a-su-modelo-transversal-contra-el-cancer/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida inaugura su novedosa hemeroteca digital para acercar la historia local a los ciudadanos",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.meridadiario.com/2026/06/22/merida-inaugura-su-novedosa-hemeroteca-digital-para-acercar-la-historia-local-a-los-ciudadanos/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -296,78 +328,6 @@
       "date": "2026-06-22",
       "url": "https://merida.es/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Raúl Beneit seguirá defendiendo el escudo Romano",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/16/raul-beneit-seguira-defendiendo-el-escudo-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eudald Vergés no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jacobo Martí no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jota López, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-06-22",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -611,18 +571,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Tres detenidos en Badajoz pertenecientes a un grupo dedicado a introducir armas prohibidas",
+      "title": "Cancelados los fuegos artificiales de la noche de San Juan en Badajoz por el índice de riesgo de incendios",
       "description": "",
       "date": "2026-06-22",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/tres-detenidos-badajoz-pertenecientes-grupo-dedicado-introducir-armas-prohibidas_202606196a35292f9b079e64f68fe526.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/cancelados-fuegos-artificiales-noche-san-juan-badajoz-indice-riesgo-incendios_202606226a3919b28774b34d61e6f567.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "El dispositivo de Cruz Roja en la Feria de San Juan de Badajoz de este domingo se salda con cuatro asistencias leves",
+      "title": "Tres detenidos en Badajoz pertenecientes a un grupo dedicado a introducir armas prohibidas",
       "description": "",
       "date": "2026-06-22",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/dispositivo-cruz-roja-feria-san-juan-badajoz-este-domingo-salda-cuatro-asistencias-leves_202606226a3902978774b34d61e6d430.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/tres-detenidos-badajoz-pertenecientes-grupo-dedicado-introducir-armas-prohibidas_202606196a35292f9b079e64f68fe526.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -663,38 +623,6 @@
       "description": "Convocatoria de Cursos de Formación en FPLa Consejería de Educación y Formación Profesional ha anunciado oficialmente que el Diario Oficial de Extremadura (DOE) ha...",
       "date": "2026-06-21",
       "url": "https://www.meridadiario.com/2026/06/21/convocatoria-de-admision-y-matriculacion-en-cursos-preparatorios-para-acceso-a-ciclos-formativos-de-fp-en-extremadura/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Plan INFOEX combate 43 incendios forestales en Extremadura durante la última semana",
-      "description": "El Plan INFOEX se activa ante la amenaza de incendios en ExtremaduraEn la última semana, coincidiendo con un periodo de elevado riesgo de incendios,...",
-      "date": "2026-06-21",
-      "url": "https://www.meridadiario.com/2026/06/21/el-plan-infoex-combate-43-incendios-forestales-en-extremadura-durante-la-ultima-semana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Predicción meteorológica: Mérida, 21 de Junio de 2026",
-      "description": "",
-      "date": "2026-06-21",
-      "url": "https://www.meridadiario.com/2026/06/21/prediccion-meteorologica-merida-21-de-junio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura impulsa talleres para fortalecer el sector agroalimentario con un nuevo Espacio de Datos",
-      "description": "",
-      "date": "2026-06-21",
-      "url": "https://www.meridadiario.com/2026/06/21/la-junta-de-extremadura-impulsa-talleres-para-fortalecer-el-sector-agroalimentario-con-un-nuevo-espacio-de-datos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura destina 5,2 millones de euros en ayudas a 50 empresas para impulsar inversiones en la región",
-      "description": "",
-      "date": "2026-06-21",
-      "url": "https://www.meridadiario.com/2026/06/21/la-junta-de-extremadura-destina-52-millones-de-euros-en-ayudas-a-50-empresas-para-impulsar-inversiones-en-la-region/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -779,19 +707,11 @@
       "location": "Mérida"
     },
     {
-      "title": "El SEPAD destina más de 2 millones de euros para proyectos de atención a personas con deterioro cognitivo en Extremadura",
-      "description": "",
-      "date": "2026-06-19",
-      "url": "https://www.meridadiario.com/2026/06/19/el-sepad-destina-mas-de-2-millones-de-euros-para-proyectos-de-atencion-a-personas-con-deterioro-cognitivo-en-extremadura/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local recibirá 488.000 euros por horas extras y otros funcionarios, 176.000  por varios conceptos",
+      "title": "El Ayuntamiento de Mérida lleva a cabo desbroces en 65 hectáreas de la ciudad",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://www.hoy.es/merida/policia-local-recibira-488000-euros-horas-extras-20260618141120-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.meridadiario.com/2026/06/18/el-ayuntamiento-de-merida-lleva-a-cabo-desbroces-en-65-hectareas-de-la-ciudad/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -827,7 +747,7 @@
       "location": "Mérida"
     },
     {
-      "title": "La Mártir Santa Eulalia deslumbrará en sus procesiones con un vestido blanco adornado en oro y una decoración floral en suaves tonos pastel",
+      "title": "Constituida la primera edición de los Premios Albia de sostenibilidad con directivos de Dirse, Panasef, Forética, AEC y Grupo Santalucía",
       "description": "Intervenciones de la Policía Local en Siniestralidad VialLa Policía Local de Mérida llevó a cabo intervenciones en un total de 18 incidentes relacionados con...",
       "date": "2026-06-11",
       "url": "https://www.meridadiario.com/",
@@ -867,18 +787,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Predicción meteorológica: Mérida, 12 de Abril de 2025",
-      "description": "Predicción Meteorológica para Mérida el 12 de Abril de 2025 Bienvenidos a la actualización meteorológica para hoy, 12 de abril de 2025, enfocada en la...",
-      "date": "2025-04-12",
-      "url": "https://www.meridadiario.com/2025/04/12/prediccion-meteorologica-merida-12-de-abril-de-2025/",
+      "title": "La Junta de Extremadura aprueba ayudas de hasta 10.000 euros para la adquisición de viviendas protegidas",
+      "description": "La Junta de Extremadura ofrece apoyos para la compra de viviendas protegidasEn una reciente reunión del Consejo de Gobierno de la Junta de Extremadura,...",
+      "date": "2025-10-14",
+      "url": "https://www.meridadiario.com/2025/10/14/la-junta-de-extremadura-aprueba-ayudas-de-hasta-10-000-euros-para-la-adquisicion-de-viviendas-protegidas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Reunión real en el Hospital Ruber Internacional con doña Sofía",
-      "description": "Los Reyes acudieron este jueves al Hospital Ruber Internacional para visitar a la reina Sofía, que permanece ingresada desde hace un par de días...",
-      "date": "2024-04-12",
-      "url": "https://www.meridadiario.com/2024/04/12/reunion-real-en-el-hospital-ruber-internacional-con-dona-sofia/",
+      "title": "Situación actual de la plantilla",
+      "description": "Tras la finalización de la temporada 2022/23 la situación actual de la plantilla de la Asociación Deportiva Mérida SAD queda de la siguiente manera: Jugadores...",
+      "date": "2023-05-31",
+      "url": "https://www.meridadiario.com/2023/05/31/situacion-actual-de-la-plantilla/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
