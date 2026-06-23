@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-23T10:35:31Z",
-  "count": 131,
+  "updated_at": "2026-06-23T15:45:55Z",
+  "count": 112,
   "events": [
+    {
+      "title": "Un conductor ebrio, dos sin carné y cuatro heridos en las calles de Mérida",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/conductor-ebrio-dos-sin-carne-cuatro-heridos-merida-131721302.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alberto, el carnavalero de Mérida que se lleva 29.022 euros en 'Allá Tú' y una sorpresa inolvidable",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/alberto-carnavalero-merida-gana-30-000-euros-alla-tu-television-telecinco-131720223.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La barriada de San Juan de Mérida celebra fiesta por partida doble con su patrón y la Semana Cultural",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/barriada-san-juan-merida-celebra-fiesta-partida-doble-131716832.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El adoquín vuelve a levantar ampollas en Mérida: tercera intervención en un año en la avenida de Extremadura",
       "description": "",
@@ -67,26 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Tres premios y una misma vocación: el periodismo que se hace desde Mérida",
+      "title": "Vídeo | El adoquín vuelve a levantar ampollas en Mérida: tercera intervención en un año en la avenida de Extremadura",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/tres-premios-vocacion-periodismo-merida-131634578.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La UNED de Mérida revisará la huella de Roma y la Edad Media en dos cursos de verano",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/uned-formacion-cursos-universidad-roma-merida-131634119.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Me prometo carnavales y pasar noches en vela, celebrando y no llorando que llegó la cosa buena\": Antoñito Molina, el himno de Mérida",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/21/prometo-carnavales-pasar-noches-vela-131647287.html",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -94,7 +102,7 @@
       "title": "Vídeo | Vecinos de Mérida tiran de la linterna del móvil para cruzar unas calles donde no se veía nada",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/22/video-vecinos-merida-tiran-linterna-calles-oscuras-131676382.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -147,11 +155,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Video | Malú conquista al público extremeño en el Teatro Romano de Mérida",
+      "title": "El Archivo Histórico Municipal de Mérida estrena su nueva hemeroteca digital",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/13/video-malu-conquista-publico-extremeno-131361568.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/archivo-historico-municipal-merida-estrena-nueva-hemeroteca-20260623131519-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -187,19 +195,43 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consorcio de la Ciudad Monumental de Mérida organiza el 10 y el 11 de julio las jornadas de arqueología e historia medieval",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-organiza-julio-jornadas-arqueologia-20260622184647-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Comienza la obra de mejora del pavimento junto al Hornito",
       "description": "",
       "date": "2026-06-23",
       "url": "https://www.hoy.es/merida/comienza-obra-mejora-pavimento-junto-hornito-20260623081912-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento presenta la campaña «Lo normal cambia, sus consecuencias no» para afrontar los retos pendientes en el consumo de alcohol en menores",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://merida.es/el-ayuntamiento-presenta-la-campana-lo-normal-cambia-sus-consecuencias-no-para-afrontar-los-retos-pendientes-en-el-consumo-de-alcohol-en-menores/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La barriada de La Corchera celebra desde hoy su Semana Cultural 2026 con cinco días de convivencia, cultura y ocio vecinal",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://merida.es/la-barriada-de-la-corchera-celebra-desde-hoy-su-semana-cultural-2026-con-cinco-dias-de-convivencia-cultura-y-ocio-vecinal/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El IES Santa Eulalia de Mérida amplía su oferta educativa en horario vespertino para el curso 2026/2027",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://merida.es/el-ies-santa-eulalia-de-merida-amplia-su-oferta-educativa-en-horario-vespertino-para-el-curso-2026-2027/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local registró un total de 20 incidentes relacionados con la siniestralidad vial la semana pasada",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://merida.es/la-policia-local-registro-un-total-de-20-incidentes-relacionados-con-la-siniestralidad-vial-la-semana-pasada/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -254,32 +286,32 @@
       "title": "Rodríguez Osuna valora positivamente el Real Decreto de Entregas a Cuenta, que permitirá a Mérida disponer de 1,5 millones de euros adicionales",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://merida.es/rodriguez-osuna-valora-positivamente-el-real-decreto-de-entregas-a-cuenta-que-permitira-a-merida-disponer-de-15-millones-de-euros-adicionales/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/19/rodriguez-osuna-valora-positivamente-el-real-decreto-de-entregas-a-cuenta-que-permitira-a-merida-disponer-de-15-millones-de-euros-adicionales/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Ayuntamiento realiza desbroces en una superficie de 65 hectáreas en los distintos barrios y zonas de la ciudad",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://merida.es/el-ayuntamiento-realiza-desbroces-en-una-superficie-de-65-hectareas-en-los-distintos-barrios-y-zonas-de-la-ciudad/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/18/el-ayuntamiento-realiza-desbroces-en-una-superficie-de-65-hectareas-en-los-distintos-barrios-y-zonas-de-la-ciudad/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "Las obras de reparación del tramo de la Avenida de Extremadura junto a Santa Eulalia comenzarán el próximo 22 de junio y tendrán una duración de cinco días",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://merida.es/las-obras-de-reparacion-del-tramo-de-la-avenida-de-extremadura-junto-a-santa-eulalia-comenzaran-el-proximo-22-de-junio-y-tendran-una-duracion-de-cinco-dias/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/18/las-obras-de-reparacion-del-tramo-de-la-avenida-de-extremadura-junto-a-santa-eulalia-comenzaran-el-proximo-22-de-junio-y-tendran-una-duracion-de-cinco-dias/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Ayuntamiento destinará más de 18 millones de euros del remanente positivo de tesorería a empleo, accesibilidad, deporte, barriadas y servicios públicos",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://merida.es/el-ayuntamiento-destinara-mas-de-18-millones-de-euros-del-remanente-positivo-de-tesoreria-a-empleo-accesibilidad-deporte-barriadas-y-servicios-publicos/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/17/el-ayuntamiento-destinara-mas-de-18-millones-de-euros-del-remanente-positivo-de-tesoreria-a-empleo-accesibilidad-deporte-barriadas-y-servicios-publicos/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -499,174 +531,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La AD Mérida abre la campaña de abonos para la próxima temporada",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/la-ad-merida-abre-la-campana-de-abonos-para-la-proxima-temporada-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida refuerza las medidas de prevención ante las altas temperaturas",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/el-ayuntamiento-de-merida-refuerza-las-medidas-de-prevencion-ante-las-altas-temperaturas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La XVII Edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/la-xvii-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Archivo municipal abre la hemeroteca digital como nueva ventana al pasado",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/el-archivo-municipal-abre-la-hemeroteca-digital-como-nueva-ventana-al-pasado-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abierto el período de solicitudes para las actividades de la UPM",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/abierto-el-periodo-de-solicitudes-para-las-actividades-de-la-upm-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ya están abiertas las piscinas municipales de Mérida",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/ya-estan-abiertas-las-piscinas-municipales-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cinematic Extremadura' o cómo conocer la región a través del cine y el inglés",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/cinematic-extremadura-o-como-conocer-la-region-a-traves-del-cine-y-el-ingles-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las personas sordas reivindican que se cubran los principales ámbitos de la sociedad con un servicio de intérprete",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/las-personas-sordas-reivindican-que-se-cubran-los-principales-ambitos-de-la-sociedad-con-un-servicio-de-interprete-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Montijo se postula para ser sede de la Universidad de Mayores de Extremadura",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/montijo-se-postula-para-ser-sede-de-la-universidad-de-mayores-de-extremadura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Valdelacalzada en Flor ya cuenta con la declaración de Fiesta de Interés Turístico Regional",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/17/valdelacalzada-en-flor-ya-cuenta-con-la-declaracion-de-fiesta-de-interes-turistico-regional-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El CEPA Legión V de Mérida muestra su oferta formativa a la ciudadanía",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/16/el-cepa-legion-v-de-merida-muestra-su-oferta-formativa-a-la-ciudadania-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La primavera de 2026 fue la cuarta más seca y una de las más cálidas de las últimas décadas en Extremadura",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/la-primavera-de-2026-fue-la-cuarta-mas-seca-y-una-de-las-mas-calidas-de-las-ultimas-decadas-en-extremadura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura excepto el sur de Badajoz estará este martes en alerta naranja por temperaturas de hasta 40 grados",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/extremadura-excepto-el-sur-de-badajoz-estara-este-martes-en-alerta-naranja-por-temperaturas-de-hasta-40-grados-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Badajoz llora la muerte de José Galindo e Isidra Méndez",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/badajoz-llora-la-muerte-de-jose-galindo-e-isidra-mendez-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Coria ultima los preparativos para vivir unos Sanjuanes marcados por el calor",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/coria-ultima-los-preparativos-para-vivir-unos-sanjuanes-marcados-por-el-calor-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Elena Manzano inicia su carrera para presidir el PP de Cáceres con el respaldo de más de 1.500 avales",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/elena-manzano-inicia-su-carrera-para-presidir-el-pp-de-caceres-con-el-respaldo-de-mas-de-1500-avales-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres refuerza su compromiso con la diversidad con una Semana del Orgullo ampliada y más actividades reivindicativas",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/caceres-refuerza-su-compromiso-con-la-diversidad-con-una-semana-del-orgullo-ampliada-y-mas-actividades-reivindicativas-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Auditorio de FEVAL acoge este viernes la gala de los II Premios de Periodismo “Ciudad de Don Benito”",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/el-auditorio-de-feval-acoge-este-viernes-la-gala-de-los-ii-premios-de-periodismo-ciudad-de-don-benito-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Se suspenden los fuegos artificiales por la feria de Badajoz",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/se-suspenden-los-fuegos-artificiales-por-la-feria-de-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Luismi Álvarez impulsa la segunda edición del Campus de Verano de Piornal mientras prepara su regreso al banquillo de la UP Plasencia",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/luismi-alvarez-impulsa-la-segunda-edicion-del-campus-de-verano-de-piornal-mientras-prepara-su-regreso-al-banquillo-de-la-up-plasencia-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Juez, el artista que dejó una huella imborrable en Badajoz",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://cadenaser.com/extremadura/2026/06/22/antonio-juez-el-artista-que-dejo-una-huella-imborrable-en-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Las obras de reparación de la Avenida de Extremadura comenzarán el 22 de junio y durarán cinco días",
       "description": "",
       "date": "2026-06-23",
@@ -691,10 +555,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (23/06/26)",
+      "title": "Noticias mediodía Extremadura (23/06/26)",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-230626_202606236a3a19f17710a10008aaa25a.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-230626_202606236a3a75cd7710a10008aaa45a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -707,10 +571,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (22/06/26)",
+      "title": "Noticias mediodía Mérida (23/06/26)",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606226a39227461fab0e4416f035b.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606236a3a73836530b0e4dae96674.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -723,18 +587,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Extremadura Entiende organiza diversas actividades previas a la conmemoración del Día del Orgullo LGTBI+",
+      "title": "En verano aumentan las preocupaciones por la imagen corporal, las comparaciones y el juicio de los demás, por eso os contamos cómo cambiar la forma en la que nos miramos",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/extremadura-entiende-organiza-diversas-actividades-previas-conmemoracion-dia-orgullo-lgtbi_202606176a328e3ab7c3c70007aec111.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/verano-aumentan-preocupaciones-imagen-corporal-comparaciones-juicio-demas-eso-contamos-como-cambiar-forma-que-nos-miramos_202606236a3a7a8e7710a10008aaa480.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Recomendaciones a tener en cuenta para evitar las consecuencias de las altas temperaturas",
+      "title": "Antonio Gutiérrez se alza con el Campeonato de Extremadura de coctelería con la vista puesta en el nacional",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/recomendaciones-tener-cuenta-evitar-consecuencias-altas-temperaturas_202606176a328c6c41b1b0e4e61a8711.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/antonio-gutierrez-alza-campeonato-extremadura-cocteleria-vista-puesta-nacional_202606236a3a78521de1190007a1c2b4.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -755,22 +619,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Extremadura (18/06/26)",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-180626_202606186a33da03a77b5b0007663f56.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Mérida (17/06/2026)",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-17062026_202606176a328f1fa574f50007be711b.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Badajoz alcanza la temperatura más alta del país este jueves con 39,1 grados",
       "description": "",
       "date": "2026-06-23",
@@ -787,10 +635,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El dispositivo de Cruz Roja en la Feria de San Juan de Badajoz de este domingo se salda con cuatro asistencias leves",
+      "title": "Ignacio Gragera en Ondacero Badajoz: \"Los Fuegos artificiales se lanzarán previsiblemente este sábado\"",
       "description": "",
       "date": "2026-06-23",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/dispositivo-cruz-roja-feria-san-juan-badajoz-este-domingo-salda-cuatro-asistencias-leves_202606226a3902978774b34d61e6d430.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/ignacio-gragera-ondacero-badajoz-fuegos-artificiales-lanzaran-previsiblemente-este-sabado_202606236a3a65de95cc61359cdae85f.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -823,6 +671,14 @@
       "description": "",
       "date": "2026-06-22",
       "url": "https://www.hoy.es/merida/universidad-popular-merida-ofrece-acciones-formativas-segundo-20260622185709-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Consorcio de la Ciudad Monumental de Mérida organiza el 10 y el 11 de julio las jornadas de arqueología e historia medieval",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-organiza-julio-jornadas-arqueologia-20260622184647-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -959,14 +815,6 @@
       "description": "",
       "date": "2026-06-19",
       "url": "https://www.hoy.es/merida/merida-recibira-millones-ano-gracias-actualizacion-entregas-20260619104946-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cortes de tráfico en la avenida de Extremadura la próxima semana por la reparación de la calzada frente a Santa Eulalia",
-      "description": "",
-      "date": "2026-06-19",
-      "url": "https://www.hoy.es/merida/cortes-trafico-avenida-extremadura-proxima-semana-reparacion-20260618114037-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
