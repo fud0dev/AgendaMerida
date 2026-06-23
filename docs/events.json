@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-23T15:45:55Z",
-  "count": 112,
+  "updated_at": "2026-06-23T20:59:42Z",
+  "count": 113,
   "events": [
+    {
+      "title": "El IES Santa Eulalia de Mérida allana por las tardes el camino a los ciclos de FP",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/acceso-fp-se-estudia-ies-santa-eulalia-merida-131735114.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Un conductor ebrio, dos sin carné y cuatro heridos en las calles de Mérida",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Disfruta del verano en Mérida: la Ciudad de la Infancia abre sus puertas a diario con atracciones acuáticas y juegos para toda la familia",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/disfruta-verano-merida-ciudad-infancia-parque-131647022.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | El adoquín vuelve a levantar ampollas en Mérida: tercera intervención en un año en la avenida de Extremadura",
       "description": "",
       "date": "2026-06-23",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El emeritense Alberto Rodríguez gana 30.000 euros en ¡Allá tú!, el cuarto mayor premio del concurso",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.hoy.es/merida/emeritense-alberto-rodriguez-gana-30000-euros-alla-20260623203933-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El Archivo Histórico Municipal de Mérida estrena su nueva hemeroteca digital",
       "description": "",
       "date": "2026-06-23",
@@ -187,19 +195,43 @@
       "location": "Mérida"
     },
     {
-      "title": "La reforma integral del pabellón Guadiana de Mérida finalizará a mediados de julio",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.hoy.es/merida/reforma-integral-pabellon-guadiana-finalizara-mediados-julio-20260622183927-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Comienza la obra de mejora del pavimento junto al Hornito",
       "description": "",
       "date": "2026-06-23",
       "url": "https://www.hoy.es/merida/comienza-obra-mejora-pavimento-junto-hornito-20260623081912-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Damm apuesta por la internacionalización tras alcanzar los 2.010 millones de facturación",
+      "description": "El negocio internacional representa ya el 30% de la actividad de Damm, en un ejercicio marcado por la apertura de su primera fábrica en...",
+      "date": "2026-06-23",
+      "url": "https://www.meridadiario.com/2026/06/23/damm-apuesta-por-la-internacionalizacion-tras-alcanzar-los-2-010-millones-de-facturacion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 23 de Junio de 2026",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.meridadiario.com/2026/06/23/el-tiempo-en-merida-hoy-23-de-junio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Audiencia Provincial de Madrid confirma la legalidad de la operación entre LALIGA y CVC",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.meridadiario.com/2026/06/23/la-audiencia-provincial-de-madrid-confirma-la-legalidad-de-la-operacion-entre-laliga-y-cvc/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura destina 2.500 euros a 147 estudiantes universitarios para gastos de residencia",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.meridadiario.com/2026/06/23/la-junta-de-extremadura-destina-2-500-euros-a-147-estudiantes-universitarios-para-gastos-de-residencia/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -627,18 +659,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Cancelados los fuegos artificiales de la noche de San Juan en Badajoz por el índice de riesgo de incendios",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/cancelados-fuegos-artificiales-noche-san-juan-badajoz-indice-riesgo-incendios_202606226a3919b28774b34d61e6f567.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Ignacio Gragera en Ondacero Badajoz: \"Los Fuegos artificiales se lanzarán previsiblemente este sábado\"",
       "description": "",
       "date": "2026-06-23",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/ignacio-gragera-ondacero-badajoz-fuegos-artificiales-lanzaran-previsiblemente-este-sabado_202606236a3a65de95cc61359cdae85f.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cancelados los fuegos artificiales de la noche de San Juan en Badajoz por el índice de riesgo de incendios",
+      "description": "",
+      "date": "2026-06-23",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/cancelados-fuegos-artificiales-noche-san-juan-badajoz-indice-riesgo-incendios_202606226a3919b28774b34d61e6f567.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -667,6 +699,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La reforma integral del pabellón Guadiana de Mérida finalizará a mediados de julio",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.hoy.es/merida/reforma-integral-pabellon-guadiana-finalizara-mediados-julio-20260622183927-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La Universidad Popular de Mérida ofrece 25 actividades formativas en el segundo semestre del año",
       "description": "",
       "date": "2026-06-22",
@@ -688,38 +728,6 @@
       "date": "2026-06-22",
       "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
       "source": "Mérida y Comarca",
-      "location": "Mérida"
-    },
-    {
-      "title": "Helios cambia el etiquetado de su producto y apuesta por la denominación mahonesa",
-      "description": "El término \"mayonesa\" domina con claridad en el uso cotidiano (66%) frente a un minoritario \"mahonesa\". Helios ha llevado a cabo un estudio para medir...",
-      "date": "2026-06-22",
-      "url": "https://www.meridadiario.com/2026/06/22/helios-cambia-el-etiquetado-de-su-producto-y-apuesta-por-la-denominacion-mahonesa/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida ARDE: previsión semanal de la primera ola de calor masiva que arrasa la península",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.meridadiario.com/2026/06/22/merida-arde-prevision-semanal-de-la-primera-ola-de-calor-masiva-que-arrasa-la-peninsula/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Fundación Jiménez Díaz recibe el aval europeo a su modelo transversal contra el cáncer",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.meridadiario.com/2026/06/22/la-fundacion-jimenez-diaz-recibe-el-aval-europeo-a-su-modelo-transversal-contra-el-cancer/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida inaugura su novedosa hemeroteca digital para acercar la historia local a los ciudadanos",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.meridadiario.com/2026/06/22/merida-inaugura-su-novedosa-hemeroteca-digital-para-acercar-la-historia-local-a-los-ciudadanos/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -751,6 +759,14 @@
       "description": "Convocatoria de Cursos de Formación en FPLa Consejería de Educación y Formación Profesional ha anunciado oficialmente que el Diario Oficial de Extremadura (DOE) ha...",
       "date": "2026-06-21",
       "url": "https://www.meridadiario.com/2026/06/21/convocatoria-de-admision-y-matriculacion-en-cursos-preparatorios-para-acceso-a-ciclos-formativos-de-fp-en-extremadura/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Plan INFOEX combate 43 incendios forestales en Extremadura durante la última semana",
+      "description": "",
+      "date": "2026-06-21",
+      "url": "https://www.meridadiario.com/2026/06/21/el-plan-infoex-combate-43-incendios-forestales-en-extremadura-durante-la-ultima-semana/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -811,26 +827,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Osuna valora que la ciudad recibirá 1,5 millones más este año gracias a la actualización de las entregas a cuenta del Estado",
-      "description": "",
-      "date": "2026-06-19",
-      "url": "https://www.hoy.es/merida/merida-recibira-millones-ano-gracias-actualizacion-entregas-20260619104946-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida lleva a cabo desbroces en 65 hectáreas de la ciudad",
+      "title": "La Junta de Extremadura Intensifica Controles ante el Fenómeno de Migrantes Adultos que se Hacen Pasar por Menores",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://www.meridadiario.com/2026/06/18/el-ayuntamiento-de-merida-lleva-a-cabo-desbroces-en-65-hectareas-de-la-ciudad/",
+      "url": "https://www.meridadiario.com/2026/06/18/la-junta-de-extremadura-intensifica-controles-ante-el-fenomeno-de-migrantes-adultos-que-se-hacen-pasar-por-menores/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Comienzan las obras de reparación en la Avenida de Extremadura junto a Santa Eulalia el 22 de junio",
+      "title": "Inauguración de la Nueva Pasarela Peatonal en Alcántara Junto al Puente Romano",
       "description": "",
       "date": "2026-06-18",
-      "url": "https://www.meridadiario.com/2026/06/18/comienzan-las-obras-de-reparacion-en-la-avenida-de-extremadura-junto-a-santa-eulalia-el-22-de-junio/",
+      "url": "https://www.meridadiario.com/2026/06/18/inauguracion-de-la-nueva-pasarela-peatonal-en-alcantara-junto-al-puente-romano/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -859,7 +867,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Constituida la primera edición de los Premios Albia de sostenibilidad con directivos de Dirse, Panasef, Forética, AEC y Grupo Santalucía",
+      "title": "Asamblea General de Cofares respalda a Eduardo Pastor como presidente con el 75,88%",
       "description": "Intervenciones de la Policía Local en Siniestralidad VialLa Policía Local de Mérida llevó a cabo intervenciones en un total de 18 incidentes relacionados con...",
       "date": "2026-06-11",
       "url": "https://www.meridadiario.com/",
@@ -883,18 +891,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura aprueba ayudas de hasta 10.000 euros para la adquisición de viviendas protegidas",
-      "description": "La Junta de Extremadura ofrece apoyos para la compra de viviendas protegidasEn una reciente reunión del Consejo de Gobierno de la Junta de Extremadura,...",
-      "date": "2025-10-14",
-      "url": "https://www.meridadiario.com/2025/10/14/la-junta-de-extremadura-aprueba-ayudas-de-hasta-10-000-euros-para-la-adquisicion-de-viviendas-protegidas/",
+      "title": "Restaurar la fertilidad tras el cáncer ya es una posibilidad real",
+      "description": "La medicina avanza, y con ella, las posibilidades de reconstruir la vida de aquellas mujeres que han enfrentado el cáncer y sus tratamientos, recuperando...",
+      "date": "2025-10-30",
+      "url": "https://www.meridadiario.com/2025/10/30/restaurar-la-fertilidad-tras-el-cancer-ya-es-una-posibilidad-real/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Situación actual de la plantilla",
-      "description": "Tras la finalización de la temporada 2022/23 la situación actual de la plantilla de la Asociación Deportiva Mérida SAD queda de la siguiente manera: Jugadores...",
-      "date": "2023-05-31",
-      "url": "https://www.meridadiario.com/2023/05/31/situacion-actual-de-la-plantilla/",
+      "title": "Sexta edición del curso de patronaje de la Conferencia de San Vicente de Paúl",
+      "description": "La delegada de servicios sociales, Catalina Alarcón, ha asistido, al acto de entrega de diplomas del Curso de Patronaje, Diseño, Corte y Confección que...",
+      "date": "2021-12-22",
+      "url": "https://www.meridadiario.com/2021/12/22/sexta-edicion-del-curso-de-patronaje-de-la-conferencia-de-san-vicente-de-paul/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
