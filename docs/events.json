@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-24T10:21:41Z",
-  "count": 100,
+  "updated_at": "2026-06-24T15:32:24Z",
+  "count": 123,
   "events": [
+    {
+      "title": "Julio llega con nómina en Mérida: 178 contratos públicos y estas son las plazas",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/24/178-empleos-publicos-merida-plazas-julio-131764306.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Pedro Acosta, el boxeador que guarda la puerta del Jazz y vigila el Hospital de Mérida",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/24/pedro-acosta-boxeador-guarda-puerta-jazz-y-vigila-hospital-merida-131761629.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Una colosal grúa levanta todas las miradas junto a la Torre de Mérida",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "\"Tú y tú y tú, y solamente tú\": Pablo Alborán, emperador de Mérida",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/pablo-alboran-emperador-merida-131673833.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Mérida que se guardó en papel: revistas de 1929, prensa de los 50 y carteles del Festival de Teatro",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/22/merida-papel-revistas-carteles-internet-digitalizacion-archivo-131677806.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | El adoquín vuelve a levantar ampollas en Mérida: tercera intervención en un año en la avenida de Extremadura",
       "description": "",
       "date": "2026-06-24",
@@ -147,10 +147,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Fotogalería | Las mejores imágenes del concierto de Malú en Mérida",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/13/fotogaleria-mejores-imagenes-concierto-malu-131361795.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "La Factoría Joven se mantiene cerrada tras cerca de 1,5 millones invertidos",
       "description": "",
       "date": "2026-06-24",
       "url": "https://www.hoy.es/merida/factoria-joven-mantiene-cerrada-tras-cerca-millones-20260624080320-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El instituto 'Santa Eulalia' amplía su oferta en estudios vespertinos para el próximo curso",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.hoy.es/merida/instituto-santa-eulalia-amplia-oferta-estudios-vespertinos-20260624155340-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -179,11 +195,19 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento de Mérida refuerza las medidas de prevención para proteger a su personal del calor",
+      "title": "El Ayuntamiento impulsa el mayor Plan Especial de Empleo de su historia con 178 contrataciones para reforzar los servicios municipales",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-refuerza-medidas-prevencion-proteger-personal-20260622125128-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/el-ayuntamiento-impulsa-el-mayor-plan-especial-de-empleo-de-su-historia-con-178-contrataciones-para-reforzar-los-servicios-municipales/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Trofeo Internacional Emérita Augusta congrega a todos los clubes de la región y a varios de otras comunidades el próximo sábado en la piscina del polideportivo Guadiana",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://merida.es/el-trofeo-internacional-emerita-augusta-congrega-a-todos-los-clubes-de-la-region-y-a-varios-de-otras-comunidades-el-proximo-sabado-en-la-piscina-del-polideportivo-guadiana/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -195,18 +219,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La barriada de La Corchera celebra desde hoy su Semana Cultural 2026 con cinco días de convivencia, cultura y ocio vecinal",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://merida.es/la-barriada-de-la-corchera-celebra-desde-hoy-su-semana-cultural-2026-con-cinco-dias-de-convivencia-cultura-y-ocio-vecinal/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "El IES Santa Eulalia de Mérida amplía su oferta educativa en horario vespertino para el curso 2026/2027",
       "description": "",
       "date": "2026-06-24",
       "url": "https://merida.es/el-ies-santa-eulalia-de-merida-amplia-su-oferta-educativa-en-horario-vespertino-para-el-curso-2026-2027/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La barriada de La Corchera celebra desde hoy su Semana Cultural 2026 con cinco días de convivencia, cultura y ocio vecinal",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://merida.es/la-barriada-de-la-corchera-celebra-desde-hoy-su-semana-cultural-2026-con-cinco-dias-de-convivencia-cultura-y-ocio-vecinal/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -251,22 +275,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://merida.es/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento y AUPEX ofrecen 25 acciones formativas en la Universidad Popular de Mérida",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://merida.es/el-ayuntamiento-y-aupex-ofrecen-25-acciones-formativas-en-la-universidad-popular-de-merida/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "Una mujer de 81 años muere y un hombre de 82 resulta herido grave en una salida de vía cerca de Torremejía",
       "description": "Mérida",
       "date": "2026-06-24",
@@ -279,14 +287,6 @@
       "description": "Stone & Music Festival",
       "date": "2026-06-24",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/13/malu-confiesa-teatro-romano-merida-131362705.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Las mejores imágenes del concierto de Malú en Mérida",
-      "description": "Mérida",
-      "date": "2026-06-24",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/06/13/fotogaleria-mejores-imagenes-concierto-malu-131361794.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -411,6 +411,182 @@
       "location": "Mérida"
     },
     {
+      "title": "El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-nuevo-plan-de-empleo-especial-de-merida-permitira-178-contrataciones-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La AD Mérida abre la campaña de abonos para la próxima temporada",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/la-ad-merida-abre-la-campana-de-abonos-para-la-proxima-temporada-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida refuerza las medidas de prevención ante las altas temperaturas",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/22/el-ayuntamiento-de-merida-refuerza-las-medidas-de-prevencion-ante-las-altas-temperaturas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Polideportivo Guadiana acoge el XIX Trofeo este fin de semana",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-polideportivo-guadiana-acoge-el-xix-trofeo-este-fin-de-semana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El montijano Jesús Corzo correrá 650km del Camino de Santiago en apoyo al autismo",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/el-montijano-jesus-corzo-correra-650km-del-camino-de-santiago-en-apoyo-al-autismo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Archivo municipal abre la hemeroteca digital como nueva ventana al pasado",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/el-archivo-municipal-abre-la-hemeroteca-digital-como-nueva-ventana-al-pasado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el período de solicitudes para las actividades de la UPM",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/abierto-el-periodo-de-solicitudes-para-las-actividades-de-la-upm-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Cinematic Extremadura' o cómo conocer la región a través del cine y el inglés",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/19/cinematic-extremadura-o-como-conocer-la-region-a-traves-del-cine-y-el-ingles-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La oferta formativa del IES Santa Eulalia se adapta a las necesidades reales de la ciudad de Mérida",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/la-oferta-formativa-del-ies-santa-eulalia-se-adapta-a-las-necesidades-reales-de-la-ciudad-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las personas sordas reivindican que se cubran los principales ámbitos de la sociedad con un servicio de intérprete",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/17/las-personas-sordas-reivindican-que-se-cubran-los-principales-ambitos-de-la-sociedad-con-un-servicio-de-interprete-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Montijo se postula para ser sede de la Universidad de Mayores de Extremadura",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/17/montijo-se-postula-para-ser-sede-de-la-universidad-de-mayores-de-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las obras del aparcamiento de Circunvalación albergarán 170 plazas",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/las-obras-del-aparcamiento-de-circunvalacion-albergaran-170-plazas-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Vecinos de Badajoz denuncian que la empresa que gestiona la perrera no recoge animales",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/vecinos-de-badajoz-denuncian-que-la-empresa-que-gestiona-la-perrera-no-recoge-animales-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Badajoz vive su día grande con los tradicionales cabezudos",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/badajoz-vive-su-dia-grande-con-los-tradicionales-cabezudos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El carro votivo de Casas del Turuñuelo, una pieza única en el mundo",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-carro-votivo-de-casas-del-turunuelo-una-pieza-unica-en-el-mundo-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se abre el plazo para solicitar las becas al estudio “Antonio Huertas Mejías” en Villanueva",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/se-abre-el-plazo-para-solicitar-las-becas-al-estudio-antonio-huertas-mejias-en-villanueva-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La placentina Blanca Mudel lanza ‘Garabatos’, un EP artesanal creado íntegramente desde casa",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/la-placentina-blanca-mudel-lanza-garabatos-un-ep-artesanal-creado-integramente-desde-casa-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres activa el protocolo especial frente a la ola de calor para proteger a personas sin hogar y trabajadores municipales",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/caceres-activa-el-protocolo-especial-frente-a-la-ola-de-calor-para-proteger-a-personas-sin-hogar-y-trabajadores-municipales-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La primavera de 2026 fue la cuarta más seca y una de las más cálidas de las últimas décadas en Extremadura",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/la-primavera-de-2026-fue-la-cuarta-mas-seca-y-una-de-las-mas-calidas-de-las-ultimas-decadas-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura excepto el sur de Badajoz estará este martes en alerta naranja por temperaturas de hasta 40 grados",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/extremadura-excepto-el-sur-de-badajoz-estara-este-martes-en-alerta-naranja-por-temperaturas-de-hasta-40-grados-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Badajoz llora la muerte de José Galindo e Isidra Méndez",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/badajoz-llora-la-muerte-de-jose-galindo-e-isidra-mendez-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La XVII Edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://cadenaser.com/extremadura/2026/06/22/la-xvii-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Las obras de reparación de la Avenida de Extremadura comenzarán el 22 de junio y durarán cinco días",
       "description": "",
       "date": "2026-06-24",
@@ -419,18 +595,18 @@
       "location": "Mérida"
     },
     {
-      "title": "CCOO Extremadura se concentra en Mérida para reclamar a las empresas protocolos contra la \"LGTBIfobia laboral\"",
+      "title": "El Ayuntamiento destinará más de 18 millones de euros a empleo, accesibilidad, deporte, barriadas y servicios públicos",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/ccoo-extremadura-concentra-merida-reclamar-empresas-protocolos-lgtbifobia-laboral_202606236a39df5a95cc61359cda6f8f.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/ayuntamiento-destinara-mas-18-millones-euros-empleo-accesibilidad-deporte-barriadas-servicios-publicos_202606186a33deb58774b34d61e26f07.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Osuna anuncia que el 19 de junio abrirán tres piscinas de la ciudad menos la de Diocles que estará lista \"aproximamente\" la primera semana de julio",
+      "title": "El Ayuntamiento de Mérida reclama más medios, seguridad y operatividad para la Guardia Civil frente al narcotráfico",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/osuna-anuncia-que-19-junio-abriran-tres-piscinas-ciudad-menos-diocles-que-estara-lista-aproximamente-primera-semana-julio_202606116a2aa5570d35a17610a79c68.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/ayuntamiento-merida-reclama-mas-medios-seguridad-operatividad-guardia-civil-frente-narcotrafico_202606186a33dd7c9b079e64f68e95b6.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -443,18 +619,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (23/06/26)",
+      "title": "Informativos matinal Más de Uno Mérida (24/06/26)",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-230626_202606236a3a35286530b0e466e86674.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-240626_202606246a3bc696447c21000764809b.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (23/06/26)",
+      "title": "Noticias mediodía Mérida (24/06/26)",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606236a3a73836530b0e4dae96674.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606246a3bc504a5945b00077fedae.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -483,26 +659,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (24/06/2026)",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-24062026_202606246a3bc56ca5945b00077fedb6.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos Matinal Más de Uno Mérida (23/06/26)",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-230626_202606236a3a35286530b0e466e86674.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (22/06/2026)",
       "description": "",
       "date": "2026-06-24",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-22062026_202606226a3922f561fab0e4466f035b.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Mérida (22/06/26)",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-220626_202606226a38e65633810700077dc8d4.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Badajoz alcanza la temperatura más alta del país este jueves con 39,1 grados",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-alcanza-temperatura-mas-alta-pais-este-jueves-391-grados_202606196a34f60f8774b34d61e3762d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -515,11 +691,27 @@
       "location": "Mérida"
     },
     {
+      "title": "Badajoz alcanza la temperatura más alta del país este jueves con 39,1 grados",
+      "description": "",
+      "date": "2026-06-24",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-alcanza-temperatura-mas-alta-pais-este-jueves-391-grados_202606196a34f60f8774b34d61e3762d.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Cancelados los fuegos artificiales de la noche de San Juan en Badajoz por el índice de riesgo de incendios",
       "description": "",
       "date": "2026-06-24",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/cancelados-fuegos-artificiales-noche-san-juan-badajoz-indice-riesgo-incendios_202606226a3919b28774b34d61e6f567.html",
       "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Presentación del libro ‘Cuna de la Hispanidad’ de Luisma Domínguez",
+      "description": "Extremadura y América unidas en un libro ilustrado para todas las edades. El escritor zafrense, Luisma Domínguez, presenta su obra en Mérida, en librería La selva dentro el miércoles 24 de junio, a las 19:30 horas. La obra, editada por la Asociación Ruta de los Conquistadores, está pensada para a...",
+      "date": "2026-06-24",
+      "url": "https://merida.es/agenda/presentacion-del-libro-cuna-de-la-hispanidad-de-luisma-dominguez/",
+      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -587,6 +779,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Ayuntamiento de Mérida refuerza las medidas de prevención para proteger a su personal del calor",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-refuerza-medidas-prevencion-proteger-personal-20260622125128-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Pablo Alborán reinventa su gira en el Teatro Romano y firma una noche irrepetible en el Stone&Music",
       "description": "",
       "date": "2026-06-22",
@@ -616,14 +816,6 @@
       "date": "2026-06-22",
       "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-organiza-julio-jornadas-arqueologia-20260622184647-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
@@ -711,14 +903,6 @@
       "description": "",
       "date": "2026-06-19",
       "url": "https://www.hoy.es/merida/pleno-abstencion-pp-aprueba-mocion-instar-junta-20260619121027-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La pista de La Antigua abre en esta semana y en febrero estará listo el pabellón de Las Abadías",
-      "description": "",
-      "date": "2026-06-19",
-      "url": "https://www.hoy.es/merida/pista-antigua-abre-semana-febrero-listo-pabellon-20260125113432-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
