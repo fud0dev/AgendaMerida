@@ -1,9 +1,25 @@
 {
-  "updated_at": "2026-06-25T10:14:29Z",
-  "count": 119,
+  "updated_at": "2026-06-25T15:38:35Z",
+  "count": 121,
   "events": [
     {
-      "title": "El Stone&Music y el Teatro Romano de Mérida se dicen hasta el año que viene con una traca final de grandes conciertos",
+      "title": "El arte milenario que Mérida mantiene vivo cumple 30 años en el taller de mosaicos de Luisa Díaz Liviano",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/arte-milenario-merida-mantiene-vivo-mosaicos-luisa-diaz-liviano-131804421.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"No tengo noticias de muchos familiares y amigos\": la angustia venezolana tras los terremotos se siente en Mérida",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/merida-angustia-venezolana-terremotos-miedo-incertidumbre-131802022.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Stone&Music y el Teatro Romano de Mérida se despiden hasta septiembre con una traca final de grandes conciertos",
       "description": "",
       "date": "2026-06-25",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/stone-music-festival-teatro-romano-merida-se-dicen-hasta-ano-que-viene-tres-grandes-conciertos-131798198.html",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Un conductor ebrio, dos sin carné y cuatro heridos en las calles de Mérida",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/conductor-ebrio-dos-sin-carne-cuatro-heridos-merida-131721302.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alberto, el carnavalero de Mérida que se lleva 29.022 euros en 'Allá Tú' y una sorpresa inolvidable",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/alberto-carnavalero-merida-gana-30-000-euros-alla-tu-television-telecinco-131720223.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Video | Pedro Acosta, el boxeador que guarda la puerta del Jazz y vigila el Hospital de Mérida",
       "description": "",
       "date": "2026-06-25",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Treinta años de trabajo del taller de mosaicos de Luisa Díaz Liviano en una exposición en el centro Alcazaba",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.hoy.es/merida/treinta-anos-trabajo-taller-mosaicos-luisa-diaz-20260625132545-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La cantante Ana Torroja tendrá mañana su placa en la 'Via Musicorum' en Mérida",
       "description": "",
       "date": "2026-06-25",
@@ -184,6 +192,22 @@
       "date": "2026-06-25",
       "url": "https://www.hoy.es/merida/trofeo-emerita-augusta-reune-300-nadadores-sabado-20260625151700-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento reafirma su apoyo a la Plataforma del Voluntariado de Mérida mediante la renovación del convenio, que cuenta con una dotación de 21.000 euros para esta anualidad",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://merida.es/el-ayuntamiento-reafirma-su-apoyo-a-la-plataforma-del-voluntariado-de-merida-mediante-la-renovacion-del-convenio-que-cuenta-con-una-dotacion-de-21-000-euros-para-esta-anualidad/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Centro Cultural Alcazaba ofrece una exposición de mosaicos que recoge 30 años de trayectoria del taller Ex Officina Antea, de Luisa Díaz Liviano",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://merida.es/el-centro-cultural-alcazaba-ofrece-una-exposicion-de-mosaicos-que-recoge-30-anos-de-trayectoria-del-taller-ex-offina-antea-de-luisa-diaz-liviano/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -270,16 +294,16 @@
       "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://merida.es/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Ayuntamiento y AUPEX ofrecen 25 acciones formativas en la Universidad Popular de Mérida",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://merida.es/el-ayuntamiento-y-aupex-ofrecen-25-acciones-formativas-en-la-universidad-popular-de-merida/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-y-aupex-ofrecen-25-acciones-formativas-en-la-universidad-popular-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -563,26 +587,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo matinal Más de Uno Extremadura (25/06/26)",
+      "title": "Noticias mediodía Extremadura (25/06/26)",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativo-matinal-mas-uno-extremadura-250626_202606256a3cbcf6a5945b00077fef84.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-250626_202606256a3d18ff447c2100076483fa.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (24/06/26)",
+      "title": "Informativos matinal Más de Uno Mérida (25/06/26)",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-240626_202606246a3bc696447c21000764809b.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606256a3d1795f9a3be000779ab96.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (24/06/26)",
+      "title": "Noticias mediodía Mérida (25/06/26)",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida_202606246a3bc504a5945b00077fedae.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-250626_202606256a3d1673708fb0e47a866d2c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -595,18 +619,34 @@
       "location": "Mérida"
     },
     {
-      "title": "En verano aumentan las preocupaciones por la imagen corporal, las comparaciones y el juicio de los demás, por eso os contamos cómo cambiar la forma en la que nos miramos",
+      "title": "La banda \"Black Maracas\" presenta su último álbum \"Dilly Child Early Mournings\" este viernes en la terraza del Centro Cultural Alcazaba de Mérida",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/verano-aumentan-preocupaciones-imagen-corporal-comparaciones-juicio-demas-eso-contamos-como-cambiar-forma-que-nos-miramos_202606236a3a7a8e7710a10008aaa480.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/banda-black-maracas-presenta-ultimo-album-dilly-child-early-mournings-este-viernes-terraza-centro-cultural-alcazaba-merida_202606256a3d188188dbb0e4680ecf40.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Antonio Gutiérrez se alza con el Campeonato de Extremadura de coctelería con la vista puesta en el nacional",
+      "title": "Los Mosquitos: cómo prevenirlos de forma natural y cómo tratar sus picaduras",
       "description": "",
       "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/antonio-gutierrez-alza-campeonato-extremadura-cocteleria-vista-puesta-nacional_202606236a3a78521de1190007a1c2b4.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mosquitos-como-prevenirlos-forma-natural-como-tratar-sus-picaduras_202606256a3d1614447c2100076483e3.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (25/06/2026)",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-25062026_202606256a3d19ee88dbb0e46f0ecf40.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativo matinal Más de Uno Mérida (24/06/26)",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-240626_202606246a3bc696447c21000764809b.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -615,22 +655,6 @@
       "description": "",
       "date": "2026-06-25",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-24062026_202606246a3bc56ca5945b00077fedb6.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos Matinal Más de Uno Mérida (23/06/26)",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-230626_202606236a3a35286530b0e466e86674.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Mérida (22/06/2026)",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-22062026_202606226a3922f561fab0e4466f035b.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -855,14 +879,6 @@
       "description": "",
       "date": "2026-06-21",
       "url": "https://www.hoy.es/merida/rescatan-mujer-sintomas-ahogamiento-lago-proserpina-20260621172601-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El responsable jurídico del Consorcio: «En 30 años solo una obra no se ha autorizado por los restos arqueológicos»",
-      "description": "",
-      "date": "2026-06-21",
-      "url": "https://www.hoy.es/merida/responsable-juridico-consorcio-anos-solo-obra-autorizado-20260621121905-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
