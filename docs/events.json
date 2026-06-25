@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-25T15:38:35Z",
-  "count": 121,
+  "updated_at": "2026-06-25T20:54:26Z",
+  "count": 127,
   "events": [
+    {
+      "title": "El músculo solidario de Mérida recibe 21.000 euros para seguir cuidando a quienes más lo necesitan",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/plataforma-voluntariado-recibe-21-000-euros-ayuntamiento-merida-131819314.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "300 nadadores afrontarán en Mérida el último asalto a las mínimas del Campeonato de España",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/merida-natacion-trofeo-internacional-emerita-augusta-300-nadadores-131817764.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El arte milenario que Mérida mantiene vivo cumple 30 años en el taller de mosaicos de Luisa Díaz Liviano",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Antes fumar en bares parecía normal y Mérida usa ese espejo contra el alcohol en menores",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/24/merida-combate-alcohol-menores-campana-131737531.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El IES Santa Eulalia de Mérida allana por las tardes el camino a los ciclos de FP",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/23/acceso-fp-se-estudia-ies-santa-eulalia-merida-131735114.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Video | Pedro Acosta, el boxeador que guarda la puerta del Jazz y vigila el Hospital de Mérida",
       "description": "",
       "date": "2026-06-25",
@@ -147,6 +147,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Fotogalería | Siloé llena Mérida de música",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/19/fotogaleria-siloe-llena-merida-musica-131591276.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "Vuelven las rutas turísticas en kayaks por el tramo urbano del río Guadiana",
       "description": "",
       "date": "2026-06-25",
@@ -192,6 +200,38 @@
       "date": "2026-06-25",
       "url": "https://www.hoy.es/merida/trofeo-emerita-augusta-reune-300-nadadores-sabado-20260625151700-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Especialistas de Ruber Internacional refuerzan el tratamiento personalizado de heridas complejas",
+      "description": "Especialistas en enfermería, cirugía vascular, endocrinología, medicina interna y rehabilitación colaboran para abordar de forma integral lesiones que pueden permanecer abiertas durante meses o...",
+      "date": "2026-06-25",
+      "url": "https://www.meridadiario.com/2026/06/25/especialistas-de-ruber-internacional-refuerzan-el-tratamiento-personalizado-de-heridas-complejas/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Predicción meteorológica: Mérida, 25 de Junio de 2026",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.meridadiario.com/2026/06/25/prediccion-meteorologica-merida-25-de-junio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Forbes premia la innovación en formación directiva con un ranking liderado por IE, ESIC y The Valley",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.meridadiario.com/2026/06/25/forbes-premia-la-innovacion-en-formacion-directiva-con-un-ranking-liderado-por-ie-esic-y-the-valley/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Estados Unidos impulsa su análisis táctico con la tecnología de Sportian desarrollada por LALIGA",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://www.meridadiario.com/2026/06/25/estados-unidos-impulsa-su-analisis-tactico-con-la-tecnologia-de-sportian-desarrollada-por-laliga/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -288,134 +328,6 @@
       "date": "2026-06-25",
       "url": "https://merida.es/el-ayuntamiento-refuerza-las-medidas-de-prevencion-para-protegeral-personal-municipal-frente-a-las-altas-temperaturas/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento y AUPEX ofrecen 25 acciones formativas en la Universidad Popular de Mérida",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-y-aupex-ofrecen-25-acciones-formativas-en-la-universidad-popular-de-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Rodríguez Osuna valora positivamente el Real Decreto de Entregas a Cuenta, que permitirá a Mérida disponer de 1,5 millones de euros adicionales",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/19/rodriguez-osuna-valora-positivamente-el-real-decreto-de-entregas-a-cuenta-que-permitira-a-merida-disponer-de-15-millones-de-euros-adicionales/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento realiza desbroces en una superficie de 65 hectáreas en los distintos barrios y zonas de la ciudad",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/18/el-ayuntamiento-realiza-desbroces-en-una-superficie-de-65-hectareas-en-los-distintos-barrios-y-zonas-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las obras de reparación del tramo de la Avenida de Extremadura junto a Santa Eulalia comenzarán el próximo 22 de junio y tendrán una duración de cinco días",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/18/las-obras-de-reparacion-del-tramo-de-la-avenida-de-extremadura-junto-a-santa-eulalia-comenzaran-el-proximo-22-de-junio-y-tendran-una-duracion-de-cinco-dias/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento destinará más de 18 millones de euros del remanente positivo de tesorería a empleo, accesibilidad, deporte, barriadas y servicios públicos",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/17/el-ayuntamiento-destinara-mas-de-18-millones-de-euros-del-remanente-positivo-de-tesoreria-a-empleo-accesibilidad-deporte-barriadas-y-servicios-publicos/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Raúl Beneit seguirá defendiendo el escudo Romano",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/16/raul-beneit-seguira-defendiendo-el-escudo-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eudald Vergés no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jacobo Martí no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jota López, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-06-25",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -563,6 +475,190 @@
       "location": "Mérida"
     },
     {
+      "title": "La incertidumbre sacude a la comunidad venezolana en Extremadura",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/la-incertidumbre-sacude-a-la-comunidad-venezolana-en-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-nuevo-plan-de-empleo-especial-de-merida-permitira-178-contrataciones-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La AD Mérida abre la campaña de abonos para la próxima temporada",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/la-ad-merida-abre-la-campana-de-abonos-para-la-proxima-temporada-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Hay otros mundos, pero están en este', el proyecto pedagógico que cuenta historias reales a los alumnos",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/hay-otros-mundos-pero-estan-en-este-el-proyecto-pedagogico-que-cuenta-historias-reales-a-los-alumnos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Polideportivo Guadiana acoge el XIX Trofeo este fin de semana",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-polideportivo-guadiana-acoge-el-xix-trofeo-este-fin-de-semana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El montijano Jesús Corzo correrá 650km del Camino de Santiago en apoyo al autismo",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/el-montijano-jesus-corzo-correra-650km-del-camino-de-santiago-en-apoyo-al-autismo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el período de solicitudes para las actividades de la UPM",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/abierto-el-periodo-de-solicitudes-para-las-actividades-de-la-upm-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ya están abiertas las piscinas municipales de Mérida",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/19/ya-estan-abiertas-las-piscinas-municipales-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Cinematic Extremadura' o cómo conocer la región a través del cine y el inglés",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/19/cinematic-extremadura-o-como-conocer-la-region-a-traves-del-cine-y-el-ingles-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La oferta formativa del IES Santa Eulalia se adapta a las necesidades reales de la ciudad de Mérida",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/18/la-oferta-formativa-del-ies-santa-eulalia-se-adapta-a-las-necesidades-reales-de-la-ciudad-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva de la Serena pone en marcha un punto limpio móvil para acercar el reciclaje a todos los barrios",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/villanueva-de-la-serena-pone-en-marcha-un-punto-limpio-movil-para-acercar-el-reciclaje-a-todos-los-barrios-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "David Dóniga toma posesión como nuevo alcalde de Plasencia",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/david-doniga-toma-posesion-como-nuevo-alcalde-de-plasencia-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Este carro refleja el enorme poder de quienes habitaron Casas del Turuñuelo\"",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/este-carro-refleja-el-enorme-poder-de-quienes-habitaron-casas-del-turunuelo-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dos heridos graves y otros dos leves en las últimas sueltas de los Sanjuanes de Coria",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/dos-heridos-graves-y-otros-dos-leves-en-las-ultimas-sueltas-de-los-sanjuanes-de-coria-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva de la Serena se adhiere a la red de municipios ciberseguros",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/villanueva-de-la-serena-se-adhiere-a-la-red-de-municipios-ciberseguros-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las obras del aparcamiento de Circunvalación albergarán 170 plazas",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/las-obras-del-aparcamiento-de-circunvalacion-albergaran-170-plazas-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Vecinos de Badajoz denuncian que la empresa que gestiona la perrera no recoge animales",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/vecinos-de-badajoz-denuncian-que-la-empresa-que-gestiona-la-perrera-no-recoge-animales-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Badajoz vive su día grande con los tradicionales cabezudos",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/badajoz-vive-su-dia-grande-con-los-tradicionales-cabezudos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El carro votivo de Casas del Turuñuelo, una pieza única en el mundo",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/24/el-carro-votivo-de-casas-del-turunuelo-una-pieza-unica-en-el-mundo-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se abre el plazo para solicitar las becas al estudio “Antonio Huertas Mejías” en Villanueva",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/se-abre-el-plazo-para-solicitar-las-becas-al-estudio-antonio-huertas-mejias-en-villanueva-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La placentina Blanca Mudel lanza ‘Garabatos’, un EP artesanal creado íntegramente desde casa",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/la-placentina-blanca-mudel-lanza-garabatos-un-ep-artesanal-creado-integramente-desde-casa-ser-norte-de-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres activa el protocolo especial frente a la ola de calor para proteger a personas sin hogar y trabajadores municipales",
+      "description": "",
+      "date": "2026-06-25",
+      "url": "https://cadenaser.com/extremadura/2026/06/23/caceres-activa-el-protocolo-especial-frente-a-la-ola-de-calor-para-proteger-a-personas-sin-hogar-y-trabajadores-municipales-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Las obras de reparación de la Avenida de Extremadura comenzarán el 22 de junio y durarán cinco días",
       "description": "",
       "date": "2026-06-25",
@@ -691,14 +787,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Cine Filmoteca: «Un poeta»",
-      "description": "Título original: Un poeta País: Colombia Año: 2025 Duración: 120’ Dirección: Simón Mesa Soto Guion: Simón Mesa Soto Género: Comedia Reparto: Ubeimar Ríos, Rebeca Andrade, Guillermo Cardona, Humberto Restrepo Sinopsis: La obsesión de Óscar Restrepo por la poesía no le ha reportado ninguna gloria. ...",
-      "date": "2026-06-25",
-      "url": "https://merida.es/agenda/cine-filmoteca-un-poeta/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "El instituto 'Santa Eulalia' amplía su oferta en estudios vespertinos para el próximo curso",
       "description": "",
       "date": "2026-06-24",
@@ -715,7 +803,7 @@
       "location": "Mérida"
     },
     {
-      "title": "La Residencia de Cine de Extremadura presenta por primera vez los guiones premiados por la Junta",
+      "title": "Abierto el plazo de inscripción para los concursos de Copla Monumental, decoración de escaparates e interiores y de disfraces para el baile de mayores del Carnaval Romano",
       "description": "Intervenciones de la Policía Local en Siniestralidad VialLa Policía Local de Mérida llevó a cabo intervenciones en un total de 18 incidentes relacionados con...",
       "date": "2026-06-24",
       "url": "https://www.meridadiario.com/",
@@ -723,34 +811,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La Comunidad de Madrid se sitúa como el Gold Standard de la transparencia sanitaria hospitalaria en España",
-      "description": "El Instituto Coordenadas de Gobernanza y Economía Aplicada (ICGEA) ha elaborado el análisis 'Transparencia sanitaria hospitalaria en España' para evaluar el grado de transparencia...",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/la-comunidad-de-madrid-se-situa-como-el-gold-standard-de-la-transparencia-sanitaria-hospitalaria-en-espana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 24 de Junio de 2026",
+      "title": "Descubren un Carro de Bronce Único en el Yacimiento de Casas del Turuñuelo que Revela Rutas Comerciales de la Antigüedad",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/aemet-el-tiempo-para-merida-24-de-junio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La inteligencia artificial refuerza la seguridad en instalaciones acuáticas",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/la-inteligencia-artificial-refuerza-la-seguridad-en-instalaciones-acuaticas/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La aventura en ‘Allá Tú’ que un vecino de Mérida no olvidará jamás",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/la-aventura-en-alla-tu-que-un-vecino-de-merida-no-olvidara-jamas/",
+      "url": "https://www.meridadiario.com/2026/06/24/descubren-un-carro-de-bronce-unico-en-el-yacimiento-de-casas-del-turunuelo-que-revela-rutas-comerciales-de-la-antiguedad/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -851,11 +915,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
+      "title": "Mérida ARDE: previsión semanal de la primera ola de calor masiva que arrasa la península",
       "description": "",
       "date": "2026-06-22",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
+      "url": "https://www.meridadiario.com/2026/06/22/merida-arde-prevision-semanal-de-la-primera-ola-de-calor-masiva-que-arrasa-la-peninsula/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -891,14 +955,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Plan INFOEX combate 43 incendios forestales en Extremadura durante la última semana",
-      "description": "",
-      "date": "2026-06-21",
-      "url": "https://www.meridadiario.com/2026/06/21/el-plan-infoex-combate-43-incendios-forestales-en-extremadura-durante-la-ultima-semana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "El 20 de junio se llevará a cabo la primera prueba de oposiciones para el Cuerpo de Maestros en Extremadura",
       "description": "",
       "date": "2026-06-20",
@@ -911,14 +967,6 @@
       "description": "",
       "date": "2026-06-19",
       "url": "https://www.meridadiario.com/2026/06/19/el-sepad-destina-mas-de-2-millones-de-euros-para-proyectos-de-atencion-a-personas-con-deterioro-cognitivo-en-extremadura/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Inauguración de la Nueva Pasarela Peatonal en Alcántara Junto al Puente Romano",
-      "description": "",
-      "date": "2026-06-18",
-      "url": "https://www.meridadiario.com/2026/06/18/inauguracion-de-la-nueva-pasarela-peatonal-en-alcantara-junto-al-puente-romano/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -955,18 +1003,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida lanza una variada programación navideña con más de 30 actividades para disfrutar en familia",
-      "description": "El Ayuntamiento de Mérida presenta su programación cultural navideña En una reciente presentación, Antonio Vélez, delegado de cultura del Ayuntamiento de Mérida, reveló una...",
-      "date": "2025-11-28",
-      "url": "https://www.meridadiario.com/2025/11/28/merida-lanza-una-variada-programacion-navidena-con-mas-de-30-actividades-para-disfrutar-en-familia/",
+      "title": "Celebración del Mercado Navideño de Artesanía en Mérida con Actividades Diversas",
+      "description": "Mercado Navideño de Artesanía en MéridaEl Mercado Navideño de Artesanía, inaugurado el pasado 28 de noviembre, está disponible en el Parque López de Ayala...",
+      "date": "2026-01-02",
+      "url": "https://www.meridadiario.com/2026/01/02/celebracion-del-mercado-navideno-de-artesania-en-merida-con-actividades-diversas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "La Semana Santa se inicia con un novedoso acto para presentar su Revista con una Exaltación a la Fiesta de Interés Turístico Internacional",
-      "description": "El alcalde, Antonio Rodríguez Osuna, intervendrá durante el acto que contará con la Banda de Música de Mérida y que, además, será retransmitido por...",
-      "date": "2022-03-30",
-      "url": "https://www.meridadiario.com/2022/03/30/la-semana-santa-se-inicia-con-un-novedoso-acto-para-presentar-su-revista-con-una-exaltacion-a-la-fiesta-de-interes-turistico-internacional/",
+      "title": "El tiempo para hoy en Mérida, 11 de diciembre de 2023",
+      "description": "Durante la mañana en Mérida el cielo estará cubierto. Según pasen las horas estará muy nublado. Con respecto a las temperaturas, variarán entre una...",
+      "date": "2023-12-11",
+      "url": "https://www.meridadiario.com/2023/12/11/el-tiempo-para-hoy-en-merida-11-de-diciembre-de-2023/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
