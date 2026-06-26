@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-26T10:22:06Z",
-  "count": 147,
+  "updated_at": "2026-06-26T15:22:10Z",
+  "count": 127,
   "events": [
+    {
+      "title": "De los adoquines al asfalto: Mérida rehace la avenida de Extremadura por el fiasco del pavimento",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/26/asfalto-sustituye-adoquines-avenida-extremadura-merida-131844183.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un verano cargado de actividades para niños en la Biblioteca de La Antigua de Mérida",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/26/verano-cargado-actividades-ninos-biblioteca-antigua-merida-131840995.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mucho donde elegir en Mérida este fin de semana con el Orgullo, Soraya Arnelas y Samantha Hudson",
       "description": "",
@@ -75,18 +91,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Muere Paquita, la mujer que dejó una sonrisa imborrable en el Consorcio de Mérida",
+      "title": "Video | De los adoquines al asfalto: Mérida rehace la avenida de Extremadura por el fiasco del pavimento",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/24/muere-paquita-mujer-dejo-sonrisa-imborrable-consorcio-merida-131775685.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Julio llega con nómina en Mérida: 178 contratos públicos y estas son las plazas",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/24/178-empleos-publicos-merida-plazas-julio-131764306.html",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -94,7 +102,7 @@
       "title": "Video | Pedro Acosta, el boxeador que guarda la puerta del Jazz y vigila el Hospital de Mérida",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/24/video-pedro-acosta-boxeador-guarda-jazz-vigila-hospital-merida-131776408.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -195,6 +203,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Mérida acoge del 2 al 5 de julio el Mercado de Artesanía de Verano en la Glorieta de las Méridas del Mundo",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://merida.es/merida-acoge-del-2-al-5-de-julio-el-mercado-de-artesania-de-verano-en-la-glorieta-de-las-meridas-del-mundo/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento impulsa una segunda fase de inversiones de 2 millones de euros para reforzar el tejido empresarial local y los bonos al consumo",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://merida.es/el-ayuntamiento-impulsa-una-segunda-fase-de-inversiones-de-2-millones-de-euros-para-reforzar-el-tejido-empresarial-local-y-los-bonos-al-consumo/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "El Orgullo 2026 ofrece numerosas actividades esta fin de semana con la manifestación regional y el fin de fiesta el domingo, 28 de junio",
       "description": "",
       "date": "2026-06-26",
@@ -276,18 +300,18 @@
     },
     {
       "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "",
+      "description": "por Mérida Noticias en Mérida 0",
       "date": "2026-06-26",
-      "url": "https://merida.es/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "El Archivo Histórico Municipal estrena su nueva hemeroteca digital, un espacio abierto en la diseñado para acercar la historia local a toda la ciudadanía",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://merida.es/el-archivo-historico-municipal-estrena-su-nueva-hemeroteca-digital-un-espacio-abierto-en-la-disenado-para-acercar-la-historia-local-a-toda-la-ciudadania/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/06/22/el-archivo-historico-municipal-estrena-su-nueva-hemeroteca-digital-un-espacio-abierto-en-la-disenado-para-acercar-la-historia-local-a-toda-la-ciudadania/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -416,14 +440,6 @@
       "date": "2026-06-26",
       "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
       "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un accidente grave con dos camiones corta al tráfico la A-66 en Monesterio",
-      "description": "Mérida",
-      "date": "2026-06-26",
-      "url": "https://www.lacronicabadajoz.com/badajoz/provincia/2026/06/26/colision-camiones-monesterio-herido-grave-131832062.html",
-      "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
     {
@@ -571,190 +587,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La incertidumbre sacude a la comunidad venezolana en Extremadura",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/la-incertidumbre-sacude-a-la-comunidad-venezolana-en-extremadura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-nuevo-plan-de-empleo-especial-de-merida-permitira-178-contrataciones-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La AD Mérida abre la campaña de abonos para la próxima temporada",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/la-ad-merida-abre-la-campana-de-abonos-para-la-proxima-temporada-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Hay otros mundos, pero están en este', el proyecto pedagógico que cuenta historias reales a los alumnos",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/hay-otros-mundos-pero-estan-en-este-el-proyecto-pedagogico-que-cuenta-historias-reales-a-los-alumnos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Polideportivo Guadiana acoge el XIX Trofeo este fin de semana",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-polideportivo-guadiana-acoge-el-xix-trofeo-este-fin-de-semana-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El montijano Jesús Corzo correrá 650km del Camino de Santiago en apoyo al autismo",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/el-montijano-jesus-corzo-correra-650km-del-camino-de-santiago-en-apoyo-al-autismo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abierto el período de solicitudes para las actividades de la UPM",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/abierto-el-periodo-de-solicitudes-para-las-actividades-de-la-upm-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ya están abiertas las piscinas municipales de Mérida",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/ya-estan-abiertas-las-piscinas-municipales-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cinematic Extremadura' o cómo conocer la región a través del cine y el inglés",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/cinematic-extremadura-o-como-conocer-la-region-a-traves-del-cine-y-el-ingles-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La oferta formativa del IES Santa Eulalia se adapta a las necesidades reales de la ciudad de Mérida",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/18/la-oferta-formativa-del-ies-santa-eulalia-se-adapta-a-las-necesidades-reales-de-la-ciudad-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La comunidad de Venezuela en Extremadura vive \"con el corazón en las manos\" las consecuencias del terremoto",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/26/la-comunidad-de-venezuela-en-extremadura-vive-con-el-corazon-en-las-manos-las-consecuencias-del-terremoto-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva de la Serena pone en marcha un punto limpio móvil para acercar el reciclaje a todos los barrios",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/villanueva-de-la-serena-pone-en-marcha-un-punto-limpio-movil-para-acercar-el-reciclaje-a-todos-los-barrios-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "David Dóniga toma posesión como nuevo alcalde de Plasencia",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/david-doniga-toma-posesion-como-nuevo-alcalde-de-plasencia-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Este carro refleja el enorme poder de quienes habitaron Casas del Turuñuelo\"",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/este-carro-refleja-el-enorme-poder-de-quienes-habitaron-casas-del-turunuelo-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos heridos graves y otros dos leves en las últimas sueltas de los Sanjuanes de Coria",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/dos-heridos-graves-y-otros-dos-leves-en-las-ultimas-sueltas-de-los-sanjuanes-de-coria-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva de la Serena se adhiere a la red de municipios ciberseguros",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/villanueva-de-la-serena-se-adhiere-a-la-red-de-municipios-ciberseguros-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las obras del aparcamiento de Circunvalación albergarán 170 plazas",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/las-obras-del-aparcamiento-de-circunvalacion-albergaran-170-plazas-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Vecinos de Badajoz denuncian que la empresa que gestiona la perrera no recoge animales",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/vecinos-de-badajoz-denuncian-que-la-empresa-que-gestiona-la-perrera-no-recoge-animales-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Badajoz vive su día grande con los tradicionales cabezudos",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/badajoz-vive-su-dia-grande-con-los-tradicionales-cabezudos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El carro votivo de Casas del Turuñuelo, una pieza única en el mundo",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-carro-votivo-de-casas-del-turunuelo-una-pieza-unica-en-el-mundo-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Se abre el plazo para solicitar las becas al estudio “Antonio Huertas Mejías” en Villanueva",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/se-abre-el-plazo-para-solicitar-las-becas-al-estudio-antonio-huertas-mejias-en-villanueva-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La placentina Blanca Mudel lanza ‘Garabatos’, un EP artesanal creado íntegramente desde casa",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/la-placentina-blanca-mudel-lanza-garabatos-un-ep-artesanal-creado-integramente-desde-casa-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ayuntamiento destinará más de 18 millones de euros a empleo, accesibilidad, deporte, barriadas y servicios públicos",
       "description": "",
       "date": "2026-06-26",
@@ -771,26 +603,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (26/06/26)",
+      "title": "Noticias mediodía Extremadura (26/06/26)",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-260626_202606266a3e0e6d708fb0e44f886d2c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-260626_202606266a3e6a2188dbb0e4ea11cf40.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (25/06/26)",
+      "title": "Informativos matinal Más de Uno Mérida (26/06/26)",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606256a3d1795f9a3be000779ab96.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-260626_202606266a3e69cbf9a3be000779afc0.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (25/06/26)",
+      "title": "Informativos mediodía Mérida (26/06/26)",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-250626_202606256a3d1673708fb0e47a866d2c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-260626_202606266a3e688c447c210007648760.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -819,6 +651,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (26/06/2026)",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-26062026_202606266a3e5ca5f9a3be000779af62.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Extremadura (25/06/2026)",
       "description": "",
       "date": "2026-06-26",
@@ -827,18 +667,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativo matinal Más de Uno Mérida (24/06/26)",
+      "title": "Informativos matinal Más de Uno Mérida",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativo-matinal-mas-uno-merida-240626_202606246a3bc696447c21000764809b.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606256a3d1795f9a3be000779ab96.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Mérida (24/06/2026)",
+      "title": "Informativos mediodía Mérida (25/06/26)",
       "description": "",
       "date": "2026-06-26",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-24062026_202606246a3bc56ca5945b00077fedb6.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-250626_202606256a3d1673708fb0e47a866d2c.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Manuel Naharro presenta 2.512 avales a su candidatura a renovar la Presidencia del PP provincial de Badajoz",
+      "description": "",
+      "date": "2026-06-26",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/manuel-naharro-presenta-2512-avales-candidatura-renovar-presidencia-provincial-badajoz_202606236a3a692fc7a2892f04a05703.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -855,14 +703,6 @@
       "description": "",
       "date": "2026-06-26",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/ignacio-gragera-ondacero-badajoz-fuegos-artificiales-lanzaran-previsiblemente-este-sabado_202606236a3a65de95cc61359cdae85f.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Manuel Naharro presenta 2.512 avales a su candidatura a renovar la Presidencia del PP provincial de Badajoz",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/manuel-naharro-presenta-2512-avales-candidatura-renovar-presidencia-provincial-badajoz_202606236a3a692fc7a2892f04a05703.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
