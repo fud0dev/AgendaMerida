@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-27T14:27:57Z",
-  "count": 126,
+  "updated_at": "2026-06-27T20:07:05Z",
+  "count": 124,
   "events": [
+    {
+      "title": "La Lotería Nacional deja parte de un primer premio de 600.000 euros en Mérida",
+      "description": "",
+      "date": "2026-06-27",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/27/loteria-nacional-primer-premio-merida-131882218.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Luka Šulić hace vibrar las piedras del Teatro Romano de Mérida con un viaje entre Vivaldi, Queen y Metallica",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-06-27",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/plataforma-voluntariado-recibe-21-000-euros-ayuntamiento-merida-131819314.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "300 nadadores afrontarán en Mérida el último asalto a las mínimas del Campeonato de España",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/25/merida-natacion-trofeo-internacional-emerita-augusta-300-nadadores-131817764.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -735,22 +735,6 @@
       "description": "El sábado 27 de junio se celebrará el XIX trofeo de natación Emerita Augusta en la piscina de verano del complejo deportivo Guadiana. El evento contará con aproximadamente 300 nadadores repartidos entre los 11 clubes asistentes: 9 clubes de la región además del C.N. Casa de Asturias (León), Club ...",
       "date": "2026-06-27",
       "url": "https://merida.es/agenda/xix-trofeo-internacional-emerita-augusta/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Luis Pastor en concierto",
-      "description": "'Extremadura fado', para quien quiera escuchar y ponerse al corriente, es un alarde en toda regla de frescura, finura y espontaneidad, de magisterio en eso que podríamos llamar canción de (o desde) la raya. Porque como Luis coloca un pie en cada lado de la frontera ibérica y deja que la comunicac...",
-      "date": "2026-06-27",
-      "url": "https://merida.es/agenda/luis-pastor-en-concierto/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Teatro: «En la otra vida»",
-      "description": "Espectáculo: En la otra vida Compañía: Cía. KRG Audiovisual Sinopsis: “En la otra vida” es un intento de dibujar la soledad, basado en aspectos aparentemente cotidianos que poco a poco nos van reflejando el deterioro que el paso del tiempo va causando en nosotros. Se trata de un monólogo teatral ...",
-      "date": "2026-06-27",
-      "url": "https://merida.es/agenda/teatro-en-la-otra-vida/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
