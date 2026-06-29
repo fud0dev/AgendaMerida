@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-29T11:57:24Z",
-  "count": 120,
+  "updated_at": "2026-06-29T16:37:39Z",
+  "count": 119,
   "events": [
+    {
+      "title": "Cinco refugios culturales para escapar del calor este verano en Mérida",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/cinco-refugios-culturales-escapar-calor-merida-refrescarte-131944247.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El fuego se queda a las puertas de una gasolinera en Mérida",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/tension-incendio-pastos-gasolinera-merida-bomberos-131942875.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Fuensanta Blanco pone a Mérida a taconear en el gran templo francés del flamenco",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-29",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/28/18-millones-euros-retratan-transformacion-merida-131872833.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/28/ibercaja-impulsa-126-nuevas-viviendas-merida-131891739.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Lotería Nacional deja parte de un primer premio de 600.000 euros en Mérida",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/27/loteria-nacional-primer-premio-merida-131882218.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -211,6 +211,38 @@
       "location": "Mérida"
     },
     {
+      "title": "El Mes de la Fertilidad pone el foco en el retraso del proyecto reproductivo en España",
+      "description": "El Mes de la Fertilidad concluye constatando que la maternidad se acerca cada vez más a los 40 años Con el final del Mes de...",
+      "date": "2026-06-29",
+      "url": "https://www.meridadiario.com/2026/06/29/el-mes-de-la-fertilidad-pone-el-foco-en-el-retraso-del-proyecto-reproductivo-en-espana/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Activación de la alerta naranja por altas temperaturas en Las Vegas del Guadiana por el 112 Extremadura",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.meridadiario.com/2026/06/29/activacion-de-la-alerta-naranja-por-altas-temperaturas-en-las-vegas-del-guadiana-por-el-112-extremadura/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los expertos reclaman reforzar la atención geriátrica ante el aumento de la población mayor",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.meridadiario.com/2026/06/29/los-expertos-reclaman-reforzar-la-atencion-geriatrica-ante-el-aumento-de-la-poblacion-mayor/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Real Madrid, FC Barcelona y Atlético de Madrid impulsan el crecimiento del valor de LALIGA",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.meridadiario.com/2026/06/29/real-madrid-fc-barcelona-y-atletico-de-madrid-impulsan-el-crecimiento-del-valor-de-laliga/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "La red “RefrescArte” ofrece un recorrido por la ciudad a través de cinco lugares donde la cultura se convierte en refugio frente al calor",
       "description": "",
       "date": "2026-06-29",
@@ -307,8 +339,40 @@
       "location": "Mérida"
     },
     {
+      "title": "Acuerdo con el Varzim SC para el traspaso de Rodrigo Pereira",
+      "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-06-29",
+      "url": "https://meridanoticias.com/2026/06/27/acuerdo-con-el-varzim-sc-para-el-traspaso-de-rodrigo-pereira/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Hugo Sanz, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://meridanoticias.com/2026/06/27/hugo-sanz-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dani Sandoval vuelve al Romano",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://meridanoticias.com/2026/06/26/dani-sandoval-vuelve-al-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Javi Domínguez no continuará en el Mérida",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://meridanoticias.com/2026/06/25/javi-dominguez-no-continuara-en-el-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "por Mérida Noticias en Mérida 0",
+      "description": "",
       "date": "2026-06-29",
       "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
       "source": "Mérida Noticias",
@@ -355,34 +419,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Las obras de reparación del tramo de la Avenida de Extremadura junto a Santa Eulalia comenzarán el próximo 22 de junio y tendrán una duración de cinco días",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/18/las-obras-de-reparacion-del-tramo-de-la-avenida-de-extremadura-junto-a-santa-eulalia-comenzaran-el-proximo-22-de-junio-y-tendran-una-duracion-de-cinco-dias/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento destinará más de 18 millones de euros del remanente positivo de tesorería a empleo, accesibilidad, deporte, barriadas y servicios públicos",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/17/el-ayuntamiento-destinara-mas-de-18-millones-de-euros-del-remanente-positivo-de-tesoreria-a-empleo-accesibilidad-deporte-barriadas-y-servicios-publicos/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
       "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
       "description": "",
       "date": "2026-06-29",
       "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Raúl Beneit seguirá defendiendo el escudo Romano",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/16/raul-beneit-seguira-defendiendo-el-escudo-romano/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -399,30 +439,6 @@
       "description": "",
       "date": "2026-06-29",
       "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Eudald Vergés no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/11/eudald-verges-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jacobo Martí no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/09/jacobo-marti-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Jota López, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://meridanoticias.com/2026/06/08/jota-lopez-nuevo-jugador-romano/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -451,7 +467,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Fotogalería | Lo mejor del concierto de Alan Parsons en Mérida, en imágenes",
+      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
       "description": "Mérida",
       "date": "2026-06-29",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/29/fotogaleria-mejor-concierto-alan-parsons-131919466.html",
@@ -611,10 +627,58 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (29/06/26)",
+      "title": "Noticias mediodía Extremadura (29/06/26)",
       "description": "",
       "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-290626_202606296a4202f9fea3b0e490b76d50.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-290626_202606296a4260d4fea3b0e476b96d50.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos matinal Más de Uno Mérida (29/06/26)",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606296a425f21c383750007c6da96.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (29/06/26)",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202606296a425d8dfea3b0e456b96d50.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival Internacional de Teatro Clásico de Mérida volverá a llenar la ciudad de teatro, cine, exposiciones y actividades durante el verano",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/festival-internacional-teatro-clasico-merida-volvera-llenar-ciudad-teatro-cine-exposiciones-actividades-verano_202606296a4261795fbab0e4f77331c7.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Con la llegada del verano las residencias caninas son la alternativa para quienes no pueden viajar con sus mascotas",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/llegada-verano-residencias-caninas-son-alternativa-quienes-pueden-viajar-sus-mascotas_202606296a426453c383750007c6dab6.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los Mosquitos: cómo prevenirlos de forma natural y cómo tratar sus picaduras",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mosquitos-como-prevenirlos-forma-natural-como-tratar-sus-picaduras_202606256a3d1614447c2100076483e3.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Mérida (29/06/2026)",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-29062026_202606296a4264db6925b30007f37070.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -635,58 +699,10 @@
       "location": "Mérida"
     },
     {
-      "title": "¿Cómo ahorrar en la factura de la luz? Desde Hispania siglo XXI nos ayudan a pagar lo justo por la energía que consumimos",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/como-ahorrar-factura-luz-hispania-siglo-xxi-nos-ayudan-pagar-justo-energia-que-consumimos_202606196a35249bff3a5e000735742f.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La banda \"Black Maracas\" presenta su último álbum \"Dilly Child Early Mournings\" este viernes en la terraza del Centro Cultural Alcazaba de Mérida",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/banda-black-maracas-presenta-ultimo-album-dilly-child-early-mournings-este-viernes-terraza-centro-cultural-alcazaba-merida_202606256a3d188188dbb0e4680ecf40.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los Mosquitos: cómo prevenirlos de forma natural y cómo tratar sus picaduras",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mosquitos-como-prevenirlos-forma-natural-como-tratar-sus-picaduras_202606256a3d1614447c2100076483e3.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Más de uno Mérida (26/06/2026)",
       "description": "",
       "date": "2026-06-29",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-26062026_202606266a3e5ca5f9a3be000779af62.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (25/06/2026)",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-25062026_202606256a3d19ee88dbb0e46f0ecf40.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Mérida",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606256a3d1795f9a3be000779ab96.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (25/06/26)",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-250626_202606256a3d1673708fb0e47a866d2c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -707,10 +723,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El orden de participación en los desfiles de Carnaval y del Concurso de Murgas de Badajoz se sortea la próxima semana",
+      "title": "El Hospital Materno Infantil de Badajoz pone en marcha una nuevo servicio de triaje estructurado en urgencias",
       "description": "",
       "date": "2026-06-29",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/orden-participacion-desfiles-carnaval-concurso-murgas-badajoz-sortea-proxima-semana_20250103677798b04f1fb700017d921e.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/hospital-materno-infantil-badajoz-pone-marcha-nuevo-servicio-triaje-estructurado-urgencias_202411046728b7272914190001ea8fdc.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -723,10 +739,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Previsión de la AEMET en Mérida hoy 28 de Junio de 2026",
-      "description": "Pronóstico del Tiempo para Mérida - 28 de Junio de 2026 ¡Buenos días, Mérida! Hoy, 28 de junio de 2026, nos espera una jornada marcada...",
+      "title": "La Junta de Extremadura reitera su compromiso con la conservación del patrimonio cultural en Almendral",
+      "description": "",
       "date": "2026-06-28",
-      "url": "https://www.meridadiario.com/2026/06/28/prevision-de-la-aemet-en-merida-hoy-28-de-junio-de-2026/",
+      "url": "https://www.meridadiario.com/2026/06/28/la-junta-de-extremadura-reitera-su-compromiso-con-la-conservacion-del-patrimonio-cultural-en-almendral/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -767,22 +783,6 @@
       "description": "La convocación de admisión y matriculación para adultos en educación en ExtremaduraLa Consejería de Educación y Formación Profesional de la Junta de Extremadura ha...",
       "date": "2026-06-27",
       "url": "https://www.meridadiario.com/2026/06/27/la-junta-de-extremadura-anuncia-el-plazo-de-admision-y-matriculacion-para-ensenanzas-dirigidas-a-adultos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "ISDIN y Ahorramás entran en el Top 100 de Merco 2026 junto al avance de Fluidra",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.meridadiario.com/2026/06/27/isdin-y-ahorramas-entran-en-el-top-100-de-merco-2026-junto-al-avance-de-fluidra/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Hospital Universitario Rey Juan Carlos realiza su primera mastectomía robótica con mejor recuperación",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.meridadiario.com/2026/06/27/el-hospital-universitario-rey-juan-carlos-realiza-su-primera-mastectomia-robotica-con-mejor-recuperacion/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -875,18 +875,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La recogida de residuos sólidos se adelanta a las 17.30 horas desde el 29 de agosto al 4 de septiembre",
-      "description": "Intervenciones de la Policía Local en Siniestralidad VialLa Policía Local de Mérida llevó a cabo intervenciones en un total de 18 incidentes relacionados con...",
+      "title": "El ayuntamiento de Mérida ha destinado más de 4.600.000 euros en renovación y creación de instalaciones deportivas y más de 320.000 euros en ayudas, becas y patrocinios a clubes y deportistas de la ciudad desde el año 2015",
+      "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
       "date": "2026-06-24",
       "url": "https://www.meridadiario.com/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "Descubren un Carro de Bronce Único en el Yacimiento de Casas del Turuñuelo que Revela Rutas Comerciales de la Antigüedad",
+      "title": "La Junta de Extremadura potencia la empleabilidad de jóvenes a través de la formación profesional y universitaria",
       "description": "",
       "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/descubren-un-carro-de-bronce-unico-en-el-yacimiento-de-casas-del-turunuelo-que-revela-rutas-comerciales-de-la-antiguedad/",
+      "url": "https://www.meridadiario.com/2026/06/24/la-junta-de-extremadura-potencia-la-empleabilidad-de-jovenes-a-traves-de-la-formacion-profesional-y-universitaria/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -915,14 +915,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida ARDE: previsión semanal de la primera ola de calor masiva que arrasa la península",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.meridadiario.com/2026/06/22/merida-arde-prevision-semanal-de-la-primera-ola-de-calor-masiva-que-arrasa-la-peninsula/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición ‘Mitos & Leyendas de Extremadura’",
       "description": "Del 22 de Junio al 3 de Julio se podrá visitar la exposición \"Mitos y leyendas de Extremadura\", cedida por la AGCEX, en el Centro Cultural de La Antigua. Consta de 12 paneles sobre los mitos y leyendas de distintas localidades de la región extremeña que forman parte indisoluble de nuestra identid...",
       "date": "2026-06-22",
@@ -947,18 +939,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consejo de Gobierno de Extremadura destina más de 68 millones de euros a colaboración económica municipal",
-      "description": "El Consejo de Gobierno de Extremadura aprueba importantes planes de colaboración económica El Consejo de Gobierno en funciones de la Junta de Extremadura ha...",
-      "date": "2026-03-17",
-      "url": "https://www.meridadiario.com/2026/03/17/el-consejo-de-gobierno-de-extremadura-destina-mas-de-68-millones-de-euros-a-colaboracion-economica-municipal/",
+      "title": "Predicción meteorológica: Mérida, 6 de Marzo de 2025",
+      "description": "Pronóstico del tiempo para Mérida el 6 de marzo de 2025 Hoy, en la hermosa ciudad de Mérida, nos espera un día con condiciones meteorológicas...",
+      "date": "2025-03-06",
+      "url": "https://www.meridadiario.com/2025/03/06/prediccion-meteorologica-merida-6-de-marzo-de-2025/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El tiempo hoy 26 de Diciembre de 2025 en Mérida según AEMET",
-      "description": "Pronóstico del Tiempo para Mérida - 26 de Diciembre de 2025 En este día posterior a las festividades navideñas, el pronóstico del tiempo para Mérida...",
-      "date": "2025-12-26",
-      "url": "https://www.meridadiario.com/2025/12/26/el-tiempo-hoy-26-de-diciembre-de-2025-en-merida-segun-aemet/",
+      "title": "El Foro de Ampas retoma su actividad tras el parón por la pandemia y mantiene su directiva",
+      "description": "Según destaca la delegada de Educación, Susana Fajardo “es una buena noticia para la ciudad ya que se ha convertido en un referente dentro...",
+      "date": "2021-09-23",
+      "url": "https://www.meridadiario.com/2021/09/23/el-foro-de-ampas-retoma-su-actividad-tras-el-paron-por-la-pandemia-y-mantiene-su-directiva/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
