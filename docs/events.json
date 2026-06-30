@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-30T15:25:34Z",
-  "count": 145,
+  "updated_at": "2026-06-30T20:56:18Z",
+  "count": 117,
   "events": [
+    {
+      "title": "Canoas, gazpacho y espuma en la playa de Mérida por la Semana Cultural de Proserpina",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/canoas-gazpacho-espuma-playa-merida-fiestas-proserpina-131986874.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Agua de más calidad en cada vaso, la apuesta millonaria de Osuna para Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/agua-calidad-vaso-apuesta-millonaria-osuna-merida-131985090.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Puccini, Verdi, Mozart y Bellini sonarán gratis en el Teatro María Luisa de Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/puccini-verdi-mozart-bellini-sonaran-gratis-teatro-maria-luisa-merida-131973785.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Sin carné, bebidos y a golpes por Mérida: 17 incidentes viales en una semana negra al volante",
       "description": "",
@@ -15,14 +39,6 @@
       "description": "",
       "date": "2026-06-30",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/obra-eterna-plaza-santa-eulalia-restos-arqueologicos-merida-131968030.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Puccini, Verdi, Mozart y Bellini sonarán gratis en el Teatro María Luisa de Mérida",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/puccini-verdi-mozart-bellini-sonaran-gratis-teatro-maria-luisa-merida-131973785.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-06-30",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/alan-parsons-concierto-teatro-romano-merida-131925082.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida: capital del Orgullo, capital de la libertad",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/merida-capital-orgullo-capital-libertad-131874252.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El bus gratis cambia la forma de moverse en Mérida",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/bus-gratis-cambia-forma-moverse-merida-131910121.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -288,134 +288,6 @@
       "date": "2026-06-30",
       "url": "https://merida.es/el-ayuntamiento-reafirma-su-apoyo-a-la-plataforma-del-voluntariado-de-merida-mediante-la-renovacion-del-convenio-que-cuenta-con-una-dotacion-de-21-000-euros-para-esta-anualidad/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Acuerdo con el Varzim SC para el traspaso de Rodrigo Pereira",
-      "description": "por Mérida Noticias en Deportes 0",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/27/acuerdo-con-el-varzim-sc-para-el-traspaso-de-rodrigo-pereira/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Hugo Sanz, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/27/hugo-sanz-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dani Sandoval vuelve al Romano",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/26/dani-sandoval-vuelve-al-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Javi Domínguez no continuará en el Mérida",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/25/javi-dominguez-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Archivo Histórico Municipal estrena su nueva hemeroteca digital, un espacio abierto en la diseñado para acercar la historia local a toda la ciudadanía",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/22/el-archivo-historico-municipal-estrena-su-nueva-hemeroteca-digital-un-espacio-abierto-en-la-disenado-para-acercar-la-historia-local-a-toda-la-ciudadania/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento abre las piscinas municipales para la temporada estival",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-abre-las-piscinas-municipales-para-la-temporada-estival/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento y AUPEX ofrecen 25 acciones formativas en la Universidad Popular de Mérida",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/19/el-ayuntamiento-y-aupex-ofrecen-25-acciones-formativas-en-la-universidad-popular-de-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Rodríguez Osuna valora positivamente el Real Decreto de Entregas a Cuenta, que permitirá a Mérida disponer de 1,5 millones de euros adicionales",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/19/rodriguez-osuna-valora-positivamente-el-real-decreto-de-entregas-a-cuenta-que-permitira-a-merida-disponer-de-15-millones-de-euros-adicionales/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento realiza desbroces en una superficie de 65 hectáreas en los distintos barrios y zonas de la ciudad",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/18/el-ayuntamiento-realiza-desbroces-en-una-superficie-de-65-hectareas-en-los-distintos-barrios-y-zonas-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-06-30",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -651,6 +523,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Una familia denuncia la falta de adaptación educativa para sus hijos con TDAH y acusa a la Inspección de inacción durante más de un año",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/una-familia-denuncia-la-falta-de-adaptacion-educativa-para-sus-hijos-con-tdah-y-acusa-a-la-inspeccion-de-inaccion-durante-mas-de-un-ano-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El IV Campeonato Regional de Tortilla de Patatas se celebrará en Villanueva el 16 de septiembre",
       "description": "",
       "date": "2026-06-30",
@@ -755,11 +635,11 @@
       "location": "Mérida"
     },
     {
-      "title": "La comunidad de Venezuela en Extremadura vive \"con el corazón en las manos\" las consecuencias del terremoto",
+      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/26/la-comunidad-de-venezuela-en-extremadura-vive-con-el-corazon-en-las-manos-las-consecuencias-del-terremoto-radio-extremadura/",
-      "source": "Cadena SER Mérida",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/proxima-edicion-emerita-lvdica-celebrara-7-16-mayo-2027_202606226a38fdf39f03cb0254d8dcd3.html",
+      "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
@@ -899,38 +779,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Mes de la Fertilidad pone el foco en el retraso del proyecto reproductivo en España",
-      "description": "El Mes de la Fertilidad concluye constatando que la maternidad se acerca cada vez más a los 40 años Con el final del Mes de...",
-      "date": "2026-06-29",
-      "url": "https://www.meridadiario.com/2026/06/29/el-mes-de-la-fertilidad-pone-el-foco-en-el-retraso-del-proyecto-reproductivo-en-espana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Activación de la alerta naranja por altas temperaturas en Las Vegas del Guadiana por el 112 Extremadura",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.meridadiario.com/2026/06/29/activacion-de-la-alerta-naranja-por-altas-temperaturas-en-las-vegas-del-guadiana-por-el-112-extremadura/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los expertos reclaman reforzar la atención geriátrica ante el aumento de la población mayor",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.meridadiario.com/2026/06/29/los-expertos-reclaman-reforzar-la-atencion-geriatrica-ante-el-aumento-de-la-poblacion-mayor/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Real Madrid, FC Barcelona y Atlético de Madrid impulsan el crecimiento del valor de LALIGA",
-      "description": "",
-      "date": "2026-06-29",
-      "url": "https://www.meridadiario.com/2026/06/29/real-madrid-fc-barcelona-y-atletico-de-madrid-impulsan-el-crecimiento-del-valor-de-laliga/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Dos heridos tras una salida de vía en la A-5, a la altura de Mérida",
       "description": "",
       "date": "2026-06-28",
@@ -960,14 +808,6 @@
       "date": "2026-06-28",
       "url": "https://www.hoy.es/merida/mercado-artesania-verano-jueves-domingo-proximos-20260628075951-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura reitera su compromiso con la conservación del patrimonio cultural en Almendral",
-      "description": "",
-      "date": "2026-06-28",
-      "url": "https://www.meridadiario.com/2026/06/28/la-junta-de-extremadura-reitera-su-compromiso-con-la-conservacion-del-patrimonio-cultural-en-almendral/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1003,14 +843,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura anuncia el plazo de admisión y matriculación para enseñanzas dirigidas a adultos",
-      "description": "La convocación de admisión y matriculación para adultos en educación en ExtremaduraLa Consejería de Educación y Formación Profesional de la Junta de Extremadura ha...",
-      "date": "2026-06-27",
-      "url": "https://www.meridadiario.com/2026/06/27/la-junta-de-extremadura-anuncia-el-plazo-de-admision-y-matriculacion-para-ensenanzas-dirigidas-a-adultos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ejecutivo de Osuna renueva los 2 millones para incentivar el consumo local con los bonos",
       "description": "",
       "date": "2026-06-26",
@@ -1035,14 +867,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Los Centros Educativos de Extremadura Abren Inscripciones para el Programa ‘Ayuda entre Iguales’",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://www.meridadiario.com/2026/06/26/los-centros-educativos-de-extremadura-abren-inscripciones-para-el-programa-ayuda-entre-iguales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Treinta años de trabajo del taller de mosaicos de Luisa Díaz Liviano en una exposición en el centro Alcazaba",
       "description": "",
       "date": "2026-06-25",
@@ -1059,43 +883,11 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura y sindicatos del Infoex avanzan en la negociación de mejoras laborales",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.meridadiario.com/2026/06/25/la-junta-de-extremadura-y-sindicatos-del-infoex-avanzan-en-la-negociacion-de-mejoras-laborales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición «30 años aprendiendo a hacer mosaicos» de Ex Officina Antea",
       "description": "La exposición conmemorativa por el trigésimo aniversario de la escuela de mosaicos Ex Officina Antea es una muestra que rinde homenaje a la labor docente y artística desarrollada en la capital autonómica durante las últimas tres décadas. Abrirá sus puertas en el Centro Cultural Alcazaba el 25 de ...",
       "date": "2026-06-25",
       "url": "https://merida.es/agenda/mosaicos-ex-officina-antea/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "El ayuntamiento de Mérida ha destinado más de 4.600.000 euros en renovación y creación de instalaciones deportivas y más de 320.000 euros en ayudas, becas y patrocinios a clubes y deportistas de la ciudad desde el año 2015",
-      "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura potencia la empleabilidad de jóvenes a través de la formación profesional y universitaria",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/la-junta-de-extremadura-potencia-la-empleabilidad-de-jovenes-a-traves-de-la-formacion-profesional-y-universitaria/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura destina 2.500 euros a 147 estudiantes universitarios para gastos de residencia",
-      "description": "",
-      "date": "2026-06-23",
-      "url": "https://www.meridadiario.com/2026/06/23/la-junta-de-extremadura-destina-2-500-euros-a-147-estudiantes-universitarios-para-gastos-de-residencia/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1144,22 +936,6 @@
       "date": "2026-06-02",
       "url": "https://merida.es/agenda/exposicion-mi-tierra-mis-gentes-de-francisco-miranda/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Predicción meteorológica: Mérida, 6 de Marzo de 2025",
-      "description": "Pronóstico del tiempo para Mérida el 6 de marzo de 2025 Hoy, en la hermosa ciudad de Mérida, nos espera un día con condiciones meteorológicas...",
-      "date": "2025-03-06",
-      "url": "https://www.meridadiario.com/2025/03/06/prediccion-meteorologica-merida-6-de-marzo-de-2025/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Foro de Ampas retoma su actividad tras el parón por la pandemia y mantiene su directiva",
-      "description": "Según destaca la delegada de Educación, Susana Fajardo “es una buena noticia para la ciudad ya que se ha convertido en un referente dentro...",
-      "date": "2021-09-23",
-      "url": "https://www.meridadiario.com/2021/09/23/el-foro-de-ampas-retoma-su-actividad-tras-el-paron-por-la-pandemia-y-mantiene-su-directiva/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
