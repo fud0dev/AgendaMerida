@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-06-30T10:30:12Z",
-  "count": 144,
+  "updated_at": "2026-06-30T15:25:34Z",
+  "count": 145,
   "events": [
+    {
+      "title": "Sin carné, bebidos y a golpes por Mérida: 17 incidentes viales en una semana negra al volante",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/carne-bebidos-golpes-merida-policia-local-sucesos-131971607.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La obra eterna de la plaza de Santa Eulalia de Mérida terminará este año con sus restos arqueológicos bajo vidrio",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/obra-eterna-plaza-santa-eulalia-restos-arqueologicos-merida-131968030.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Puccini, Verdi, Mozart y Bellini sonarán gratis en el Teatro María Luisa de Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/puccini-verdi-mozart-bellini-sonaran-gratis-teatro-maria-luisa-merida-131973785.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La Feria de Mérida 2026 echa a andar con la reserva de sitio para casetas, puestos y atracciones",
       "description": "",
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-06-30",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/bus-gratis-cambia-forma-moverse-merida-131910121.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Bañarse como un romano: el plan entre termas, diosas y recreaciones que revive este verano",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/balneario-romano-alange-termas-merida-131896257.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos heridos en una salida de vía en la A-5 cerca de Mérida",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/28/heridos-salida-via-5-cerca-131900207.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ana Torroja despierta en el Teatro Romano de Mérida la memoria viva de Mecano",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/28/ana-torroja-teatro-romano-merida-mecano-131895524.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -171,6 +171,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Teatro María Luisa ofrece un concierto de ópera gratuito este domingo",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.hoy.es/merida/teatro-maria-luisa-ofrece-concierto-opera-gratuito-20260630132515-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Una exposición muestra datos e imágenes de las dos sedes que ha tenido la Consejería de Agricultura en Mérida",
       "description": "",
       "date": "2026-06-30",
@@ -187,11 +195,35 @@
       "location": "Mérida"
     },
     {
-      "title": "Así fue el concierto de Ana Torroja en el Teatro Romano de Mérida",
+      "title": "Rodríguez Osuna destaca la inversión “millonaria” del Ayuntamiento para transformar el servicio y mejorar la calidad del agua de Mérida y su comarca",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.hoy.es/merida/concierto-ana-torroja-teatro-romano-merida-20260628100642-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/rodriguez-osuna-destaca-la-inversion-millonaria-del-ayuntamiento-para-transformar-el-servicio-y-mejorar-la-calidad-del-agua-de-merida-y-su-comarca/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Semana Cultural de Proserpina ofrece desde hoy cultura, ocio y convivencia",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://merida.es/la-semana-cultural-de-proserpina-ofrece-desde-hoy-cultura-ocio-y-convivencia/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Laoctava trae lo mejor la ópera a un Concierto Lírico gratuito en el Teatro María Luisa",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://merida.es/laoctava-trae-lo-mejor-la-opera-a-un-concierto-lirico-gratuito-en-el-teatro-maria-luisa/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino la semana pasada en 17 incidentes relacionados con la siniestralidad vial",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://merida.es/la-policia-local-intervino-la-semana-pasada-en-17-incidentes-relacionados-con-la-siniestralidad-vial/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -255,38 +287,6 @@
       "description": "",
       "date": "2026-06-30",
       "url": "https://merida.es/el-ayuntamiento-reafirma-su-apoyo-a-la-plataforma-del-voluntariado-de-merida-mediante-la-renovacion-del-convenio-que-cuenta-con-una-dotacion-de-21-000-euros-para-esta-anualidad/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro Cultural Alcazaba ofrece una exposición de mosaicos que recoge 30 años de trayectoria del taller Ex Officina Antea, de Luisa Díaz Liviano",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://merida.es/el-centro-cultural-alcazaba-ofrece-una-exposicion-de-mosaicos-que-recoge-30-anos-de-trayectoria-del-taller-ex-offina-antea-de-luisa-diaz-liviano/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento impulsa el mayor Plan Especial de Empleo de su historia con 178 contrataciones para reforzar los servicios municipales",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://merida.es/el-ayuntamiento-impulsa-el-mayor-plan-especial-de-empleo-de-su-historia-con-178-contrataciones-para-reforzar-los-servicios-municipales/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Trofeo Internacional Emérita Augusta congrega a todos los clubes de la región y a varios de otras comunidades el próximo sábado en la piscina del polideportivo Guadiana",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://merida.es/el-trofeo-internacional-emerita-augusta-congrega-a-todos-los-clubes-de-la-region-y-a-varios-de-otras-comunidades-el-proximo-sabado-en-la-piscina-del-polideportivo-guadiana/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento presenta la campaña «Lo normal cambia, sus consecuencias no» para afrontar los retos pendientes en el consumo de alcohol en menores",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://merida.es/el-ayuntamiento-presenta-la-campana-lo-normal-cambia-sus-consecuencias-no-para-afrontar-los-retos-pendientes-en-el-consumo-de-alcohol-en-menores/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -651,6 +651,54 @@
       "location": "Mérida"
     },
     {
+      "title": "El IV Campeonato Regional de Tortilla de Patatas se celebrará en Villanueva el 16 de septiembre",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/el-iv-campeonato-regional-de-tortilla-de-patatas-se-celebrara-en-villanueva-el-16-de-septiembre-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los Premios Luz de Barbaño reconocen a María Ángeles López, Creativaarquitectos y el CEIP Adolfo Díaz Ambrona",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/los-premios-luz-de-barbano-reconocen-a-maria-angeles-lopez-creativaarquitectos-y-el-ceip-adolfo-diaz-ambrona-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Don Benito certifica por unanimidad el fin del proceso de fusión con Villanueva de la Serena",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/el-ayuntamiento-de-don-benito-certifica-por-unanimidad-el-fin-del-proceso-de-fusion-con-villanueva-de-la-serena-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los conciertos organizados por la Cadena SER traerán a Cáceres las giras de Cadena Dial y Los 40 Summer Live este mes de julio",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/los-conciertos-organizados-por-la-cadena-ser-traeran-a-caceres-las-giras-de-cadena-dial-y-los-40-summer-live-este-mes-de-julio-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cáceres refuerza este verano la lucha contra plagas con tratamientos intensivos en toda la red de saneamiento",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/caceres-refuerza-este-verano-la-lucha-contra-plagas-con-tratamientos-intensivos-en-toda-la-red-de-saneamiento-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Es una falta de respeto que Don Benito cierre el proceso de fusión sin contar con Villanueva\"",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://cadenaser.com/extremadura/2026/06/30/es-una-falta-de-respeto-que-don-benito-cierre-el-proceso-de-fusion-sin-contar-con-villanueva-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Termina el proceso de regularización de migrantes con importante afluencia en los organismos regionales",
       "description": "",
       "date": "2026-06-30",
@@ -715,46 +763,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Villanueva de la Serena pone en marcha un punto limpio móvil para acercar el reciclaje a todos los barrios",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/villanueva-de-la-serena-pone-en-marcha-un-punto-limpio-movil-para-acercar-el-reciclaje-a-todos-los-barrios-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "David Dóniga toma posesión como nuevo alcalde de Plasencia",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/david-doniga-toma-posesion-como-nuevo-alcalde-de-plasencia-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Este carro refleja el enorme poder de quienes habitaron Casas del Turuñuelo\"",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/este-carro-refleja-el-enorme-poder-de-quienes-habitaron-casas-del-turunuelo-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos heridos graves y otros dos leves en las últimas sueltas de los Sanjuanes de Coria",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/dos-heridos-graves-y-otros-dos-leves-en-las-ultimas-sueltas-de-los-sanjuanes-de-coria-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva de la Serena se adhiere a la red de municipios ciberseguros",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/villanueva-de-la-serena-se-adhiere-a-la-red-de-municipios-ciberseguros-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El Ayuntamiento destinará más de 18 millones de euros a empleo, accesibilidad, deporte, barriadas y servicios públicos",
       "description": "",
       "date": "2026-06-30",
@@ -771,26 +779,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (30/06/26)",
+      "title": "Noticias mediodía Extremadura (30/06/26)",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-300626_202606306a43548f6b492a0007d5db1e.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-300626_202606306a43b1c06b492a0007d5dd12.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (29/06/26)",
+      "title": "Informativos matinal Más de Uno Mérida (30/06/26)",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606296a425f21c383750007c6da96.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-300626_202606306a43b5206b492a0007d5dd30.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (29/06/26)",
+      "title": "Informativos mediodía Mérida (30/06/26)",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202606296a425d8dfea3b0e456b96d50.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-300626_202606306a43aeab21e6b0e4bdafdf6e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -827,6 +835,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Informativos matinal Más de Uno Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida_202606296a425f21c383750007c6da96.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202606296a425d8dfea3b0e456b96d50.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Informativos matinal Más de Uno Mérida (26/06/26)",
       "description": "",
       "date": "2026-06-30",
@@ -835,18 +859,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (26/06/26)",
+      "title": "La comarca de las Vegas del Guadiana activará este martes el aviso naranja por temperaturas de hasta 40 grados",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-260626_202606266a3e688c447c210007648760.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/comarca-vegas-guadiana-activara-este-martes-aviso-naranja-temperaturas-40-grados_202606306a439d1926ebc75a77f88b59.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Mérida (26/06/2026)",
+      "title": "El PSOE de Badajoz celebra los 50 años de su reconstitución y llama a afrontar las municipales \"desde la unidad\"",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-26062026_202606266a3e5ca5f9a3be000779af62.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/psoe-badajoz-celebra-50-anos-reconstitucion-llama-afrontar-municipales-unidad_202606306a439c6f403b9f2792e20219.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -855,22 +879,6 @@
       "description": "",
       "date": "2026-06-30",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/leire-iglesias-nueva-directora-general-sepes_202312076572000f0ec7c80001c82760.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El orden de participación en los desfiles de Carnaval y del Concurso de Murgas de Badajoz se sortea la próxima semana",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/orden-participacion-desfiles-carnaval-concurso-murgas-badajoz-sortea-proxima-semana_20250103677798b04f1fb700017d921e.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -927,6 +935,14 @@
       "description": "",
       "date": "2026-06-28",
       "url": "https://www.hoy.es/merida/dos-heridos-tras-salida-via-altura-merida-20260628130159-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Así fue el concierto de Ana Torroja en el Teatro Romano de Mérida",
+      "description": "",
+      "date": "2026-06-28",
+      "url": "https://www.hoy.es/merida/concierto-ana-torroja-teatro-romano-merida-20260628100642-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -1039,14 +1055,6 @@
       "description": "",
       "date": "2026-06-25",
       "url": "https://www.hoy.es/merida/cantante-ana-torroja-entra-forma-parte-manana-20260625114224-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El folclore de 'El Gato con Jotas' y un monólogo sobre la soledad con Cándido Gómez, en la Sala Trajano",
-      "description": "",
-      "date": "2026-06-25",
-      "url": "https://www.hoy.es/merida/folclore-gato-jotas-monologo-sobre-soledad-candido-20260625114154-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
