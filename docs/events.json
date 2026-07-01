@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T15:39:39Z",
-  "count": 120,
+  "updated_at": "2026-07-01T20:46:48Z",
+  "count": 119,
   "events": [
     {
       "title": "Miguel Ángel Muñoz abre el Festival de Mérida con un Espartaco entre la vida y la muerte",
@@ -155,42 +155,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Los restos arqueológicos de la plaza de Santa Eulalia estarán integrados antes de acabar el año",
+      "title": "El Consorcio de Mérida reconoce que un evento incumplió la protección del Acueducto los Milagros",
       "description": "",
       "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/restos-arqueologicos-plaza-santa-eulalia-integrados-acabar-20260630072739-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abierto el plazo de solicitudes de parcelas para atracciones y casetas para la Feria de Mérida",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/abierto-plazo-solicitudes-parcelas-atracciones-casetas-feria-20260630072746-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Teatro María Luisa ofrece un concierto de ópera gratuito este domingo",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/teatro-maria-luisa-ofrece-concierto-opera-gratuito-20260630132515-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una exposición muestra datos e imágenes de las dos sedes que ha tenido la Consejería de Agricultura en Mérida",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/exposicion-muestra-datos-imagenes-dos-sedes-consejeria-20260629180117-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Marcha del Orgullo en Mérida",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/marcha-orgullo-merida-20260628220800-nt.html",
+      "url": "https://www.hoy.es/merida/consorcio-merida-reconoce-evento-incumplio-proteccion-acueducto-20260701205531-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -203,10 +171,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida reclama 12 millones de euros en inversiones en los Presupuestos de la Junta",
+      "title": "El Ayuntamiento de Mérida ofrecerá ayudas en materia de vivienda",
       "description": "",
       "date": "2026-07-01",
-      "url": "https://www.hoy.es/merida/merida-reclama-millones-euros-inversiones-presupuestos-junta-20260701152951-nt.html",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-ofrecera-ayudas-materia-vivienda-20260701190252-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -215,6 +183,22 @@
       "description": "",
       "date": "2026-07-01",
       "url": "https://www.hoy.es/merida/osuna-destaca-inversion-millones-mejoras-red-agua-20260701141611-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los restos arqueológicos de la plaza de Santa Eulalia estarán integrados antes de acabar el año",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.hoy.es/merida/restos-arqueologicos-plaza-santa-eulalia-integrados-acabar-20260630072739-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida reclama 12 millones de euros en inversiones en los Presupuestos de la Junta",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.hoy.es/merida/merida-reclama-millones-euros-inversiones-presupuestos-junta-20260701152951-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -232,6 +216,54 @@
       "date": "2026-07-01",
       "url": "https://www.hoy.es/merida/donacion-sangre-san-luis-20260701094832-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de 130 estudiantes participan en el innovador curso del Campus Yuste sobre la autonomía estratégica de la Unión Europea",
+      "description": "Impulso a la Formación Internacional en Yuste El Campus Yuste ha inaugurado su primer curso de verano titulado 'La autonomía estratégica de la Unión...",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/mas-de-130-estudiantes-participan-en-el-innovador-curso-del-campus-yuste-sobre-la-autonomia-estrategica-de-la-union-europea/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El ballet Spartacus inaugura la 72ª edición del Festival de Mérida",
+      "description": "El ballet Spartacus da inicio al Festival de MéridaLa danza se une a la narración en *Spartacus*, la obra que levantará el telón de...",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/el-ballet-spartacus-inaugura-la-72a-edicion-del-festival-de-merida/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 1 de Julio de 2026",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/el-tiempo-en-merida-hoy-1-de-julio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El plan estratégico de Caldea lleva a la compañía a un ejercicio récord",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/el-plan-estrategico-de-caldea-lleva-a-la-compania-a-un-ejercicio-record/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Gobierno de Extremadura amplía la oferta educativa con 11 nuevas aulas matinales",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/el-gobierno-de-extremadura-amplia-la-oferta-educativa-con-11-nuevas-aulas-matinales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura anuncia la licitación de un proyecto para humanizar la travesía EX-112 en Burguillos del Cerro",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/la-junta-de-extremadura-anuncia-la-licitacion-de-un-proyecto-para-humanizar-la-travesia-ex-112-en-burguillos-del-cerro/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -707,18 +739,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Bomberos de Diputación de Badajoz intensifican labores de rescate con la esperanza de encontrar a gente viva",
+      "title": "La artista Alba Carmona y el guitarrista Jesús Guerrero actúan este miércoles en Badajoz dentro del Festival Badasom",
       "description": "",
       "date": "2026-07-01",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/bomberos-diputacion-badajoz-intensifican-labores-rescate-esperanza-encontrar-gente-viva_202606306a439b7bdcb2092ca8c060f8.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/artista-alba-carmona-guitarrista-jesus-guerrero-actuan-este-miercoles-badajoz-dentro-festival-badasom_202607016a44dd46403b9f2792e334c9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "El PSOE de Badajoz celebra los 50 años de su reconstitución y llama a afrontar las municipales \"desde la unidad\"",
+      "title": "Bomberos de Diputación de Badajoz intensifican labores de rescate con la esperanza de encontrar a gente viva",
       "description": "",
       "date": "2026-07-01",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/audios-podcast/informativos/psoe-badajoz-celebra-50-anos-reconstitucion-llama-afrontar-municipales-unidad_202606306a439c6f403b9f2792e20219.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/bomberos-diputacion-badajoz-intensifican-labores-rescate-esperanza-encontrar-gente-viva_202606306a439b7bdcb2092ca8c060f8.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -739,34 +771,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Ciclo de conferencias ‘Nova Emérita: arquitectura actual en la ciudad histórica’ por Rafael Mesa Hurtado",
-      "description": "El ciclo Nova Emérita: arquitectura actual en la ciudad histórica, organizado por el Colegio Oficial de Arquitectos de Extremadura (COADE) y el Ayuntamiento de Mérida, culmina con la conferencia del arquitecto Rafael Mesa Hurtado el próximo miércoles 1 de julio a las 20:00 horas, en la Sala Dulce...",
-      "date": "2026-07-01",
-      "url": "https://merida.es/agenda/ciclo-de-conferencias-nova-emerita-arquitectura-actual-en-la-ciudad-historica-por-rafael-mesa-hurtado/",
-      "source": "Ayuntamiento - Agenda",
+      "title": "El Teatro María Luisa ofrece un concierto de ópera gratuito este domingo",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.hoy.es/merida/teatro-maria-luisa-ofrece-concierto-opera-gratuito-20260630132515-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el plazo de solicitudes de parcelas para atracciones y casetas para la Feria de Mérida",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.hoy.es/merida/abierto-plazo-solicitudes-parcelas-atracciones-casetas-feria-20260630072746-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
       "title": "La Fundación ”la Caixa” ofrece un verano de ocio educativo a 130 niños y niñas en situación de vulnerabilidad en Badajoz",
-      "description": "El programa CaixaProinfancia de la Fundación ”la Caixa” impulsa este verano campamentos, colonias urbanas y otras actividades para más de 30.000 niños, niñas y...",
-      "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/la-fundacion-la-caixa-ofrece-un-verano-de-ocio-educativo-a-130-ninos-y-ninas-en-situacion-de-vulnerabilidad-en-badajoz/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los campamentos tecnológicos de verano fomentan que los niños aprendan creando tecnología",
-      "description": "Los campamentos de verano tecnológicos impulsan una nueva manera de aprender creando tecnología en lugar de consumirla - IGNITE Serious Play ofrece una experiencia STEAM...",
-      "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/los-campamentos-tecnologicos-de-verano-fomentan-que-los-ninos-aprendan-creando-tecnologia/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 30 de Junio de 2026",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/aemet-el-tiempo-para-merida-30-de-junio-de-2026/",
+      "url": "https://www.meridadiario.com/2026/06/30/la-fundacion-la-caixa-ofrece-un-verano-de-ocio-educativo-a-130-ninos-y-ninas-en-situacion-de-vulnerabilidad-en-badajoz/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -779,11 +803,11 @@
       "location": "Mérida"
     },
     {
-      "title": "El mercado pre-owned redefine el lujo con relojes vintage y modelos icónicos",
+      "title": "Una exposición muestra datos e imágenes de las dos sedes que ha tenido la Consejería de Agricultura en Mérida",
       "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/el-mercado-pre-owned-redefine-el-lujo-con-relojes-vintage-y-modelos-iconicos/",
-      "source": "Mérida Diario",
+      "date": "2026-06-29",
+      "url": "https://www.hoy.es/merida/exposicion-muestra-datos-imagenes-dos-sedes-consejeria-20260629180117-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -799,6 +823,14 @@
       "description": "",
       "date": "2026-06-29",
       "url": "https://www.hoy.es/merida/vecinos-charca-celebran-manana-semana-ludicocultural-20260629083003-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Marcha del Orgullo en Mérida",
+      "description": "",
+      "date": "2026-06-29",
+      "url": "https://www.hoy.es/merida/marcha-orgullo-merida-20260628220800-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -835,14 +867,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura reitera su compromiso con la conservación del patrimonio cultural en Almendral",
-      "description": "",
-      "date": "2026-06-28",
-      "url": "https://www.meridadiario.com/2026/06/28/la-junta-de-extremadura-reitera-su-compromiso-con-la-conservacion-del-patrimonio-cultural-en-almendral/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Ana Torroja deja su huella en la Via Musicorum de Mérida",
       "description": "",
       "date": "2026-06-27",
@@ -856,30 +880,6 @@
       "date": "2026-06-27",
       "url": "https://www.hoy.es/merida/luka-sulic-regresa-teatro-romano-merida-emocionante-20260627110123-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El tramo cortado de la avenida de Extremadura se reabre este sábado",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.hoy.es/merida/tramo-cortado-avenida-extremadura-reabre-sabado-20260627081654-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Carlos Periáñez: «El bidé está desapareciendo»",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.hoy.es/extremadura/carlos-perianez-bide-desapareciendo-20260627080258-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura anuncia el plazo de admisión y matriculación para enseñanzas dirigidas a adultos",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.meridadiario.com/2026/06/27/la-junta-de-extremadura-anuncia-el-plazo-de-admision-y-matriculacion-para-ensenanzas-dirigidas-a-adultos/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -899,18 +899,10 @@
       "location": "Mérida"
     },
     {
-      "title": "MOOD de LALIGA: Analizando el odio en las redes sociales",
+      "title": "Cinco avances tecnológicos relevantes en 2025 según la UAX",
       "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
       "date": "2026-06-24",
       "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura potencia la empleabilidad de jóvenes a través de la formación profesional y universitaria",
-      "description": "",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/2026/06/24/la-junta-de-extremadura-potencia-la-empleabilidad-de-jovenes-a-traves-de-la-formacion-profesional-y-universitaria/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -947,18 +939,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Las administraciones de lotería reclaman al gobierno una regulación online para proteger 18.000 empleos",
-      "description": "Administraciones de lotería trasladan al Gobierno el informe que pide regular la venta online para asegurar la supervivencia de 18.000 empleos Las asociaciones DEDIT y...",
-      "date": "2026-02-12",
-      "url": "https://www.meridadiario.com/2026/02/12/las-administraciones-de-loteria-reclaman-al-gobierno-una-regulacion-online-para-proteger-18-000-empleos/",
+      "title": "Con 5.204 asistentes, Rebuild Rehabilita 2024 marca el inicio de una nueva era de regeneración urbana",
+      "description": "La primera edición de Rebuild Rehabilita, la gran feria nacional de la rehabilitación, que cuenta con la colaboración de la Consejería de Fomento, Articulación...",
+      "date": "2024-10-25",
+      "url": "https://www.meridadiario.com/2024/10/25/con-5-204-asistentes-rebuild-rehabilita-2024-marca-el-inicio-de-una-nueva-era-de-regeneracion-urbana/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "De Baleares a Canarias: cómo conciliar en verano depende de la comunidad autónoma",
-      "description": "CLAUSURA CURSO ESCOLAR De Baleares a Canarias: la facilidad para conciliar este verano depende de la comunidad en que vivan los...",
-      "date": "2024-06-26",
-      "url": "https://www.meridadiario.com/2024/06/26/de-baleares-a-canarias-como-conciliar-en-verano-depende-de-la-comunidad-autonoma/",
+      "title": "Son Vell, incluido en la lista Forbes de 20 hoteles con encanto",
+      "description": "Son Vell, el primer hotel de la firma Vestige Collection, ha recibido distintos reconocimientos desde que abriese sus puertas hace poco más de un...",
+      "date": "2024-07-30",
+      "url": "https://www.meridadiario.com/2024/07/30/son-vell-incluido-en-la-lista-forbes-de-20-hoteles-con-encanto/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
