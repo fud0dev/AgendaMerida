@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-02T10:08:45Z",
-  "count": 120,
+  "updated_at": "2026-07-02T15:13:38Z",
+  "count": 108,
   "events": [
+    {
+      "title": "El Consorcio niega daños en el Acueducto de los Milagros de Mérida y asegura que la fisura ya existía",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/02/consorcio-acueducto-milagros-patrimonio-fondenex-merida-132051440.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Flamenco de Mérida vuelve con siete espectáculos y un homenaje a Miguel Vargas",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/02/festival-flamenco-cultura-musica-arte-merida-132046884.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Emerita Lvdica, mejoras en el Puente Lusitania y climatizar colegios: las demandas del Ayuntamiento de Mérida a la Junta de Extremadura",
       "description": "",
@@ -75,22 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Cinco refugios culturales para escapar del calor este verano en Mérida",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/cinco-refugios-culturales-escapar-calor-merida-refrescarte-131944247.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El fuego se queda a las puertas de una gasolinera en Mérida",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/29/tension-incendio-pastos-gasolinera-merida-bomberos-131942875.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Alan Parsons en Mérida",
       "description": "",
       "date": "2026-07-02",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Consorcio de Mérida niega daños en un pilar del Acueducto de los Milagros",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.hoy.es/merida/consorcio-merida-niega-danos-pilar-acueducto-milagros-20260702142710-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida ofrecerá ayudas en materia de vivienda",
       "description": "",
       "date": "2026-07-02",
@@ -187,11 +195,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Los restos arqueológicos de la plaza de Santa Eulalia estarán integrados antes de acabar el año",
+      "title": "Mérida acoge la quinta edición de Impulsa Empleo Joven con formación en fibra óptica y prácticas en empresas para mejorar la empleabilidad juvenil",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.hoy.es/merida/restos-arqueologicos-plaza-santa-eulalia-integrados-acabar-20260630072739-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/merida-acoge-la-quinta-edicion-de-impulsa-empleo-joven-con-formacion-en-fibra-optica-y-practicas-en-empresas-para-mejorar-la-empleabilidad-juvenil/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -279,14 +287,6 @@
       "description": "",
       "date": "2026-07-02",
       "url": "https://merida.es/el-arquitecto-rafael-mesa-cierra-el-ciclo-de-conferencias-nova-emerita/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El plazo de presentación de trabajos para el concurso del cartel anunciador de la Feria y Fiestas de Mérida 2026 finaliza el próximo 1 de julio",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://merida.es/el-plazo-de-presentacion-de-trabajos-para-el-concurso-del-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-finaliza-el-proximo-1-de-julio/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -579,26 +579,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (02/07/26)",
+      "title": "Noticias mediodía Extremadura (02/07/26)",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-020726_202607026a45f774f557e30007872eba.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/noticias-mediodia-extremadura-020726_202607026a46538ac53bb0e4a71c5467.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (01/07/26)",
+      "title": "Informativos matinal Más de Uno Mérida (02/07/26)",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-010726_202607016a44f5f4f557e30007872cb7.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-020726_202607026a463d4ff557e30007872fe1.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (01/07/26)",
+      "title": "Noticias mediodía Mérida (02/07/26)",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-010726_202607016a44ff954ecdfc0008ff726c.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-020726_202607026a4652f5488d5a0007beb02d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -627,6 +627,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (02/07/2026)",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-02072026_202607026a465303c53bb0e4a51c5467.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Alejandro Sánchez conquista el oro en la Supercopa Infantil de Tortosa tras una temporada brillante",
       "description": "",
       "date": "2026-07-02",
@@ -643,18 +651,26 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (30/06/26)",
+      "title": "Informativos mediodía Mérida (01/07/26)",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-300626_202606306a43b5206b492a0007d5dd30.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-010726_202607016a44ff954ecdfc0008ff726c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (30/06/26)",
+      "title": "El PSOE pide al alcalde los informes que acreditan la saturación del Centro de Protección Animal de Badajoz",
       "description": "",
       "date": "2026-07-02",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-300626_202606306a43aeab21e6b0e4bdafdf6e.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/psoe-pide-alcalde-informes-que-acreditan-saturacion-centro-proteccion-animal-badajoz_202607016a44a911403b9f2792e2fccf.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -663,22 +679,6 @@
       "description": "",
       "date": "2026-07-02",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/comarca-vegas-guadiana-activara-este-martes-aviso-naranja-temperaturas-40-grados_202606306a439d1926ebc75a77f88b59.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La artista Alba Carmona y el guitarrista Jesús Guerrero actúan este miércoles en Badajoz dentro del Festival Badasom",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/artista-alba-carmona-guitarrista-jesus-guerrero-actuan-este-miercoles-badajoz-dentro-festival-badasom_202607016a44dd46403b9f2792e334c9.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Amigos de Badajoz pide transparencia y la reanudación de los trabajos arqueológicos en la avenida de Huelva",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/amigos-badajoz-pide-transparencia-reanudacion-trabajos-arqueologicos-avenida-huelva_202607016a44a853403b9f2792e2fc04.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -715,54 +715,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de 130 estudiantes participan en el innovador curso del Campus Yuste sobre la autonomía estratégica de la Unión Europea",
-      "description": "Impulso a la Formación Internacional en Yuste El Campus Yuste ha inaugurado su primer curso de verano titulado 'La autonomía estratégica de la Unión...",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/mas-de-130-estudiantes-participan-en-el-innovador-curso-del-campus-yuste-sobre-la-autonomia-estrategica-de-la-union-europea/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El ballet Spartacus inaugura la 72ª edición del Festival de Mérida",
-      "description": "El ballet Spartacus da inicio al Festival de MéridaLa danza se une a la narración en *Spartacus*, la obra que levantará el telón de...",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/el-ballet-spartacus-inaugura-la-72a-edicion-del-festival-de-merida/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El tiempo en Mérida hoy, 1 de Julio de 2026",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/el-tiempo-en-merida-hoy-1-de-julio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El plan estratégico de Caldea lleva a la compañía a un ejercicio récord",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/el-plan-estrategico-de-caldea-lleva-a-la-compania-a-un-ejercicio-record/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Gobierno de Extremadura amplía la oferta educativa con 11 nuevas aulas matinales",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/el-gobierno-de-extremadura-amplia-la-oferta-educativa-con-11-nuevas-aulas-matinales/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura anuncia la licitación de un proyecto para humanizar la travesía EX-112 en Burguillos del Cerro",
-      "description": "",
-      "date": "2026-07-01",
-      "url": "https://www.meridadiario.com/2026/07/01/la-junta-de-extremadura-anuncia-la-licitacion-de-un-proyecto-para-humanizar-la-travesia-ex-112-en-burguillos-del-cerro/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Agusto en Mérida: «Adelfa»",
       "description": "Título de la obra: Adelfa Compañía: Escuela de Teatro TAPTC Sinopsis: Dos coronas, Helena y Clitemnestra. La batalla no es Troya sino dentro, pulso contra mandato, silencio contra grito. Adelfa, flor de borde, veneno y resistencia en savia. Autoría, Coreografías y Dirección: Alba Gog y Elena Gog....",
       "date": "2026-07-01",
@@ -795,19 +747,11 @@
       "location": "Mérida"
     },
     {
-      "title": "La Fundación ”la Caixa” ofrece un verano de ocio educativo a 130 niños y niñas en situación de vulnerabilidad en Badajoz",
+      "title": "Los restos arqueológicos de la plaza de Santa Eulalia estarán integrados antes de acabar el año",
       "description": "",
       "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/la-fundacion-la-caixa-ofrece-un-verano-de-ocio-educativo-a-130-ninos-y-ninas-en-situacion-de-vulnerabilidad-en-badajoz/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura lanza cinco programas para potenciar el bienestar emocional en la educación",
-      "description": "",
-      "date": "2026-06-30",
-      "url": "https://www.meridadiario.com/2026/06/30/la-junta-de-extremadura-lanza-cinco-programas-para-potenciar-el-bienestar-emocional-en-la-educacion/",
-      "source": "Mérida Diario",
+      "url": "https://www.hoy.es/merida/restos-arqueologicos-plaza-santa-eulalia-integrados-acabar-20260630072739-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -883,35 +827,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Luka Šulić regresa al Teatro Romano de Mérida con un emocionante viaje musical",
-      "description": "",
-      "date": "2026-06-27",
-      "url": "https://www.hoy.es/merida/luka-sulic-regresa-teatro-romano-merida-emocionante-20260627110123-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura refuerza la prevención de los golpes de calor con medidas innovadoras para 2027",
-      "description": "",
-      "date": "2026-06-26",
-      "url": "https://www.meridadiario.com/2026/06/26/la-junta-de-extremadura-refuerza-la-prevencion-de-los-golpes-de-calor-con-medidas-innovadoras-para-2027/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Exposición «30 años aprendiendo a hacer mosaicos» de Ex Officina Antea",
       "description": "La exposición conmemorativa por el trigésimo aniversario de la escuela de mosaicos Ex Officina Antea es una muestra que rinde homenaje a la labor docente y artística desarrollada en la capital autonómica durante las últimas tres décadas. Abrirá sus puertas en el Centro Cultural Alcazaba el 25 de ...",
       "date": "2026-06-25",
       "url": "https://merida.es/agenda/mosaicos-ex-officina-antea/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cinco avances tecnológicos relevantes en 2025 según la UAX",
-      "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
-      "date": "2026-06-24",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -944,22 +864,6 @@
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Con 5.204 asistentes, Rebuild Rehabilita 2024 marca el inicio de una nueva era de regeneración urbana",
-      "description": "La primera edición de Rebuild Rehabilita, la gran feria nacional de la rehabilitación, que cuenta con la colaboración de la Consejería de Fomento, Articulación...",
-      "date": "2024-10-25",
-      "url": "https://www.meridadiario.com/2024/10/25/con-5-204-asistentes-rebuild-rehabilita-2024-marca-el-inicio-de-una-nueva-era-de-regeneracion-urbana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Son Vell, incluido en la lista Forbes de 20 hoteles con encanto",
-      "description": "Son Vell, el primer hotel de la firma Vestige Collection, ha recibido distintos reconocimientos desde que abriese sus puertas hace poco más de un...",
-      "date": "2024-07-30",
-      "url": "https://www.meridadiario.com/2024/07/30/son-vell-incluido-en-la-lista-forbes-de-20-hoteles-con-encanto/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
