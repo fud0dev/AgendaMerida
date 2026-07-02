@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-02T15:13:38Z",
-  "count": 108,
+  "updated_at": "2026-07-02T20:17:13Z",
+  "count": 122,
   "events": [
+    {
+      "title": "Convivencia, cultura y tradición protagonizan las fiestas de la barriada San Andrés de Mérida",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/02/semana-cultural-fiestas-ocio-actividades-merida-132058858.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El Consorcio niega daños en el Acueducto de los Milagros de Mérida y asegura que la fisura ya existía",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-02",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/obra-eterna-plaza-santa-eulalia-restos-arqueologicos-merida-131968030.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Feria de Mérida 2026 echa a andar con la reserva de sitio para casetas, puestos y atracciones",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/feria-merida-2026-echa-andar-solicitud-casetas-puestos-atracciones-131946762.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -192,6 +192,46 @@
       "date": "2026-07-02",
       "url": "https://www.hoy.es/merida/osuna-destaca-inversion-millones-mejoras-red-agua-20260701141611-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Colaboración entre sanidad pública y privada: el 62% de los españoles la ve clave para mejorar la atención",
+      "description": "La Asociación Nacional de Pacientes del Sistema Sanitario (ANPASS) ha realizado una encuesta sobre la valoración que tienen los españoles sobre la Sanidad en...",
+      "date": "2026-07-02",
+      "url": "https://www.meridadiario.com/2026/07/02/colaboracion-entre-sanidad-publica-y-privada-el-62-de-los-espanoles-la-ve-clave-para-mejorar-la-atencion/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 2 de Julio de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.meridadiario.com/2026/07/02/el-tiempo-hoy-2-de-julio-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura respalda el X Torneo Internacional de Tenis Femenino en Don Benito, puntuable para el ranking mundial",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.meridadiario.com/2026/07/02/la-junta-de-extremadura-respalda-el-x-torneo-internacional-de-tenis-femenino-en-don-benito-puntuable-para-el-ranking-mundial/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura destina más de 38 millones de euros a ayudas de la PAC en junio de 2026",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.meridadiario.com/2026/07/02/la-junta-de-extremadura-destina-mas-de-38-millones-de-euros-a-ayudas-de-la-pac-en-junio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El 112 de Extremadura declara alerta naranja por altas temperaturas en varias localidades",
+      "description": "",
+      "date": "2026-07-02",
+      "url": "https://www.meridadiario.com/2026/07/02/el-112-de-extremadura-declara-alerta-naranja-por-altas-temperaturas-en-varias-localidades/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -715,6 +755,30 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de 130 estudiantes participan en el innovador curso del Campus Yuste sobre la autonomía estratégica de la Unión Europea",
+      "description": "Impulso a la Formación Internacional en Yuste El Campus Yuste ha inaugurado su primer curso de verano titulado 'La autonomía estratégica de la Unión...",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/mas-de-130-estudiantes-participan-en-el-innovador-curso-del-campus-yuste-sobre-la-autonomia-estrategica-de-la-union-europea/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Gobierno de Extremadura amplía la oferta educativa con 11 nuevas aulas matinales",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/el-gobierno-de-extremadura-amplia-la-oferta-educativa-con-11-nuevas-aulas-matinales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura anuncia la licitación de un proyecto para humanizar la travesía EX-112 en Burguillos del Cerro",
+      "description": "",
+      "date": "2026-07-01",
+      "url": "https://www.meridadiario.com/2026/07/01/la-junta-de-extremadura-anuncia-la-licitacion-de-un-proyecto-para-humanizar-la-travesia-ex-112-en-burguillos-del-cerro/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Agusto en Mérida: «Adelfa»",
       "description": "Título de la obra: Adelfa Compañía: Escuela de Teatro TAPTC Sinopsis: Dos coronas, Helena y Clitemnestra. La batalla no es Troya sino dentro, pulso contra mandato, silencio contra grito. Adelfa, flor de borde, veneno y resistencia en savia. Autoría, Coreografías y Dirección: Alba Gog y Elena Gog....",
       "date": "2026-07-01",
@@ -727,6 +791,14 @@
       "description": "Agusto en Mérida es un proyecto de TAPTC? Teatro para el Festival Internacional de Teatro Clásico de Mérida, realizado con el alumnado de la Escuela de Teatro TAPTC?. Se imparten varios talleres-montaje especializados en teatro clásico grecolatino y las representaciones finales se realizan en esp...",
       "date": "2026-07-01",
       "url": "https://merida.es/agenda/agusto-en-merida-2026/",
+      "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Exposición «Musica et Choreae (Música y Danza en la Antigüedad)»",
+      "description": "¿Cómo fueron los sonidos musicales de la Antigüedad? La Arqueología traza la banda sonora del papel de la música y la danza en el mundo antiguo en la exposición 'Musica et Choreae' que se podrá visitar en el Museo Romano de julio de 2026 hasta mayo de 2027. 'Musica et Choreae (Música y Danza en […]",
+      "date": "2026-07-01",
+      "url": "https://merida.es/agenda/exposicion-musica-et-choreae-musica-y-danza-en-la-antiguedad/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
@@ -752,6 +824,22 @@
       "date": "2026-06-30",
       "url": "https://www.hoy.es/merida/restos-arqueologicos-plaza-santa-eulalia-integrados-acabar-20260630072739-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Fundación ”la Caixa” ofrece un verano de ocio educativo a 130 niños y niñas en situación de vulnerabilidad en Badajoz",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.meridadiario.com/2026/06/30/la-fundacion-la-caixa-ofrece-un-verano-de-ocio-educativo-a-130-ninos-y-ninas-en-situacion-de-vulnerabilidad-en-badajoz/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura lanza cinco programas para potenciar el bienestar emocional en la educación",
+      "description": "",
+      "date": "2026-06-30",
+      "url": "https://www.meridadiario.com/2026/06/30/la-junta-de-extremadura-lanza-cinco-programas-para-potenciar-el-bienestar-emocional-en-la-educacion/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -835,6 +923,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Policía Local de Mérida Reporta 10 Intervenciones por Incidentes de Seguridad Vial en la Última Semana",
+      "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
+      "date": "2026-06-24",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
       "description": "",
       "date": "2026-06-22",
@@ -864,6 +960,22 @@
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Este es el número que va a tocar en Mérida en “El Gordo” según la IA",
+      "description": "El Sorteo Extraordinario de la Lotería de Navidad es una tradición profundamente arraigada en España, celebrándose cada 22 de diciembre desde 1812. A lo...",
+      "date": "2024-11-21",
+      "url": "https://www.meridadiario.com/2024/11/21/este-es-el-numero-que-va-a-tocar-en-merida-en-el-gordo-segun-la-ia/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rodríguez Osuna firma con Fundación ONCE un programa de accesibilidad universal para las Ciudades Patrimonio",
+      "description": "El presidente del Grupo y alcalde de Mérida, Antonio Rodríguez Osuna, acuerda con el director general de Fundación ONCE, José Luis Martínez Donoso, un...",
+      "date": "2021-04-15",
+      "url": "https://www.meridadiario.com/2021/04/14/rodriguez-osuna-firma-con-fundacion-once-un-programa-de-accesibilidad-universal-para-las-ciudades-patrimonio/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
