@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-03T09:56:04Z",
-  "count": 149,
+  "updated_at": "2026-07-03T15:09:24Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Montealto de Mérida celebrará su Semana Cultural con un guiño a los San Fermines",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/03/semana-cultural-merida-fiestas-vecinos-132088009.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El turismo nacional impulsa junio en Mérida con un 9% más de visitantes",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/03/turismo-merida-visitantes-viajeros-economia-turistas-132085269.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida recibe un premio nacional por eliminar barreras y avanzar en la inclusión",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/03/premio-merida-accesibilidad-igualdad-inclusion-132082057.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La música y la danza del teatro clásico cobra vida en el Museo Romano de Mérida",
       "description": "",
@@ -67,30 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Agua de más calidad en cada vaso, la apuesta millonaria de Osuna para Mérida",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/agua-calidad-vaso-apuesta-millonaria-osuna-merida-131985090.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Puccini, Verdi, Mozart y Bellini sonarán gratis en el Teatro María Luisa de Mérida",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/puccini-verdi-mozart-bellini-sonaran-gratis-teatro-maria-luisa-merida-131973785.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Sin carné, bebidos y a golpes por Mérida: 17 incidentes viales en una semana negra al volante",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/06/30/carne-bebidos-golpes-merida-policia-local-sucesos-131971607.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Fotogalería | Alan Parsons en Mérida",
       "description": "",
       "date": "2026-07-03",
@@ -147,6 +147,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Vídeo | Así ha sido el concierto de Pablo Alborán en el teatro Romano de Mérida",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/22/video-concierto-pablo-alboran-merida-131674060.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "La obra de adecuación del entorno de la Ciudad de la Infancia de Mérida comenzará este mes",
       "description": "",
       "date": "2026-07-03",
@@ -184,6 +192,14 @@
       "date": "2026-07-03",
       "url": "https://www.hoy.es/merida/consorcio-merida-reconoce-evento-incumplio-proteccion-acueducto-20260701205531-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Montealto abre el domingo su Semana Cultural con el Cántico y Encierro de San Fermín",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://merida.es/montealto-abre-el-domingo-su-semana-cultural-con-el-cantico-y-encierro-de-san-fermin/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -275,16 +291,16 @@
       "location": "Mérida"
     },
     {
-      "title": "Abierto el plazo de solicitudes de parcelas para atracciones y casetas para la Feria y Fiestas de Mérida 2026",
-      "description": "",
+      "title": "Nacho González vuelve al Mérida",
+      "description": "por Mérida Noticias en Deportes 0",
       "date": "2026-07-03",
-      "url": "https://merida.es/abierto-el-plazo-de-solicitudes-de-parcelas-para-atracciones-y-casetas-para-la-feria-y-fiestas-de-merida-2026/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/07/02/nacho-gonzalez-vuelve-al-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "Alejandro Jay nuevo jugador Romano",
-      "description": "por Mérida Noticias en Deportes 0",
+      "description": "",
       "date": "2026-07-03",
       "url": "https://meridanoticias.com/2026/07/02/alejandro-jay-nuevo-jugador-romano/",
       "source": "Mérida Noticias",
@@ -351,14 +367,6 @@
       "description": "",
       "date": "2026-07-03",
       "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Archivo Histórico Municipal estrena su nueva hemeroteca digital, un espacio abierto en la diseñado para acercar la historia local a toda la ciudadanía",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://meridanoticias.com/2026/06/22/el-archivo-historico-municipal-estrena-su-nueva-hemeroteca-digital-un-espacio-abierto-en-la-disenado-para-acercar-la-historia-local-a-toda-la-ciudadania/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -555,206 +563,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Larga vida al arte del mosaico de las manos de Luisa Díaz Liviano",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/video/extremadura/2026/06/26/larga-vida-al-arte-del-mosaico-de-las-manos-de-luisa-diaz-liviano-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La incertidumbre sacude a la comunidad venezolana en Extremadura",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/la-incertidumbre-sacude-a-la-comunidad-venezolana-en-extremadura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El nuevo Plan de Empleo Especial de Mérida permitirá 178 contrataciones",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-nuevo-plan-de-empleo-especial-de-merida-permitira-178-contrataciones-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Hay otros mundos, pero están en este', el proyecto pedagógico que cuenta historias reales a los alumnos",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/hay-otros-mundos-pero-estan-en-este-el-proyecto-pedagogico-que-cuenta-historias-reales-a-los-alumnos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Polideportivo Guadiana acoge el XIX Trofeo este fin de semana",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-polideportivo-guadiana-acoge-el-xix-trofeo-este-fin-de-semana-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Archivo municipal abre la hemeroteca digital como nueva ventana al pasado",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/el-archivo-municipal-abre-la-hemeroteca-digital-como-nueva-ventana-al-pasado-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abierto el período de solicitudes para las actividades de la UPM",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/23/abierto-el-periodo-de-solicitudes-para-las-actividades-de-la-upm-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ya están abiertas las piscinas municipales de Mérida",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/ya-estan-abiertas-las-piscinas-municipales-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cinematic Extremadura' o cómo conocer la región a través del cine y el inglés",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/19/cinematic-extremadura-o-como-conocer-la-region-a-traves-del-cine-y-el-ingles-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El PSOE de Badajoz condena las amenazas machistas contra la concejala Concha Baños y reclama una respuesta firme",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/03/el-psoe-de-badajoz-condena-las-amenazas-machistas-contra-la-concejala-concha-banos-y-reclama-una-respuesta-firme-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La doctora Miriam AlAdib Mendiri será la pregonera de la Feria de Almendralejo",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/03/la-doctora-miriam-aladib-mendiri-sera-la-pregonera-de-la-feria-de-almendralejo-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito acoge del 4 al 12 de julio la décima edición del Torneo Internacional WTA",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/02/don-benito-acoge-del-4-al-12-de-julio-la-decima-edicion-del-torneo-internacional-de-tenis-wta-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Villanueva pide que sus recién nacidos dejen de figurar como nacidos en Don Benito",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/02/villanueva-pide-que-sus-recien-nacidos-dejen-de-figurar-como-nacidos-en-don-benito-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fallece un motorista en el choque con un camión en Fuente del Maestre",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/02/fallece-un-motorista-en-el-choque-con-un-camion-en-fuente-del-maestre-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Choque político en Extremadura por el reparto de menores migrantes entre comunidades y la capacidad de acogida regional",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/01/choque-politico-en-extremadura-por-el-reparto-de-menores-migrantes-entre-comunidades-y-la-capacidad-de-acogida-regional-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Club de Lectura Viva de Badajoz sigue creciendo e incorpora intérpretes simultáneos",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/01/el-club-de-lectura-viva-de-badajoz-sigue-creciendo-e-incorpora-interpretes-simultaneos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Unidad de Mediación de la Policía Local de Don Benito resuelve nueve de cada diez conflictos en su primer año de funcionamiento",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/07/01/la-unidad-de-mediacion-de-la-policia-local-de-don-benito-resuelve-nueve-de-cada-diez-conflictos-en-su-primer-ano-de-funcionamiento-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una familia denuncia la falta de adaptación educativa para sus hijos con TDAH y acusa a la Inspección de inacción durante más de un año",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/una-familia-denuncia-la-falta-de-adaptacion-educativa-para-sus-hijos-con-tdah-y-acusa-a-la-inspeccion-de-inaccion-durante-mas-de-un-ano-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El IV Campeonato Regional de Tortilla de Patatas se celebrará en Villanueva el 16 de septiembre",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/el-iv-campeonato-regional-de-tortilla-de-patatas-se-celebrara-en-villanueva-el-16-de-septiembre-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los Premios Luz de Barbaño reconocen a María Ángeles López, Creativaarquitectos y el CEIP Adolfo Díaz Ambrona",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/los-premios-luz-de-barbano-reconocen-a-maria-angeles-lopez-creativaarquitectos-y-el-ceip-adolfo-diaz-ambrona-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Don Benito certifica por unanimidad el fin del proceso de fusión con Villanueva de la Serena",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/el-ayuntamiento-de-don-benito-certifica-por-unanimidad-el-fin-del-proceso-de-fusion-con-villanueva-de-la-serena-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los conciertos organizados por la Cadena SER traerán a Cáceres las giras de Cadena Dial y Los 40 Summer Live este mes de julio",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/los-conciertos-organizados-por-la-cadena-ser-traeran-a-caceres-las-giras-de-cadena-dial-y-los-40-summer-live-este-mes-de-julio-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cáceres refuerza este verano la lucha contra plagas con tratamientos intensivos en toda la red de saneamiento",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://cadenaser.com/extremadura/2026/06/30/caceres-refuerza-este-verano-la-lucha-contra-plagas-con-tratamientos-intensivos-en-toda-la-red-de-saneamiento-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-03",
@@ -763,10 +571,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento destinará más de 18 millones de euros a empleo, accesibilidad, deporte, barriadas y servicios públicos",
+      "title": "Alejandro Sánchez conquista el oro en la Supercopa Infantil de Tortosa tras una temporada brillante",
       "description": "",
       "date": "2026-07-03",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/ayuntamiento-destinara-mas-18-millones-euros-empleo-accesibilidad-deporte-barriadas-servicios-publicos_202606186a33deb58774b34d61e26f07.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/alejandro-sanchez-conquista-oro-supercopa-infantil-tortosa-temporada-brillante_202607016a450370403b9f2792e36ac0.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -835,14 +643,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Alejandro Sánchez conquista el oro en la Supercopa Infantil de Tortosa tras una temporada brillante",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/alejandro-sanchez-conquista-oro-supercopa-infantil-tortosa-temporada-brillante_202607016a45052a4ecdfc0008ff7294.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Más de uno Mérida (01/07/2026)",
       "description": "",
       "date": "2026-07-03",
@@ -859,6 +659,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Ingresa un prisión un hombre de 29 años por una presunta agresión sexual a una menor en Badajoz",
+      "description": "",
+      "date": "2026-07-03",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/ingresa-prision-hombre-29-anos-presunta-agresion-sexual-menor-badajoz_202607036a478b67a8768a6aee3fabb9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El PSOE de Badajoz lamenta que el Ayuntamiento pacense \"suspenda\" en transparencia",
       "description": "",
       "date": "2026-07-03",
@@ -871,14 +679,6 @@
       "description": "",
       "date": "2026-07-03",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/psoe-pide-alcalde-informes-que-acreditan-saturacion-centro-proteccion-animal-badajoz_202607016a44a911403b9f2792e2fccf.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Amigos de Badajoz pide transparencia y la reanudación de los trabajos arqueológicos en la avenida de Huelva",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/amigos-badajoz-pide-transparencia-reanudacion-trabajos-arqueologicos-avenida-huelva_202607016a44a853403b9f2792e2fc04.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
