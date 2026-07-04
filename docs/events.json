@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-04T09:21:03Z",
-  "count": 149,
+  "updated_at": "2026-07-04T14:28:24Z",
+  "count": 133,
   "events": [
+    {
+      "title": "La emoción de Miguel Ángel Muñoz tras estrenar en Mérida: \"Este niño con cara triste ha vuelto a sonreír\"",
+      "description": "",
+      "date": "2026-07-04",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/04/cultura-festival-teatro-romano-spartacus-extremadura-merida-132117131.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El arte urbano visibiliza el alzheimer con un nuevo mural en Mérida",
       "description": "",
       "date": "2026-07-04",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/04/arte-urbano-merida-mural-arte-alzheimer-enfermedad-132101079.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Pedro Cano, en el Festival de Mérida: \"La pintura es una pasión que siempre te ofrece caminos nuevos para salvarla\"",
+      "description": "",
+      "date": "2026-07-04",
+      "url": "https://www.elperiodicoextremadura.com/cultura/2026/07/04/pedro-cano-festival-merida-pintura-132117936.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-07-04",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/02/ayuntamiento-merida-inversiones-junta-extremadura-132023349.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Miguel Ángel Muñoz abre el Festival de Mérida con un Espartaco entre la vida y la muerte",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/01/miguel-angel-munoz-festival-teatro-cultura-merida-132017535.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida busca jóvenes para meter las manos en su pasado romano este verano",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/01/merida-jovenes-excavaciones-romanas-junta-extremadura-131988146.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -288,134 +288,6 @@
       "date": "2026-07-04",
       "url": "https://merida.es/la-red-refrescarte-ofrece-un-recorrido-por-la-ciudad-a-traves-de-cinco-lugares-donde-la-cultura-se-convierte-en-refugio-frente-al-calor/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nacho González vuelve al Mérida",
-      "description": "por Mérida Noticias en Deportes 0",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/07/02/nacho-gonzalez-vuelve-al-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alejandro Jay nuevo jugador Romano",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/07/02/alejandro-jay-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nuestro calendario para la temporada 26/27",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/07/01/nuestro-calendario-para-la-temporada-26-27/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Normativa Oficial de la campaña de abonos 26/27",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/07/01/normativa-oficial-de-la-campana-de-abonos-26-27/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Luis Pareja no continuará en el Mérida",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/30/luis-pareja-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Acuerdo con el Varzim SC para el traspaso de Rodrigo Pereira",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/27/acuerdo-con-el-varzim-sc-para-el-traspaso-de-rodrigo-pereira/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Hugo Sanz, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/27/hugo-sanz-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dani Sandoval vuelve al Romano",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/26/dani-sandoval-vuelve-al-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Javi Domínguez no continuará en el Mérida",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/25/javi-dominguez-no-continuara-en-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-07-04",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
