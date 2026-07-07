@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-07T15:42:20Z",
-  "count": 142,
+  "updated_at": "2026-07-07T20:48:20Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Dos positivos por alcohol en una semana con siete incidentes de tráfico en Mérida",
+      "description": "",
+      "date": "2026-07-07",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/07/policia-local-merida-siniestros-seguridad-vial-tasa-de-alcohol-test-de-alcoholemia-132223233.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Espartaco, Fedra y Electra: los secretos de los clásicos que llegan al Museo Romano de Mérida",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-07",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/05/merida-elvas-espana-portugal-patrimonio-humanidad-132093300.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La exposición que redescubre Mérida a través de 30 obras inspiradas en el mármol romano",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/05/exposicion-muestra-cultura-pintura-arte-merida-132125288.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -584,150 +584,6 @@
       "date": "2026-07-07",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/20/festival-merida-participa-72a-asamblea-130455077.html",
       "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las oficinas de turismo de Mérida arrojan un dato de 116.052 turistas atendidos en el primer semestre del año",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/las-oficinas-de-turismo-de-merida-arrojan-un-dato-de-116052-turistas-atendidos-en-el-primer-semestre-del-ano-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La arena del romano nos trasladará a un cortijo andaluz con el estreno de 'Electra Jonda'",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La danza de 'Spartacus', con Miguel Ángel Muñoz, inauguraba la 72º Edición del Festival de Mérida",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/la-danza-de-spartacus-con-miguel-angel-munoz-inauguraba-la-72-edicion-del-festival-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Hay otros mundos, pero están en este', el proyecto pedagógico que cuenta historias reales a los alumnos",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/hay-otros-mundos-pero-estan-en-este-el-proyecto-pedagogico-que-cuenta-historias-reales-a-los-alumnos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Polideportivo Guadiana acoge el XIX Trofeo este fin de semana",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/06/24/el-polideportivo-guadiana-acoge-el-xix-trofeo-este-fin-de-semana-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Denuncian falta de sombra, agua en mal estado y otras carencias en el Centro de Protección Animal de Badajoz",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/denuncian-falta-de-sombra-agua-en-mal-estado-y-otras-carencias-en-el-centro-de-proteccion-animal-de-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Badajoz, la Ciudad Encendida\" incorpora cuatro espacios emblemáticos",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/badajoz-la-ciudad-encendida-incorpora-cuatro-espacios-emblematicos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Guadalupe se prepara para el Año Jubilar con la apertura de la Puerta Santa",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/guadalupe-se-prepara-para-el-ano-jubilar-con-la-apertura-de-la-puerta-santa-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las Ferias y Fiestas de Santiago y Santa Ana 2026 de Villanueva apuestan por grandes conciertos y un innovador espectáculo de drones",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/las-ferias-y-fiestas-de-santiago-y-santa-ana-2026-de-villanueva-apuestan-por-grandes-conciertos-y-un-innovador-espectaculo-de-drones-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Don Benito alcanza los 38.000 habitantes y registra 117 nuevas actividades económicas en el último año",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/don-benito-alcanza-los-38000-habitantes-y-registra-117-nuevas-actividades-economicas-en-el-ultimo-ano-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adiscagua impulsa el empleo inclusivo con una tienda gourmet de productos extremeños",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/adiscagua-impulsa-el-empleo-inclusivo-con-una-tienda-gourmet-de-productos-extremenos-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Vive el verano en Badajoz\" ha dado su pistoletazo de salida en el Parque de la Legión",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/vive-el-verano-en-badajoz-ha-dado-su-pistoletazo-de-salida-en-el-parque-de-la-legion-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El PP de Villanueva de la Serena apuesta por mantener abierta la fusión con Don Benito",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/el-pp-de-villanueva-de-la-serena-apuesta-por-mantener-abierta-la-fusion-con-don-benito-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "34,5 grados a medianoche: así ha afrontado Serradilla el calor extremo que batió el récord de España",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/345-grados-a-medianoche-asi-afronta-serradilla-el-calor-extremo-que-batio-el-record-de-espana-ser-norte-de-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los bomberos del CPEI de Badajoz regresan de Venezuela marcados por la tragedia y el valor de la solidaridad humana",
-      "description": "",
-      "date": "2026-07-07",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/los-bomberos-del-cpei-de-badajoz-regresan-de-venezuela-marcados-por-la-tragedia-y-el-valor-de-la-solidaridad-humana-radio-extremadura/",
-      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
