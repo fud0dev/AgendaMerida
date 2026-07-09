@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-09T15:54:47Z",
-  "count": 141,
+  "updated_at": "2026-07-09T20:45:39Z",
+  "count": 122,
   "events": [
     {
       "title": "El Ejército coloca una lona para bajar las temperaturas de la comisaría de Mérida tras la denuncia por calor extremo",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La terminal ferroviaria de Expacio Mérida despierta el interés de los puertos de Huelva y Sevilla",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.hoy.es/merida/terminal-ferroviaria-expacio-merida-despierta-interes-puertos-20260709203602-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "Una tragedia clásica y un cortijo andaluz para homenajear a Lorca en 'Electra Jonda'",
       "description": "",
       "date": "2026-07-09",
@@ -183,14 +191,6 @@
       "description": "",
       "date": "2026-07-09",
       "url": "https://www.hoy.es/merida/loba-capitolina-anunciara-feria-merida-2026-20260709083155-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las consultas en las oficinas de turismo de Mérida crecen un 13,6% en el primer semestre",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://www.hoy.es/merida/consultas-oficinas-turismo-merida-crecen-136-primer-20260707144830-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -611,158 +611,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana de Mérida",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-de-merida-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida invertirá más de dos millones de euros en instalaciones deportivas",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/merida-invertira-mas-de-dos-millones-de-euros-en-instalaciones-deportivas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las oficinas de turismo de Mérida arrojan un dato de 116.052 turistas atendidos en el primer semestre del año",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/las-oficinas-de-turismo-de-merida-arrojan-un-dato-de-116052-turistas-atendidos-en-el-primer-semestre-del-ano-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La arena del romano nos trasladará a un cortijo andaluz con el estreno de 'Electra Jonda'",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Arco' es la película encargada de abrir el ciclo Cinema Aestas",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/06/arco-es-la-pelicula-encargada-de-abrir-el-ciclo-cinema-aestas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Detenidos por robar en quesería de Zarza Capilla con un coche sustraído en Córdoba",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/detenidos-por-robar-en-queseria-de-zarza-capilla-con-un-coche-sustraido-en-cordoba-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El artista Saiko ofrecerá el gran concierto del sábado de feria en Don Benito",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/el-artista-saiko-ofrecera-el-gran-concierto-del-sabado-de-feria-en-don-benito-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una almazara extremeña crea la primera cerveza elaborada con aceite de oliva virgen extra",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/una-almazara-extremena-crea-la-primera-cerveza-elaborada-con-aceite-de-oliva-virgen-extra-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La campaña 'La pieza que completa tu empresa' busca el fomento de la Casilla Empresa Solidaria",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/la-campana-la-pieza-que-completa-tu-empresa-busca-el-fomento-de-la-casilla-empresa-solidaria-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos jóvenes detenidos por regentar un punto de venta de drogas en Badajoz",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/dos-jovenes-detenidos-por-regentar-un-punto-de-venta-de-drogas-en-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Denuncian falta de sombra, agua en mal estado y otras carencias en el Centro de Protección Animal de Badajoz",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/denuncian-falta-de-sombra-agua-en-mal-estado-y-otras-carencias-en-el-centro-de-proteccion-animal-de-badajoz-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "\"Badajoz, la Ciudad Encendida\" incorpora cuatro espacios emblemáticos",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/badajoz-la-ciudad-encendida-incorpora-cuatro-espacios-emblematicos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Guadalupe se prepara para el Año Jubilar con la apertura de la Puerta Santa",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/guadalupe-se-prepara-para-el-ano-jubilar-con-la-apertura-de-la-puerta-santa-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las Ferias y Fiestas de Santiago y Santa Ana 2026 de Villanueva apuestan por grandes conciertos y un innovador espectáculo de drones",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/las-ferias-y-fiestas-de-santiago-y-santa-ana-2026-de-villanueva-apuestan-por-grandes-conciertos-y-un-innovador-espectaculo-de-drones-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-09",
@@ -880,6 +728,14 @@
       "date": "2026-07-08",
       "url": "https://merida.es/agenda/72-festival-de-teatro-clasico-electra-jonda/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las consultas en las oficinas de turismo de Mérida crecen un 13,6% en el primer semestre",
+      "description": "",
+      "date": "2026-07-07",
+      "url": "https://www.hoy.es/merida/consultas-oficinas-turismo-merida-crecen-136-primer-20260707144830-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -1051,14 +907,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consorcio de Mérida niega daños en un pilar del Acueducto de los Milagros",
-      "description": "",
-      "date": "2026-07-02",
-      "url": "https://www.hoy.es/merida/consorcio-merida-niega-danos-pilar-acueducto-milagros-20260702142710-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Más de 130 estudiantes participan en el innovador curso del Campus Yuste sobre la autonomía estratégica de la Unión Europea",
       "description": "",
       "date": "2026-07-01",
@@ -1108,7 +956,7 @@
     },
     {
       "title": "Stone & Music Festival 2026",
-      "description": "En el año 2026, el Stone Music Festival celebrará su XI edición para el que volverá a contar con artistas nacionales e internacionales de primer nivel. Todos los espectáculos presentados se llevarán a cabo en el marco del Teatro Romano de Mérida durante el mes de junio volviendo a unir patrimonio...",
+      "description": "En el año 2026, el Stone Music Festival celebrará su XI edición para el que volverá a contar con artistas nacionales e internacionales de primer nivel. Todos los espectáculos presentados se llevarán a cabo en el marco del Teatro Romano de Mérida durante el mes de junio (y también septiembre) volv...",
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
