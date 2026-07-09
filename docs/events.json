@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-09T10:26:59Z",
-  "count": 121,
+  "updated_at": "2026-07-09T15:54:47Z",
+  "count": 141,
   "events": [
+    {
+      "title": "El Ejército coloca una lona para bajar las temperaturas de la comisaría de Mérida tras la denuncia por calor extremo",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/09/ejercito-lonas-calor-comisaria-merida-132287230.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Últimas plazas para los cursos de natación de verano en Mérida",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Césped azul, deportes de playa y más aforo: así cambiarán las instalaciones deportivas de Mérida",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/08/cesped-azul-deportes-playa-merida-futbol-132248041.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Una mujer de 53 años resulta herida al volcar su vehículo cerca de Esparragalejo",
       "description": "",
       "date": "2026-07-09",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/09/mujer-53-anos-resulta-herida-132281861.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Césped azul, deportes de playa y más aforo: así cambiarán las instalaciones deportivas de Mérida",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/08/cesped-azul-deportes-playa-merida-futbol-132248041.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-09",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/06/merida-guardia-civil-seguridad-ciudadana-badajoz-caceres-patrulla-practicas-132181543.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Transportes restablece el servicio público regular de viajeros por carretera entre Mérida y Sevilla",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/06/transportes-restablece-servicio-publico-regular-132168949.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -195,6 +195,46 @@
       "location": "Mérida"
     },
     {
+      "title": "La terminal ferroviaria de ExpacioMérida celebra un mes de operaciones con resultados positivos",
+      "description": "Balance positivo tras un mes de funcionamientoLa terminal ferroviaria de ExpacioMérida, gestionada por la Junta de Extremadura a través de la Consejería de Economía,...",
+      "date": "2026-07-09",
+      "url": "https://www.meridadiario.com/2026/07/09/la-terminal-ferroviaria-de-expaciomerida-celebra-un-mes-de-operaciones-con-resultados-positivos/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Predicción meteorológica: Mérida, 9 de Julio de 2026",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.meridadiario.com/2026/07/09/prediccion-meteorologica-merida-9-de-julio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El sector digital reclama adaptar las reglas de acceso a la nueva realidad de la fibra",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.meridadiario.com/2026/07/09/el-sector-digital-reclama-adaptar-las-reglas-de-acceso-a-la-nueva-realidad-de-la-fibra/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ordino Arcalís mira al futuro del freeride tras su reconocimiento olímpico",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.meridadiario.com/2026/07/09/ordino-arcalis-mira-al-futuro-del-freeride-tras-su-reconocimiento-olimpico/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana con especial atención en los vehículos ligeros y de movilidad personal",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://merida.es/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-con-especial-atencion-en-los-vehiculos-ligeros-y-de-movilidad-personal/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Publicadas las bases para la licitación de la explotación de la barra de la Caseta Municipal para la Feria y Fiestas de Mérida 2026",
       "description": "",
       "date": "2026-07-09",
@@ -279,14 +319,6 @@
       "description": "",
       "date": "2026-07-09",
       "url": "https://merida.es/merida-acoge-la-quinta-edicion-de-impulsa-empleo-joven-con-formacion-en-fibra-optica-y-practicas-en-empresas-para-mejorar-la-empleabilidad-juvenil/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento colabora con la Sociedad Científica de Mérida para su programa de actividades del segundo semestre del año",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://merida.es/el-ayuntamiento-colabora-con-la-sociedad-cientifica-de-merida-para-su-programa-de-actividades-del-segundo-semestre-del-ano/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -579,6 +611,158 @@
       "location": "Mérida"
     },
     {
+      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana de Mérida",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida invertirá más de dos millones de euros en instalaciones deportivas",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/merida-invertira-mas-de-dos-millones-de-euros-en-instalaciones-deportivas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las oficinas de turismo de Mérida arrojan un dato de 116.052 turistas atendidos en el primer semestre del año",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/las-oficinas-de-turismo-de-merida-arrojan-un-dato-de-116052-turistas-atendidos-en-el-primer-semestre-del-ano-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La arena del romano nos trasladará a un cortijo andaluz con el estreno de 'Electra Jonda'",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Arco' es la película encargada de abrir el ciclo Cinema Aestas",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/06/arco-es-la-pelicula-encargada-de-abrir-el-ciclo-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Detenidos por robar en quesería de Zarza Capilla con un coche sustraído en Córdoba",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/detenidos-por-robar-en-queseria-de-zarza-capilla-con-un-coche-sustraido-en-cordoba-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El artista Saiko ofrecerá el gran concierto del sábado de feria en Don Benito",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-artista-saiko-ofrecera-el-gran-concierto-del-sabado-de-feria-en-don-benito-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una almazara extremeña crea la primera cerveza elaborada con aceite de oliva virgen extra",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/una-almazara-extremena-crea-la-primera-cerveza-elaborada-con-aceite-de-oliva-virgen-extra-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La campaña 'La pieza que completa tu empresa' busca el fomento de la Casilla Empresa Solidaria",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/la-campana-la-pieza-que-completa-tu-empresa-busca-el-fomento-de-la-casilla-empresa-solidaria-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dos jóvenes detenidos por regentar un punto de venta de drogas en Badajoz",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/dos-jovenes-detenidos-por-regentar-un-punto-de-venta-de-drogas-en-badajoz-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Denuncian falta de sombra, agua en mal estado y otras carencias en el Centro de Protección Animal de Badajoz",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/denuncian-falta-de-sombra-agua-en-mal-estado-y-otras-carencias-en-el-centro-de-proteccion-animal-de-badajoz-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Badajoz, la Ciudad Encendida\" incorpora cuatro espacios emblemáticos",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/badajoz-la-ciudad-encendida-incorpora-cuatro-espacios-emblematicos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Guadalupe se prepara para el Año Jubilar con la apertura de la Puerta Santa",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/guadalupe-se-prepara-para-el-ano-jubilar-con-la-apertura-de-la-puerta-santa-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las Ferias y Fiestas de Santiago y Santa Ana 2026 de Villanueva apuestan por grandes conciertos y un innovador espectáculo de drones",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/las-ferias-y-fiestas-de-santiago-y-santa-ana-2026-de-villanueva-apuestan-por-grandes-conciertos-y-un-innovador-espectaculo-de-drones-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-09",
@@ -619,10 +803,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Noticias mediodía Mérida (08/07/26)",
+      "title": "Informativos mediodía Mérida (09/07/26)",
       "description": "",
       "date": "2026-07-09",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-080726_202607086a4e3adb0459b0e4f47e19aa.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-090726_202607096a4f8d1acb832400078c9a7e.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -643,18 +827,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (08/07/26)",
+      "title": "Más de uno Mérida (09/07/2026)",
       "description": "",
       "date": "2026-07-09",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-080726_202607086a4e39ac0459b0e4ed7e19aa.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-09072026_202607096a4f8d33b4f3680007043663.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Extremadura (07/07/2026)",
+      "title": "Tierra de Vinos (09/07/26)",
       "description": "",
       "date": "2026-07-09",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-07072026_202607076a4ce8d90459b0e4617b19aa.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/tierra-vinos-090726_202607096a4f83de1ad7aa00077ff5cb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -687,30 +871,6 @@
       "description": "Detalles del Programa de Inmersiones Lingüísticas La Consejería de Educación y Formación Profesional ha anunciado que el Programa de Inmersiones Lingüísticas de la Junta...",
       "date": "2026-07-08",
       "url": "https://www.meridadiario.com/2026/07/08/el-programa-de-inmersiones-linguisticas-de-extremadura-alcanza-una-demanda-total-de-plazas-este-verano/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nueva cátedra de Azvi y la Universidad de Sevilla para impulsar la innovación en ingeniería",
-      "description": "La Universidad de Sevilla y Azvi han constituido la Cátedra Azvi: Infraestructuras y Tecnologías de la Construcción, una iniciativa que nace con el objetivo...",
-      "date": "2026-07-08",
-      "url": "https://www.meridadiario.com/2026/07/08/nueva-catedra-de-azvi-y-la-universidad-de-sevilla-para-impulsar-la-innovacion-en-ingenieria/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alertan sobre altas temperaturas en Extremadura a partir del miércoles",
-      "description": "",
-      "date": "2026-07-08",
-      "url": "https://www.meridadiario.com/2026/07/08/alertan-sobre-altas-temperaturas-en-extremadura-a-partir-del-miercoles/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La nueva tecnología Sphere-360 permite al Hospital Universitario La Luz realizar ablaciones más rápidas y precisas",
-      "description": "",
-      "date": "2026-07-08",
-      "url": "https://www.meridadiario.com/2026/07/08/la-nueva-tecnologia-sphere-360-permite-al-hospital-universitario-la-luz-realizar-ablaciones-mas-rapidas-y-precisas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -763,10 +923,34 @@
       "location": "Mérida"
     },
     {
-      "title": "Llamamiento a los nacidos en 1999 y 2000 para vacunación 2ª dosis, jueves 26 de Agosto",
-      "description": "Resumen de la siniestralidad vialLa Policía Local de Mérida, en su informe de la semana del 4 al 10 de mayo, ha atendido un...",
+      "title": "El análisis técnico de LaLiga se potencia con Sportian Performance",
+      "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
       "date": "2026-07-06",
       "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura Concluye las Obras de la EDAR en Puebla de Alcocer con una Inversión de 2,3 Millones de Euros",
+      "description": "",
+      "date": "2026-07-06",
+      "url": "https://www.meridadiario.com/2026/07/06/la-junta-de-extremadura-concluye-las-obras-de-la-edar-en-puebla-de-alcocer-con-una-inversion-de-23-millones-de-euros/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Cultura Declara al Castillo de Villalba de los Barros Bien de Interés Cultural",
+      "description": "",
+      "date": "2026-07-06",
+      "url": "https://www.meridadiario.com/2026/07/06/la-cultura-declara-al-castillo-de-villalba-de-los-barros-bien-de-interes-cultural/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La comisaría de Mérida, sin aire en plena ola de calor: “Es imposible trabajar así”",
+      "description": "",
+      "date": "2026-07-06",
+      "url": "https://www.meridadiario.com/2026/07/06/la-comisaria-de-merida-sin-aire-en-plena-ola-de-calor-es-imposible-trabajar-asi/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -775,14 +959,6 @@
       "description": "",
       "date": "2026-07-06",
       "url": "https://www.meridadiario.com/2026/07/06/el-consorcio-de-merida-brinda-cursos-internacionales-para-promover-el-patrimonio-cultural/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura entrega cuatro viviendas de promoción pública en Robledillo de Trujillo",
-      "description": "",
-      "date": "2026-07-06",
-      "url": "https://www.meridadiario.com/2026/07/06/la-junta-de-extremadura-entrega-cuatro-viviendas-de-promocion-publica-en-robledillo-de-trujillo/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -859,22 +1035,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura entrega dos viviendas de promoción pública en Toril",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.meridadiario.com/2026/07/03/la-junta-de-extremadura-entrega-dos-viviendas-de-promocion-publica-en-toril/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los Accidentes Laborales con Baja en los Centros Educativos de Extremadura Muestran una Tendencia Descendente en 2025",
-      "description": "",
-      "date": "2026-07-03",
-      "url": "https://www.meridadiario.com/2026/07/03/los-accidentes-laborales-con-baja-en-los-centros-educativos-de-extremadura-muestran-una-tendencia-descendente-en-2025/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "72 Festival Internacional de Teatro Clásico 2026",
       "description": "Del 3 de julio al 30 de agosto de 2026 tendrá lugar la 72 Festival Internacional de Teatro Clásico con una extensa programación que incluye más de 150 representaciones teatrales, tanto en el Teatro Romano de Mérida como en el Teatro María Luisa y en otros espacios de la ciudad incluidos en la pro...",
       "date": "2026-07-03",
@@ -947,14 +1107,6 @@
       "location": "Mérida"
     },
     {
-      "title": "The Champions Burger trae a Mérida las hamburguesas más virales de internet",
-      "description": "El macroevento con las hamburguesas más virales de las redes sociales amplía la oferta de ocio de este inicio de verano en la región\nMérida...",
-      "date": "2026-06-10",
-      "url": "https://www.meridadiario.com/2026/06/10/the-champions-burger-trae-a-merida-las-hamburguesas-mas-virales-de-internet/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Stone & Music Festival 2026",
       "description": "En el año 2026, el Stone Music Festival celebrará su XI edición para el que volverá a contar con artistas nacionales e internacionales de primer nivel. Todos los espectáculos presentados se llevarán a cabo en el marco del Teatro Romano de Mérida durante el mes de junio volviendo a unir patrimonio...",
       "date": "2026-06-05",
@@ -963,10 +1115,18 @@
       "location": "Mérida"
     },
     {
-      "title": "49 equipos de toda España se darán cita este fin de semana en Mérida con motivo del Campeonato de España de Pádel Infantil y Junior",
-      "description": "El delegado de Deportes, Felipe González, ha señalado que “es un récord de participación con alrededor de 600 personas, a lo que hay que...",
-      "date": "2022-11-07",
-      "url": "https://www.meridadiario.com/2022/11/07/49-equipos-de-toda-espana-se-daran-cita-este-fin-de-semana-en-merida-con-motivo-del-campeonato-de-espana-de-padel-infantil-y-junior/",
+      "title": "Kappa será la nueva imagen técnica del personal de Go fit",
+      "description": "La compañía española de bienestar y salud GO fit ha firmado un acuerdo estratégico con la marca italiana de ropa deportiva Kappa para vestir...",
+      "date": "2025-05-26",
+      "url": "https://www.meridadiario.com/2025/05/26/kappa-sera-la-nueva-imagen-tecnica-del-personal-de-go-fit/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La seguridad de la segunda residencia preocupa a dos de cada tres españoles, siendo mayor en el sur",
+      "description": "Al 67% de los ciudadanos en España les preocupa la seguridad de su segunda residencia, según indica el Observatorio Securitas Direct en su segundo...",
+      "date": "2023-09-28",
+      "url": "https://www.meridadiario.com/2023/09/28/la-seguridad-de-la-segunda-residencia-preocupa-a-dos-de-cada-tres-espanoles-siendo-mayor-en-el-sur/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
