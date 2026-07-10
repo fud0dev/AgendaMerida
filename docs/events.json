@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-10T15:30:43Z",
-  "count": 144,
+  "updated_at": "2026-07-10T20:21:13Z",
+  "count": 127,
   "events": [
+    {
+      "title": "Solo el 25% de las solicitudes logran la ayuda de material escolar en Mérida en la primera adjudicación",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/10/alumnos-colegios-merida-material-escolar-material-becas-132339645.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida reunirá a lectores y escritores de toda España en la 'XIII Quedada Microrrelatista'",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/10/microrrelato-actividades-encuentro-biblioteca-literatura-textos-cortos-relatos-breves-merida-132329269.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una mujer y un menor atendidos por ansiedad tras un incendio en una vivienda de Mérida",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/10/mujer-menor-ansiedad-incendio-merida-132342579.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Jupol lleva a Inspección de Trabajo las altas temperaturas en la comisaría de Mérida",
       "description": "",
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-07-10",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/08/cartel-anunciara-feria-merida-2026-fiestas-132246069.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Audiencia absuelve a un detenido en Mérida con cocaína oculta en la ropa interior",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/08/audiencia-absuelve-detenido-merida-cocaina-drogas-132163089.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Dos positivos por alcohol en una semana con siete incidentes de tráfico en Mérida",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/07/policia-local-merida-siniestros-seguridad-vial-tasa-de-alcohol-test-de-alcoholemia-132223233.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Espartaco, Fedra y Electra: los secretos de los clásicos que llegan al Museo Romano de Mérida",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/07/fedra-mitos-clasicos-museo-romano-teatro-merida-132210721.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -171,6 +171,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Una mujer y un niño son atendidos en Mérida por ansiedad tras el incendio en la cocina de su casa",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.hoy.es/merida/mujer-nino-atendidos-merida-ansiedad-tras-incendio-20260710183331-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La terminal ferroviaria de Expacio Mérida despierta el interés de los puertos de Huelva y Sevilla",
       "description": "",
       "date": "2026-07-10",
@@ -187,11 +195,43 @@
       "location": "Mérida"
     },
     {
-      "title": "Una tragedia clásica y un cortijo andaluz para homenajear a Lorca en 'Electra Jonda'",
+      "title": "La Junta de Extremadura critica al Ministerio de Agricultura por la gestión del proyecto de regadío en el Valle del Jerte",
+      "description": "La Junta de Extremadura condena los intereses políticos en el proyecto de regadío La Junta de Extremadura se ha manifestado en contra de las...",
+      "date": "2026-07-10",
+      "url": "https://www.meridadiario.com/2026/07/10/la-junta-de-extremadura-critica-al-ministerio-de-agricultura-por-la-gestion-del-proyecto-de-regadio-en-el-valle-del-jerte/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 10 de Julio de 2026",
       "description": "",
       "date": "2026-07-10",
-      "url": "https://www.hoy.es/merida/fotos-estreno-electra-jonda-merida-20260709071922-ga.html",
-      "source": "Hoy.es",
+      "url": "https://www.meridadiario.com/2026/07/10/el-tiempo-en-merida-hoy-10-de-julio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "España refuerza su soberanía tecnológica con una apuesta por la computación avanzada",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.meridadiario.com/2026/07/10/espana-refuerza-su-soberania-tecnologica-con-una-apuesta-por-la-computacion-avanzada/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La inteligencia artificial permite a los docentes optimizar su tiempo",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.meridadiario.com/2026/07/10/la-inteligencia-artificial-permite-a-los-docentes-optimizar-su-tiempo/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Inicia el proyecto ‘Aldeas Bauhaus EUROACE’ para revitalizar zonas rurales en Extremadura y Portugal",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.meridadiario.com/2026/07/10/inicia-el-proyecto-aldeas-bauhaus-euroace-para-revitalizar-zonas-rurales-en-extremadura-y-portugal/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -288,142 +328,6 @@
       "date": "2026-07-10",
       "url": "https://merida.es/montealto-abre-el-domingo-su-semana-cultural-con-el-cantico-y-encierro-de-san-fermin/",
       "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Romanito da la bienvenida al mundo a seis pequeños del hospital de Mérida",
-      "description": "por Mérida Noticias en Deportes 0",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/09/romanito-da-la-bienvenida-al-mundo-a-seis-pequenos-del-hospital-de-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "V Día Internacional de Romano",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/09/v-dia-internacional-de-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Acuerdo con Sixles para impulsar la digitalización de activos publicitarios",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/08/acuerdo-con-sixles-para-impulsar-la-digitalizacion-de-activos-publicitarios/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Davo, Juanjo Pozo y Rubén Trujillo seguirán formando parte del cuerpo técnico Romano",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/05/davo-juanjo-pozo-y-ruben-trujillo-seguiran-formando-parte-del-cuerpo-tecnico-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Manuel Sánchez, nuevo entrenador de jugadas a balón parado para el Mérida",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/05/manuel-sanchez-nuevo-entrenador-de-jugadas-a-balon-parado-para-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fito Rodríguez, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/04/fito-rodriguez-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Pretemporada 2026/27 para el Mérida",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/04/pretemporada-2026-27-para-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nacho González vuelve al Mérida",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/02/nacho-gonzalez-vuelve-al-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Alejandro Jay nuevo jugador Romano",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/02/alejandro-jay-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nuestro calendario para la temporada 26/27",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/07/01/nuestro-calendario-para-la-temporada-26-27/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
-      "description": "por Mérida Noticias en Eventos 0",
-      "date": "2026-07-10",
-      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
-      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -867,35 +771,11 @@
       "location": "Mérida"
     },
     {
-      "title": "La terminal ferroviaria de ExpacioMérida celebra un mes de operaciones con resultados positivos",
-      "description": "Balance positivo tras un mes de funcionamientoLa terminal ferroviaria de ExpacioMérida, gestionada por la Junta de Extremadura a través de la Consejería de Economía,...",
-      "date": "2026-07-09",
-      "url": "https://www.meridadiario.com/2026/07/09/la-terminal-ferroviaria-de-expaciomerida-celebra-un-mes-de-operaciones-con-resultados-positivos/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Predicción meteorológica: Mérida, 9 de Julio de 2026",
+      "title": "Una tragedia clásica y un cortijo andaluz para homenajear a Lorca en 'Electra Jonda'",
       "description": "",
       "date": "2026-07-09",
-      "url": "https://www.meridadiario.com/2026/07/09/prediccion-meteorologica-merida-9-de-julio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El sector digital reclama adaptar las reglas de acceso a la nueva realidad de la fibra",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://www.meridadiario.com/2026/07/09/el-sector-digital-reclama-adaptar-las-reglas-de-acceso-a-la-nueva-realidad-de-la-fibra/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ordino Arcalís mira al futuro del freeride tras su reconocimiento olímpico",
-      "description": "",
-      "date": "2026-07-09",
-      "url": "https://www.meridadiario.com/2026/07/09/ordino-arcalis-mira-al-futuro-del-freeride-tras-su-reconocimiento-olimpico/",
-      "source": "Mérida Diario",
+      "url": "https://www.hoy.es/merida/tragedia-clasica-cortijo-andaluz-homenajear-lorca-electra-20260709072023-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -979,18 +859,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El análisis técnico de LaLiga se potencia con Sportian Performance",
+      "title": "HIP 2024 supera las expectativas con una asistencia récord de 49.137 profesionales del sector de la hostelería",
       "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
       "date": "2026-07-06",
       "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura Concluye las Obras de la EDAR en Puebla de Alcocer con una Inversión de 2,3 Millones de Euros",
-      "description": "",
-      "date": "2026-07-06",
-      "url": "https://www.meridadiario.com/2026/07/06/la-junta-de-extremadura-concluye-las-obras-de-la-edar-en-puebla-de-alcocer-con-una-inversion-de-23-millones-de-euros/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -1011,10 +883,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Consorcio de Mérida Brinda Cursos Internacionales para Promover el Patrimonio Cultural",
+      "title": "La Junta de Extremadura Concluye las Obras de la EDAR en Puebla de Alcocer con una Inversión de 2,3 Millones de Euros",
       "description": "",
       "date": "2026-07-06",
-      "url": "https://www.meridadiario.com/2026/07/06/el-consorcio-de-merida-brinda-cursos-internacionales-para-promover-el-patrimonio-cultural/",
+      "url": "https://www.meridadiario.com/2026/07/06/la-junta-de-extremadura-concluye-las-obras-de-la-edar-en-puebla-de-alcocer-con-una-inversion-de-23-millones-de-euros/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -1063,14 +935,6 @@
       "description": "",
       "date": "2026-07-04",
       "url": "https://www.hoy.es/merida/miguel-angel-bedate-expone-marmol-asamblea-extremadura-20260704084003-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida destaca el aumento de visitantes durante el mes de junio",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-destaca-aumento-visitantes-mes-junio-20260704083947-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -1139,18 +1003,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Kappa será la nueva imagen técnica del personal de Go fit",
-      "description": "La compañía española de bienestar y salud GO fit ha firmado un acuerdo estratégico con la marca italiana de ropa deportiva Kappa para vestir...",
-      "date": "2025-05-26",
-      "url": "https://www.meridadiario.com/2025/05/26/kappa-sera-la-nueva-imagen-tecnica-del-personal-de-go-fit/",
+      "title": "Andros entra en el capital de Pastoret para potenciar el yogur premium en España",
+      "description": "Andros, fundada y liderada por Frédéric Gervoson, entra en Pastoret tras un proceso competitivo liderado por Arcano Partners y Unión Legal, y Pérez Llorca...",
+      "date": "2025-02-12",
+      "url": "https://www.meridadiario.com/2025/02/12/andros-entra-en-el-capital-de-pastoret-para-potenciar-el-yogur-premium-en-espana/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "La seguridad de la segunda residencia preocupa a dos de cada tres españoles, siendo mayor en el sur",
-      "description": "Al 67% de los ciudadanos en España les preocupa la seguridad de su segunda residencia, según indica el Observatorio Securitas Direct en su segundo...",
-      "date": "2023-09-28",
-      "url": "https://www.meridadiario.com/2023/09/28/la-seguridad-de-la-segunda-residencia-preocupa-a-dos-de-cada-tres-espanoles-siendo-mayor-en-el-sur/",
+      "title": "Pantalla gigante para animar a la Selección Española de Fútbol femenino en la Final del Mundial",
+      "description": "El domingo 20 de agosto, desde las 11.30 horas, en el auditorio del Centro Cultural Alcazaba El Ayuntamiento ofrecerá en pantalla gigante la Final del...",
+      "date": "2023-08-17",
+      "url": "https://www.meridadiario.com/2023/08/17/pantalla-gigante-para-animar-a-la-seleccion-espanola-de-futbol-femenino-en-la-final-del-mundial/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
