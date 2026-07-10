@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T10:22:12Z",
-  "count": 122,
+  "updated_at": "2026-07-10T15:30:43Z",
+  "count": 144,
   "events": [
     {
       "title": "Jupol lleva a Inspección de Trabajo las altas temperaturas en la comisaría de Mérida",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Mérida acogerá en octubre un encuentro nacional de microrrelatos",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.hoy.es/merida/merida-acogera-octubre-encuentro-nacional-microrrelatos-20260710143742-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Mérida aumenta en 40.000 euros su aportación al Festival de Teatro",
       "description": "",
       "date": "2026-07-10",
@@ -187,11 +195,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida destina más de 2 millones de euros a la mejora de instalaciones deportivas",
+      "title": "Publicados los listados provisionales de concesión de las ayudas de material escolar",
       "description": "",
       "date": "2026-07-10",
-      "url": "https://www.hoy.es/merida/merida-destina-millones-euros-mejora-instalaciones-deportivas-20260709081152-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/publicados-los-listados-provisionales-de-concesion-de-las-ayudas-de-material-escolar-2/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -279,14 +287,6 @@
       "description": "",
       "date": "2026-07-10",
       "url": "https://merida.es/montealto-abre-el-domingo-su-semana-cultural-con-el-cantico-y-encierro-de-san-fermin/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento destaca el aumento de visitantes y turistas durante el mes de junio",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://merida.es/el-ayuntamiento-destaca-el-aumento-de-visitantes-y-turistas-durante-el-mes-de-junio/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -579,6 +579,158 @@
       "location": "Mérida"
     },
     {
+      "title": "Licitada por emergencia la avería en la comisaría de la Policía Nacional de Mérida",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/licitada-por-emergencia-la-averia-en-la-comisaria-de-la-policia-nacional-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana de Mérida",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida invertirá más de dos millones de euros en instalaciones deportivas",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/merida-invertira-mas-de-dos-millones-de-euros-en-instalaciones-deportivas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La arena del romano nos traslada a un cortijo andaluz con el estreno de 'Electra Jonda'",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Arco' es la película encargada de abrir el ciclo Cinema Aestas",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/06/arco-es-la-pelicula-encargada-de-abrir-el-ciclo-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'El Capitán Marcelo', el cuento que transforma el dolor con valentía",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/06/25/el-capitan-marcelo-el-cuento-que-transforma-el-dolor-con-valentia-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Campus Calderón celebra su 20ª edición con 150 participantes",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/el-campus-calderon-celebra-su-20-edicion-con-150-participantes-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobado en Villanueva el proyecto de renovación del asfaltado de 22 calles",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/aprobado-en-villanueva-el-proyecto-de-renovacion-del-asfaltado-de-22-calles-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "CCOO denuncia las incidencias en la refrigeración de los trenes Alvia y plantea paros laborales durante las olas de calor",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/ccoo-denuncia-las-incidencias-en-la-refrigeracion-de-los-trenes-alvia-y-plantea-paros-laborales-durante-las-olas-de-calor-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "María Guardiola y Álvaro Sánchez Cotrina trasladan el apoyo de Extremadura a Andalucía por el incendio de Los Gallardos",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/maria-guardiola-y-alvaro-sanchez-cotrina-trasladan-el-apoyo-de-extremadura-a-andalucia-por-el-incendio-de-los-gallardos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Detenidos por robar en quesería de Zarza Capilla con un coche sustraído en Córdoba",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/detenidos-por-robar-en-queseria-de-zarza-capilla-con-un-coche-sustraido-en-cordoba-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El artista Saiko ofrecerá el gran concierto del sábado de feria en Don Benito",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-artista-saiko-ofrecera-el-gran-concierto-del-sabado-de-feria-en-don-benito-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una almazara extremeña crea la primera cerveza elaborada con aceite de oliva virgen extra",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/una-almazara-extremena-crea-la-primera-cerveza-elaborada-con-aceite-de-oliva-virgen-extra-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La campaña 'La pieza que completa tu empresa' busca el fomento de la Casilla Empresa Solidaria",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/la-campana-la-pieza-que-completa-tu-empresa-busca-el-fomento-de-la-casilla-empresa-solidaria-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Dos jóvenes detenidos por regentar un punto de venta de drogas en Badajoz",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/dos-jovenes-detenidos-por-regentar-un-punto-de-venta-de-drogas-en-badajoz-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-10",
@@ -611,18 +763,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (09/07/26)",
+      "title": "Informativos matinal Más de Uno Mérida (10/07/26)",
       "description": "",
       "date": "2026-07-10",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-090726_202607096a4f4e7253f6b0e43e05b48d.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-100726_202607106a50dce9b4f36800070439b2.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (09/07/26)",
+      "title": "Informativos mediodía Mérida (10/07/26)",
       "description": "",
       "date": "2026-07-10",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-090726_202607096a4f8d1acb832400078c9a7e.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-100726_202607106a50ddd8b4f36800070439bb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -643,6 +795,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Mérida (10/07/2026)",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-10072026_202607106a50dd25b4f36800070439b5.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Mérida (09/07/2026)",
       "description": "",
       "date": "2026-07-10",
@@ -651,10 +811,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Informativos mediodía Mérida (09/07/26)",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-090726_202607096a4f8d1acb832400078c9a7e.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Tierra de Vinos (09/07/26)",
       "description": "",
       "date": "2026-07-10",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/tierra-vinos-090726_202607096a4f83de1ad7aa00077ff5cb.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos matinal Más de Uno Mérida (09/07/26)",
+      "description": "",
+      "date": "2026-07-10",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-090726_202607096a4f4e7253f6b0e43e05b48d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -679,6 +855,14 @@
       "description": "",
       "date": "2026-07-09",
       "url": "https://www.hoy.es/merida/loba-capitolina-anunciara-feria-merida-2026-20260709083155-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida destina más de 2 millones de euros a la mejora de instalaciones deportivas",
+      "description": "",
+      "date": "2026-07-09",
+      "url": "https://www.hoy.es/merida/merida-destina-millones-euros-mejora-instalaciones-deportivas-20260709081152-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -887,14 +1071,6 @@
       "description": "",
       "date": "2026-07-04",
       "url": "https://www.hoy.es/merida/ayuntamiento-merida-destaca-aumento-visitantes-mes-junio-20260704083947-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cine, pasacalles y cuentacuentos copan la programación paralela del Festival de Mérida",
-      "description": "",
-      "date": "2026-07-04",
-      "url": "https://www.hoy.es/merida/cine-pasacalles-cuentacuentos-copan-programacion-paralela-festival-20260704083937-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
