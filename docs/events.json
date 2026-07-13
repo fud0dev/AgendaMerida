@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-13T10:23:40Z",
-  "count": 126,
+  "updated_at": "2026-07-13T15:40:24Z",
+  "count": 146,
   "events": [
+    {
+      "title": "El juez reconoce una indemnización de 61.000 euros a un vecino de Mérida que cayó en las obras de plataforma única",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/13/indemnizacion-caida-merida-obras-plataforma-unica-132401201.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida prepara una gran noche para el España-Francia con pantalla gigante y DJ",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-13",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/10/jupol-lleva-inspeccion-trabajo-altas-132321381.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Medea y Ulises llenan este fin de semana la agenda alternativa del Festival de Mérida",
-      "description": "",
-      "date": "2026-07-13",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/10/teatro-cine-obras-merida-festivl-turismo-132281645.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -191,6 +191,14 @@
       "description": "",
       "date": "2026-07-13",
       "url": "https://www.hoy.es/merida/condenan-ayuntamiento-merida-pagar-60000-euros-caida-20260711075349-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Timón de Atenas' reflexiona sobre la monetización de la amistad",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://www.hoy.es/merida/timon-atenas-reflexiona-sobre-interes-monetizacion-amistad-20260713153132-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -307,8 +315,16 @@
       "location": "Mérida"
     },
     {
-      "title": "Romanito da la bienvenida al mundo a seis pequeños del hospital de Mérida",
+      "title": "Antonio Aranda nuevo jugador Romano",
       "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-07-13",
+      "url": "https://meridanoticias.com/2026/07/12/antonio-aranda-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Romanito da la bienvenida al mundo a seis pequeños del hospital de Mérida",
+      "description": "",
       "date": "2026-07-13",
       "url": "https://meridanoticias.com/2026/07/09/romanito-da-la-bienvenida-al-mundo-a-seis-pequenos-del-hospital-de-merida/",
       "source": "Mérida Noticias",
@@ -375,14 +391,6 @@
       "description": "",
       "date": "2026-07-13",
       "url": "https://meridanoticias.com/2026/07/02/alejandro-jay-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nuestro calendario para la temporada 26/27",
-      "description": "",
-      "date": "2026-07-13",
-      "url": "https://meridanoticias.com/2026/07/01/nuestro-calendario-para-la-temporada-26-27/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -595,6 +603,174 @@
       "location": "Mérida"
     },
     {
+      "title": "Licitada por emergencia la avería en la comisaría de la Policía Nacional de Mérida",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/licitada-por-emergencia-la-averia-en-la-comisaria-de-la-policia-nacional-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana de Mérida",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida invertirá más de dos millones de euros en instalaciones deportivas",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/merida-invertira-mas-de-dos-millones-de-euros-en-instalaciones-deportivas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La película casi teatral 'El regreso de Ulises' es la segunda cinta de Cinema Aestas",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/la-pelicula-casi-teatral-el-regreso-de-ulises-es-la-segunda-cinta-de-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La arena del romano nos traslada a un cortijo andaluz con el estreno de 'Electra Jonda'",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La danza de 'Spartacus', con Miguel Ángel Muñoz, inauguraba la 72º Edición del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-danza-de-spartacus-con-miguel-angel-munoz-inauguraba-la-72-edicion-del-festival-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Arco' es la película encargada de abrir el ciclo Cinema Aestas",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/06/arco-es-la-pelicula-encargada-de-abrir-el-ciclo-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida Cultural: Los 'Malos pelos' de Dani Broncano y mucho orgullo LGBTIQ+",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/06/26/merida-cultural-los-malos-pelos-de-dani-broncano-y-mucho-orgullo-lgbtiq-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ana María Serra recibe la Cruz al Mérito Militar por mantener vivo el legado solidario de la sargento Débora Grau",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/ana-maria-serra-recibe-la-cruz-al-merito-militar-por-mantener-vivo-el-legado-solidario-de-la-sargento-debora-grau-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los trabajadores afectados por los impagos de los centros de transporte de Extremadura se concentran para reclamar soluciones",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/los-trabajadores-afectados-por-los-impagos-de-los-centros-de-transporte-de-extremadura-se-concentran-para-reclamar-soluciones-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Badajoz anuncia inversiones para seguir combatiendo el Picudo Rojo",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/12/el-ayuntamiento-de-badajoz-anuncia-inversiones-para-seguir-combatiendo-el-picudo-rojo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La empresa que gestiona la protectora de Badajoz anuncia que no continuará tras las críticas de colectivos por el estado de sus instalaciones",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/12/la-empresa-que-gestiona-la-protectora-de-badajoz-anuncia-que-no-continuara-tras-las-criticas-de-colectivos-por-el-estado-de-sus-instalaciones-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Muere el cantante extremeño Gene García",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/11/muere-el-cantante-extremeno-gene-garcia-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Campus Calderón celebra su 20ª edición con 150 participantes",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/el-campus-calderon-celebra-su-20-edicion-con-150-participantes-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobado en Villanueva el proyecto de renovación del asfaltado de 22 calles",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/aprobado-en-villanueva-el-proyecto-de-renovacion-del-asfaltado-de-22-calles-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "CCOO denuncia las incidencias en la refrigeración de los trenes Alvia y plantea paros laborales durante las olas de calor",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/ccoo-denuncia-las-incidencias-en-la-refrigeracion-de-los-trenes-alvia-y-plantea-paros-laborales-durante-las-olas-de-calor-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "María Guardiola y Álvaro Sánchez Cotrina trasladan el apoyo de Extremadura a Andalucía por el incendio de Los Gallardos",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/maria-guardiola-y-alvaro-sanchez-cotrina-trasladan-el-apoyo-de-extremadura-a-andalucia-por-el-incendio-de-los-gallardos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Detenidos por robar en quesería de Zarza Capilla con un coche sustraído en Córdoba",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/detenidos-por-robar-en-queseria-de-zarza-capilla-con-un-coche-sustraido-en-cordoba-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El artista Saiko ofrecerá el gran concierto del sábado de feria en Don Benito",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-artista-saiko-ofrecera-el-gran-concierto-del-sabado-de-feria-en-don-benito-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-13",
@@ -635,10 +811,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (10/07/26)",
+      "title": "Informativos mediodía Mérida (13/07/26)",
       "description": "",
       "date": "2026-07-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-100726_202607106a50ddd8b4f36800070439bb.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-130726_202607136a54d8b41ad7aa00077fff68.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -655,6 +831,30 @@
       "description": "",
       "date": "2026-07-13",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/plaza-toros-merida-sera-escenario-festival-flamenco-rumba-que-tendra-lugar-10-octubre-artistas-consagrados-nivel-regional-nacional_202607086a4e3c8c53f6b0e44303b48d.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (07/07/2026)",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-07072026_202607136a54d487b4f368000704401b.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (13/07/2026)",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-13072026_202607136a54d1e0cb832400078ca3f3.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (10/07/26)",
+      "description": "",
+      "date": "2026-07-13",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-100726_202607106a50ddd8b4f36800070439bb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -679,30 +879,6 @@
       "description": "",
       "date": "2026-07-13",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-merida-09072026_202607096a4f8d33b4f3680007043663.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (09/07/26)",
-      "description": "",
-      "date": "2026-07-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-090726_202607096a4f8d1acb832400078c9a7e.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Tierra de Vinos (09/07/26)",
-      "description": "",
-      "date": "2026-07-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/tierra-vinos-090726_202607096a4f83de1ad7aa00077ff5cb.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Mérida (09/07/26)",
-      "description": "",
-      "date": "2026-07-13",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-090726_202607096a4f4e7253f6b0e43e05b48d.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -883,14 +1059,6 @@
       "location": "Mérida"
     },
     {
-      "title": "'Electra Jonda' fusiona en el Festival de Mérida teatro y flamenco para homenajear a Lorca",
-      "description": "",
-      "date": "2026-07-06",
-      "url": "https://www.hoy.es/merida/electra-jonda-fusiona-festival-merida-teatro-flamenco-20260706153058-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Rodríguez Osuna destaca que los Presupuestos del Estado para Mérida son “los mayores de la historia y harán realidad proyectos que lleva décadas esperando la ciudad como el desdoblamiento de la avenida Felipe VI, la ampliación del Museo Nacional o el Convento de las Freylas”",
       "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
       "date": "2026-07-06",
@@ -968,14 +1136,6 @@
       "date": "2026-06-25",
       "url": "https://merida.es/agenda/mosaicos-ex-officina-antea/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
-      "description": "",
-      "date": "2026-06-22",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
