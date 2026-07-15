@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-15T14:47:53Z",
-  "count": 127,
+  "updated_at": "2026-07-15T20:06:36Z",
+  "count": 150,
   "events": [
+    {
+      "title": "Dos conductores dan positivo y otro acaba investigado por conducir ebrio en Mérida",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/policia-local-merida-atestado-alcohol-accidente-colision-132485262.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Seis representaciones gratuitas acercarán el teatro a los barrios emeritenses",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-15",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/13/merida-dejara-manos-privadas-gestion-132228584.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cuando la Ciudad de la Infancia de Mérida costaba una peseta",
-      "description": "",
-      "date": "2026-07-15",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/13/ciudad-infancia-merida-costaba-peseta-132343160.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -192,6 +192,38 @@
       "date": "2026-07-15",
       "url": "https://www.hoy.es/merida/merida-recibira-millon-euros-reparar-danos-borrascas-20260713072348-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Azvi refuerza su innovación ferroviaria con una patente europea para su escuadradora de traviesas",
+      "description": "```html\nAzvi obtiene la patente europea para su innovadora escuadradora automática de traviesas para el montaje de vías ferroviarias La Oficina Europea de Patentes reconoce una...",
+      "date": "2026-07-15",
+      "url": "https://www.meridadiario.com/2026/07/15/azvi-refuerza-su-innovacion-ferroviaria-con-una-patente-europea-para-su-escuadradora-de-traviesas/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 15 de Julio de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://www.meridadiario.com/2026/07/15/el-tiempo-hoy-15-de-julio-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alaquàs acoge el nuevo centro estratégico de SEUR para reforzar su red logística",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://www.meridadiario.com/2026/07/15/alaquas-acoge-el-nuevo-centro-estrategico-de-seur-para-reforzar-su-red-logistica/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Catawiki logra beneficios récord en 2025 con España entre sus mercados más fuertes",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://www.meridadiario.com/2026/07/15/catawiki-logra-beneficios-record-en-2025-con-espana-entre-sus-mercados-mas-fuertes/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -579,6 +611,190 @@
       "location": "Mérida"
     },
     {
+      "title": "El Centro de Educación Vial de Mérida ha atendido a 1.790 personas, siendo referente en formación cívica",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/14/el-centro-de-educacion-vial-de-merida-ha-atendido-a-1790-personas-siendo-referente-en-formacion-civica-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Licitada por emergencia la avería en la comisaría de la Policía Nacional de Mérida",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/licitada-por-emergencia-la-averia-en-la-comisaria-de-la-policia-nacional-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El nuevo Reglamento General de Circulación introducirá cambios en la movilidad urbana de Mérida",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-nuevo-reglamento-general-de-circulacion-introducira-cambios-en-la-movilidad-urbana-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La gran sátira sobre la amistad, el poder y la ingratitud llenará la escena del Teatro Romano con la obra 'Timón de Atenas'",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/14/la-gran-satira-sobre-la-amistad-el-poder-y-la-ingratitud-llenara-la-escena-del-teatro-romano-con-la-obra-timon-de-atenas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La película casi teatral 'El regreso de Ulises' es la segunda cinta de Cinema Aestas",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/la-pelicula-casi-teatral-el-regreso-de-ulises-es-la-segunda-cinta-de-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La danza de 'Spartacus', con Miguel Ángel Muñoz, inauguraba la 72º Edición del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-danza-de-spartacus-con-miguel-angel-munoz-inauguraba-la-72-edicion-del-festival-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cien judocas se darán cita en el III Stage “Mérida Patrimonio de la Humanidad” de Cristina Cabaña",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/06/cien-judocas-se-daran-cita-en-el-iii-stage-merida-patrimonio-de-la-humanidad-de-cristina-cabana-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Arco' es la película encargada de abrir el ciclo Cinema Aestas",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/06/arco-es-la-pelicula-encargada-de-abrir-el-ciclo-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Así vivió Don Benito la histórica clasificación de España con un gol de Pedro Porro",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/asi-vivio-don-benito-la-historica-clasificacion-de-espana-con-un-gol-de-pedro-porro-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El peligro de incendio se incrementa hacia el final de la semana",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/el-peligro-de-incendio-se-incrementa-hacia-el-final-de-la-semana-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los vecinos más humildes de Badajoz soportaron el alojamiento de tropas durante la Guerra de SucesiónSociedad",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/los-vecinos-mas-humildes-de-badajoz-soportaron-el-alojamiento-de-tropas-durante-la-guerra-de-sucesionsociedad-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Cámara de Comercio de Badajoz, Cámara de España y la UEx impulsa una nueva alianza para retener el talento y crear empleo a través del emprendimiento",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/14/la-camara-de-comercio-de-badajoz-camara-de-espana-y-la-uex-impulsa-una-nueva-alianza-para-retener-el-talento-y-crear-empleo-a-traves-del-emprendimiento-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los equipos de emergencia evitan que un incendio en Medellín afecte al castillo y al teatro romano",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/los-equipos-de-emergencia-evitan-que-un-incendio-en-medellin-afecte-al-castillo-y-al-teatro-romano-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ana María Serra recibe la Cruz al Mérito Militar por mantener vivo el legado solidario de la sargento Débora Grau",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/ana-maria-serra-recibe-la-cruz-al-merito-militar-por-mantener-vivo-el-legado-solidario-de-la-sargento-debora-grau-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los trabajadores afectados por los impagos de los centros de transporte de Extremadura se concentran para reclamar soluciones",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/los-trabajadores-afectados-por-los-impagos-de-los-centros-de-transporte-de-extremadura-se-concentran-para-reclamar-soluciones-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Badajoz anuncia inversiones para seguir combatiendo el Picudo Rojo",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/12/el-ayuntamiento-de-badajoz-anuncia-inversiones-para-seguir-combatiendo-el-picudo-rojo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La empresa que gestiona la protectora de Badajoz anuncia que no continuará tras las críticas de colectivos por el estado de sus instalaciones",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/12/la-empresa-que-gestiona-la-protectora-de-badajoz-anuncia-que-no-continuara-tras-las-criticas-de-colectivos-por-el-estado-de-sus-instalaciones-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Muere el cantante extremeño Gene García",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/11/muere-el-cantante-extremeno-gene-garcia-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Campus Calderón celebra su 20ª edición con 150 participantes",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/el-campus-calderon-celebra-su-20-edicion-con-150-participantes-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobado en Villanueva el proyecto de renovación del asfaltado de 22 calles",
+      "description": "",
+      "date": "2026-07-15",
+      "url": "https://cadenaser.com/extremadura/2026/07/10/aprobado-en-villanueva-el-proyecto-de-renovacion-del-asfaltado-de-22-calles-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-15",
@@ -699,18 +915,18 @@
       "location": "Mérida"
     },
     {
-      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "title": "El PP de Badajoz celebrará su XV Congreso Provincial el próximo 18 de julio en Mérida",
       "description": "",
       "date": "2026-07-15",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-celebrara-congreso-provincial-proximo-18-julio-merida_202606176a3251369f03cb0254d08c4c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Badajoz tendrá vuelos hacia Egipto durante el otoño de 2026 operados por Cinco Estrellas Club",
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-07-15",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-tendra-vuelos-egipto-otono-2026-operados-cinco-estrellas-club_20251125692556326c137a69877b9df1.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -763,38 +979,6 @@
       "location": "Mérida"
     },
     {
-      "title": "T-Systems apuesta por una plataforma de IA agéntica para el entorno empresarial",
-      "description": "```html\nT-Systems presenta una plataforma soberana para desplegar y gobernar agentes de IA a escala empresarial T-Systems, división de servicios de digitalización del Grupo Deutsche Telekom...",
-      "date": "2026-07-14",
-      "url": "https://www.meridadiario.com/2026/07/14/t-systems-apuesta-por-una-plataforma-de-ia-agentica-para-el-entorno-empresarial/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 14 de Julio de 2026",
-      "description": "",
-      "date": "2026-07-14",
-      "url": "https://www.meridadiario.com/2026/07/14/aemet-el-tiempo-para-merida-14-de-julio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Empresas y administraciones exigen normas europeas para blindar los datos críticos frente al avance de la IA",
-      "description": "",
-      "date": "2026-07-14",
-      "url": "https://www.meridadiario.com/2026/07/14/empresas-y-administraciones-exigen-normas-europeas-para-blindar-los-datos-criticos-frente-al-avance-de-la-ia/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura implementará vacunación antigripal en colegios para menores de educación infantil y primaria",
-      "description": "",
-      "date": "2026-07-14",
-      "url": "https://www.meridadiario.com/2026/07/14/extremadura-implementara-vacunacion-antigripal-en-colegios-para-menores-de-educacion-infantil-y-primaria/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "'Timón de Atenas' reflexiona sobre el interés y la monetización de la amistad en el Festival de Mérida",
       "description": "",
       "date": "2026-07-13",
@@ -811,7 +995,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El club hace entrega de los alimentos recaudados al Centro Padre Cristóbal",
+      "title": "El Alcalde recibe a dos nuevos agentes de la Policía Local que se incorporan a la plantilla municipal tras el proceso de oposiciones",
       "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
       "date": "2026-07-13",
       "url": "https://www.meridadiario.com/",
@@ -1003,18 +1187,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Marvel y Grupo Gallo colaboran en el lanzamiento de la primera pasta de Spider-Man",
-      "description": "Grupo Gallo lanza al mercado una nueva variedad de pasta infantil en colaboración con The Walt Disney Company. Spider-Man, uno de los superhéroes de...",
-      "date": "2024-12-02",
-      "url": "https://www.meridadiario.com/2024/12/02/marvel-y-grupo-gallo-colaboran-en-el-lanzamiento-de-la-primera-pasta-de-spider-man/",
+      "title": "Regino de Miguel recibirá la toga de ciudadano romano en la ceremonia del fuego de Emerita Lvdica",
+      "description": "Regino de Miguel será reconocido en la emergente Ceremonia del Fuego de Emerita LvdicaEl próximo miércoles 20 de mayo, durante la inauguración de la...",
+      "date": "2026-05-07",
+      "url": "https://www.meridadiario.com/2026/05/07/regino-de-miguel-recibira-la-toga-de-ciudadano-romano-en-la-ceremonia-del-fuego-de-emerita-lvdica/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El alcalde inaugura el nuevo Leroy Merlin de Mérida tras una inversión de 1.500.000 euros",
-      "description": "• La nueva superficie cuenta con una plantilla de 37 trabajadores y trabajadoras, el 90% de la ciudad de Mérida, e incorporará a 28...",
-      "date": "2021-05-10",
-      "url": "https://www.meridadiario.com/2021/05/10/el-alcalde-inaugura-el-nuevo-leroy-merlin-de-merida-tras-una-inversion-de-1-500-000-euros/",
+      "title": "Éxito de de convocatoria de los campamentos musicales que completan todas las plazas ofertadas",
+      "description": "La convocatoria de campamentos musicales para el mes de julio que se celebrarán en el Centro de Ocio “El Economato” de la mano del...",
+      "date": "2023-06-28",
+      "url": "https://www.meridadiario.com/2023/06/28/exito-de-de-convocatoria-de-los-campamentos-musicales-que-completan-todas-las-plazas-ofertadas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
