@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-17T14:41:58Z",
-  "count": 147,
+  "updated_at": "2026-07-17T20:04:35Z",
+  "count": 127,
   "events": [
+    {
+      "title": "Santi Amaro vuelve a por la Alcaldía de Mérida con el respaldo de Feijóo",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/santi-amaro-vuelve-alcaldia-merida-132561203.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El legado de Roma vuelve a unir Mérida e Irún a través del arte",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Los futuros policías de Mérida salen a la calle para formarse con controles reales de tráfico",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/policia-local-practicas-merida-control-itv-seguridad-vial-coches-132544564.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Un joven de 23 años, herido con politraumatismos tras salirse de la A-5 en Mérida",
       "description": "",
       "date": "2026-07-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/joven-herido-politraumatismos-accidente-merida-132553163.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los futuros policías de Mérida salen a la calle para formarse con controles reales de tráfico",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/policia-local-practicas-merida-control-itv-seguridad-vial-coches-132544564.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/policia-local-merida-atestado-alcohol-accidente-colision-132485262.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Seis representaciones gratuitas acercarán el teatro a los barrios emeritenses",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/gratis-teatro-merida-barrios-escenarios-132474771.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -192,6 +192,46 @@
       "date": "2026-07-17",
       "url": "https://www.hoy.es/merida/timon-atenas-obra-representada-shakespeare-sorprende-publico-20260716125321-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Asociación Española de Consumidores recomienda un botiquín estival con diez productos esenciales",
+      "description": "La Asociación Española de Consumidores incluye Filvit, Betadine, Aposán, Cito-Oral y Farline en su guía de productos para el botiquín de verano La Asociación Española...",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/la-asociacion-espanola-de-consumidores-recomienda-un-botiquin-estival-con-diez-productos-esenciales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Predicción meteorológica: Mérida, 17 de Julio de 2026",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/prediccion-meteorologica-merida-17-de-julio-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Instituto de Coordenadas considera estratégica la revisión de MARCo para proteger la inversión en fibra",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/el-instituto-de-coordenadas-considera-estrategica-la-revision-de-marco-para-proteger-la-inversion-en-fibra/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Casa Fuerte de la Encomienda en Valencia del Ventoso opta a los premios ‘Europa Se Siente’ 2026",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/la-casa-fuerte-de-la-encomienda-en-valencia-del-ventoso-opta-a-los-premios-europa-se-siente-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Estudio sobre el riego de cerezos en el Jerte destaca la importancia de la altitud",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/estudio-sobre-el-riego-de-cerezos-en-el-jerte-destaca-la-importancia-de-la-altitud/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -579,174 +619,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El alumnado de Barraeca en Mérida recibe a los niños y niñas de \"Vacaciones en paz\"",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/17/el-alumnado-de-barraeca-en-merida-recibe-a-los-ninos-y-ninas-de-vacaciones-en-paz-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Gobierno de Mérida aprueba 50.000 euros para proyectos de vida independiente y asistencia personal",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/la-junta-de-gobierno-de-merida-aprueba-50000-euros-para-proyectos-de-vida-independiente-y-asistencia-personal-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro de Educación Vial de Mérida ha atendido a 1.790 personas, siendo referente en formación cívica",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/14/el-centro-de-educacion-vial-de-merida-ha-atendido-a-1790-personas-siendo-referente-en-formacion-civica-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Museo Oiasso inaugura la exposición \"Ars Fatum\", una colección de máscaras inspiradas en el Festival de Teatro Clásico de Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/euskadi/2026/07/17/el-museo-oiasso-inaugura-la-exposicion-ars-fatum-una-coleccion-de-mascaras-inspiradas-en-el-festival-de-teatro-clasico-de-merida-radio-irun/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Abiertas las instalaciones del Pabellón Guadiana tras su transformación y mejora",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/abiertas-las-instalaciones-del-pabellon-guadiana-tras-su-transformacion-y-mejora-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La gran sátira sobre la amistad, el poder y la ingratitud llena la escena del Teatro Romano con la obra 'Timón de Atenas'",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/14/la-gran-satira-sobre-la-amistad-el-poder-y-la-ingratitud-llenara-la-escena-del-teatro-romano-con-la-obra-timon-de-atenas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Almendralejo celebra la 25ª edición de Festibarros con actuaciones de cuatro grupos internacionales",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/almendralejo-celebra-la-25-edicion-de-festibarros-con-actuaciones-de-cuatro-grupos-internacionales-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La arena del romano nos traslada a un cortijo andaluz con el estreno de 'Electra Jonda'",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Villanueva refuerza el servicio de limpieza y pide concienciación ciudadana para mantener la ciudad limpia",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/17/el-ayuntamiento-de-villanueva-refuerza-el-servicio-de-limpieza-y-pide-concienciacion-ciudadana-para-mantener-la-ciudad-limpia-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Aumenta el riesgo de incendio en Extremdura",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/17/aumenta-el-riesgo-de-incendio-en-extremdura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La pobreza farmacéutica: Una realidad silenciosa con menor impacto en Extremadura",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/la-pobreza-farmaceutica-una-realidad-silenciosa-con-menor-impacto-en-extremadura-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fin de semana de alto peligro de incendio",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/fin-de-semana-de-alto-peligro-de-incendio-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El CSN aboga porque la Central Nuclear de Almaraz continúe en funcionamiento hasta 2030",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/el-csn-aboga-porque-la-central-nuclear-de-almaraz-continue-en-funcionamiento-hasta-2030-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Detenido en Cáceres un hombre por pornografía infantil y difusión de vídeos sexuales sin consentimiento",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/detenido-en-caceres-un-hombre-por-pornografia-infantil-y-difusion-de-videos-sexuales-sin-consentimiento-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Albert Sánchez relevará a Daniel Cuevas al frente de Philip Morris en España, Andorra y Gibraltar",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/albert-sanchez-relevara-a-daniel-cuevas-al-frente-de-philip-morris-en-espana-andorra-y-gibraltar-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El SES mejora la accesibilidad sanitaria, logrando en junio el menor tiempo de espera quirúrgica desde 2019",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/el-ses-mejora-la-accesibilidad-sanitaria-logrando-en-junio-el-menor-tiempo-de-espera-quirurgica-desde-2019-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Así vivió Don Benito la histórica clasificación de España con un gol de Pedro Porro",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/asi-vivio-don-benito-la-historica-clasificacion-de-espana-con-un-gol-de-pedro-porro-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El peligro de incendio se incrementa hacia el final de la semana",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/el-peligro-de-incendio-se-incrementa-hacia-el-final-de-la-semana-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-17",
@@ -884,33 +756,9 @@
     },
     {
       "title": "La Junta de Extremadura pide al Gobierno la prórroga de la Central Nuclear de Almaraz tras el apoyo del CSN",
-      "description": "La Junta de Extremadura Solicita la Ampliación de la Vida Útil de la Central Nuclear de AlmarazHoy, la Junta de Extremadura ha instado al...",
+      "description": "",
       "date": "2026-07-16",
       "url": "https://www.meridadiario.com/2026/07/16/la-junta-de-extremadura-pide-al-gobierno-la-prorroga-de-la-central-nuclear-de-almaraz-tras-el-apoyo-del-csn/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El tiempo en Mérida hoy, 16 de Julio de 2026",
-      "description": "",
-      "date": "2026-07-16",
-      "url": "https://www.meridadiario.com/2026/07/16/el-tiempo-en-merida-hoy-16-de-julio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "LALIGA lidera la presencia de jugadores en la final entre España y Argentina",
-      "description": "",
-      "date": "2026-07-16",
-      "url": "https://www.meridadiario.com/2026/07/16/laliga-lidera-la-presencia-de-jugadores-en-la-final-entre-espana-y-argentina/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La reelección de Gonzalo Sánchez refuerza la estrategia de crecimiento de PwC",
-      "description": "",
-      "date": "2026-07-16",
-      "url": "https://www.meridadiario.com/2026/07/16/la-reeleccion-de-gonzalo-sanchez-refuerza-la-estrategia-de-crecimiento-de-pwc/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -1019,7 +867,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Llamamiento de rescate a los nacidos entre 1971 y 1975, jueves 20 de Enero",
+      "title": "Previsión de la AEMET en Mérida hoy 19 de Marzo de 2026",
       "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
       "date": "2026-07-13",
       "url": "https://www.meridadiario.com/",
@@ -1080,14 +928,6 @@
       "date": "2026-07-11",
       "url": "https://merida.es/agenda/xx-ciclo-cine-aire-libre-2026/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Inicia el proyecto ‘Aldeas Bauhaus EUROACE’ para revitalizar zonas rurales en Extremadura y Portugal",
-      "description": "",
-      "date": "2026-07-10",
-      "url": "https://www.meridadiario.com/2026/07/10/inicia-el-proyecto-aldeas-bauhaus-euroace-para-revitalizar-zonas-rurales-en-extremadura-y-portugal/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1163,18 +1003,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida acogerá en 2024 el II Congreso Nacional de Semana Santa de las Ciudades Patrimonio de la Humanidad",
-      "description": "Así lo ha anunciado el alcalde de Mérida, Antonio Rodríguez Osuna, tras la celebración de la asamblea ordinaria del grupo que se ha celebrado...",
-      "date": "2023-07-29",
-      "url": "https://www.meridadiario.com/2023/07/29/merida-acogera-en-2024-el-ii-congreso-nacional-de-semana-santa-de-las-ciudades-patrimonio-de-la-humanidad/",
+      "title": "Mayoría de españoles ve positiva la relación con China",
+      "description": "El 74,1% de los españoles valora positivamente la relación entre España y China Una gran mayoría de los españoles, el 74,1%,...",
+      "date": "2025-11-17",
+      "url": "https://www.meridadiario.com/2025/11/17/mayoria-de-espanoles-ve-positiva-la-relacion-con-china/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El Congreso asume casi por unanimidad la gratuidad del acceso a datos del Registro Mercantil",
-      "description": "El Congreso de los Diputados ha asumido casi por unanimidad la gratuidad del acceso a datos del Registro Mercantil, propuesta recogida en una ley...",
-      "date": "2023-03-01",
-      "url": "https://www.meridadiario.com/2023/03/01/el-congreso-asume-casi-por-unanimidad-la-gratuidad-del-acceso-a-datos-del-registro-mercantil/",
+      "title": "El I Mercado Patrimonio Artesano tendrá lugar en el Templo de Diana el próximo sábado",
+      "description": "El I Mercado Patrimonio Artesano forma parte de las actividades de La Noche del Patrimonio y comenzará a las 18 horas en el Templo...",
+      "date": "2021-09-15",
+      "url": "https://www.meridadiario.com/2021/09/15/el-i-mercado-patrimonio-artesano-tendra-lugar-en-el-templo-de-diana-el-proximo-sabado/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
