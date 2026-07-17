@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-17T09:06:49Z",
-  "count": 126,
+  "updated_at": "2026-07-17T14:41:58Z",
+  "count": 147,
   "events": [
+    {
+      "title": "El legado de Roma vuelve a unir Mérida e Irún a través del arte",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/legado-roma-vuelve-unir-merida-e-irun-132553747.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los futuros policías de Mérida salen a la calle para formarse con controles reales de tráfico",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/policia-local-practicas-merida-control-itv-seguridad-vial-coches-132544564.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un joven de 23 años, herido con politraumatismos tras salirse de la A-5 en Mérida",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/joven-herido-politraumatismos-accidente-merida-132553163.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más autonomía para las personas con discapacidad en Mérida con 50.000 euros en ayudas",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/independencia-discapacidad-ayua-merida-ayuntamiento-50-000-euros-132541672.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Así cambiará el sociosanitario de Mérida: nuevas camas, sofás, televisores y 219 taquillas",
       "description": "",
@@ -55,38 +87,6 @@
       "description": "",
       "date": "2026-07-17",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/gratis-teatro-merida-barrios-escenarios-132474771.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El funcionario del SEPE expedientado en Mérida denuncia que la oficina atiende ahora consultas sin cita",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/funcionario-sepe-expedientado-merida-denuncia-132470308.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una nueva pasarela abrirá al público el interior de la Casa de los Mármoles de Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/15/nueva-pasarela-publico-turismo-patrimonio-merida-132449684.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Cevimer atiende a 1.790 personas en sus cursos de educación vial en Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/14/educacion-vial-circuio-vial-merida-policia-local-132431062.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Denuncian el estado de abandono del depósito municipal anexo al acueducto de San Lázaro de Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/14/denuncian-abandono-deposito-municipal-anexo-132413931.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -195,6 +195,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Rodríguez Osuna pone en valor los lazos culturales e históricos entre Mérida e Irún durante la inauguración de la exposición “Ars Fatum. Presencias”",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://merida.es/rodriguez-osuna-pone-en-valor-los-lazos-culturales-e-historicos-entre-merida-e-irun-durante-la-inauguracion-de-la-exposicion-ars-fatum-presencias/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Rodríguez Osuna presenta el nuevo Pabellón Polideportivo Guadiana tras una transformación integral que mejora su accesibilidad, eficiencia energética, seguridad y equipamiento deportivo",
       "description": "",
       "date": "2026-07-17",
@@ -283,16 +291,16 @@
       "location": "Mérida"
     },
     {
-      "title": "Renovación de cuatro campos césped artificial, nuevas pistas de vóley y balonmano playa, gradas retráctiles en el Guadiana, además de mejoras de iluminación en la pista de atletismo de Diocles, en el programa de inversiones en infraestructuras deportivas",
-      "description": "",
+      "title": "Bence Juhász, nuevo portero Romano",
+      "description": "por Mérida Noticias en Deportes 0",
       "date": "2026-07-17",
-      "url": "https://merida.es/renovacion-de-cuatro-campos-cesped-artificial-nuevas-pistas-de-voley-y-balonmano-playa-gradas-retractiles-en-el-guadiana-ademas-de-mejoras-de-iluminacion-en-la-pista-de-atletismo-de-diocles-en-el/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/07/17/bence-juhasz-nuevo-portero-romano/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "Arranca la pretemporada 26/27",
-      "description": "por Mérida Noticias en Deportes 0",
+      "description": "",
       "date": "2026-07-17",
       "url": "https://meridanoticias.com/2026/07/15/arranca-la-pretemporada-26-27/",
       "source": "Mérida Noticias",
@@ -359,14 +367,6 @@
       "description": "",
       "date": "2026-07-17",
       "url": "https://meridanoticias.com/2026/07/04/pretemporada-2026-27-para-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nacho González vuelve al Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://meridanoticias.com/2026/07/02/nacho-gonzalez-vuelve-al-merida/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -579,6 +579,174 @@
       "location": "Mérida"
     },
     {
+      "title": "El alumnado de Barraeca en Mérida recibe a los niños y niñas de \"Vacaciones en paz\"",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/17/el-alumnado-de-barraeca-en-merida-recibe-a-los-ninos-y-ninas-de-vacaciones-en-paz-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Gobierno de Mérida aprueba 50.000 euros para proyectos de vida independiente y asistencia personal",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/la-junta-de-gobierno-de-merida-aprueba-50000-euros-para-proyectos-de-vida-independiente-y-asistencia-personal-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Centro de Educación Vial de Mérida ha atendido a 1.790 personas, siendo referente en formación cívica",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/14/el-centro-de-educacion-vial-de-merida-ha-atendido-a-1790-personas-siendo-referente-en-formacion-civica-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Museo Oiasso inaugura la exposición \"Ars Fatum\", una colección de máscaras inspiradas en el Festival de Teatro Clásico de Mérida",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/euskadi/2026/07/17/el-museo-oiasso-inaugura-la-exposicion-ars-fatum-una-coleccion-de-mascaras-inspiradas-en-el-festival-de-teatro-clasico-de-merida-radio-irun/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abiertas las instalaciones del Pabellón Guadiana tras su transformación y mejora",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/abiertas-las-instalaciones-del-pabellon-guadiana-tras-su-transformacion-y-mejora-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La gran sátira sobre la amistad, el poder y la ingratitud llena la escena del Teatro Romano con la obra 'Timón de Atenas'",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/14/la-gran-satira-sobre-la-amistad-el-poder-y-la-ingratitud-llenara-la-escena-del-teatro-romano-con-la-obra-timon-de-atenas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Almendralejo celebra la 25ª edición de Festibarros con actuaciones de cuatro grupos internacionales",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/almendralejo-celebra-la-25-edicion-de-festibarros-con-actuaciones-de-cuatro-grupos-internacionales-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Destellos en el valle' es el cartel anunciador de la Feria y Fiestas de Mérida 2026",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/08/destellos-en-el-valle-es-el-cartel-anunciador-de-la-feria-y-fiestas-de-merida-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La arena del romano nos traslada a un cortijo andaluz con el estreno de 'Electra Jonda'",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Villanueva refuerza el servicio de limpieza y pide concienciación ciudadana para mantener la ciudad limpia",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/17/el-ayuntamiento-de-villanueva-refuerza-el-servicio-de-limpieza-y-pide-concienciacion-ciudadana-para-mantener-la-ciudad-limpia-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aumenta el riesgo de incendio en Extremdura",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/17/aumenta-el-riesgo-de-incendio-en-extremdura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La pobreza farmacéutica: Una realidad silenciosa con menor impacto en Extremadura",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/la-pobreza-farmaceutica-una-realidad-silenciosa-con-menor-impacto-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fin de semana de alto peligro de incendio",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/fin-de-semana-de-alto-peligro-de-incendio-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El CSN aboga porque la Central Nuclear de Almaraz continúe en funcionamiento hasta 2030",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/el-csn-aboga-porque-la-central-nuclear-de-almaraz-continue-en-funcionamiento-hasta-2030-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Detenido en Cáceres un hombre por pornografía infantil y difusión de vídeos sexuales sin consentimiento",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/detenido-en-caceres-un-hombre-por-pornografia-infantil-y-difusion-de-videos-sexuales-sin-consentimiento-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Albert Sánchez relevará a Daniel Cuevas al frente de Philip Morris en España, Andorra y Gibraltar",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/albert-sanchez-relevara-a-daniel-cuevas-al-frente-de-philip-morris-en-espana-andorra-y-gibraltar-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El SES mejora la accesibilidad sanitaria, logrando en junio el menor tiempo de espera quirúrgica desde 2019",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/16/el-ses-mejora-la-accesibilidad-sanitaria-logrando-en-junio-el-menor-tiempo-de-espera-quirurgica-desde-2019-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Así vivió Don Benito la histórica clasificación de España con un gol de Pedro Porro",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/asi-vivio-don-benito-la-historica-clasificacion-de-espana-con-un-gol-de-pedro-porro-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El peligro de incendio se incrementa hacia el final de la semana",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://cadenaser.com/extremadura/2026/07/15/el-peligro-de-incendio-se-incrementa-hacia-el-final-de-la-semana-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-17",
@@ -611,18 +779,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Mérida (16/07/26)",
+      "title": "Informativos matinal Más de Uno Mérida (17/07/26)",
       "description": "",
       "date": "2026-07-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-160726_202607166a587b480264380007d165dc.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-170726_202607176a5a175537e4a800076a4888.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (16/07/26)",
+      "title": "Informativos mediodía Mérida (17/07/26)",
       "description": "",
       "date": "2026-07-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-160726_202607166a58c82d5fa873000704baa9.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-170726_202607176a5a187d5fa873000704bddc.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -651,10 +819,34 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Extremadura (17/07/2026)",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-17072026_202607176a5a178a196d850007d2ac03.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Extremadura (16/07/2026)",
       "description": "",
       "date": "2026-07-17",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-16072026_202607166a58c8775fa873000704baab.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (16/07/26)",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-160726_202607166a58c82d5fa873000704baa9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos matinal Más de Uno Mérida (/16/07/26)",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-160726_202607166a587b480264380007d165dc.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -675,22 +867,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida_202607156a5776839eb43c0007881446.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Mérida (15/07/26)",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-150726_202607156a57758ab2e1a100077b194a.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-07-17",
@@ -703,14 +879,6 @@
       "description": "",
       "date": "2026-07-17",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/cocacola-activa-verano-futbol-experiencia-punto-venta-innovacion-producto_202607136a54a0ebc48a78681b861c02.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Badajoz tendrá vuelos hacia Egipto durante el otoño de 2026 operados por Cinco Estrellas Club",
-      "description": "",
-      "date": "2026-07-17",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/badajoz-tendra-vuelos-egipto-otono-2026-operados-cinco-estrellas-club_20251125692556326c137a69877b9df1.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
