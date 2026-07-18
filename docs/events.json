@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:47:04Z",
+  "updated_at": "2026-07-18T14:18:55Z",
   "count": 148,
   "events": [
     {
@@ -155,7 +155,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Nati, la vecina de Mérida que dona un longevo árbol canario para ponerlo en un parque de la ciudad",
+      "title": "Nati, la vecina que dona un drago canario para un parque de Mérida",
       "description": "",
       "date": "2026-07-18",
       "url": "https://www.hoy.es/merida/nati-vecina-merida-dona-genuino-longevo-arbol-20260718142438-nt.html",
@@ -291,8 +291,16 @@
       "location": "Mérida"
     },
     {
-      "title": "Bence Juhász, nuevo portero Romano",
+      "title": "Barbu, nuevo jugador Romano",
       "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-07-18",
+      "url": "https://meridanoticias.com/2026/07/18/barbu-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Bence Juhász, nuevo portero Romano",
+      "description": "",
       "date": "2026-07-18",
       "url": "https://meridanoticias.com/2026/07/17/bence-juhasz-nuevo-portero-romano/",
       "source": "Mérida Noticias",
@@ -359,14 +367,6 @@
       "description": "",
       "date": "2026-07-18",
       "url": "https://meridanoticias.com/2026/07/04/fito-rodriguez-nuevo-jugador-romano/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Pretemporada 2026/27 para el Mérida",
-      "description": "",
-      "date": "2026-07-18",
-      "url": "https://meridanoticias.com/2026/07/04/pretemporada-2026-27-para-el-merida/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -667,6 +667,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El PP de Extremadura elige a Elena Manzano y Manuel Naharro como presidentes provinciales de Cáceres y Badajoz",
+      "description": "",
+      "date": "2026-07-18",
+      "url": "https://cadenaser.com/extremadura/2026/07/18/el-pp-de-extremadura-elige-a-elena-manzano-y-manuel-naharro-como-presidentes-provinciales-de-caceres-y-badajoz-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura garantiza la asistencia sanitaria en verano y los sindicatos critican la falta de personal en el sistema público",
+      "description": "",
+      "date": "2026-07-18",
+      "url": "https://cadenaser.com/extremadura/2026/07/18/la-junta-de-extremadura-garantiza-la-asistencia-sanitaria-en-verano-y-los-sindicatos-critican-la-falta-de-personal-en-el-sistema-publico-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El Ayuntamiento de Villanueva refuerza el servicio de limpieza y pide concienciación ciudadana para mantener la ciudad limpia",
       "description": "",
       "date": "2026-07-18",
@@ -727,22 +743,6 @@
       "description": "",
       "date": "2026-07-18",
       "url": "https://cadenaser.com/extremadura/2026/07/16/el-ses-mejora-la-accesibilidad-sanitaria-logrando-en-junio-el-menor-tiempo-de-espera-quirurgica-desde-2019-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Así vivió Don Benito la histórica clasificación de España con un gol de Pedro Porro",
-      "description": "",
-      "date": "2026-07-18",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/asi-vivio-don-benito-la-historica-clasificacion-de-espana-con-un-gol-de-pedro-porro-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El peligro de incendio se incrementa hacia el final de la semana",
-      "description": "",
-      "date": "2026-07-18",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/el-peligro-de-incendio-se-incrementa-hacia-el-final-de-la-semana-radio-extremadura/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
