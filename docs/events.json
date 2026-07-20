@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-20T09:58:29Z",
+  "updated_at": "2026-07-20T15:10:06Z",
   "count": 146,
   "events": [
+    {
+      "title": "Una pelea entre jóvenes irrumpe en la fiesta por el Mundial de España en Mérida y obliga a intervenir a la Policía",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/20/pelea-jovenes-irrumpe-fiesta-mundial-espana-argentina-merida-policia-132625463.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "La plaza de España, más de España que nunca: Mérida celebra a manguerazos la segunda estrella",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más autonomía para las personas con discapacidad en Mérida con 50.000 euros en ayudas",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/independencia-discapacidad-ayua-merida-ayuntamiento-50-000-euros-132541672.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Así se celebró en la Plaza de España de Mérida la final del Mundial",
       "description": "",
       "date": "2026-07-20",
@@ -155,6 +155,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Adjudicado el concurso para implantar un sistema de información geográfica urbanística sobre Mérida",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.hoy.es/merida/adjudicado-concurso-implantar-sistema-informacion-geografica-urbanistica-20260720133752-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La cubierta del Costurero se arreglará a corto plazo y se pintará la fachada",
       "description": "",
       "date": "2026-07-20",
@@ -187,11 +195,11 @@
       "location": "Mérida"
     },
     {
-      "title": "El centro sociosanitario de Mérida completará su equipamiento a comienzos de año",
+      "title": "Este viernes finaliza el plazo de subsanación de las ayudas de material escolar para el curso 2026/2027",
       "description": "",
       "date": "2026-07-20",
-      "url": "https://www.hoy.es/merida/centro-sociosanitario-merida-completara-equipamiento-comienzos-ano-20260719092536-nt.html",
-      "source": "Hoy.es",
+      "url": "https://merida.es/este-viernes-finaliza-el-plazo-de-subsanacion-de-las-ayudas-de-material-escolar-para-el-curso-2026-2027/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -283,16 +291,16 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento incrementa su aportación al Festival Internacional de Teatro Clásico",
-      "description": "",
+      "title": "Míkel Valcárcel se incorpora al cuerpo técnico como analista",
+      "description": "por Mérida Noticias en Deportes 0",
       "date": "2026-07-20",
-      "url": "https://merida.es/el-ayuntamiento-incrementa-su-aportacion-al-festival-internacional-de-teatro-clasico/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/07/19/mikel-valcarcel-se-incorpora-al-cuerpo-tecnico-como-analista/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
       "title": "Barbu, nuevo jugador Romano",
-      "description": "por Mérida Noticias en Deportes 0",
+      "description": "",
       "date": "2026-07-20",
       "url": "https://meridanoticias.com/2026/07/18/barbu-nuevo-jugador-romano/",
       "source": "Mérida Noticias",
@@ -359,14 +367,6 @@
       "description": "",
       "date": "2026-07-20",
       "url": "https://meridanoticias.com/2026/07/05/manuel-sanchez-nuevo-entrenador-de-jugadas-a-balon-parado-para-el-merida/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fito Rodríguez, nuevo jugador Romano",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://meridanoticias.com/2026/07/04/fito-rodriguez-nuevo-jugador-romano/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
@@ -603,6 +603,22 @@
       "location": "Mérida"
     },
     {
+      "title": "Chevi Muraday regresa al Festival de Mérida con 'Bacanal', un ritual escénico sobre la libertad, el cuerpo y el deseo",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/chevi-muraday-regresa-al-festival-de-merida-con-bacanal-un-ritual-escenico-sobre-la-libertad-el-cuerpo-y-el-deseo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Gabriel Azorín, director de 'Anoche conquisté Tebas', destaca el valor de proyectar la cinta en Cinema Aestas: \"Es importante sacar las cosas de su nicho y llegar a lugares menos obvios\"",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/gabriel-azorin-director-de-anoche-conquiste-tebas-destaca-el-valor-de-proyectar-la-cinta-en-cinema-aestas-es-importante-sacar-las-cosas-de-su-nicho-y-llegar-a-lugares-menos-obvios-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El Museo Oiasso inaugura la exposición \"Ars Fatum\", una colección de máscaras inspiradas en el Festival de Teatro Clásico de Mérida",
       "description": "",
       "date": "2026-07-20",
@@ -619,18 +635,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La gran sátira sobre la amistad, el poder y la ingratitud llena la escena del Teatro Romano con la obra 'Timón de Atenas'",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://cadenaser.com/extremadura/2026/07/14/la-gran-satira-sobre-la-amistad-el-poder-y-la-ingratitud-llenara-la-escena-del-teatro-romano-con-la-obra-timon-de-atenas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Almendralejo celebra la 25ª edición de Festibarros con actuaciones de cuatro grupos internacionales",
       "description": "",
       "date": "2026-07-20",
       "url": "https://cadenaser.com/extremadura/2026/07/15/almendralejo-celebra-la-25-edicion-de-festibarros-con-actuaciones-de-cuatro-grupos-internacionales-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La película casi teatral 'El regreso de Ulises' es la segunda cinta de Cinema Aestas",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://cadenaser.com/extremadura/2026/07/13/la-pelicula-casi-teatral-el-regreso-de-ulises-es-la-segunda-cinta-de-cinema-aestas-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -651,18 +667,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La arena del romano nos traslada a un cortijo andaluz con el estreno de 'Electra Jonda'",
+      "title": "El futbolista dombenitense, Pedro Porro, recibirá la Medalla de Extremadura, máxima distinción de la comunidad",
       "description": "",
       "date": "2026-07-20",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/la-arena-del-romano-nos-trasladara-a-un-cortijo-andaluz-con-el-estreno-de-electra-jonda-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Cine de Verano de Mérida llenará el auditorio de las VII Sillas de títulos para todos los públicos",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://cadenaser.com/extremadura/2026/07/07/el-cine-de-verano-de-merida-llenara-el-auditorio-de-las-vii-sillas-de-titulos-para-todos-los-publicos-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/el-futbolista-dombenitense-pedro-porro-recibira-la-medalla-de-extremadura-maxima-distincion-de-la-comunidad-ser-vegas-altas/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -731,22 +739,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Detenido en Cáceres un hombre por pornografía infantil y difusión de vídeos sexuales sin consentimiento",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/detenido-en-caceres-un-hombre-por-pornografia-infantil-y-difusion-de-videos-sexuales-sin-consentimiento-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Albert Sánchez relevará a Daniel Cuevas al frente de Philip Morris en España, Andorra y Gibraltar",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/albert-sanchez-relevara-a-daniel-cuevas-al-frente-de-philip-morris-en-espana-andorra-y-gibraltar-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-20",
@@ -787,18 +779,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (17/07/26)",
+      "title": "Informativos mediodía Mérida (20/07/26)",
       "description": "",
       "date": "2026-07-20",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-170726_202607176a5a187d5fa873000704bddc.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-200726_202607206a5e0c01b316bb0007e994e5.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Francisco de Borja (Jandilla) tras triunfar en San Fermín: \"Cada encierro es el reflejo de años de trabajo en el campo\"",
+      "title": "Conoce los secretos de la película 'Anoche conquisté Tebas'",
       "description": "",
       "date": "2026-07-20",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/francisco-borja-jandilla-triunfar-san-fermin-cada-encierro-reflejo-anos-trabajo-campo_202607156a57798db2e1a100077b1971.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/conoce-secretos-pelicula-anche-conquiste-tebas_202607206a5e0d80dd01910007b5eedb.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -815,6 +807,14 @@
       "description": "",
       "date": "2026-07-20",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/plaza-toros-merida-sera-escenario-festival-flamenco-rumba-que-tendra-lugar-10-octubre-artistas-consagrados-nivel-regional-nacional_202607086a4e3c8c53f6b0e44303b48d.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (17/07/26)",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-170726_202607176a5a187d5fa873000704bddc.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -859,14 +859,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Extremadura (15/07/2026)",
-      "description": "",
-      "date": "2026-07-20",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-15072026_202607156a5779c9b2e1a100077b1972.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-07-20",
@@ -875,10 +867,18 @@
       "location": "Mérida"
     },
     {
-      "title": "El Comité de Empresa de la Escuela Virgen de Guadalupe de Badajoz logra el acuerdo de jubilación parcial en Concertada",
+      "title": "El Hospital Materno Infantil de Badajoz pone en marcha una nuevo servicio de triaje estructurado en urgencias",
       "description": "",
       "date": "2026-07-20",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/comite-empresa-escuela-virgen-guadalupe-badajoz-logra-acuerdo-jubilacion-parcial-concertada_20221019634fe7a28e887d00013a4959.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/hospital-materno-infantil-badajoz-pone-marcha-nuevo-servicio-triaje-estructurado-urgencias_202411046728b7272914190001ea8fdc.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Moracantana y El Arte-Facto, primeros premios en el Desfile del Entierro de la Sardina de Badajoz",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/moracantana-artefacto-primeros-premios-desfile-entierro-sardina-badajoz_202602186995bd9a2f00a046881535ee.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -887,6 +887,14 @@
       "description": "",
       "date": "2026-07-19",
       "url": "https://www.hoy.es/merida/herido-joven-anos-salida-via-altura-merida-20260719135723-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El centro sociosanitario de Mérida completará su equipamiento a comienzos de año",
+      "description": "",
+      "date": "2026-07-19",
+      "url": "https://www.hoy.es/merida/centro-sociosanitario-merida-completara-equipamiento-comienzos-ano-20260719092536-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -1039,14 +1047,6 @@
       "description": "",
       "date": "2026-07-14",
       "url": "https://www.hoy.es/merida/cesar-calderon-presenta-ganar-elecciones-20260714074905-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Unión de Actores dona ejemplares de  su certamen teatral",
-      "description": "",
-      "date": "2026-07-14",
-      "url": "https://www.hoy.es/merida/union-actores-dona-ejemplares-certamen-teatral-20260714074912-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
