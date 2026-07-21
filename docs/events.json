@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-21T15:01:56Z",
-  "count": 136,
+  "updated_at": "2026-07-21T20:17:09Z",
+  "count": 126,
   "events": [
+    {
+      "title": "El drago que Nati cuidó 24 años en su patio echa raíces junto a la Mérida romana",
+      "description": "",
+      "date": "2026-07-21",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/21/drago-nati-cuido-24-anos-echa-raices-merida-132677733.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Antonio Monge lleva el talento de Mérida al podio mundial de la Biología en Lituania",
+      "description": "",
+      "date": "2026-07-21",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/21/antonio-monge-lleva-talento-merida-podio-mundial-biologia-lituania-132676489.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "De Puccini a Ernesto Sevilla: el María Luisa de Mérida despliega una temporada de grandes nombres",
       "description": "",
@@ -71,22 +87,6 @@
       "description": "",
       "date": "2026-07-21",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/19/comercio-meridad-celebra-tasa-shein-132507761.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida convierte los oficios en un puente de bienvenida para los niños saharauis",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/18/merida-convierte-oficios-puente-bienvenida-ninos-saharauis-132566188.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Santi Amaro vuelve a por la Alcaldía de Mérida con el respaldo de Feijóo",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/17/santi-amaro-vuelve-alcaldia-merida-132561203.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -428,6 +428,14 @@
     },
     {
       "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
+      "description": "Historia taurina",
+      "date": "2026-07-21",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/21/antonio-rodriguez-historico-taquillero-merida-cromos-toros-132662024.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Pepe Viyuela se entrega a la sátira más amarga de Shakespeare en el Festival de Mérida",
       "description": "Tercer montaje",
       "date": "2026-07-21",
       "url": "https://www.lacronicabadajoz.com/merida/2026/07/16/misantropia-merida-obra-timon-de-atenas-teatro-festival-teatro-clasico-shakespeare-132499125.html",
@@ -552,198 +560,6 @@
       "date": "2026-07-21",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/23/gladiadores-vino-miel-tabernas-romanas-130578188.html",
       "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fotogalería | Todo lo mejor de Emerita Lvdica, en imágenes",
-      "description": "Mérida",
-      "date": "2026-07-21",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/23/fotogaleria-mejor-emerita-lvdica-imagenes-130576029.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El alumnado de Barraeca en Mérida recibe a los niños y niñas de \"Vacaciones en paz\"",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/17/el-alumnado-de-barraeca-en-merida-recibe-a-los-ninos-y-ninas-de-vacaciones-en-paz-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Gobierno de Mérida aprueba 50.000 euros para proyectos de vida independiente y asistencia personal",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/16/la-junta-de-gobierno-de-merida-aprueba-50000-euros-para-proyectos-de-vida-independiente-y-asistencia-personal-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro de Educación Vial de Mérida ha atendido a 1.790 personas, siendo referente en formación cívica",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/14/el-centro-de-educacion-vial-de-merida-ha-atendido-a-1790-personas-siendo-referente-en-formacion-civica-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El teatro María Luisa de Mérida ofrecerá una programación variada y accesible de septiembre a diciembre",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/el-teatro-maria-luisa-de-merida-ofrecera-una-programacion-variada-y-accesible-de-septiembre-a-diciembre-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Chevi Muraday regresa al Festival de Mérida con 'Bacanal', un ritual escénico sobre la libertad, el cuerpo y el deseo",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/20/chevi-muraday-regresa-al-festival-de-merida-con-bacanal-un-ritual-escenico-sobre-la-libertad-el-cuerpo-y-el-deseo-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Gabriel Azorín, director de 'Anoche conquisté Tebas', destaca el valor de proyectar la cinta en Cinema Aestas: \"Es importante sacar las cosas de su nicho y llegar a lugares menos obvios\"",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/20/gabriel-azorin-director-de-anoche-conquiste-tebas-destaca-el-valor-de-proyectar-la-cinta-en-cinema-aestas-es-importante-sacar-las-cosas-de-su-nicho-y-llegar-a-lugares-menos-obvios-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Museo Oiasso inaugura la exposición \"Ars Fatum\", una colección de máscaras inspiradas en el Festival de Teatro Clásico de Mérida",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/euskadi/2026/07/17/el-museo-oiasso-inaugura-la-exposicion-ars-fatum-una-coleccion-de-mascaras-inspiradas-en-el-festival-de-teatro-clasico-de-merida-radio-irun/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La gran sátira sobre la amistad, el poder y la ingratitud llena la escena del Teatro Romano con la obra 'Timón de Atenas'",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/14/la-gran-satira-sobre-la-amistad-el-poder-y-la-ingratitud-llenara-la-escena-del-teatro-romano-con-la-obra-timon-de-atenas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Almendralejo celebra la 25ª edición de Festibarros con actuaciones de cuatro grupos internacionales",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/15/almendralejo-celebra-la-25-edicion-de-festibarros-con-actuaciones-de-cuatro-grupos-internacionales-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La película casi teatral 'El regreso de Ulises' es la segunda cinta de Cinema Aestas",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/13/la-pelicula-casi-teatral-el-regreso-de-ulises-es-la-segunda-cinta-de-cinema-aestas-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Festival de Mérida y la ONCE colaboran por el acceso y la inclusión en la cultura",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/09/el-festival-de-merida-y-la-once-colaboran-por-el-acceso-y-la-inclusion-en-la-cultura-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta extingue la concesión de los centros de transporte de Extremadura y prepara un nuevo modelo de gestión",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/la-junta-extingue-la-concesion-de-los-centros-de-transporte-de-extremadura-y-prepara-un-nuevo-modelo-de-gestion-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los niños saharauis del programa Vacaciones en Paz visitan el Ayuntamiento de Cáceres",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/los-ninos-saharauis-del-programa-vacaciones-en-paz-visitan-el-ayuntamiento-de-caceres-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Valencia de Alcántara y Marvão reviven la Boda Regia con cuatro días de historia, cultura y cooperación transfronteriza",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/valencia-de-alcantara-y-marvao-reviven-la-boda-regia-con-cuatro-dias-de-historia-cultura-y-cooperacion-transfronteriza-ser-caceres/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El futbolista Pedro Porro será declarado Hijo Pedrilecto de Don Benito",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/el-futbolista-pedro-porro-sera-declarado-hijo-pedrilecto-de-don-benito-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Plasencia aboga por actos intergeneracionales para el día de los abuelos",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/plasencia-aboga-por-actos-intergeneracionales-para-el-dia-de-los-abuelos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La escasez de agua ha marcado durante siglos el desarrollo de Cáceres",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/la-escasez-de-agua-ha-marcado-durante-siglos-el-desarrollo-de-caceres-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Guardia Civil investiga en Aceuchal a tres personas por el hurto de casi dos toneladas de ajos morados",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/la-guardia-civil-investiga-en-aceuchal-a-tres-personas-por-el-hurto-de-casi-dos-toneladas-de-ajos-morados-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Guardia Civil detiene en Guareña a un hombre acusado de atacar a su excuñado con un arma blanca",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/la-guardia-civil-detiene-en-guarena-al-presunto-autor-de-un-delito-de-homicidio-en-grado-de-tentativa-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La próxima \"ola de calor\" aumenta el peligro de incendio forestal",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/la-proxima-ola-de-calor-aumenta-el-peligro-de-incendio-forestal-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El futbolista dombenitense, Pedro Porro, recibirá la Medalla de Extremadura, máxima distinción de la comunidad",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/20/el-futbolista-dombenitense-pedro-porro-recibira-la-medalla-de-extremadura-maxima-distincion-de-la-comunidad-ser-vegas-altas/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Situación cambiante en cuanto al peligro de incendios en Extremadura",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/20/sociedad-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El PP de Extremadura elige a Elena Manzano y Manuel Naharro como presidentes provinciales de Cáceres y Badajoz",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://cadenaser.com/extremadura/2026/07/18/el-pp-de-extremadura-elige-a-elena-manzano-y-manuel-naharro-como-presidentes-provinciales-de-caceres-y-badajoz-ser-merida/",
-      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -907,6 +723,54 @@
       "location": "Mérida"
     },
     {
+      "title": "Metodo 3 propone un sistema selectivo para verificar las bajas laborales",
+      "description": "La agencia de inteligencia e investigación Metodo 3, liderada por el detective privado y doctor en Derecho Francisco Marco, propone implantar un sistema de...",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/metodo-3-propone-un-sistema-selectivo-para-verificar-las-bajas-laborales/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 20 de Julio de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/el-tiempo-hoy-20-de-julio-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Festival de Mérida invita a participar en la experiencia colectiva de ‘Bacanal’",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/el-festival-de-merida-invita-a-participar-en-la-experiencia-colectiva-de-bacanal/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Farline y Aposán, protagonistas del botiquín recomendado para el verano",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/farline-y-aposan-protagonistas-del-botiquin-recomendado-para-el-verano/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Gobierno de Extremadura proporciona paja a ganaderos de Valdefuentes tras incendio forestal",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/el-gobierno-de-extremadura-proporciona-paja-a-ganaderos-de-valdefuentes-tras-incendio-forestal/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura destina más de 8 millones de euros a la modernización de estaciones de autobuses",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/la-junta-de-extremadura-destina-mas-de-8-millones-de-euros-a-la-modernizacion-de-estaciones-de-autobuses/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Herido un joven de 23 años en una salida de vía en la A-5 a la altura de Mérida",
       "description": "",
       "date": "2026-07-19",
@@ -931,6 +795,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Junta de Extremadura amplía la oferta de cursos virtuales de FP para el año académico 2026-2027",
+      "description": "Ampliación de la oferta de Formación Profesional Virtual en ExtremaduraLa Consejería de Educación y Formación Profesional de Extremadura ha decidido incrementar su oferta de...",
+      "date": "2026-07-19",
+      "url": "https://www.meridadiario.com/2026/07/19/la-junta-de-extremadura-amplia-la-oferta-de-cursos-virtuales-de-fp-para-el-ano-academico-2026-2027/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Nati, la vecina que dona un drago canario para un parque de Mérida",
       "description": "",
       "date": "2026-07-18",
@@ -952,6 +824,14 @@
       "date": "2026-07-17",
       "url": "https://www.hoy.es/merida/santiago-amaro-avanza-repite-candidato-pp-alcaldia-20260717174828-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Casa Fuerte de la Encomienda en Valencia del Ventoso opta a los premios ‘Europa Se Siente’ 2026",
+      "description": "",
+      "date": "2026-07-17",
+      "url": "https://www.meridadiario.com/2026/07/17/la-casa-fuerte-de-la-encomienda-en-valencia-del-ventoso-opta-a-los-premios-europa-se-siente-2026/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -995,11 +875,35 @@
       "location": "Mérida"
     },
     {
+      "title": "La Junta de Extremadura pide al Gobierno la prórroga de la Central Nuclear de Almaraz tras el apoyo del CSN",
+      "description": "",
+      "date": "2026-07-16",
+      "url": "https://www.meridadiario.com/2026/07/16/la-junta-de-extremadura-pide-al-gobierno-la-prorroga-de-la-central-nuclear-de-almaraz-tras-el-apoyo-del-csn/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "El Festival de Mérida lleva seis propuestas teatrales a siete enclaves de la ciudad",
       "description": "",
       "date": "2026-07-15",
       "url": "https://www.hoy.es/merida/festival-merida-lleva-seis-propuestas-teatrales-siete-20260715143237-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Absentismo Escolar en Extremadura Continúa en Descenso por Cuarto Año Consecutivo",
+      "description": "",
+      "date": "2026-07-14",
+      "url": "https://www.meridadiario.com/2026/07/14/el-absentismo-escolar-en-extremadura-continua-en-descenso-por-cuarto-ano-consecutivo/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Carnaval Romano 2024 ha podido celebrar todas las actividades programadas, a pesar de la lluvia, con un éxito de participación en todas ellas",
+      "description": "Resumen de Actividades de la Policía LocalEntre el 18 y el 24 de mayo, la Policía Local de Mérida tuvo que intervenir en un...",
+      "date": "2026-07-13",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1088,6 +992,22 @@
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Netflix impulsa inversiones que podrían triplicar el empleo audiovisual, según expertos",
+      "description": "La concentración de inversiones en Tres Cantos dispara la demanda de perfiles cualificados Centros como The Core, integrados en Madrid Content City, se posicionan como...",
+      "date": "2025-06-13",
+      "url": "https://www.meridadiario.com/2025/06/13/netflix-impulsa-inversiones-que-podrian-triplicar-el-empleo-audiovisual-segun-expertos/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo para hoy en Mérida, 4 de agosto de 2022",
+      "description": "Para el día de hoy en Mérida habrá cielos despejados. Con respecto a las temperaturas, estas se moverán entre los 39 grados de máxima...",
+      "date": "2022-08-04",
+      "url": "https://www.meridadiario.com/2022/08/04/el-tiempo-para-hoy-en-merida-4-de-agosto-de-2022/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
