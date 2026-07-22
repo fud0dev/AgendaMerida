@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-22T15:02:22Z",
-  "count": 125,
+  "updated_at": "2026-07-22T20:10:23Z",
+  "count": 124,
   "events": [
+    {
+      "title": "Mérida gana una nueva calle y 65 plazas de aparcamiento junto a la avenida de Extremadura",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/merida-gana-nueva-calle-y-65-aparcamientos-avenida-extremadura-132706188.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una casa de Mérida escondía una necrópolis y la historia de una niña cristiana fallecida en el año 516",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/casa-merida-escondia-necropolis-historia-nina-cristiana-fallecida-ano-516-132707125.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Alcohol, carriles invadidos y coches aparcados embestidos: siete días de intensa siniestralidad vial en Mérida",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/policia-local-merida-pruebas-de-alcohol-colision-siniestro-seguridad-vial-132695870.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Claudia Abela pone voz a la noche de Mérida con un concierto gratuito en la Alcazaba",
       "description": "",
@@ -67,30 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Santa Clara, donde Mérida guarda otra de sus almas",
-      "description": "",
-      "date": "2026-07-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/20/santa-clara-merida-guarda-otra-de-sus-almas-132599787.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Los arqueólogos de Mérida que buscan la Galicia sumergida",
-      "description": "",
-      "date": "2026-07-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/20/arqueologos-merida-buscan-galicia-sumergida-132490840.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Adiós a la señora Nati, el rostro amable que siempre estuvo al servicio de la Concatedral de Mérida",
-      "description": "",
-      "date": "2026-07-22",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/19/adios-senora-nati-querida-colaboradora-concatedral-santa-maria-merida-132598953.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Así se celebró en la Plaza de España de Mérida la final del Mundial",
       "description": "",
       "date": "2026-07-22",
@@ -147,6 +147,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Vídeo | Vecinos de Mérida tiran de la linterna del móvil para cruzar unas calles donde no se veía nada",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/22/video-vecinos-merida-tiran-linterna-calles-oscuras-131676382.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
       "title": "Solo 2 de los 119 controles de alcoholemia dan positivo dentro de la campaña especial de Tráfico en Mérida",
       "description": "",
       "date": "2026-07-22",
@@ -187,7 +195,7 @@
       "location": "Mérida"
     },
     {
-      "title": "El Festival de Mérida lanza una importante petición al público que asista esta semana",
+      "title": "El Festival de Mérida lanza una petición al público que asista esta semana",
       "description": "",
       "date": "2026-07-22",
       "url": "https://www.hoy.es/merida/festival-teatro-merida-lanza-importante-peticion-publico-20260722114901-nt.html",
@@ -435,14 +443,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
-      "description": "Historia taurina",
-      "date": "2026-07-22",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/21/antonio-rodriguez-historico-taquillero-merida-cromos-toros-132662024.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
       "title": "Pepe Viyuela se entrega a la sátira más amarga de Shakespeare en el Festival de Mérida",
       "description": "Tercer montaje",
       "date": "2026-07-22",
@@ -463,6 +463,14 @@
       "description": "Mérida",
       "date": "2026-07-22",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/29/fotogaleria-mejor-concierto-alan-parsons-131919466.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
+      "description": "Financiación",
+      "date": "2026-07-22",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/06/28/ibercaja-impulsa-126-nuevas-viviendas-131891740.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -559,14 +567,6 @@
       "description": "Mérida",
       "date": "2026-07-22",
       "url": "https://www.lacronicabadajoz.com/merida/2026/05/24/fotogaleria-emerita-lvdica-devuelve-rugido-130595682.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Gladiadores, vino con miel y tabernas romanas: cuando Mérida vuelve a ser Augusta Emerita",
-      "description": "El día grande de Emérita Lvdica",
-      "date": "2026-07-22",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/23/gladiadores-vino-miel-tabernas-romanas-130578188.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -911,14 +911,6 @@
       "description": "La XX edición del Ciclo de Cine al Aire Libre vuelve al Parque de las Siete Sillas en la noche de los viernes de los meses de julio y agosto de 2026, a partir de las 22:30 horas. La oferta de este verano incluye un total de siete proyecciones de títulos dirigidos para todos los […]",
       "date": "2026-07-11",
       "url": "https://merida.es/agenda/xx-ciclo-cine-aire-libre-2026/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cuentacuentos ‘Héroes y Heroínas’",
-      "description": "Héroes y Heroínas regresa con una nueva colección de cuentos para toda la familia. Esta edición vuelve a presentar personajes entrañables de la mitología grecolatina en situaciones y experiencias contemporáneas que promueven valores fundamentales como la inclusión, la sostenibilidad, la empatía, ...",
-      "date": "2026-07-05",
-      "url": "https://merida.es/agenda/cuentacuentos-heroes-y-heroinas-2026/",
       "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
