@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-23T09:23:07Z",
-  "count": 111,
+  "updated_at": "2026-07-23T15:08:32Z",
+  "count": 125,
   "events": [
+    {
+      "title": "La multinacional sueca que desembarca en Mérida tras comprar una empresa extremeña",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/control-de-plagas-medioambiente-europa-antimex-merida-multinacional-132730823.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida continúa su verano con una agenda cultural para todos los públicos",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/ocio-cultura-actividades-merida-teatro-cine-conciertos-pasacalle-132723620.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "El depósito de San Lázaro se pudre entre basura y pintadas y lleva al límite a los vecinos de Mérida",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/deposito-historico-san-lazaro-pudre-basura-pintadas-quejas-vecinos-132726517.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Herida una mujer de 59 años en un accidente de tráfico en Mérida",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/herida-mujer-59-anos-accidente-132722678.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida desbloquea 18,2 millones para empleo, asfaltado, autobuses y grandes obras",
       "description": "",
@@ -15,14 +47,6 @@
       "description": "",
       "date": "2026-07-23",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/merida-gana-nueva-calle-y-65-aparcamientos-avenida-extremadura-132706188.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Herida una mujer de 59 años en un accidente de tráfico en Mérida",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/herida-mujer-59-anos-accidente-132722678.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -63,30 +87,6 @@
       "description": "",
       "date": "2026-07-23",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/21/antonio-monge-lleva-talento-merida-podio-mundial-biologia-lituania-132676489.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "De Puccini a Ernesto Sevilla: el María Luisa de Mérida despliega una temporada de grandes nombres",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/21/puccini-ernesto-sevilla-maria-luisa-merida-temporada-132665358.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Rodríguez, el histórico taquillero de Mérida que ya es pieza de colección: \"¡Salgo en los cromos de toros!\"",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/21/antonio-rodriguez-historico-taquillero-merida-cromos-toros-132662021.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Últimos días en Mérida para no perder las ayudas de hasta 90 euros para material escolar",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/20/becas-ayuntamiento-de-merida-material-escolar-libros-ayudas-132637951.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -163,6 +163,30 @@
       "location": "Mérida"
     },
     {
+      "title": "Antonio Rodríguez Osuna 'renueva' con el Mérida y supera los 25 años de abonado",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.hoy.es/merida/antonio-rodriguez-osuna-renueva-merida-supera-anos-20260723140009-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Veinte jóvenes del Campo Internacional de Voluntariado del Festival son recibidos por el Gobierno local y Cimarro",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.hoy.es/merida/participantes-campo-trabajo-internacional-dedicado-teatro-recibidos-20260723141522-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Tres detenidos por pegar al alcalde de Zahínos y a dos guardias civiles en Oliva de la Frontera",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.hoy.es/merida/tres-detenidos-pegar-alcalde-zahinos-dos-guardias-20260723124923-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La cripta de Santa Eulalia se reabre el día 31 tras nueve meses cerrada",
       "description": "",
       "date": "2026-07-23",
@@ -171,10 +195,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Solo 2 de los 119 controles de alcoholemia dan positivo dentro de la campaña especial de Tráfico en Mérida",
+      "title": "Herida una mujer de 59 años en un accidente de tráfico en Mérida esta madrugada",
       "description": "",
       "date": "2026-07-23",
-      "url": "https://www.hoy.es/merida/solo-119-controles-alcoholemia-dan-positivo-dentro-20260722131422-nt.html",
+      "url": "https://www.hoy.es/merida/herida-mujer-anos-accidente-trafico-merida-madrugada-20260723085642-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -183,22 +207,6 @@
       "description": "",
       "date": "2026-07-23",
       "url": "https://www.hoy.es/merida/nueva-calle-junto-ciudad-infancia-habilitara-aparcamientos-20260723182151-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El proyecto de Museo Nacional de Arte Visigodo sigue a la espera de reactivarse",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.hoy.es/merida/proyecto-museo-nacional-arte-visigodo-sigue-espera-20260722185513-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Herida una mujer de 59 años en un accidente de tráfico en Mérida esta madrugada",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.hoy.es/merida/herida-mujer-anos-accidente-trafico-merida-madrugada-20260723085642-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -435,6 +443,22 @@
       "location": "Mérida"
     },
     {
+      "title": "De Puccini a Ernesto Sevilla: el María Luisa de Mérida despliega una temporada de grandes nombres",
+      "description": "Ciencia con futuro",
+      "date": "2026-07-23",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/21/antonio-monge-lleva-talento-merida-podio-mundial-biologia-lituania-132676488.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Antonio Rodríguez, el histórico taquillero de Mérida que ya es pieza de colección: \"¡Salgo en los cromos de toros!\"",
+      "description": "Historia taurina",
+      "date": "2026-07-23",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/21/antonio-rodriguez-historico-taquillero-merida-cromos-toros-132662024.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "Pepe Viyuela se entrega a la sátira más amarga de Shakespeare en el Festival de Mérida",
       "description": "Tercer montaje",
       "date": "2026-07-23",
@@ -555,14 +579,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Fotogalería | Emerita Lvdica devuelve el rugido de los gladiadores al Anfiteatro Romano de Mérida",
-      "description": "Mérida",
-      "date": "2026-07-23",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/05/24/fotogaleria-emerita-lvdica-devuelve-rugido-130595682.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
       "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
       "description": "",
       "date": "2026-07-23",
@@ -603,10 +619,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (22/07/26)",
+      "title": "Informativos mediodía Mérida (23/07/26)",
       "description": "",
       "date": "2026-07-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-220726_202607226a60aefb465db0e4548804b8.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-230726_202607236a6202ceb6c6930007be59f3.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -631,6 +647,14 @@
       "description": "",
       "date": "2026-07-23",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/manuel-naharro-micros-onda-cero-extremadura-destaca-importancia-politica-local-cooperacion-institucional_202607216a5f6ba4896a090007512da1.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (22/07/26)",
+      "description": "",
+      "date": "2026-07-23",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-220726_202607226a60aefb465db0e4548804b8.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -667,14 +691,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Más de uno Extremadura (16/07/2026)",
-      "description": "",
-      "date": "2026-07-23",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-16072026_202607166a58c8775fa873000704baab.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
       "title": "Un terremoto de 3.8 de magnitud con epicentro en Évora sacude a una decena de municipios de Badajoz",
       "description": "",
       "date": "2026-07-23",
@@ -707,10 +723,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Solo 2 de los 119 controles de alcoholemia dan positivo dentro de la campaña especial de Tráfico en Mérida",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.hoy.es/merida/solo-119-controles-alcoholemia-dan-positivo-dentro-20260722131422-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La ópera Madama Butterfly y Alberto San Juan, Enma Ozores y Ernesto Sevilla, programación del 'María Luisa'",
       "description": "",
       "date": "2026-07-22",
       "url": "https://www.hoy.es/merida/opera-madame-butterfly-alberto-san-juan-enma-20260721125822-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El proyecto de Museo Nacional de Arte Visigodo sigue a la espera de reactivarse",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.hoy.es/merida/proyecto-museo-nacional-arte-visigodo-sigue-espera-20260722185513-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -720,6 +752,46 @@
       "date": "2026-07-22",
       "url": "https://www.hoy.es/merida/viernes-concierto-claudia-abela-20260722095250-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "AURA llegará a España para avanzar hacia laboratorios de FIV más automatizados y personalizados",
+      "description": "IVI RMA prevé incorporar en España una plataforma de IA y robótica para impulsar una nueva generación de laboratorios de FIV IVI RMA prevé incorporar...",
+      "date": "2026-07-22",
+      "url": "https://www.meridadiario.com/2026/07/22/aura-llegara-a-espana-para-avanzar-hacia-laboratorios-de-fiv-mas-automatizados-y-personalizados/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 22 de Julio de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.meridadiario.com/2026/07/22/el-tiempo-hoy-22-de-julio-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "ISDIN y Gravity Wave retirarán 80 toneladas de residuos plásticos del Nilo",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.meridadiario.com/2026/07/22/isdin-y-gravity-wave-retiraran-80-toneladas-de-residuos-plasticos-del-nilo/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "LEGENDS festeja el título mundial de España con una tarde de acceso gratuito",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.meridadiario.com/2026/07/22/legends-festeja-el-titulo-mundial-de-espana-con-una-tarde-de-acceso-gratuito/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Cáceres realiza mantenimiento en la báscula municipal de Rincón de Ballesteros",
+      "description": "",
+      "date": "2026-07-22",
+      "url": "https://www.meridadiario.com/2026/07/22/el-ayuntamiento-de-caceres-realiza-mantenimiento-en-la-bascula-municipal-de-rincon-de-ballesteros/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -752,6 +824,22 @@
       "date": "2026-07-21",
       "url": "https://www.hoy.es/merida/adoquines-levantados-complican-trafico-avenida-complejo-tercer-20260721073155-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Consejería de Educación de Extremadura introduce la figura del coordinador dual en Formación Profesional",
+      "description": "Nueva figura del coordinador dual en Formación ProfesionalLa Consejería de Educación y Formación Profesional de Extremadura ha dado un paso significativo hacia el fortalecimiento...",
+      "date": "2026-07-21",
+      "url": "https://www.meridadiario.com/2026/07/21/la-consejeria-de-educacion-de-extremadura-introduce-la-figura-del-coordinador-dual-en-formacion-profesional/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Consejería de Educación de Extremadura otorga becas Erasmus+ a 149 estudiantes de Formación Profesional",
+      "description": "",
+      "date": "2026-07-21",
+      "url": "https://www.meridadiario.com/2026/07/21/la-consejeria-de-educacion-de-extremadura-otorga-becas-erasmus-a-149-estudiantes-de-formacion-profesional/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -795,6 +883,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El Patronato de la Fundación Yuste aprueba las cuentas y la memoria de actividades para 2025",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/el-patronato-de-la-fundacion-yuste-aprueba-las-cuentas-y-la-memoria-de-actividades-para-2025/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Gobierno de Extremadura proporciona paja a ganaderos de Valdefuentes tras incendio forestal",
+      "description": "",
+      "date": "2026-07-20",
+      "url": "https://www.meridadiario.com/2026/07/20/el-gobierno-de-extremadura-proporciona-paja-a-ganaderos-de-valdefuentes-tras-incendio-forestal/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Herido un joven de 23 años en una salida de vía en la A-5 a la altura de Mérida",
       "description": "",
       "date": "2026-07-19",
@@ -803,27 +907,19 @@
       "location": "Mérida"
     },
     {
-      "title": "El área de Morería tendrá un nuevo acceso y ampliará su recorrido",
+      "title": "El Plan Infoex Gestiona 23 Incendios Forestales en Extremadura Durante la Última Semana",
       "description": "",
       "date": "2026-07-19",
-      "url": "https://www.hoy.es/merida/area-moreria-nuevo-acceso-ampliara-recorrido-20260719114900-nt.html",
-      "source": "Hoy.es",
+      "url": "https://www.meridadiario.com/2026/07/19/el-plan-infoex-gestiona-23-incendios-forestales-en-extremadura-durante-la-ultima-semana/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "El centro sociosanitario de Mérida completará su equipamiento a comienzos de año",
-      "description": "",
-      "date": "2026-07-19",
-      "url": "https://www.hoy.es/merida/centro-sociosanitario-merida-completara-equipamiento-comienzos-ano-20260719092536-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Nati, la vecina que dona un drago canario para un parque de Mérida",
-      "description": "",
-      "date": "2026-07-18",
-      "url": "https://www.hoy.es/merida/nati-vecina-merida-dona-genuino-longevo-arbol-20260718142438-nt.html",
-      "source": "Hoy.es",
+      "title": "Universidad Alfonso X y UROLF presentan cátedra para formación en suelo pélvico",
+      "description": "La intervención de la Policía Local en la siniestralidad vialDurante la semana comprendida entre el 1 y el 7 de junio, la Policía Local...",
+      "date": "2026-07-13",
+      "url": "https://www.meridadiario.com/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -888,6 +984,22 @@
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Instituto Coordenadas critica el retraso del Sistema Nacional de Salud en nuevas terapias",
+      "description": "El Instituto Coordenadas de Gobernanza y Economía Aplicada (ICGEA) señala en un análisis elaborado sobre el acceso a la innovación terapéutica que el sistema...",
+      "date": "2026-05-06",
+      "url": "https://www.meridadiario.com/2026/05/06/el-instituto-coordenadas-critica-el-retraso-del-sistema-nacional-de-salud-en-nuevas-terapias/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "¿Sabes cual es el producto que más se roba en el supermercado de tu comunidad?",
+      "description": "Cada día los supermercados sufren al menos un robo de un producto. A pesar de que algunos de ellos son frustrados por el personal,...",
+      "date": "2023-04-24",
+      "url": "https://www.meridadiario.com/2023/04/24/sabes-cual-es-el-producto-que-mas-se-roba-en-el-supermercado-de-tu-comunidad/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
