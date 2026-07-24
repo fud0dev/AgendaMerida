@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24T09:19:56Z",
-  "count": 129,
+  "updated_at": "2026-07-24T14:52:44Z",
+  "count": 150,
   "events": [
+    {
+      "title": "El PP critica que Osuna venda \"como un éxito\" 65 aparcamientos en el centro de Mérida: \"Crea el problema y se presenta como la solución\"",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/24/declaraciones-pp-obras-partido-socialista-merida-partido-popular-merida-aparcamientos-obras-del-centro-actuacion-fallida-132766064.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "De México a Armenia para descubrir los secretos del Festival de Mérida",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Una mujer empotra su coche contra el muro del residencial Guadiana de Mérida al sufrir un bajón de azúcar",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745641.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Osuna celebra un cuarto de siglo de fidelidad en la grada y sueña con un Mérida AD de 4.000 abonados",
       "description": "",
       "date": "2026-07-24",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/osuna-celebra-cuarto-siglo-fidelidad-grada-merida-ad-132746214.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una mujer empotra su coche contra el muro del residencial Guadiana de Mérida al sufrir un bajón de azúcar",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745641.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-07-24",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/policia-local-merida-pruebas-de-alcohol-colision-siniestro-seguridad-vial-132695870.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una casa de Mérida escondía una necrópolis y la historia de una niña cristiana fallecida en el año 516",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/22/casa-merida-escondia-necropolis-historia-nina-cristiana-fallecida-ano-516-132707125.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -203,6 +203,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El IX Encuentro de Creadoras Escénicas aborda la maternidad, la crianza y el papel de la mujer a partir de los relatos clásicos",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://merida.es/el-ix-encuentro-de-creadoras-escenicas-aborda-la-maternidad-la-crianza-y-el-papel-de-la-mujer-a-partir-de-los-relatos-clasicos/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
       "title": "Comienzan las obras para la construcción de la nueva calle que conectará Diego María Crehuet con la Avenida de Extremadura",
       "description": "",
       "date": "2026-07-24",
@@ -291,11 +299,139 @@
       "location": "Mérida"
     },
     {
-      "title": "Publicados los listados provisionales de concesión de las ayudas de material escolar",
+      "title": "El alcalde de Mérida renueva su abono para la temporada 26/27",
+      "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/24/el-alcalde-de-merida-renueva-su-abono-para-la-temporada-26-27/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Míkel Valcárcel se incorpora al cuerpo técnico como analista",
       "description": "",
       "date": "2026-07-24",
-      "url": "https://merida.es/publicados-los-listados-provisionales-de-concesion-de-las-ayudas-de-material-escolar-2/",
-      "source": "Ayuntamiento - Noticias",
+      "url": "https://meridanoticias.com/2026/07/19/mikel-valcarcel-se-incorpora-al-cuerpo-tecnico-como-analista/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Barbu, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/18/barbu-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Bence Juhász, nuevo portero Romano",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/17/bence-juhasz-nuevo-portero-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arranca la pretemporada 26/27",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/15/arranca-la-pretemporada-26-27/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Antonio Aranda nuevo jugador Romano",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/12/antonio-aranda-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Romanito da la bienvenida al mundo a seis pequeños del hospital de Mérida",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/09/romanito-da-la-bienvenida-al-mundo-a-seis-pequenos-del-hospital-de-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "V Día Internacional de Romano",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/09/v-dia-internacional-de-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Acuerdo con Sixles para impulsar la digitalización de activos publicitarios",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/08/acuerdo-con-sixles-para-impulsar-la-digitalizacion-de-activos-publicitarios/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Davo, Juanjo Pozo y Rubén Trujillo seguirán formando parte del cuerpo técnico Romano",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/07/05/davo-juanjo-pozo-y-ruben-trujillo-seguiran-formando-parte-del-cuerpo-tecnico-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-07-24",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
       "location": "Mérida"
     },
     {
@@ -303,6 +439,14 @@
       "description": "Susto en la capital extremeña",
       "date": "2026-07-24",
       "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745640.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una casa de Mérida escondía una necrópolis y la historia de una niña cristiana fallecida en el año 516",
+      "description": "Arqueólogos en la capital extremeña",
+      "date": "2026-07-24",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/22/casa-merida-escondia-necropolis-historia-nina-cristiana-fallecida-ano-516-132707126.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -523,6 +667,22 @@
       "location": "Mérida"
     },
     {
+      "title": "La quema de Torrejoncillo: la tragedia de 1809 que no logró destruir el espíritu de un pueblo",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://cadenaser.com/extremadura/2026/07/24/la-quema-de-torrejoncillo-la-tragedia-de-1809-que-no-logro-destruir-el-espiritu-de-un-pueblo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura pone medios del Plan Infoex a disposición de la emergencia nacional por incendios forestales",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://cadenaser.com/extremadura/2026/07/24/extremadura-pone-medios-del-plan-infoex-a-disposicion-de-la-emergencia-nacional-por-incendios-forestales-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Aagesen evita adelantar una decisión sobre Almaraz",
       "description": "",
       "date": "2026-07-24",
@@ -595,26 +755,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El futbolista Pedro Porro será declarado Hijo Pedrilecto de Don Benito",
+      "title": "El Teatro Romano de Medellín vuelve a convertirse en escenario del Festival de Mérida",
       "description": "",
       "date": "2026-07-24",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/el-futbolista-pedro-porro-sera-declarado-hijo-pedrilecto-de-don-benito-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Plasencia aboga por actos intergeneracionales para el día de los abuelos",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://cadenaser.com/extremadura/2026/07/21/plasencia-aboga-por-actos-intergeneracionales-para-el-dia-de-los-abuelos-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El desfile 'Micropaisajes' llevará arte, naturaleza y moda sostenible al Museo Romano de Mérida el próximo 7 de julio",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/desfile-micropaisajes-llevara-arte-naturaleza-moda-sostenible-museo-romano-merida-proximo-7-julio_202607036a4769badcb2092ca8c40653.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/teatro-romano-medellin-vuelve-convertirse-escenario-festival-merida_202607226a600fcbaa17c0020f28a710.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -627,10 +771,10 @@
       "location": "Mérida"
     },
     {
-      "title": "La diseñadora Lilith Sofyan firma las camisetas oficiales del 72 Festival Internacional de Teatro Clásico de Mérida",
+      "title": "Almendralejo, Plasencia y Mérida entre los 25 municipios más baratos del país para alquilar una vivienda",
       "description": "",
       "date": "2026-07-24",
-      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/disenadora-lilith-sofyan-firma-camisetas-oficiales-72-festival-internacional-teatro-clasico-merida_202607036a471678a8768a6aee3f449d.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/noticias/almendralejo-plasencia-merida-25-municipios-mas-baratos-pais-alquilar-vivienda_202607106a503c78772f745d2c3dcc5a.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -651,10 +795,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (23/07/26)",
+      "title": "Informativos mediodía Mérida (24/07/26)",
       "description": "",
       "date": "2026-07-24",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-230726_202607236a6202ceb6c6930007be59f3.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-240726_202607246a6351e41dfd6200073b545f.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -679,6 +823,14 @@
       "description": "",
       "date": "2026-07-24",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/manuel-naharro-micros-onda-cero-extremadura-destaca-importancia-politica-local-cooperacion-institucional_202607216a5f6ba4896a090007512da1.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Noticias mediodía Mérida (23/07/26)",
+      "description": "",
+      "date": "2026-07-24",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/noticias-mediodia-merida-230726_202607236a6202ceb6c6930007be59f3.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -995,11 +1147,27 @@
       "location": "Mérida"
     },
     {
+      "title": "Exposición ‘Teatros’ de Pedro Cano",
+      "description": "La exposición consta de dieciséis acuarelas de gran formato que cuentan la historia de otros tantos teatros a través de imágenes de la antigüedad clásica que Pedro Cano ha visitado durante más de treinta años de viajes. Una especie de odisea artística a través de algunos de los yacimientos griego...",
+      "date": "2026-07-01",
+      "url": "https://merida.es/agenda/exposicion-teatros-de-pedro-cano/",
+      "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
       "title": "Exposición «Musica et Choreae (Música y Danza en la Antigüedad)»",
       "description": "¿Cómo fueron los sonidos musicales de la Antigüedad? La Arqueología traza la banda sonora del papel de la música y la danza en el mundo antiguo en la exposición 'Musica et Choreae' que se podrá visitar en el Museo Romano de julio de 2026 hasta mayo de 2027. 'Musica et Choreae (Música y Danza en […]",
       "date": "2026-07-01",
       "url": "https://merida.es/agenda/exposicion-musica-et-choreae-musica-y-danza-en-la-antiguedad/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se refuerzan las medidas de prevención y protección del personal municipal emeritense frente a las altas temperaturas",
+      "description": "",
+      "date": "2026-06-22",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
