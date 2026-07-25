@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-25T08:59:19Z",
-  "count": 127,
+  "updated_at": "2026-07-25T14:36:09Z",
+  "count": 125,
   "events": [
+    {
+      "title": "Susto en la piscina del polideportivo Guadiana de Mérida: el incendio de un contenedor obliga a desalojarla",
+      "description": "",
+      "date": "2026-07-25",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/25/susto-piscina-municipal-polideportivo-guadiana-132801975.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El incendio del polígono El Prado de Mérida queda extinguido y comienza la valoración de daños",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida continúa su verano con una agenda cultural para todos los públicos",
-      "description": "",
-      "date": "2026-07-25",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/23/ocio-cultura-actividades-merida-teatro-cine-conciertos-pasacalle-132723620.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Así se celebró en la Plaza de España de Mérida la final del Mundial",
       "description": "",
       "date": "2026-07-25",
@@ -158,7 +158,7 @@
       "title": "La noche ayuda a culminar la extinción del incendio en el polígono industrial El Prado de Mérida",
       "description": "",
       "date": "2026-07-25",
-      "url": "https://www.hoy.es/merida/noche-ayuda-culminar-extincion-incendio-poligono-industrial-20260725102944-nt.html",
+      "url": "https://www.hoy.es/merida/noche-ayuda-culminar-extincion-incendio-poligono-industrial-20260725115747-ga.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -459,10 +459,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Antonio Rodríguez, el histórico taquillero de Mérida que ya es pieza de colección: \"¡Salgo en los cromos de toros!\"",
-      "description": "Susto en la capital extremeña",
+      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
+      "description": "Suceso",
       "date": "2026-07-25",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745640.html",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/24/incendio-poligono-prado-levanta-gran-132782505.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -499,6 +499,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Antonio Rodríguez, el histórico taquillero de Mérida que ya es pieza de colección: \"¡Salgo en los cromos de toros!\"",
+      "description": "Historia taurina",
+      "date": "2026-07-25",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/21/antonio-rodriguez-historico-taquillero-merida-cromos-toros-132662024.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "Pepe Viyuela se entrega a la sátira más amarga de Shakespeare en el Festival de Mérida",
       "description": "Tercer montaje",
       "date": "2026-07-25",
@@ -519,14 +527,6 @@
       "description": "Mérida",
       "date": "2026-07-25",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/29/fotogaleria-mejor-concierto-alan-parsons-131919466.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Ibercaja impulsa 126 nuevas viviendas en Mérida junto al Grupo Rusvel y refuerza su apuesta por el acceso a la vivienda asequible",
-      "description": "Financiación",
-      "date": "2026-07-25",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/06/28/ibercaja-impulsa-126-nuevas-viviendas-131891740.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -583,14 +583,6 @@
       "description": "Mérida",
       "date": "2026-07-25",
       "url": "https://www.lacronicabadajoz.com/merida/2026/06/03/fotogaleria-merida-arropa-juan-carlos-130964376.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "'La tercera fuga' y 'No' triunfan en unos Premios Max 2026 con acento catalán",
-      "description": "Fiesta de las artes escénicas",
-      "date": "2026-07-25",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/06/02/tercera-fuga-triunfan-premios-max-130912680.html",
       "source": "La Crónica de Badajoz",
       "location": "Mérida"
     },
@@ -736,14 +728,6 @@
       "date": "2026-07-25",
       "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/terremoto-38-magnitud-epicentro-evora-sacude-decena-municipios-badajoz_202607226a60aa3c4687a22bdec77134.html",
       "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las Mañanas del Festival",
-      "description": "El sábado 25 de julio, a las 12:30 horas, La Enredadera acogerá una mesa redonda en la que Carlos Tristancho, Luisa Hurtado y Pedro Rodríguez (Suripanta Teatro), hablaran de su experiencia en lo que se denomina \"Teatro Independiente\". Del teatro popular de Los Goliardos o Los cómicos de la Legua,...",
-      "date": "2026-07-25",
-      "url": "https://merida.es/agenda/las-mananas-del-festival/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
