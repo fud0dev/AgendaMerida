@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-29T15:07:31Z",
-  "count": 127,
+  "updated_at": "2026-07-29T20:11:10Z",
+  "count": 147,
   "events": [
+    {
+      "title": "Mérida celebra tres décadas a la carrera y lleva su histórico 10K a las Ciudades Patrimonio",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/29/merida-celebra-tres-decadas-carrera-10k-ciudades-patrimonios-132931426.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Nacho Cuadrado firma un doblete de oro en Elche y hace resonar el nombre de Mérida",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Artesanía, comercio local y productos naturales: mercado de verano en la Alcazaba de Mérida",
-      "description": "",
-      "date": "2026-07-29",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/28/mercado-artesanal-producto-local-comercio-local-merida-artesano-artesana-ceramica-132858575.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Video | El Mercado de Calatrava empieza a mostrar el museo que Mérida prevé estrenar a finales de 2026",
       "description": "",
       "date": "2026-07-29",
@@ -147,11 +147,19 @@
       "location": "Mérida"
     },
     {
-      "title": "Video | De los adoquines al asfalto: Mérida rehace la avenida de Extremadura por el fiasco del pavimento",
+      "title": "El fuego del polígono El Prado de Mérida se propagó por una parcela sin desbrozar de la Junta, concluyen los bomberos",
       "description": "",
       "date": "2026-07-29",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/26/video-adoquines-asfalto-merida-rehace-avenida-extremadura-131845343.html",
-      "source": "El Periódico Extremadura",
+      "url": "https://www.hoy.es/merida/fuego-poligono-prado-merida-propago-parcela-desbrozar-20260729200354-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cómo conseguir entradas para el concierto que Sanguijuelas del Guadiana ofrecerá gratis en Mérida",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://www.hoy.es/extremadura/conseguir-entradas-concierto-sanguijuelas-del-guadiana-septiembre-merida-20260729210650-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -179,18 +187,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Prorrogado el convenio con el que se gestiona la pasarela sobre la vía del tren",
-      "description": "",
-      "date": "2026-07-29",
-      "url": "https://www.hoy.es/merida/prorrogado-convenio-gestiona-pasarela-sobre-via-tren-20260729081717-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "El emeritense Nacho Cuadrado gana en el Concurso Internacional de Guitarra de Elche",
       "description": "",
       "date": "2026-07-29",
       "url": "https://www.hoy.es/merida/emeritense-nacho-cuadrado-gana-primer-premio-premio-20260729101551-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Prorrogado el convenio con el que se gestiona la pasarela sobre la vía del tren",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://www.hoy.es/merida/prorrogado-convenio-gestiona-pasarela-sobre-via-tren-20260729081717-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -571,6 +579,174 @@
       "location": "Mérida"
     },
     {
+      "title": "El nadador Guillermo Gracia y el Museo Nacional de Arte Romano completan las Medallas de Extremadura 2026",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-nadador-guillermo-gracia-y-el-museo-nacional-de-arte-romano-completan-las-medallas-de-extremadura-2026-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida invierte en promoción turística a través de un autobús de ruta",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/el-ayuntamiento-de-merida-invierte-en-promocion-turistica-a-traves-de-un-autobus-de-ruta-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arrancan las obras que crearán una nueva calle para conectar Diego María Crehuet y la Avenida de Extremadura",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/22/arrancan-las-obras-que-crearan-una-nueva-calle-para-conectar-diego-maria-crehuet-y-la-avenida-de-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Producción extremeña y accesibilidad a la cultura son las bases del Festival de Mérida en Regina este 2026",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/produccion-extremena-y-accesibilidad-a-la-cultura-son-las-bases-del-festival-de-merida-en-regina-este-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La comedia de la olla', con Carlos Sobera al frente, inaugura el apartado cómico del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/la-comedia-de-la-olla-con-carlos-sobera-al-frente-inaugura-el-apartado-comico-del-festival-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida presenta su nueva web municipal como consolidación del proceso de transformación digital",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-ayuntamiento-de-merida-presenta-su-nueva-web-municipal-como-consolidacion-del-proceso-de-transformacion-digital-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La buena hija', una historia en torno a la violencia de género en Cinema Aestas",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/la-buena-hija-una-historia-en-torno-a-la-violencia-de-genero-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Chevi Muraday regresa al Festival de Mérida con 'Bacanal', un ritual escénico sobre la libertad, el cuerpo y el deseo",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/chevi-muraday-regresa-al-festival-de-merida-con-bacanal-un-ritual-escenico-sobre-la-libertad-el-cuerpo-y-el-deseo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Historias en torno al poder, al amor y al destino ocuparon el escenario de Medellín de la mano del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/22/historias-entorno-al-poder-al-amor-y-al-destino-aterrizan-este-fin-de-semana-en-medellin-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro María Luisa de Mérida ofrecerá una programación variada y accesible de septiembre a diciembre",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/21/el-teatro-maria-luisa-de-merida-ofrecera-una-programacion-variada-y-accesible-de-septiembre-a-diciembre-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Gabriel Azorín, director de 'Anoche conquisté Tebas', destaca el valor de proyectar la cinta en Cinema Aestas: \"Es importante sacar las cosas de su nicho y llegar a lugares menos obvios\"",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/gabriel-azorin-director-de-anoche-conquiste-tebas-destaca-el-valor-de-proyectar-la-cinta-en-cinema-aestas-es-importante-sacar-las-cosas-de-su-nicho-y-llegar-a-lugares-menos-obvios-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura contará con 51 refugios climáticos para proteger a la población durante los episodios de calor extremo",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/extremadura-contara-con-51-refugios-climaticos-para-proteger-a-la-poblacion-durante-los-episodios-de-calor-extremo-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los presupuestos de 2026 \"encienden\" el pleno de la Asamblea de Extremadura",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/los-presupuestos-de-2026-encienden-el-pleno-de-la-asamblea-de-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se mantiene el peligro de incendio forestal en Extremadura",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/se-mantiene-el-peligro-de-incendio-forestal-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Finalizan las obras de mejora de la continuidad fluvial en el azud de La Granadilla de Badajoz",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/finalizan-las-obras-de-mejora-de-la-continuidad-fluvial-en-el-azud-de-la-granadilla-de-badajoz-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"El pino y el eucalipto son los grandes aliados del fuego\", advierte FONDENEX",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-pino-y-el-eucalipto-son-los-grandes-aliados-del-fuego-advierte-fondenex-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Intervenidas en Cáceres cerca de 2.200 camisetas falsificadas valoradas en más de 320.000 euros",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/intervenidas-en-caceres-cerca-de-2200-camisetas-falsificadas-valoradas-en-mas-de-320000-euros-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La pensión media crece un 5,7% en julio en Extremadura pero se mantiene como la más baja del país",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/la-pension-media-crece-un-57-en-julio-en-extremadura-pero-se-mantiene-como-la-mas-baja-del-pais-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El paro sube en 600 personas en el segundo trimestre en Extremadura y se crean 4.700 empleos",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-paro-sube-en-600-personas-en-el-segundo-trimestre-en-extremadura-y-se-crean-4700-empleos-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "\"Plazas infernales\" de Extremadura, lugares \"hostiles\" en verano",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/plazas-infernales-de-extremadura-lugares-donde-en-verano-no-se-puede-estar-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "José María Núñez recibirá la Medalla de Extremadura por su trayectoria en defensa de los derechos LGTBI",
+      "description": "",
+      "date": "2026-07-29",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/jose-maria-nunez-recibira-la-medalla-de-extremadura-por-su-defensa-de-los-derechos-lgtbi-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "El Teatro Romano de Medellín vuelve a convertirse en escenario del Festival de Mérida",
       "description": "",
       "date": "2026-07-29",
@@ -880,22 +1056,6 @@
       "date": "2026-07-26",
       "url": "https://www.meridadiario.com/2026/07/26/el-plan-infoex-actua-en-21-incendios-forestales-en-la-ultima-semana/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La noche ayuda a culminar la extinción del incendio en el polígono industrial El Prado de Mérida",
-      "description": "",
-      "date": "2026-07-25",
-      "url": "https://www.hoy.es/merida/noche-ayuda-culminar-extincion-incendio-poligono-industrial-20260725102944-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El PP critica que Osuna resalte las nuevas plazas para aparcar",
-      "description": "",
-      "date": "2026-07-25",
-      "url": "https://www.hoy.es/merida/pp-critica-osuna-resalte-nuevas-plazas-aparcar-20260725075607-nt.html",
-      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
