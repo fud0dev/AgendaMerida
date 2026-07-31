@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-31T09:42:36Z",
-  "count": 129,
+  "updated_at": "2026-07-31T15:17:54Z",
+  "count": 138,
   "events": [
+    {
+      "title": "El tráfico cambia de rumbo este domingo en el centro de Mérida: estas son las calles afectadas",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/31/trafico-cambia-rumbo-domingo-centro-merida-obras-132996094.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Treinta contratos remunerados para formarse y trabajar en Mérida: estos son los perfiles que se buscan",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Un ciclista de 81 años, al hospital con varios traumatismos tras ser atropellado por un coche cerca de Mérida",
-      "description": "",
-      "date": "2026-07-31",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/29/ciclista-81-anos-atropellado-coche-traumatismos-hospital-merida-132920722.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Video | El Mercado de Calatrava empieza a mostrar el museo que Mérida prevé estrenar a finales de 2026",
       "description": "",
       "date": "2026-07-31",
@@ -147,14 +147,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Video | De los adoquines al asfalto: Mérida rehace la avenida de Extremadura por el fiasco del pavimento",
-      "description": "",
-      "date": "2026-07-31",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/26/video-adoquines-asfalto-merida-rehace-avenida-extremadura-131845343.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Un informe del Infoex concluye que el fuego de El Prado se originó en una parcela del Ayuntamiento de Mérida",
       "description": "",
       "date": "2026-07-31",
@@ -167,6 +159,14 @@
       "description": "",
       "date": "2026-07-31",
       "url": "https://www.hoy.es/merida/calles-romero-leal-john-lennon-merida-cortadas-20260731112628-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Mercado de Artesanía de Verano, en el Parque de las Méridas del Mundo hasta este domingo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://www.hoy.es/merida/mercado-artesania-verano-parque-meridas-mundo-domingo-20260731123845-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -187,10 +187,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Educación otorga al instituto Albarregas implantar su sección bilingüe en dos especialidades de FP",
+      "title": "Mérida enamora a Toni Acosta tras triunfar con 'Bacanal': «Apenas me he ido y ya quiero volver»",
       "description": "",
       "date": "2026-07-31",
-      "url": "https://www.hoy.es/merida/educacion-otorga-instituto-albarregas-merida-implantar-seccion-20260730113617-nt.html",
+      "url": "https://www.hoy.es/merida/merida-enamora-toni-acosta-tras-triunfar-bacanal-20260731123217-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -443,6 +443,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Un ciclista de 81 años, al hospital con varios traumatismos tras ser atropellado por un coche cerca de Mérida",
+      "description": "Sucesos",
+      "date": "2026-07-31",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/29/ciclista-81-anos-atropellado-coche-traumatismos-hospital-merida-132920723.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "La maestra Juncal Ledo cambia Málaga por Mérida para liderar el renacer del centro infantil Los Diminutos",
       "description": "Emprender en casa",
       "date": "2026-07-31",
@@ -560,6 +568,174 @@
       "date": "2026-07-31",
       "url": "https://www.lacronicabadajoz.com/merida/2026/07/09/mujer-53-anos-resulta-herida-132281860.html",
       "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobada la modificación del Plan que cambiaría el orden urbanístico en la Zona Norte de Mérida",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/aprobada-la-modificacion-del-plan-que-cambiaria-el-urbanismo-en-la-zona-norte-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida avisa del corte de calles en el centro este domingo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/el-ayuntamiento-de-merida-avisa-del-corte-de-calles-en-le-centro-este-domingo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Rodríguez Osuna: \"Guardiola no tiene 11,9 millones para la Ciudad de Mérida\"",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/30/rodriguez-osuna-guardiola-no-tiene-119-millones-para-la-ciudad-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La comedia de la olla', con Carlos Sobera al frente, inaugura el apartado cómico del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/la-comedia-de-la-olla-con-carlos-sobera-al-frente-inaugura-el-apartado-comico-del-festival-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Producción extremeña y accesibilidad a la cultura son las bases del Festival de Mérida en Regina este 2026",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/produccion-extremena-y-accesibilidad-a-la-cultura-son-las-bases-del-festival-de-merida-en-regina-este-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida presenta su nueva web municipal como consolidación del proceso de transformación digital",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-ayuntamiento-de-merida-presenta-su-nueva-web-municipal-como-consolidacion-del-proceso-de-transformacion-digital-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La buena hija', una historia en torno a la violencia de género en Cinema Aestas",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/la-buena-hija-una-historia-en-torno-a-la-violencia-de-genero-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Chevi Muraday regresa al Festival de Mérida con 'Bacanal', un ritual escénico sobre la libertad, el cuerpo y el deseo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/chevi-muraday-regresa-al-festival-de-merida-con-bacanal-un-ritual-escenico-sobre-la-libertad-el-cuerpo-y-el-deseo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Historias en torno al poder, al amor y al destino ocuparon el escenario de Medellín de la mano del Festival de Mérida",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/22/historias-entorno-al-poder-al-amor-y-al-destino-aterrizan-este-fin-de-semana-en-medellin-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro María Luisa de Mérida ofrecerá una programación variada y accesible de septiembre a diciembre",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/21/el-teatro-maria-luisa-de-merida-ofrecera-una-programacion-variada-y-accesible-de-septiembre-a-diciembre-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Gabriel Azorín, director de 'Anoche conquisté Tebas', destaca el valor de proyectar la cinta en Cinema Aestas: \"Es importante sacar las cosas de su nicho y llegar a lugares menos obvios\"",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/gabriel-azorin-director-de-anoche-conquiste-tebas-destaca-el-valor-de-proyectar-la-cinta-en-cinema-aestas-es-importante-sacar-las-cosas-de-su-nicho-y-llegar-a-lugares-menos-obvios-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El IMEx pone en marcha un proyecto de inserción laboral dirigido a mujeres migrantes vulnerables",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/el-imex-pone-en-marcha-un-proyecto-de-insercion-laboral-dirigido-a-mujeres-migrantes-vulnerables-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las Entidades Locales Menores de la provincia de Badajoz recibirán 1.125.000 euros",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/las-entidades-locales-menores-de-la-provincia-de-badajoz-recibiran-75000-euros-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Declarado un incendio forestal en Tornavacas",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/declarado-un-incendio-forestal-en-tornavacas-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Don Benito aprueba un convenio para reforzar la presencia de la Policía Local en las entidades locales menores",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/30/don-benito-aprueba-un-convenio-para-reforzar-la-presencia-de-la-policia-local-en-las-entidades-locales-menores-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva reunirá a grupos de Macedonia del Norte, Colombia y Extremadura en el Festival Internacional de Folclore Antonia Tejeda",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/30/villanueva-reunira-a-grupos-de-macedonia-del-norte-colombia-y-extremadura-en-el-festival-internacional-de-folclore-antonia-tejeda-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Badajoz cierra el curso político con un año marcado por las inversiones y la reducción del desempleo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/30/badajoz-cierra-el-curso-politico-con-un-ano-marcado-por-las-inversiones-y-la-reduccion-del-desempleo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura recurre al Constitucional el Plan Estatal de Vivienda tras aceptar los fondos del Gobierno para aplicarlo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/30/extremadura-recurre-al-constitucional-el-plan-estatal-de-vivienda-tras-aceptar-los-fondos-del-gobierno-para-aplicarlo-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura contará con 51 refugios climáticos para proteger a la población durante los episodios de calor extremo",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/extremadura-contara-con-51-refugios-climaticos-para-proteger-a-la-poblacion-durante-los-episodios-de-calor-extremo-ser-caceres/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Los presupuestos de 2026 \"encienden\" el pleno de la Asamblea de Extremadura",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/los-presupuestos-de-2026-encienden-el-pleno-de-la-asamblea-de-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Se mantiene el peligro de incendio forestal en Extremadura",
+      "description": "",
+      "date": "2026-07-31",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/se-mantiene-el-peligro-de-incendio-forestal-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -723,6 +899,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Educación otorga al instituto Albarregas implantar su sección bilingüe en dos especialidades de FP",
+      "description": "",
+      "date": "2026-07-30",
+      "url": "https://www.hoy.es/merida/educacion-otorga-instituto-albarregas-merida-implantar-seccion-20260730113617-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "'La comedia de la olla': una hora de atonía, media de entretenimiento",
       "description": "",
       "date": "2026-07-30",
@@ -736,46 +920,6 @@
       "date": "2026-07-30",
       "url": "https://www.hoy.es/merida/museo-romano-acoge-espectaculo-danza-dentro-programacion-20260730100725-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Catawiki logra beneficios récord en 2025 con España entre sus mercados más fuertes",
-      "description": "Intervención por parte de la Policía Local en incidentes vialesEntre el 8 y el 14 de junio, la Policía Local llevó a cabo acciones...",
-      "date": "2026-07-30",
-      "url": "https://www.meridadiario.com/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "De la Fuente culmina una semana de protagonismo entre Cucurella, los incendios y Telefónica",
-      "description": "El seleccionador nacional de fútbol, Luis de la Fuente, ha culminado una semana de fuerte protagonismo público que ha trascendido el ámbito estrictamente deportivo....",
-      "date": "2026-07-30",
-      "url": "https://www.meridadiario.com/2026/07/30/de-la-fuente-culmina-una-semana-de-protagonismo-entre-cucurella-los-incendios-y-telefonica/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Predicción meteorológica: Mérida, 30 de Julio de 2026",
-      "description": "",
-      "date": "2026-07-30",
-      "url": "https://www.meridadiario.com/2026/07/30/prediccion-meteorologica-merida-30-de-julio-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Las listas de espera sanitarias disminuyen en Madrid durante el primer semestre de 2026",
-      "description": "",
-      "date": "2026-07-30",
-      "url": "https://www.meridadiario.com/2026/07/30/las-listas-de-espera-sanitarias-disminuyen-en-madrid-durante-el-primer-semestre-de-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Hospital Ciudad de Coria moderniza su sistema de calefacción tras casi 40 años",
-      "description": "",
-      "date": "2026-07-30",
-      "url": "https://www.meridadiario.com/2026/07/30/el-hospital-ciudad-de-coria-moderniza-su-sistema-de-calefaccion-tras-casi-40-anos/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -899,67 +1043,11 @@
       "location": "Mérida"
     },
     {
-      "title": "El incendio en el polígono industrial El Prado se originó de forma fortuita, apunta la investigación",
-      "description": "",
-      "date": "2026-07-27",
-      "url": "https://www.hoy.es/merida/incendio-poligono-industrial-prado-origino-forma-fortuita-20260727133731-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La iglesia emeritense de San José, abierta este martes por la mañana y por la tarde por San Judas Tadeo",
-      "description": "",
-      "date": "2026-07-27",
-      "url": "https://www.hoy.es/merida/iglesia-emeritense-san-jose-abierta-martes-manana-20260727134738-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura avanzará en la reparación de la balsa de Jarandilla para garantizar el suministro de agua",
-      "description": "",
-      "date": "2026-07-27",
-      "url": "https://www.meridadiario.com/2026/07/27/la-junta-de-extremadura-avanzara-en-la-reparacion-de-la-balsa-de-jarandilla-para-garantizar-el-suministro-de-agua/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
       "title": "Agusto en Mérida: «Las Gemelas»",
       "description": "Título de la obra: Las Gemelas Compañía: Escuela de Teatro TAPTC Sinopsis: Las y los más pequeños del festival presentan una comedia musical basada en Los Gemelos, de Plauto. Dos hermanas casi idénticas fueron separadas y están a punto de reencontrarse. Pero, ¿sabrán reconocerse? Dramaturgia y Di...",
       "date": "2026-07-27",
       "url": "https://merida.es/agenda/agusto-en-merida-las-gemelas/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un bajón de azúcar deja un coche encajado en un muro de Mérida",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://www.meridadiario.com/2026/07/24/un-bajon-de-azucar-deja-un-coche-encajado-en-un-muro-de-merida/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Extremadura aporta recursos del Plan Infoex para combatir incendios en Madrid y Castilla y León",
-      "description": "",
-      "date": "2026-07-24",
-      "url": "https://www.meridadiario.com/2026/07/24/extremadura-aporta-recursos-del-plan-infoex-para-combatir-incendios-en-madrid-y-castilla-y-leon/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Consejería de Educación de Extremadura introduce la figura del coordinador dual en Formación Profesional",
-      "description": "Nueva figura del coordinador dual en Formación ProfesionalLa Consejería de Educación y Formación Profesional de Extremadura ha dado un paso significativo hacia el fortalecimiento...",
-      "date": "2026-07-21",
-      "url": "https://www.meridadiario.com/2026/07/21/la-consejeria-de-educacion-de-extremadura-introduce-la-figura-del-coordinador-dual-en-formacion-profesional/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Consejería de Educación de Extremadura otorga becas Erasmus+ a 149 estudiantes de Formación Profesional",
-      "description": "",
-      "date": "2026-07-21",
-      "url": "https://www.meridadiario.com/2026/07/21/la-consejeria-de-educacion-de-extremadura-otorga-becas-erasmus-a-149-estudiantes-de-formacion-profesional/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1016,22 +1104,6 @@
       "date": "2026-06-05",
       "url": "https://merida.es/agenda/stone-music-festival-2026/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento organiza dos visitas guiadas gratuitas con motivo de la X edición del Día de la Ruta Vía de la Plata",
-      "description": "Se celebrarán el 17 y 24 de septiembre previa inscripción en www.turismodemerida.org hasta completar aforo, para la del 17 de septiembre, la inscripción se...",
-      "date": "2023-09-11",
-      "url": "https://www.meridadiario.com/2023/09/11/el-ayuntamiento-organiza-dos-visitas-guiadas-gratuitas-con-motivo-de-la-x-edicion-del-dia-de-la-ruta-via-de-la-plata/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "María Pagés y su Sheherazade llenan de flamenco las noches del Festival",
-      "description": "“Extremadura es tierra de flamenco y en nuestra ciudad estamos poniendo en marcha distintas iniciativas para apoyar y alentar este arte” ha explicado en...",
-      "date": "2022-07-28",
-      "url": "https://www.meridadiario.com/2022/07/28/maria-pages-y-su-sheherazade-llenan-de-flamenco-las-noches-del-festival/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     }
   ]
