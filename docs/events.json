@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-03T15:41:33Z",
-  "count": 125,
+  "updated_at": "2026-08-03T20:25:20Z",
+  "count": 150,
   "events": [
+    {
+      "title": "Mérida ofrece cinco noches de teatro en el Templo de Diana y cine al aire libre",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/03/merida-tetaro-ocio-cultura-entretenieino-cine-133070058.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida reabre la cripta de Santa Eulalia con un nuevo recorrido por sus 20 siglos de historia",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta concluye que el incendio que calcinó 20 vehículos fue provocado en una parcela del Ayuntamiento de Mérida",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/07/30/junta-incendio-prado-merida-parcela-municipal-132970182.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
       "description": "",
       "date": "2026-08-03",
@@ -163,6 +163,14 @@
       "location": "Mérida"
     },
     {
+      "title": "El Museo Nacional de Arte Romano acogerá el día 26 un recital de hydraulis",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://www.hoy.es/merida/museo-nacional-arte-romano-acogera-dia-recital-20260803200525-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "'Cómicos de Roma' trae a Mérida carcajadas y un homenaje al mundo de los actores",
       "description": "",
       "date": "2026-08-03",
@@ -187,10 +195,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Gameroil invierte 2 millones en Mérida para ampliar instalaciones y producción",
+      "title": "Estabilizado el incendio en la sierra de Arroyo de San Serván",
       "description": "",
       "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/gameroil-invierte-millones-merida-ampliar-instalaciones-produccion-20260803073015-nt.html",
+      "url": "https://www.hoy.es/prov-badajoz/declarado-nivel-peligrosidad-incendio-arroyo-san-servan-20260803183607-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -199,6 +207,14 @@
       "description": "",
       "date": "2026-08-03",
       "url": "https://www.hoy.es/merida/almacen-secreto-centenares-piezas-arqueologicas-merida-20260802080723-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Gameroil invierte 2 millones en Mérida para ampliar instalaciones y producción",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://www.hoy.es/merida/gameroil-invierte-millones-merida-ampliar-instalaciones-produccion-20260803073015-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -451,6 +467,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Junta concluye que el incendio que calcinó 20 vehículos fue provocado en una parcela del Ayuntamiento de Mérida",
+      "description": "Investigación oficial y referencia catastral",
+      "date": "2026-08-03",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/junta-incendio-prado-merida-parcela-municipal-132970183.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
       "title": "Osuna critica el \"odio\" de Guardiola a Mérida: \"PP y Vox excluyen del presupuesto 11,9 millones en inversiones para la ciudad\"",
       "description": "Cruce político",
       "date": "2026-08-03",
@@ -584,6 +608,198 @@
       "date": "2026-08-03",
       "url": "https://www.lacronicabadajoz.com/merida/2026/07/16/misantropia-merida-obra-timon-de-atenas-teatro-festival-teatro-clasico-shakespeare-132499125.html",
       "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Reabre la Cripta de Santa Eulalia tras los trabajos de mejora y musealización",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/reabre-la-cripta-de-santa-eulalia-tras-los-trabajos-de-mejora-y-musealizacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Aprobada la modificación del Plan que cambiaría el orden urbanístico en la Zona Norte de Mérida",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/aprobada-la-modificacion-del-plan-que-cambiaria-el-urbanismo-en-la-zona-norte-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida avisa del corte de calles en el centro este domingo",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/el-ayuntamiento-de-merida-avisa-del-corte-de-calles-en-le-centro-este-domingo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La comedia vuelve a la escena del Festival de Mérida de la mano de Fernando Tejero",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/la-comedia-vuelve-a-la-escena-del-festival-de-merida-de-la-mano-de-fernando-tejero-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cita con la cinta libanesa 'Un mundo frágil y maravilloso' en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/cita-con-la-cinta-libanesa-un-mundo-fragil-y-maravilloso-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La comedia de la olla', con Carlos Sobera al frente, inaugura el apartado cómico del Festival de Mérida",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/la-comedia-de-la-olla-con-carlos-sobera-al-frente-inaugura-el-apartado-comico-del-festival-de-merida-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Producción extremeña y accesibilidad a la cultura son las bases del Festival de Mérida en Regina este 2026",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/produccion-extremena-y-accesibilidad-a-la-cultura-son-las-bases-del-festival-de-merida-en-regina-este-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La buena hija', una historia en torno a la violencia de género en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/la-buena-hija-una-historia-en-torno-a-la-violencia-de-genero-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Victoria Nogales: \"La moda no es lo que se lleva cada temporada, es un arte más\"",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/victoria-nogales-la-moda-no-es-lo-que-se-lleva-cada-temporada-es-un-arte-mas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Chevi Muraday regresa al Festival de Mérida con 'Bacanal', un ritual escénico sobre la libertad, el cuerpo y el deseo",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/20/chevi-muraday-regresa-al-festival-de-merida-con-bacanal-un-ritual-escenico-sobre-la-libertad-el-cuerpo-y-el-deseo-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Historias en torno al poder, al amor y al destino ocuparon el escenario de Medellín de la mano del Festival de Mérida",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/22/historias-entorno-al-poder-al-amor-y-al-destino-aterrizan-este-fin-de-semana-en-medellin-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Fernando de Soto González, nuevo presidente de Aspace Badajoz",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/fernando-de-soto-gonzalez-nuevo-presidente-de-aspace-badajoz-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Información sobre el tráfico y cambios en el transporte público con motivo del inicio de las obras del aparcamiento de Entrepuentes en Badajoz.",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/informacion-sobre-la-senalizacion-de-trafico-y-cambios-en-el-transporte-publico-con-motivo-del-inicio-de-las-obras-del-aparcamiento-subterraneo-de-entrepuentes-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villanueva de la Serena refuerza la vigilancia en el campo con el dron de la Policía Local durante el verano",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/villanueva-de-la-serena-refuerza-la-vigilancia-en-el-campo-con-el-dron-de-la-policia-local-durante-el-verano-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El primer gol de Alexis Ciria con el Real Madrid",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/el-primer-gol-de-alexis-ciria-con-el-real-madrid-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Investigada una persona por abandonar siete cachorros de perro vivos en el interior de un contenedor de basura",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/investigada-una-persona-por-abandonar-siete-cachorros-de-perro-vivos-en-el-interior-de-un-contenedor-de-basura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El yacimiento medieval de Salvaleón revela la importancia estratégica de la frontera entre León y Portugal",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/el-yacimiento-medieval-de-salvaleon-revela-la-importancia-estrategica-de-la-frontera-entre-leon-y-portugal-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Badajoz adjudica provisionalmente las obras de la Piscina de la Margen Derecha",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/el-ayuntamiento-de-badajoz-adjudica-provisionalmente-las-obras-de-la-piscina-de-la-margen-derecha-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Loida Zabala agradece apoyo recibido y pide no volver a optar a la Medalla de Extremadura",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/loida-zabala-agradece-apoyo-recibido-y-pide-no-volver-a-optar-a-la-medalla-de-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Villalba de los Barros reivindica el valor histórico y patrimonial de su castillo medieval",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/villalba-de-los-barros-reivindica-el-valor-historico-y-patrimonial-de-su-castillo-medieval-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Estabilizado el incendio forestal de Casas de Millán tras quemar 1.352 hectáreas",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/estabilizado-el-incendio-forestal-de-casas-de-millan-tras-quemar-1352-hectareas-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Estabilizado el 70% del incendio de Casas de Millán",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/02/estabilizado-el-70-del-incendio-de-casas-de-millan-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una huida a gran velocidad en Hervás deja un fallecido y dos personas graves",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/08/01/una-huida-a-gran-velocidad-en-hervas-deja-un-fallecido-y-dos-personas-graves-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La venta de La Serrezuela suma un nuevo capítulo con la apertura de la única oferta presentada",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://cadenaser.com/extremadura/2026/07/31/la-venta-de-la-serrezuela-suma-un-nuevo-capitulo-con-la-apertura-de-la-unica-oferta-presentada-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
     {
@@ -843,14 +1059,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El Museo Romano acoge un espectáculo de danza dentro de la programación de los actos del Orgullo 2026",
-      "description": "",
-      "date": "2026-07-30",
-      "url": "https://www.hoy.es/merida/museo-romano-acoge-espectaculo-danza-dentro-programacion-20260730100725-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Hoy finaliza el plazo de solicitud de ayudas para alimentos y productos de primera necesidad para asociaciones que trabajan con familias vulnerables",
       "description": "La mujer, de 53 años, sufrió un traumatismo craneal y tuvo que ser estabilizada en el lugar del accidente antes de ser trasladada al...",
       "date": "2026-07-30",
@@ -880,14 +1088,6 @@
       "date": "2026-07-30",
       "url": "https://www.meridadiario.com/2026/07/30/el-hospital-ciudad-de-coria-moderniza-su-sistema-de-calefaccion-tras-casi-40-anos/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Cómo conseguir entradas para el concierto que Sanguijuelas del Guadiana ofrecerá gratis en Mérida",
-      "description": "",
-      "date": "2026-07-29",
-      "url": "https://www.hoy.es/extremadura/conseguir-entradas-concierto-sanguijuelas-del-guadiana-septiembre-merida-20260729210650-nt.html",
-      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
