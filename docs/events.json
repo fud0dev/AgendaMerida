@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-04T15:22:53Z",
+  "updated_at": "2026-08-04T20:22:10Z",
   "count": 145,
   "events": [
+    {
+      "title": "Un conductor ebrio colisiona contra varios coches estacionados en Mérida",
+      "description": "",
+      "date": "2026-08-04",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/04/colision-heridos-merida-policia-local-133096050.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "El PP de Mérida pide explicaciones a Osuna por el rechazo a las ayudas de la Junta para climatizar colegios",
       "description": "",
@@ -79,14 +87,6 @@
       "description": "",
       "date": "2026-08-04",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/02/antigona-pone-broche-final-festival-133018127.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Por Mérida reclama 11,9 millones a la Junta y exige que su enfrentamiento con el ayuntamiento no castigue a la capital",
-      "description": "",
-      "date": "2026-08-04",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/01/merida-junta-ayuntamiento-inversiones-politica-municipal-133011718.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -307,8 +307,16 @@
       "location": "Mérida"
     },
     {
-      "title": "Superamos los 3000 abonados",
+      "title": "Mérida, Cacereño, Extremadura y Coria firman un acuerdo de entradas a 15 € y garantizan un número mínimo para las aficiones visitantes en los derbis extremeños",
       "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-08-04",
+      "url": "https://meridanoticias.com/2026/08/03/merida-cacereno-extremadura-y-coria-firman-un-acuerdo-de-entradas-a-15-e-y-garantizan-un-numero-minimo-para-las-aficiones-visitantes-en-los-derbis-extremenos/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Superamos los 3000 abonados",
+      "description": "",
       "date": "2026-08-04",
       "url": "https://meridanoticias.com/2026/07/31/superamos-los-3000-abonados/",
       "source": "Mérida Noticias",
@@ -375,14 +383,6 @@
       "description": "",
       "date": "2026-08-04",
       "url": "https://meridanoticias.com/2026/07/15/arranca-la-pretemporada-26-27/",
-      "source": "Mérida Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Antonio Aranda nuevo jugador Romano",
-      "description": "",
-      "date": "2026-08-04",
-      "url": "https://meridanoticias.com/2026/07/12/antonio-aranda-nuevo-jugador-romano/",
       "source": "Mérida Noticias",
       "location": "Mérida"
     },
