@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:11:19Z",
+  "updated_at": "2026-08-05T20:25:05Z",
   "count": 148,
   "events": [
     {
@@ -155,10 +155,26 @@
       "location": "Mérida"
     },
     {
+      "title": "El número de parados se reduce en Mérida en 818 personas desde inicios de esta legislatura",
+      "description": "",
+      "date": "2026-08-05",
+      "url": "https://www.hoy.es/merida/numero-parados-reduce-merida-818-personas-inicios-20260805124550-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La piscina de Diocles abre mañana tras su reforma y estará a disposición de los usuarios hasta el 13 de septiembre",
       "description": "",
       "date": "2026-08-05",
       "url": "https://www.hoy.es/merida/piscina-diocles-abre-manana-tras-reforma-disposicion-20260805142343-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Sanguijuelas del Guadiana en Mérida: abierta la inscripción para el sorteo de entradas de su concierto gratuito",
+      "description": "",
+      "date": "2026-08-05",
+      "url": "https://www.hoy.es/extremadura/abierto-sorteo-concierto-gratuito-sanguijuelas-teatro-romano-20260805204419-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -175,22 +191,6 @@
       "description": "",
       "date": "2026-08-05",
       "url": "https://www.hoy.es/merida/actriz-influencer-adamari-lopez-hija-promocionan-coleccion-20260805110524-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una renovada cripta de Santa Eulalia explica mejor el papel de Mérida como referente del cristianismo hispano",
-      "description": "",
-      "date": "2026-08-05",
-      "url": "https://www.hoy.es/merida/asa-20260803102747-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Fernando Tejero se estrena en el Festival de Mérida con 'Cómicos de Roma': «Strabo me ha escogido»",
-      "description": "",
-      "date": "2026-08-05",
-      "url": "https://www.hoy.es/extremadura/fernando-tejero-estrena-festival-merida-comicos-roma-20260804112821-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -915,6 +915,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Fernando Tejero se estrena en el Festival de Mérida con 'Cómicos de Roma': «Strabo me ha escogido»",
+      "description": "",
+      "date": "2026-08-04",
+      "url": "https://www.hoy.es/extremadura/fernando-tejero-estrena-festival-merida-comicos-roma-20260804112821-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El fuego de la sierra de San Serván, ya controlado, quema 107 hectáreas",
       "description": "",
       "date": "2026-08-04",
@@ -959,6 +967,14 @@
       "description": "",
       "date": "2026-08-03",
       "url": "https://www.hoy.es/prov-badajoz/declarado-nivel-peligrosidad-incendio-arroyo-san-servan-20260803183607-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una renovada cripta de Santa Eulalia explica mejor el papel de Mérida como referente del cristianismo hispano",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://www.hoy.es/merida/asa-20260803102747-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -1055,22 +1071,6 @@
       "description": "",
       "date": "2026-07-31",
       "url": "https://www.hoy.es/merida/programa-crisol-merida-pone-marcha-seleccion-personas-20260731193247-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida y la Junta mantienen su enfrentamiento por el incendio en El Prado",
-      "description": "",
-      "date": "2026-07-31",
-      "url": "https://www.hoy.es/merida/ayuntamiento-inicia-expediente-sancionador-junta-desbrozar-parcela-20260731152137-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Mercado de Artesanía de Verano, en el Parque de las Méridas del Mundo hasta este domingo",
-      "description": "",
-      "date": "2026-07-31",
-      "url": "https://www.hoy.es/merida/mercado-artesania-verano-parque-meridas-mundo-domingo-20260731123845-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
