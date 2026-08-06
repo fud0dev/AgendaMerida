@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-06T09:37:37Z",
-  "count": 126,
+  "updated_at": "2026-08-06T15:14:47Z",
+  "count": 128,
   "events": [
+    {
+      "title": "Restos arqueológicos para descubrir en familia: la Ciudad de la Infancia de Mérida abre su yacimiento",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/06/ciudad-de-prensa-merida-yacimiento-arqueologico-historia-roma-domus-romana-casa-romana-133141365.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Mérida sanciona a ocho empresas y cinco entidades por colocar carteles en farolas y señales",
       "description": "",
@@ -11,18 +19,18 @@
       "location": "Mérida"
     },
     {
-      "title": "La piscina de Diocles vuelve a abrir sus puertas en Mérida tras las obras de mejoras",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/psicina-reformas-mejoras-merida-verano-133113936.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Abre el plazo para el sorteo de las entradas del concierto de Sanguijuelas del Guadiana en Mérida",
       "description": "",
       "date": "2026-08-06",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/abre-plazo-sorteo-entradas-concierto-133121101.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "La piscina de Diocles vuelve a abrir sus puertas en Mérida tras las obras de mejoras",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/psicina-reformas-mejoras-merida-verano-133113936.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Mérida reabre la cripta de Santa Eulalia con un nuevo recorrido por sus 20 siglos de historia",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/03/merida-reabre-cripta-santa-eulalia-patrimonio-turismo-133059284.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
       "description": "",
       "date": "2026-08-06",
@@ -147,6 +147,38 @@
       "location": "Mérida"
     },
     {
+      "title": "Video | Alan Parsons seduce con su música al Teatro Romano de Mérida",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/29/video-alan-parsons-seduce-musica-teatro-romano-merida-131919204.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Otra maravilla arqueológica en Mérida: un mosaico en blanco y negro con temática marina",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.hoy.es/merida/ciudad-infancia-descubre-maravilla-arqueologica-merida-mosaico-20260806115856-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida organiza una observación de las Perseidas el martes por la noche en Proserpina",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-organiza-observacion-perseidas-martes-noche-20260806130710-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La obra '50.000 pesetas', que recrea el estreno de la 'Medea' de Margarita Xirgu, se representa en la terraza del centro Alcazaba",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.hoy.es/merida/obra-50000-pesetas-recrea-estreno-medea-margarita-20260806144009-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "El número de parados se reduce en Mérida en 818 personas desde inicios de esta legislatura",
       "description": "",
       "date": "2026-08-06",
@@ -163,18 +195,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Sanguijuelas del Guadiana en Mérida: abierta la inscripción para el sorteo de entradas de su concierto gratuito",
+      "title": "'Cómicos de Roma' o el resultado de una simplona e insulsa representación",
       "description": "",
       "date": "2026-08-06",
-      "url": "https://www.hoy.es/extremadura/abierto-sorteo-concierto-gratuito-sanguijuelas-teatro-romano-20260805204419-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La actriz e influencer Adamari López promociona la colección de Marita Rial inspirada en la artesanía de Salvatierra de los Barros",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.hoy.es/merida/actriz-influencer-adamari-lopez-hija-promocionan-coleccion-20260805110524-nt.html",
+      "url": "https://www.hoy.es/extremadura/comicos-roma-20260805194530-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -183,14 +207,6 @@
       "description": "",
       "date": "2026-08-06",
       "url": "https://www.hoy.es/merida/120-ninos-aprenden-naturaleza-20260806084339-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cómicos de Roma' o el resultado de una simplona e insulsa representación",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.hoy.es/extremadura/comicos-roma-20260805194530-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -208,6 +224,22 @@
       "date": "2026-08-06",
       "url": "https://www.meridadiario.com/2026/08/06/aemet-el-tiempo-para-merida-6-de-agosto-de-2026/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento culmina la puesta en valor de los restos arqueológicos de la Ciudad de la Infancia con una pasarela accesible para su visita",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://merida.es/el-ayuntamiento-culmina-la-puesta-en-valor-de-los-restos-arqueologicos-de-la-ciudad-de-la-infancia-con-una-pasarela-accesible-para-su-visita/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento organiza una observación de las Perseidas para preparar a la ciudadanía ante el gran eclipse solar del 12 de agosto",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://merida.es/el-ayuntamiento-organiza-una-observacion-de-las-perseidas-para-preparar-a-la-ciudadania-ante-el-gran-eclipse-solar-del-12-de-agosto/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -287,22 +319,6 @@
       "description": "",
       "date": "2026-08-06",
       "url": "https://merida.es/el-centro-cultural-alcazaba-acoge-la-exposicion-del-taller-fotovoz-del-centro-residencial-de-rehabilitacion-de-grupo-5/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento consolida su proceso de transformación digital con esta nueva web municipal, una plataforma más cercana, transparente, accesible y útil para la ciudadanía",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://merida.es/el-ayuntamiento-consolida-su-proceso-de-transformacion-digital-con-esta-nueva-web-municipal-una-plataforma-mas-cercana-transparente-accesible-y-util-para-la-ciudadania/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Policía Local intervino en nueve siniestros viales la semana pasada",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://merida.es/la-policia-local-intervino-en-nueve-siniestros-viales-la-semana-pasada/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -635,10 +651,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos mediodía Mérida (05/08/26)",
+      "title": "Informativos mediodía Mérida (06/08/26)",
       "description": "",
       "date": "2026-08-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-050826_202608056a73260f2fec6e00072f1994.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativos-mediodia-merida-060826_202608066a74768020648f000727aa56.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -667,10 +683,26 @@
       "location": "Mérida"
     },
     {
+      "title": "Más de uno Extremadura (06/08/26)",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-060826_202608066a7474332fec6e00072f1c4c.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Más de uno Extremadura (05/08/26)",
       "description": "",
       "date": "2026-08-06",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-050826_202608056a732623bc1eb0e43e174763.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (05/08/26)",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-050826_202608056a73260f2fec6e00072f1994.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -695,14 +727,6 @@
       "description": "",
       "date": "2026-08-06",
       "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/trinidad-nogales-directora-mnar-esta-medalla-reflejo-nuestra-enorme-riqueza-patrimonial_202608046a71ce1d456bb0e4517b3583.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (03/08/26)",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-030826_202608036a7083e4456bb0e43c783583.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -735,6 +759,14 @@
       "description": "",
       "date": "2026-08-05",
       "url": "https://www.hoy.es/merida/san-juan-plantonal-vera-contaran-116-kilometros-20260805135812-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La actriz e influencer Adamari López promociona la colección de Marita Rial inspirada en la artesanía de Salvatierra de los Barros",
+      "description": "",
+      "date": "2026-08-05",
+      "url": "https://www.hoy.es/merida/actriz-influencer-adamari-lopez-hija-promocionan-coleccion-20260805110524-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -859,14 +891,6 @@
       "location": "Mérida"
     },
     {
-      "title": "La mutua Fremap habilitará un nuevo local como gimnasio de rehabilitación por casi 122.000 euros",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/mutua-fremap-habilitara-nuevo-local-gimnasio-rehabilitacion-20260803073009-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "La Consejería de Educación de Extremadura Invierte 61.000 Euros en el Programa MUS-E para Promover la Inclusión a Través del Arte",
       "description": "",
       "date": "2026-08-03",
@@ -888,14 +912,6 @@
       "date": "2026-08-03",
       "url": "https://merida.es/agenda/agusto-en-merida-caronte/",
       "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
-      "title": "Finalizan los talleres de verano del Museo Nacional de Arte Romano",
-      "description": "",
-      "date": "2026-08-02",
-      "url": "https://www.hoy.es/merida/finalizan-talleres-verano-museo-nacional-arte-romano-20260802080551-nt.html",
-      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
