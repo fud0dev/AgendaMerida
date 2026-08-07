@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-07T08:11:13Z",
-  "count": 147,
+  "updated_at": "2026-08-07T14:11:17Z",
+  "count": 148,
   "events": [
+    {
+      "title": "Mérida habilita un punto de observación gratuito del eclipse guidado por expertos",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/eclipse-merida-alcazaba-sol-gafas-133097843.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
     {
       "title": "Las Fiestas Patrias de Perú llegarán por primera vez a Mérida con música y gastronomía",
       "description": "",
@@ -83,14 +91,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Arianna Aragón, hija de Rody Aragón: \"Qué difícil despedirse de Mérida\"",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/04/arianna-rody-aragon-teatro-merida-133082375.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
       "title": "Vídeo | El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
       "description": "",
       "date": "2026-08-07",
@@ -147,10 +147,42 @@
       "location": "Mérida"
     },
     {
+      "title": "Video | Alan Parsons seduce con su música al Teatro Romano de Mérida",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/29/video-alan-parsons-seduce-musica-teatro-romano-merida-131919204.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las oficinas de turismo de Mérida contabilizan un 31% más de usuarios en julio que hace un año",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.hoy.es/merida/oficinas-turismo-merida-contabilizan-usuarios-julio-ano-20260807151223-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
       "title": "La fábrica de materiales para cátodos de Mérida inicia la instalación de sus sistemas eléctricos",
       "description": "",
       "date": "2026-08-07",
       "url": "https://www.hoy.es/extremadura/fabrica-catodos-merida-inicia-instalacion-sistemas-electricos-20260806205035-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Abierto el plazo de inscripción para la II Pasarela Emérita Fashion Show",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.hoy.es/merida/abierto-plazo-inscripcion-pasarela-emerita-fashion-show-20260807110621-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La administración de La Ranita de la Suerte de Mérida reparte 60.000 euros del segundo premio de la Lotería Nacional",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.hoy.es/merida/administracion-ranita-suerte-merida-reparte-60000-euros-20260807102758-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -163,27 +195,51 @@
       "location": "Mérida"
     },
     {
-      "title": "El Ayuntamiento de Mérida organiza una observación de las Perseidas el martes por la noche en Proserpina",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.hoy.es/merida/ayuntamiento-merida-organiza-observacion-perseidas-martes-noche-20260806130710-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La obra '50.000 pesetas', que recrea el estreno de la 'Medea' de Margarita Xirgu, se representa en la terraza del centro Alcazaba",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.hoy.es/merida/obra-50000-pesetas-recrea-estreno-medea-margarita-20260806144009-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Jornada para disfrutar de  las tradiciones peruanas",
       "description": "",
       "date": "2026-08-07",
       "url": "https://www.hoy.es/merida/jornada-disfrutar-tradiciones-peruanas-20260807091649-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El aislamiento y la precariedad afectan al bienestar de los jóvenes en España",
+      "description": "La Fundación ”la Caixa” recupera varios estudios con motivo del Día Internacional de la Juventud, que se conmemora el 12 de agosto\nCon motivo del...",
+      "date": "2026-08-07",
+      "url": "https://www.meridadiario.com/2026/08/07/el-aislamiento-y-la-precariedad-afectan-al-bienestar-de-los-jovenes-en-espana/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo hoy 7 de Agosto de 2026 en Mérida según AEMET",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://www.meridadiario.com/2026/08/07/el-tiempo-hoy-7-de-agosto-de-2026-en-merida-segun-aemet/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Acueducto de los Milagros acogerá el próximo 11 de agosto la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://merida.es/el-acueducto-de-los-milagros-acogera-el-proximo-11-de-agosto-la-39o-edicion-del-festival-folclorico-de-los-pueblos-del-mundo-de-extremadura/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida continúa creciendo como destino turístico y registra un 30,69% más de visitantes en julio que el año pasado",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://merida.es/merida-continua-creciendo-como-destino-turistico-y-registra-un-3069-mas-de-visitantes-en-julio-que-el-ano-pasado/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida abre el plazo de inscripción para la II Pasarela Emérita Fashion Show 2026",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://merida.es/el-ayuntamiento-de-merida-abre-el-plazo-deinscripcion-para-la-ii-pasarela-emerita-fashion-show2026/",
+      "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
     {
@@ -255,30 +311,6 @@
       "description": "",
       "date": "2026-08-07",
       "url": "https://merida.es/la-policia-local-intervino-en-16-incidentes-de-seguridad-vial-la-semana-pasada/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Cripta de Santa Eulalia vuelve a abrir al público con una nueva musealización que permite recorrer la historia de Mérida desde época romana",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/la-cripta-de-santa-eulalia-vuelve-a-abrir-al-publico-con-una-nueva-musealizacion-que-permite-recorrer-la-historia-de-merida-desde-epoca-romana/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El programa CRISOL Mérida pone en marcha la selección de las personas participantes en los proyectos CRISOL FOR+ 2026",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-programa-crisol-merida-pone-en-marcha-la-seleccion-de-las-personas-participantes-en-los-proyectos-crisol-for-2026/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Centro Cultural Alcazaba acoge la exposición del taller Fotovoz del Centro Residencial de Rehabilitación de Grupo 5",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-centro-cultural-alcazaba-acoge-la-exposicion-del-taller-fotovoz-del-centro-residencial-de-rehabilitacion-de-grupo-5/",
       "source": "Ayuntamiento - Noticias",
       "location": "Mérida"
     },
@@ -555,6 +587,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Mérida crece como destino turístico con más visitantes en julio que el año pasado",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/merida-crece-como-destino-turistico-con-mas-visitantes-en-julio-que-el-ano-pasado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "La piscina del complejo deportivo Diocles abre sus puertas este jueves",
       "description": "",
       "date": "2026-08-07",
@@ -563,10 +603,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Arranca la II Fase de transformación de la Red de abastecimiento de agua de San Juan y Plantonal de Vera",
+      "title": "La comedia vuelve a la escena del Festival de Mérida de la mano de Fernando Tejero",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://cadenaser.com/extremadura/2026/08/04/arranca-la-ii-fase-de-transformacion-de-la-red-de-abastecimiento-de-agua-de-san-juan-y-plantonal-de-vera-ser-merida/",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/la-comedia-vuelve-a-la-escena-del-festival-de-merida-de-la-mano-de-fernando-tejero-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -583,14 +623,6 @@
       "description": "",
       "date": "2026-08-07",
       "url": "https://cadenaser.com/extremadura/2026/08/04/voluntariado-arqueologico-la-inmersion-en-la-historia-de-merida-de-los-veranos-del-ijex-ser-merida/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La comedia vuelve a la escena del Festival de Mérida de la mano de Fernando Tejero",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://cadenaser.com/extremadura/2026/08/03/la-comedia-vuelve-a-la-escena-del-festival-de-merida-de-la-mano-de-fernando-tejero-ser-merida/",
       "source": "Cadena SER Mérida",
       "location": "Mérida"
     },
@@ -635,6 +667,22 @@
       "location": "Mérida"
     },
     {
+      "title": "El delegado del gobierno recuerda al ejecutivo extremeño la obligación de cumplir la ley en la acogida de menores",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/el-delegado-del-gobierno-recuerda-al-ejecutivo-extremeno-la-obligacion-de-cumplir-la-ley-en-la-acogida-de-menores-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Lloyd Bryan aportará fuerza y capacidad reboteadora al nuevo BCB",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/lloyd-bryan-aportara-fuerza-y-capacidad-reboteadora-al-nuevo-bcb-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Confirmado el primer caso de fiebre del Nilo Occidental en Extremadura",
       "description": "",
       "date": "2026-08-07",
@@ -675,6 +723,14 @@
       "location": "Mérida"
     },
     {
+      "title": "Arranca la II Fase de transformación de la Red de abastecimiento de agua de San Juan y Plantonal de Vera",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/arranca-la-ii-fase-de-transformacion-de-la-red-de-abastecimiento-de-agua-de-san-juan-y-plantonal-de-vera-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "La Unión Extremadura pide revisar las restricciones del Plan Infoex y reclama un mayor mantenimiento de las cunetas",
       "description": "",
       "date": "2026-08-07",
@@ -691,34 +747,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Extremadura registra 767 parados menos en julio",
+      "title": "El Acueducto de los Milagros acogerá la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://cadenaser.com/extremadura/2026/08/04/extremadura-registra-767-parados-menos-en-julio-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La historia de Monesterio, marcada por Roma, la Orden de Santiago y el jamón ibérico",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://cadenaser.com/extremadura/2026/08/04/la-historia-de-monesterio-marcada-por-roma-la-orden-de-santiago-y-el-jamon-iberico-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Valverde de Leganés se prepara para vivir la XXIV edición de La Fuga de la Diabla con más participación y una amplia programación cultural",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://cadenaser.com/extremadura/2026/08/04/valverde-de-leganes-se-prepara-para-vivir-la-xxiv-edicion-de-la-fuga-de-la-diabla-con-mas-participacion-y-una-amplia-programacion-cultural-radio-extremadura/",
-      "source": "Cadena SER Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida alcanzará una renovación del 70% de su red de saneamiento con nuevas actuaciones en San Juan y Plantonal de Vera",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/merida-alcanzara-renovacion-70-red-saneamiento-nuevas-actuaciones-san-juan-plantonal-vera_202608046a71d5bba5690f047364e744.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/acueducto-milagros-acogera-39-edicion-festival-folclorico-pueblos-mundo-extremadura_202608076a75b7fda046ad6ebca38449.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -843,18 +875,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Anulada una condena de 16 años por delito sexual en Badajoz porque la víctima admitió que había mentido",
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/anulada-condena-16-anos-delito-sexual-badajoz-porque-victima-admitio-que-habia-mentido_2023053164777fc6a7fe8d0001d37361.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
     {
-      "title": "Nuevas rutas históricas de la masacre de Badajoz",
+      "title": "La terraza de verano del Teatro López de Ayala de Badajoz abre la temporada el sábado con 'Macarrónicos'",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/nuevas-rutas-historicas-masacre-badajoz_202108096110f22fa2c6e00001187883.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/terraza-verano-teatro-lopez-ayala-badajoz-abre-temporada-sabado-macarronicos_20220606629ddac61d1a970001a0ca1c.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -872,6 +904,22 @@
       "date": "2026-08-07",
       "url": "https://merida.es/agenda/xx-ciclo-cine-aire-libre-los-tipos-malos-2/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "La obra '50.000 pesetas', que recrea el estreno de la 'Medea' de Margarita Xirgu, se representa en la terraza del centro Alcazaba",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.hoy.es/merida/obra-50000-pesetas-recrea-estreno-medea-margarita-20260806144009-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida organiza una observación de las Perseidas el martes por la noche en Proserpina",
+      "description": "",
+      "date": "2026-08-06",
+      "url": "https://www.hoy.es/merida/ayuntamiento-merida-organiza-observacion-perseidas-martes-noche-20260806130710-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -899,18 +947,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El SES confirma el primer caso de fiebre del Nilo Occidental en Extremadura en 2026",
-      "description": "El SES reporta un caso de fiebre del Nilo Occidental en ExtremaduraEl Servicio Extremeño de Salud (SES) ha informado sobre la confirmación de un...",
-      "date": "2026-08-06",
-      "url": "https://www.meridadiario.com/2026/08/06/el-ses-confirma-el-primer-caso-de-fiebre-del-nilo-occidental-en-extremadura-en-2026/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "AEMET: El tiempo para Mérida – 6 de Agosto de 2026",
+      "title": "Más de 50.000 Asesoramientos Empresariales en Extremadura Desde 2024",
       "description": "",
       "date": "2026-08-06",
-      "url": "https://www.meridadiario.com/2026/08/06/aemet-el-tiempo-para-merida-6-de-agosto-de-2026/",
+      "url": "https://www.meridadiario.com/2026/08/06/mas-de-50-000-asesoramientos-empresariales-en-extremadura-desde-2024/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -936,14 +976,6 @@
       "date": "2026-08-05",
       "url": "https://www.hoy.es/merida/actriz-influencer-adamari-lopez-hija-promocionan-coleccion-20260805110524-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta de Extremadura destina 3,5 millones de euros en ayudas a la inversión para 38 empresas",
-      "description": "",
-      "date": "2026-08-05",
-      "url": "https://www.meridadiario.com/2026/08/05/la-junta-de-extremadura-destina-35-millones-de-euros-en-ayudas-a-la-inversion-para-38-empresas/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1003,6 +1035,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Junta de Extremadura Completa la Construcción de un Nuevo Depósito Elevado en Malpartida de Cáceres",
+      "description": "",
+      "date": "2026-08-04",
+      "url": "https://www.meridadiario.com/2026/08/04/la-junta-de-extremadura-completa-la-construccion-de-un-nuevo-deposito-elevado-en-malpartida-de-caceres/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "Estabilizado el incendio en la sierra de Arroyo de San Serván",
       "description": "",
       "date": "2026-08-03",
@@ -1019,42 +1059,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El Museo Nacional de Arte Romano acogerá el día 26 un recital de hydraulis",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/museo-nacional-arte-romano-acogera-dia-recital-20260803200525-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "La programación de Agusto en Mérida trae esta semana la representación de 'Caronte' en el Templo de Diana",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/programacion-agusto-merida-trae-semana-representacion-caronte-20260803141246-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cómicos de Roma' trae a Mérida carcajadas y un homenaje al mundo de los actores",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/comicos-roma-trae-merida-carcajadas-homenaje-mundo-20260803141158-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "La Consejería de Educación de Extremadura Invierte 61.000 Euros en el Programa MUS-E para Promover la Inclusión a Través del Arte",
       "description": "",
       "date": "2026-08-03",
       "url": "https://www.meridadiario.com/2026/08/03/la-consejeria-de-educacion-de-extremadura-invierte-61-000-euros-en-el-programa-mus-e-para-promover-la-inclusion-a-traves-del-arte/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Cripta Arqueológica de Santa Eulalia Vuelve a Abrir con un Nuevo Diseño Museográfico",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.meridadiario.com/2026/08/03/la-cripta-arqueologica-de-santa-eulalia-vuelve-a-abrir-con-un-nuevo-diseno-museografico/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
@@ -1075,15 +1083,15 @@
       "location": "Mérida"
     },
     {
-      "title": "La Junta de Extremadura comienza obras para mejorar la seguridad de motoristas en diversas carreteras de Cáceres",
+      "title": "Avances en la recuperación de la balsa Maricana en Jarandilla de la Vera",
       "description": "",
       "date": "2026-07-31",
-      "url": "https://www.meridadiario.com/2026/07/31/la-junta-de-extremadura-comienza-obras-para-mejorar-la-seguridad-de-motoristas-en-diversas-carreteras-de-caceres/",
+      "url": "https://www.meridadiario.com/2026/07/31/avances-en-la-recuperacion-de-la-balsa-maricana-en-jarandilla-de-la-vera/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "La Junta Local de Gobierno aprueba la cesión del circuito de Automodelismo del Prado al Club de Automodelismo Radio Control Mérida por dos años, más dos de prórroga",
+      "title": "La comisaría de Mérida, sin aire en plena ola de calor: “Es imposible trabajar así”",
       "description": "Denuncia por incidentes en el centro de menores de CaminomoriscoLa Junta de Extremadura ha decidido presentar una denuncia ante la Policía Nacional y la...",
       "date": "2026-07-30",
       "url": "https://www.meridadiario.com/",
@@ -1163,18 +1171,18 @@
       "location": "Mérida"
     },
     {
-      "title": "Dónde me atenderá Muface en Mérida",
-      "description": "La posible desaparición del modelo Muface y la incorporación de más de un millón de funcionarios al Sistema Nacional de Salud (SNS) está generando...",
-      "date": "2024-11-20",
-      "url": "https://www.meridadiario.com/2024/11/20/donde-me-atendera-muface-en-merida/",
+      "title": "El DOE Anuncia Nuevas Becas y Ayudas para Estudiantes en Acciones Formativas Estratégicas",
+      "description": "El Diario Oficial de Extremadura Publica Convocatoria de AyudasEl Diario Oficial de Extremadura (DOE) ha hecho público el 2 de diciembre de 2025 una...",
+      "date": "2025-12-02",
+      "url": "https://www.meridadiario.com/2025/12/02/el-doe-anuncia-nuevas-becas-y-ayudas-para-estudiantes-en-acciones-formativas-estrategicas/",
       "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
-      "title": "La Fundación Jiménez Díaz galardonada en ‘Gestión Hospitalaria Global’ como ‘Gran Hospital de referencia regional y nacional’",
-      "description": "La Fundación Jiménez Díaz ha sido distinguida en la XXIV edición de los Premios Hospitales Top 20, entregados por IQVIA, que reconocen anualmente las...",
-      "date": "2023-10-25",
-      "url": "https://www.meridadiario.com/2023/10/25/la-fundacion-jimenez-diaz-galardonada-en-gestion-hospitalaria-global-como-gran-hospital-de-referencia-regional-y-nacional/",
+      "title": "El Club de Lectura Dramatizada organiza una ficción sonora sobre las más famosas radionovelas de todos los tiempos",
+      "description": "Con la colaboración del actor y productor teatral, Esteban G. Ballesteros, se han programado dos sesiones: hoy lunes y mañana martes El club de lectura...",
+      "date": "2023-06-05",
+      "url": "https://www.meridadiario.com/2023/06/05/el-club-de-lectura-dramatizada-organiza-una-ficcion-sonora-sobre-las-mas-famosas-radionovelas-de-todos-los-tiempos/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
