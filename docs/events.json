@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T00:39:44Z",
-  "count": 128,
+  "updated_at": "2026-08-07T08:11:13Z",
+  "count": 147,
   "events": [
     {
       "title": "Las Fiestas Patrias de Perú llegarán por primera vez a Mérida con música y gastronomía",
@@ -147,15 +147,7 @@
       "location": "Mérida"
     },
     {
-      "title": "Video | Alan Parsons seduce con su música al Teatro Romano de Mérida",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/29/video-alan-parsons-seduce-musica-teatro-romano-merida-131919204.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "La fábrica de cátodos de Mérida inicia la instalación de sus sistemas eléctricos",
+      "title": "La fábrica de materiales para cátodos de Mérida inicia la instalación de sus sistemas eléctricos",
       "description": "",
       "date": "2026-08-07",
       "url": "https://www.hoy.es/extremadura/fabrica-catodos-merida-inicia-instalacion-sistemas-electricos-20260806205035-nt.html",
@@ -187,10 +179,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El número de parados se reduce en Mérida en 818 personas desde inicios de esta legislatura",
+      "title": "Jornada para disfrutar de  las tradiciones peruanas",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://www.hoy.es/merida/numero-parados-reduce-merida-818-personas-inicios-20260805124550-nt.html",
+      "url": "https://www.hoy.es/merida/jornada-disfrutar-tradiciones-peruanas-20260807091649-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
@@ -563,6 +555,166 @@
       "location": "Mérida"
     },
     {
+      "title": "La piscina del complejo deportivo Diocles abre sus puertas este jueves",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/la-piscina-del-complejo-deportivos-diocles-abre-sus-puerta-este-jueves-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arranca la II Fase de transformación de la Red de abastecimiento de agua de San Juan y Plantonal de Vera",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/arranca-la-ii-fase-de-transformacion-de-la-red-de-abastecimiento-de-agua-de-san-juan-y-plantonal-de-vera-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Reabre la Cripta de Santa Eulalia tras los trabajos de mejora y musealización",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/reabre-la-cripta-de-santa-eulalia-tras-los-trabajos-de-mejora-y-musealizacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Voluntariado arqueológico, la inmersión en la historia de Mérida de los veranos del IJEX",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/voluntariado-arqueologico-la-inmersion-en-la-historia-de-merida-de-los-veranos-del-ijex-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La comedia vuelve a la escena del Festival de Mérida de la mano de Fernando Tejero",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/la-comedia-vuelve-a-la-escena-del-festival-de-merida-de-la-mano-de-fernando-tejero-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cita con la cinta libanesa 'Un mundo frágil y maravilloso' en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/cita-con-la-cinta-libanesa-un-mundo-fragil-y-maravilloso-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Producción extremeña y accesibilidad a la cultura son las bases del Festival de Mérida en Regina este 2026",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/produccion-extremena-y-accesibilidad-a-la-cultura-son-las-bases-del-festival-de-merida-en-regina-este-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida presenta su nueva web municipal como consolidación del proceso de transformación digital",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-ayuntamiento-de-merida-presenta-su-nueva-web-municipal-como-consolidacion-del-proceso-de-transformacion-digital-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La buena hija', una historia en torno a la violencia de género en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/la-buena-hija-una-historia-en-torno-a-la-violencia-de-genero-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Victoria Nogales: \"La moda no es lo que se lleva cada temporada, es un arte más\"",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/victoria-nogales-la-moda-no-es-lo-que-se-lleva-cada-temporada-es-un-arte-mas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Confirmado el primer caso de fiebre del Nilo Occidental en Extremadura",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/06/confirmado-el-primer-caso-de-fiebre-del-nilo-occidental-en-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La \"Cocosa\" será uno de emplazamientos para vivir de manera especial el eclipse del 12 de agosto",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/06/la-cocosa-sera-uno-de-emplazamientos-para-vivir-de-manera-especial-el-eclipse-del-12-de-agosto-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Observando el eclipse desde un vuelo de Iberia",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/un-extremeno-lidera-un-estudio-pionero-para-analizar-las-emociones-que-provoca-el-eclipse-desde-un-vuelo-cientifico-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Guardia Civil detiene al conductor que se fugó en Villamiel donde murió el conductor de una moto",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/la-guardia-civil-detiene-al-conductor-que-se-fugo-en-villamiel-donde-murio-el-conductor-de-una-moto-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Edificio de los Servicios Fiscales de Badajoz mejora su accesibilidad",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/el-edificio-de-los-servicios-fiscales-de-badajoz-mejora-su-accesibilidad-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Unión Extremadura pide revisar las restricciones del Plan Infoex y reclama un mayor mantenimiento de las cunetas",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/la-union-extremadura-pide-revisar-las-restricciones-del-plan-infoex-y-reclama-un-mayor-mantenimiento-de-las-cunetas-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida baja las cifras de paro en julio en veintitrés personas",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/merida-baja-las-cifras-de-paro-en-julio-en-veintitres-personas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura registra 767 parados menos en julio",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/extremadura-registra-767-parados-menos-en-julio-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La historia de Monesterio, marcada por Roma, la Orden de Santiago y el jamón ibérico",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/la-historia-de-monesterio-marcada-por-roma-la-orden-de-santiago-y-el-jamon-iberico-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Valverde de Leganés se prepara para vivir la XXIV edición de La Fuga de la Diabla con más participación y una amplia programación cultural",
+      "description": "",
+      "date": "2026-08-07",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/valverde-de-leganes-se-prepara-para-vivir-la-xxiv-edicion-de-la-fuga-de-la-diabla-con-mas-participacion-y-una-amplia-programacion-cultural-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
       "title": "Mérida alcanzará una renovación del 70% de su red de saneamiento con nuevas actuaciones en San Juan y Plantonal de Vera",
       "description": "",
       "date": "2026-08-07",
@@ -587,10 +739,10 @@
       "location": "Mérida"
     },
     {
-      "title": "Informativos matinal Más de Uno Extremadura (06/08/26)",
+      "title": "Informativos matinal Más de Uno Extremadura (07/08/26)",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-060826_202608066a7429ff2fec6e00072f1b0a.html",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-070826_202608076a757b87e988610007f578c9.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -699,10 +851,10 @@
       "location": "Mérida"
     },
     {
-      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "title": "Nuevas rutas históricas de la masacre de Badajoz",
       "description": "",
       "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/nuevas-rutas-historicas-masacre-badajoz_202108096110f22fa2c6e00001187883.html",
       "source": "Onda Cero Mérida",
       "location": "Mérida"
     },
@@ -760,6 +912,14 @@
       "date": "2026-08-06",
       "url": "https://www.meridadiario.com/2026/08/06/aemet-el-tiempo-para-merida-6-de-agosto-de-2026/",
       "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El número de parados se reduce en Mérida en 818 personas desde inicios de esta legislatura",
+      "description": "",
+      "date": "2026-08-05",
+      "url": "https://www.hoy.es/merida/numero-parados-reduce-merida-818-personas-inicios-20260805124550-nt.html",
+      "source": "Hoy.es",
       "location": "Mérida"
     },
     {
@@ -879,14 +1039,6 @@
       "description": "",
       "date": "2026-08-03",
       "url": "https://www.hoy.es/merida/comicos-roma-trae-merida-carcajadas-homenaje-mundo-20260803141158-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El almacén secreto con centenares de piezas arqueológicas de Mérida",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/merida/almacen-secreto-centenares-piezas-arqueologicas-merida-20260802080723-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
     },
