@@ -1,35 +1,43 @@
 {
-  "updated_at": "2026-08-07T19:51:17Z",
-  "count": 109,
+  "updated_at": "2026-08-08T07:47:14Z",
+  "count": 147,
   "events": [
     {
-      "title": "Los comercios de Mérida mostrarán sus colecciones en una pasarela de moda monumental",
+      "title": "Las visitas a Mérida crecen un 30% en julio y la ocupación hotelera alcanza el 75%",
       "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/moda-local-merida-talento-desfile-133173347.html",
+      "date": "2026-08-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/08/visitas-turistas-merida-hoteles-verano-133174399.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
     {
-      "title": "Mérida habilita un punto de observación gratuito del eclipse guiado por expertos",
+      "title": "Los comercios de Mérida mostrarán sus colecciones en una pasarela de moda monumental",
       "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/eclipse-merida-alcazaba-sol-gafas-133097843.html",
+      "date": "2026-08-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/moda-local-merida-talento-desfile-133173347.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
     {
       "title": "Herido grave el conductor de un camión que volcó tras chocar con un puente en la A-5 en Arroyo de San Serván",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/herido-grave-conductor-camion-arroyo-de-san-servan-133185662.html",
+      "source": "El Periódico Extremadura",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida habilita un punto de observación gratuito del eclipse guiado por expertos",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/07/eclipse-merida-alcazaba-sol-gafas-133097843.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
     {
       "title": "Las Fiestas Patrias de Perú llegarán por primera vez a Mérida con música y gastronomía",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/06/fiestas-patrias-merida-peru-peruanos-sabores-del-inka-peruanas-fiestas-peruanas-comida-peruana-133150612.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -37,7 +45,7 @@
     {
       "title": "Mérida prepara una noche para observar las Perseidas como antesala del eclipse solar",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/06/merida-prepara-noche-observar-perseidas-133152170.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -45,7 +53,7 @@
     {
       "title": "Restos arqueológicos para descubrir en familia: la Ciudad de la Infancia de Mérida abre su yacimiento",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/06/ciudad-de-prensa-merida-yacimiento-arqueologico-historia-roma-domus-romana-casa-romana-133141365.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -53,7 +61,7 @@
     {
       "title": "Mérida sanciona a ocho empresas y cinco entidades por colocar carteles en farolas y señales",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/06/ayuntamiento-sancion-merida-publicidad-multa-133113219.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -61,7 +69,7 @@
     {
       "title": "Abre el plazo para el sorteo de las entradas del concierto de Sanguijuelas del Guadiana en Mérida",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/abre-plazo-sorteo-entradas-concierto-133121101.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -69,7 +77,7 @@
     {
       "title": "La piscina de Diocles vuelve a abrir sus puertas en Mérida tras las obras de mejoras",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/psicina-reformas-mejoras-merida-verano-133113936.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -77,23 +85,15 @@
     {
       "title": "Mérida renovará 24 kilómetros de tuberías en las barriadas de San Juan y Plantonal de Vera",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/merida/2026/08/05/aqualia-merida-acondicionamiento-abastecimiento-de-agua-agua-133086857.html",
-      "source": "El Periódico Extremadura",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un conductor ebrio colisiona contra varios coches estacionados en Mérida",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.elperiodicoextremadura.com/merida/2026/08/04/colision-heridos-merida-policia-local-133096050.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
     },
     {
       "title": "Vídeo | El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -101,7 +101,7 @@
     {
       "title": "Video | El Mercado de Calatrava empieza a mostrar el museo que Mérida prevé estrenar a finales de 2026",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/07/28/video-obras-mercado-calatrava-empieza-mostrar-nuevo-museo-merida-132889130.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -109,7 +109,7 @@
     {
       "title": "Videos | Así fue el grave incendio que arrasó en Mérida una veintena de vehiculos",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/07/25/videos-grave-incendio-arraso-merida-132795188.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -117,7 +117,7 @@
     {
       "title": "Fotogalería | Los bomberos sofocan el incendio que ha calcinado 20 coches en Mérida",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/07/25/fotogaleria-bomberos-sofocan-incendio-calcinado-132794026.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -125,7 +125,7 @@
     {
       "title": "Video | Un incendio en el polígono El Prado levanta una gran columna de humo sobre Mérida",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/07/24/video-incendio-poligono-prado-levanta-humareda-merida-132783089.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -133,7 +133,7 @@
     {
       "title": "Así se celebró en la Plaza de España de Mérida la final del Mundial",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/07/20/asi-celebro-plaza-espana-merida-final-mundial-132622481.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -141,7 +141,7 @@
     {
       "title": "Fotogalería | Alan Parsons en Mérida",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/fotos/merida/2026/06/29/fotogaleria-alan-parsons-merida-131924791.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -149,7 +149,7 @@
     {
       "title": "Video | Alan Parsons seduce con su música al Teatro Romano de Mérida",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.elperiodicoextremadura.com/videos/merida/2026/06/29/video-alan-parsons-seduce-musica-teatro-romano-merida-131919204.html",
       "source": "El Periódico Extremadura",
       "location": "Mérida"
@@ -157,7 +157,7 @@
     {
       "title": "Las oficinas de turismo de Mérida contabilizan un 31% más de usuarios en julio que hace un año",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.hoy.es/merida/oficinas-turismo-merida-contabilizan-usuarios-julio-ano-20260807151223-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
@@ -165,7 +165,7 @@
     {
       "title": "Abre el Circo Romano como escenario para presenciar el eclipse solar",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.hoy.es/merida/consorcio-ciudad-monumental-abre-circo-romano-escenario-20260807113756-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
@@ -173,7 +173,7 @@
     {
       "title": "La fábrica de materiales para cátodos de Mérida inicia la instalación de sus sistemas eléctricos",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.hoy.es/extremadura/fabrica-catodos-merida-inicia-instalacion-sistemas-electricos-20260806205035-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
@@ -181,7 +181,7 @@
     {
       "title": "Abierto el plazo de inscripción para la II Pasarela Emérita Fashion Show",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.hoy.es/merida/abierto-plazo-inscripcion-pasarela-emerita-fashion-show-20260807110621-nt.html",
       "source": "Hoy.es",
       "location": "Mérida"
@@ -189,9 +189,721 @@
     {
       "title": "La administración de La Ranita de la Suerte de Mérida reparte 60.000 euros del segundo premio de la Lotería Nacional",
       "description": "",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "url": "https://www.hoy.es/merida/administracion-ranita-suerte-merida-reparte-60000-euros-20260807102758-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Herido grave tras sufrir un accidente con el camión en la A-5",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.hoy.es/merida/herido-grave-tras-salida-via-camion-20260808085355-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Pasacalles cómico musical por el centro",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.hoy.es/merida/pasacalles-comico-musical-centro-20260808080800-nt.html",
+      "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida participa en el taller “Pensar la danza” de Escena Patrimonio con formación gratuita",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/merida-participa-en-el-taller-pensar-la-danza-de-escena-patrimonio-con-formacion-gratuita/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Acueducto de los Milagros acogerá el próximo 11 de agosto la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-acueducto-de-los-milagros-acogera-el-proximo-11-de-agosto-la-39o-edicion-del-festival-folclorico-de-los-pueblos-del-mundo-de-extremadura/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida continúa creciendo como destino turístico y registra un 30,69% más de visitantes en julio que el año pasado",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/merida-continua-creciendo-como-destino-turistico-y-registra-un-3069-mas-de-visitantes-en-julio-que-el-ano-pasado/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida abre el plazo de inscripción para la II Pasarela Emérita Fashion Show 2026",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-ayuntamiento-de-merida-abre-el-plazo-deinscripcion-para-la-ii-pasarela-emerita-fashion-show2026/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento culmina la puesta en valor de los restos arqueológicos de la Ciudad de la Infancia con una pasarela accesible para su visita",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-ayuntamiento-culmina-la-puesta-en-valor-de-los-restos-arqueologicos-de-la-ciudad-de-la-infancia-con-una-pasarela-accesible-para-su-visita/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento organiza una observación de las Perseidas para preparar a la ciudadanía ante el gran eclipse solar del 12 de agosto",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-ayuntamiento-organiza-una-observacion-de-las-perseidas-para-preparar-a-la-ciudadania-ante-el-gran-eclipse-solar-del-12-de-agosto/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La terraza del Alcazaba ofrece este viernes 50.000 pesetas que recrea el estreno de la Medea de Margarita Xirgú",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/la-terraza-del-alcazaba-ofrece-este-viernes-50-000-pesetas-que-recrea-el-estreno-de-la-medea-de-margarita-xirgu/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La piscina de Diocles abre mañana tras concluir las obras y será la única que permanecerá abierta hasta el 13 de septiembre",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/la-piscina-de-diocles-abre-manana-tras-concluir-las-obras-y-sera-la-unica-que-permanecera-abierta-hasta-el-13-de-septiembre/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento sanciona a ocho empresas y cinco entidades por colocar publicidad en mobiliario urbano de Mérida",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-ayuntamiento-sanciona-a-ocho-empresas-y-cinco-entidades-por-colocar-publicidad-en-mobiliario-urbano-de-merida/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida vuelve a reducir sus cifras de desempleo en el mes de julio",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/merida-vuelve-a-reducir-sus-cifras-de-desempleo-en-el-mes-de-julio/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento invierte 1,7 millones en renovar 24 kilómetros de la red de abastecimiento de San Juan y Plantonal de Vera",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/el-ayuntamiento-invierte-17-millones-en-renovar-24-kilometros-de-la-red-de-abastecimiento-de-san-juan-y-plantonal-de-vera/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida da la bienvenida a las y los participantes del VI Campo de Voluntariado Juvenil “Yacimiento de Mérida. Arqueología, Historia y Patrimonio”",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://merida.es/merida-da-la-bienvenida-a-las-y-los-participantes-del-vi-campo-de-voluntariado-juvenil-yacimiento-de-merida-arqueologia-historia-y-patrimonio/",
+      "source": "Ayuntamiento - Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida, Cacereño, Extremadura y Coria firman un acuerdo de entradas a 15 € y garantizan un número mínimo para las aficiones visitantes en los derbis extremeños",
+      "description": "por Mérida Noticias en Deportes 0",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/08/03/merida-cacereno-extremadura-y-coria-firman-un-acuerdo-de-entradas-a-15-e-y-garantizan-un-numero-minimo-para-las-aficiones-visitantes-en-los-derbis-extremenos/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Superamos los 3000 abonados",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/31/superamos-los-3000-abonados/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Información de renovación de abonados y cambios de asientos en la AD Mérida",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/30/informacion-de-renovacion-de-abonados-y-cambios-de-asientos-en-la-ad-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "¡Únete a la familia Romana! Buscamos utillero, speaker y médico de grada",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/29/unete-a-la-familia-romana-buscamos-utillero-speaker-y-medico-de-grada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Entradas pretemporada para presenciar el AD Mérida frente al Betis deportivo",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/28/entradas-pretemporada-para-presenciar-el-ad-merida-frente-al-betis-deportivo/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El alcalde de Mérida renueva su abono para la temporada 26/27",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/24/el-alcalde-de-merida-renueva-su-abono-para-la-temporada-26-27/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Míkel Valcárcel se incorpora al cuerpo técnico como analista",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/19/mikel-valcarcel-se-incorpora-al-cuerpo-tecnico-como-analista/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Barbu, nuevo jugador Romano",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/18/barbu-nuevo-jugador-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Bence Juhász, nuevo portero Romano",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/17/bence-juhasz-nuevo-portero-romano/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arranca la pretemporada 26/27",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/07/15/arranca-la-pretemporada-26-27/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local intervino en 21 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/06/17/la-policia-local-intervino-en-21-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Policía Local atendió 19 siniestros viales la semana pasada",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/06/09/la-policia-local-atendio-19-siniestros-viales-la-semana-pasada/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento ha culminado la reparación integral del semáforo de María Auxiliadora y avanza en la modernización de toda la red semafórica de la ciudad",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/06/05/el-ayuntamiento-ha-culminado-la-reparacion-integral-del-semaforo-de-maria-auxiliadora-y-avanza-en-la-modernizacion-de-toda-la-red-semaforica-de-la-ciudad/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "La próxima edición de Emerita Lvdica se celebrará del 7 al 16 de mayo de 2027",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/06/22/la-proxima-edicion-de-emerita-lvdica-se-celebrara-del-7-al-16-de-mayo-de-2027/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "BASES DEL CONCURSO DE FOTOGRAFÍA DE EMERITA LVDICA",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/05/21/bases-del-concurso-de-fotografia-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento recibe unas láminas artísticas protagonizadas por figuras de Playmobil con motivo de Emerita Lvdica",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/05/19/el-ayuntamiento-recibe-unas-laminas-artisticas-protagonizadas-por-figuras-de-playmobil-con-motivo-de-emerita-lvdica/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El teatro interactivo de “La Cena Criminal” este sábado en el Restaurante Sr Pato de Mérida",
+      "description": "por Mérida Noticias en Eventos 0",
+      "date": "2026-08-08",
+      "url": "https://meridanoticias.com/2026/01/14/el-teatro-interactivo-de-la-cena-criminal-este-sabado-en-el-restaurante-sr-pato-de-merida/",
+      "source": "Mérida Noticias",
+      "location": "Mérida"
+    },
+    {
+      "title": "El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
+      "description": "Siniestro vial",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/08/07/herido-grave-conductor-camion-arroyo-de-san-servan-133185661.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arianna Aragón, hija de Rody Aragón: \"Qué difícil despedirse de Mérida\"",
+      "description": "Festival de Teatro Clásico",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/08/04/arianna-rody-aragon-teatro-merida-133082374.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta concluye que el incendio que calcinó 20 vehículos fue provocado en una parcela del Ayuntamiento de Mérida",
+      "description": "Investigación oficial y referencia catastral",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/junta-incendio-prado-merida-parcela-municipal-132970183.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La parcela incendiada en El Prado de Mérida es de la Junta y Fuster acusa al PP de \"faltar a la verdad\"",
+      "description": "Cruce político",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/parcela-incendiada-prado-merida-junta-psoe-pp-132951450.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Osuna critica el \"odio\" de Guardiola a Mérida: \"PP y Vox excluyen del presupuesto 11,9 millones en inversiones para la ciudad\"",
+      "description": "Choque institucional",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/osuna-critica-odio-guardiola-merida-132950048.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "El flechazo de Toni Acosta con Mérida después de ‘Bacanal’: \"Apenas me he ido y ya quiero volver\"",
+      "description": "Idilio teatral",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/flechazo-toni-acosta-merida-despues-bacanal-teatro-132945793.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un ciclista de 81 años, al hospital con varios traumatismos tras ser atropellado por un coche cerca de Mérida",
+      "description": "Sucesos",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/29/ciclista-81-anos-atropellado-coche-traumatismos-hospital-merida-132920723.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "La maestra Juncal Ledo cambia Málaga por Mérida para liderar el renacer del centro infantil Los Diminutos",
+      "description": "Emprender en casa",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/29/maestra-juncal-ledo-cambia-malaga-merida-emprender-centro-infantil-diminutos-132915958.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Sanguijuelas del Guadiana ‘roba’ las llaves del Teatro Romano y abre la puerta a su concierto gratis en Mérida",
+      "description": "Día de Extremadura",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/28/sanguijuelas-guadiana-roba-llaves-teatro-romano-merida-concierto-gratis-132885294.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Mercado de Calatrava empieza a mostrar el museo que Mérida prevé estrenar a finales de 2026",
+      "description": "Transformación cultural",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/28/obras-mercado-calatrava-nuevo-museo-merida-132882320.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Hunan Yuneng avanza en la fábrica de cátodos de Mérida: \"Todo marcha según lo previsto\"",
+      "description": "Proyecto estratégico",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/27/hunan-yuneng-avanza-fabrica-catodos-132849501.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Susto en la piscina del polideportivo Guadiana de Mérida: el incendio de un contenedor obliga a desalojarla",
+      "description": "Suceso",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/25/susto-piscina-municipal-polideportivo-guadiana-132801976.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "El incendio del polígono El Prado de Mérida queda extinguido y comienza la valoración de daños",
+      "description": "Suceso",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/25/incendio-poligono-prado-merida-queda-132795863.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Un incendio en el polígono El Prado de Mérida calcina al menos 20 vehículos y obliga a desalojar la Ciudad Deportiva",
+      "description": "Suceso",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/24/incendio-poligono-prado-levanta-gran-132782505.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una mujer empotra su coche contra el muro del residencial Guadiana de Mérida al sufrir un bajón de azúcar",
+      "description": "Susto en la capital extremeña",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745640.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "El depósito de San Lázaro se pudre entre basura y pintadas y lleva al límite a los vecinos de Mérida",
+      "description": "Patrimonio en peligro",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/deposito-historico-san-lazaro-pudre-basura-pintadas-quejas-vecinos-132726516.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Una casa de Mérida escondía una necrópolis y la historia de una niña cristiana fallecida en el año 516",
+      "description": "Arqueólogos en la capital extremeña",
+      "date": "2026-08-08",
+      "url": "https://www.lacronicabadajoz.com/merida/2026/07/22/casa-merida-escondia-necropolis-historia-nina-cristiana-fallecida-ano-516-132707126.html",
+      "source": "La Crónica de Badajoz",
+      "location": "Mérida"
+    },
+    {
+      "title": "Mérida crece como destino turístico con más visitantes en julio que el año pasado",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/merida-crece-como-destino-turistico-con-mas-visitantes-en-julio-que-el-ano-pasado-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La piscina del complejo deportivo Diocles abre sus puertas este jueves",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/la-piscina-del-complejo-deportivos-diocles-abre-sus-puerta-este-jueves-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La comedia vuelve a la escena del Festival de Mérida de la mano de Fernando Tejero",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/la-comedia-vuelve-a-la-escena-del-festival-de-merida-de-la-mano-de-fernando-tejero-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Reabre la Cripta de Santa Eulalia tras los trabajos de mejora y musealización",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/reabre-la-cripta-de-santa-eulalia-tras-los-trabajos-de-mejora-y-musealizacion-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Voluntariado arqueológico, la inmersión en la historia de Mérida de los veranos del IJEX",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/voluntariado-arqueologico-la-inmersion-en-la-historia-de-merida-de-los-veranos-del-ijex-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Cita con la cinta libanesa 'Un mundo frágil y maravilloso' en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/03/cita-con-la-cinta-libanesa-un-mundo-fragil-y-maravilloso-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Producción extremeña y accesibilidad a la cultura son las bases del Festival de Mérida en Regina este 2026",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/07/29/produccion-extremena-y-accesibilidad-a-la-cultura-son-las-bases-del-festival-de-merida-en-regina-este-2026-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Ayuntamiento de Mérida presenta su nueva web municipal como consolidación del proceso de transformación digital",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/07/28/el-ayuntamiento-de-merida-presenta-su-nueva-web-municipal-como-consolidacion-del-proceso-de-transformacion-digital-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'La buena hija', una historia en torno a la violencia de género en Cinema Aestas",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/la-buena-hija-una-historia-en-torno-a-la-violencia-de-genero-en-cinema-aestas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Victoria Nogales: \"La moda no es lo que se lleva cada temporada, es un arte más\"",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/07/27/victoria-nogales-la-moda-no-es-lo-que-se-lleva-cada-temporada-es-un-arte-mas-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La dificultad para retener el talento joven es el principal reto de las empresas familiares en Extremadura",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/la-dificultad-para-retener-el-talento-joven-el-principal-reto-de-las-empresas-familiares-en-extremadura-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El delegado del gobierno recuerda al ejecutivo extremeño la obligación de cumplir la ley en la acogida de menores",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/el-delegado-del-gobierno-recuerda-al-ejecutivo-extremeno-la-obligacion-de-cumplir-la-ley-en-la-acogida-de-menores-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Lloyd Bryan aportará fuerza y capacidad reboteadora al nuevo BCB",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/07/lloyd-bryan-aportara-fuerza-y-capacidad-reboteadora-al-nuevo-bcb-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Confirmado el primer caso de fiebre del Nilo Occidental en Extremadura",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/06/confirmado-el-primer-caso-de-fiebre-del-nilo-occidental-en-extremadura-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La \"Cocosa\" será uno de emplazamientos para vivir de manera especial el eclipse del 12 de agosto",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/06/la-cocosa-sera-uno-de-emplazamientos-para-vivir-de-manera-especial-el-eclipse-del-12-de-agosto-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Observando el eclipse desde un vuelo de Iberia",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/un-extremeno-lidera-un-estudio-pionero-para-analizar-las-emociones-que-provoca-el-eclipse-desde-un-vuelo-cientifico-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Guardia Civil detiene al conductor que se fugó en Villamiel donde murió el conductor de una moto",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/05/la-guardia-civil-detiene-al-conductor-que-se-fugo-en-villamiel-donde-murio-el-conductor-de-una-moto-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Edificio de los Servicios Fiscales de Badajoz mejora su accesibilidad",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/el-edificio-de-los-servicios-fiscales-de-badajoz-mejora-su-accesibilidad-radio-extremadura/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Arranca la II Fase de transformación de la Red de abastecimiento de agua de San Juan y Plantonal de Vera",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/arranca-la-ii-fase-de-transformacion-de-la-red-de-abastecimiento-de-agua-de-san-juan-y-plantonal-de-vera-ser-merida/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Unión Extremadura pide revisar las restricciones del Plan Infoex y reclama un mayor mantenimiento de las cunetas",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://cadenaser.com/extremadura/2026/08/04/la-union-extremadura-pide-revisar-las-restricciones-del-plan-infoex-y-reclama-un-mayor-mantenimiento-de-las-cunetas-ser-vegas-altas/",
+      "source": "Cadena SER Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Acueducto de los Milagros acogerá la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/acueducto-milagros-acogera-39-edicion-festival-folclorico-pueblos-mundo-extremadura_202608076a75b7fda046ad6ebca38449.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Javi Areso: \"En un club como el Mérida, la presión es una señal de grandeza\".",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/javi-areso-club-como-merida-presion-senal-grandeza_202608036a7081302fec6e00072f1357.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "La piscina municipal del Diocles abre mañana al público tras finalizar las obras de remodelación",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/piscina-municipal-diocles-abre-manana-publico-finalizar-obras-remodelacion_202608056a73077171b42a0b5ddcabfc.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos matinal Más de Uno Extremadura (07/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-070826_202608076a757b87e988610007f578c9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos matinal Más de Uno Mérida (17/07/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-170726_202607176a5a175537e4a800076a4888.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (06/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativos-mediodia-merida-060826_202608066a74768020648f000727aa56.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Conoce los secretos de 'Un mundo frágil y maravilloso' donde el amor y la amistad se ven marcados por las circunstancias de un país",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/conoce-secretos-mundo-fragil-maravilloso-donde-amor-amistad-ven-marcados-circunstancias-pais_202608036a707e4620648f000727a168.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "'Cómicos de Roma' donde las risas y el desastre van de la mano",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/comicos-roma-donde-risas-desastre-van-mano_202608056a7323c5e988610007f57488.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El guitarrista emeritense Nacho Cuadrado se corona en el Festival de Elche",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/guitarrista-emeritense-nacho-cuadrado-corona-festival-elche_202607316a704e62456bb0e42f773583.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (06/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-060826_202608066a7474332fec6e00072f1c4c.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (05/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-050826_202608056a732623bc1eb0e43e174763.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (05/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-050826_202608056a73260f2fec6e00072f1994.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Más de uno Extremadura (04/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-040826_202608046a71d460bc1eb0e43d144763.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Informativos mediodía Mérida (04/08/26)",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativos-mediodia-merida-040826_202608046a71d40e2fec6e00072f16a0.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Trinidad Nogales, directora del (MNAR): \"Esta medalla es el reflejo de nuestra enorme riqueza patrimonial\"",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/trinidad-nogales-directora-mnar-esta-medalla-reflejo-nuestra-enorme-riqueza-patrimonial_202608046a71ce1d456bb0e4517b3583.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "El Premio Nobel de Química 2012 o la astronauta Sara García participarán en Badajoz en el Congreso de Biotecnología",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/premio-nobel-quimica-2012-astronauta-sara-garcia-participaran-badajoz-congreso-biotecnologia_20230616648c2bdf9d4a8300014bc9c2.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "PSOE de Badajoz critica que la piscina climatizada de San Roque siga cerrada tras vencer el plazo para la deshumectadora",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/psoe-badajoz-critica-que-piscina-climatizada-san-roque-siga-cerrada-vencer-plazo-deshumectadora_202607296a69e227a046ad6ebc8e8d09.html",
+      "source": "Onda Cero Mérida",
+      "location": "Mérida"
+    },
+    {
+      "title": "Jornada Intercultural Perú ‘Fiestas Patrias’",
+      "description": "Mérida acogerá por primera vez un encuentro intercultural con motivo de las Fiestas Patrias del Perú 2026, una iniciativa organizada gracias a la Asociación de Peruanos Residentes en Extremadura y Sabores del Inka. El próximo sábado, 8 de agosto, el Parque López de Ayala será escenario de una jor...",
+      "date": "2026-08-08",
+      "url": "https://merida.es/agenda/jornada-intercultural-peru-fiestas-patrias/",
+      "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Las Mañanas del Festival: «Yo, Tamayo»",
+      "description": "El sábado 8 de agosto, a las 12:30 horas, La Enredadera acogerá una dramatización teatral y presentación del proyecto teatral escénico sobre la biografía de José Tamayo. \"YO, TAMAYO\" es un proyecto teatral de Javier Llanos inspirada en la biografía profesional de José Tamayo, hasta el año 1963, c...",
+      "date": "2026-08-08",
+      "url": "https://merida.es/agenda/las-mananas-del-festival-yo-tamayo/",
+      "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "Pasacalles «Horatius et Arcadia Orchestra»",
+      "description": "“Horatius et Arcadia Orchestra” toma como punto de partida al poeta latino Horacio (65 – 8 a. de C.), quien en el primer libro de las Odas aconseja a su amiga Leucone: “Carpe diem, quam minimim credula postero”, que se traduce como: “Aprovecha el día de hoy; confía lo menos posible en el mañana”....",
+      "date": "2026-08-08",
+      "url": "https://merida.es/agenda/pasacalles-horatius-et-arcadia-orchestra-5/",
+      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -224,390 +936,6 @@
       "date": "2026-08-07",
       "url": "https://www.meridadiario.com/2026/08/07/el-tiempo-hoy-7-de-agosto-de-2026-en-merida-segun-aemet/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida participa en el taller “Pensar la danza” de Escena Patrimonio con formación gratuita",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/merida-participa-en-el-taller-pensar-la-danza-de-escena-patrimonio-con-formacion-gratuita/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Acueducto de los Milagros acogerá el próximo 11 de agosto la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-acueducto-de-los-milagros-acogera-el-proximo-11-de-agosto-la-39o-edicion-del-festival-folclorico-de-los-pueblos-del-mundo-de-extremadura/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida continúa creciendo como destino turístico y registra un 30,69% más de visitantes en julio que el año pasado",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/merida-continua-creciendo-como-destino-turistico-y-registra-un-3069-mas-de-visitantes-en-julio-que-el-ano-pasado/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento de Mérida abre el plazo de inscripción para la II Pasarela Emérita Fashion Show 2026",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-ayuntamiento-de-merida-abre-el-plazo-deinscripcion-para-la-ii-pasarela-emerita-fashion-show2026/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento culmina la puesta en valor de los restos arqueológicos de la Ciudad de la Infancia con una pasarela accesible para su visita",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-ayuntamiento-culmina-la-puesta-en-valor-de-los-restos-arqueologicos-de-la-ciudad-de-la-infancia-con-una-pasarela-accesible-para-su-visita/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento organiza una observación de las Perseidas para preparar a la ciudadanía ante el gran eclipse solar del 12 de agosto",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-ayuntamiento-organiza-una-observacion-de-las-perseidas-para-preparar-a-la-ciudadania-ante-el-gran-eclipse-solar-del-12-de-agosto/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La terraza del Alcazaba ofrece este viernes 50.000 pesetas que recrea el estreno de la Medea de Margarita Xirgú",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/la-terraza-del-alcazaba-ofrece-este-viernes-50-000-pesetas-que-recrea-el-estreno-de-la-medea-de-margarita-xirgu/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "La piscina de Diocles abre mañana tras concluir las obras y será la única que permanecerá abierta hasta el 13 de septiembre",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/la-piscina-de-diocles-abre-manana-tras-concluir-las-obras-y-sera-la-unica-que-permanecera-abierta-hasta-el-13-de-septiembre/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento sanciona a ocho empresas y cinco entidades por colocar publicidad en mobiliario urbano de Mérida",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-ayuntamiento-sanciona-a-ocho-empresas-y-cinco-entidades-por-colocar-publicidad-en-mobiliario-urbano-de-merida/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida vuelve a reducir sus cifras de desempleo en el mes de julio",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/merida-vuelve-a-reducir-sus-cifras-de-desempleo-en-el-mes-de-julio/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Ayuntamiento invierte 1,7 millones en renovar 24 kilómetros de la red de abastecimiento de San Juan y Plantonal de Vera",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/el-ayuntamiento-invierte-17-millones-en-renovar-24-kilometros-de-la-red-de-abastecimiento-de-san-juan-y-plantonal-de-vera/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "Mérida da la bienvenida a las y los participantes del VI Campo de Voluntariado Juvenil “Yacimiento de Mérida. Arqueología, Historia y Patrimonio”",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://merida.es/merida-da-la-bienvenida-a-las-y-los-participantes-del-vi-campo-de-voluntariado-juvenil-yacimiento-de-merida-arqueologia-historia-y-patrimonio/",
-      "source": "Ayuntamiento - Noticias",
-      "location": "Mérida"
-    },
-    {
-      "title": "El piloto de drones de Calamonte al que pidieron rescatar una oveja y que hizo llegar medicinas a una familia aislada en Montijo",
-      "description": "Siniestro vial",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/08/07/herido-grave-conductor-camion-arroyo-de-san-servan-133185661.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Arianna Aragón, hija de Rody Aragón: \"Qué difícil despedirse de Mérida\"",
-      "description": "Festival de Teatro Clásico",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/08/04/arianna-rody-aragon-teatro-merida-133082374.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La Junta concluye que el incendio que calcinó 20 vehículos fue provocado en una parcela del Ayuntamiento de Mérida",
-      "description": "Investigación oficial y referencia catastral",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/junta-incendio-prado-merida-parcela-municipal-132970183.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La parcela incendiada en El Prado de Mérida es de la Junta y Fuster acusa al PP de \"faltar a la verdad\"",
-      "description": "Cruce político",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/parcela-incendiada-prado-merida-junta-psoe-pp-132951450.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Osuna critica el \"odio\" de Guardiola a Mérida: \"PP y Vox excluyen del presupuesto 11,9 millones en inversiones para la ciudad\"",
-      "description": "Choque institucional",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/osuna-critica-odio-guardiola-merida-132950048.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El flechazo de Toni Acosta con Mérida después de ‘Bacanal’: \"Apenas me he ido y ya quiero volver\"",
-      "description": "Idilio teatral",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/30/flechazo-toni-acosta-merida-despues-bacanal-teatro-132945793.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un ciclista de 81 años, al hospital con varios traumatismos tras ser atropellado por un coche cerca de Mérida",
-      "description": "Sucesos",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/29/ciclista-81-anos-atropellado-coche-traumatismos-hospital-merida-132920723.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "La maestra Juncal Ledo cambia Málaga por Mérida para liderar el renacer del centro infantil Los Diminutos",
-      "description": "Emprender en casa",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/29/maestra-juncal-ledo-cambia-malaga-merida-emprender-centro-infantil-diminutos-132915958.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Sanguijuelas del Guadiana ‘roba’ las llaves del Teatro Romano y abre la puerta a su concierto gratis en Mérida",
-      "description": "Día de Extremadura",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/28/sanguijuelas-guadiana-roba-llaves-teatro-romano-merida-concierto-gratis-132885294.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Mercado de Calatrava empieza a mostrar el museo que Mérida prevé estrenar a finales de 2026",
-      "description": "Transformación cultural",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/28/obras-mercado-calatrava-nuevo-museo-merida-132882320.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Hunan Yuneng avanza en la fábrica de cátodos de Mérida: \"Todo marcha según lo previsto\"",
-      "description": "Proyecto estratégico",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/27/hunan-yuneng-avanza-fabrica-catodos-132849501.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Susto en la piscina del polideportivo Guadiana de Mérida: el incendio de un contenedor obliga a desalojarla",
-      "description": "Suceso",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/25/susto-piscina-municipal-polideportivo-guadiana-132801976.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El incendio del polígono El Prado de Mérida queda extinguido y comienza la valoración de daños",
-      "description": "Suceso",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/25/incendio-poligono-prado-merida-queda-132795863.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Un incendio en el polígono El Prado de Mérida calcina al menos 20 vehículos y obliga a desalojar la Ciudad Deportiva",
-      "description": "Suceso",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/24/incendio-poligono-prado-levanta-gran-132782505.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una mujer empotra su coche contra el muro del residencial Guadiana de Mérida al sufrir un bajón de azúcar",
-      "description": "Susto en la capital extremeña",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/mujer-empotra-coche-muro-residencial-guadiana-merida-132745640.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El depósito de San Lázaro se pudre entre basura y pintadas y lleva al límite a los vecinos de Mérida",
-      "description": "Patrimonio en peligro",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/23/deposito-historico-san-lazaro-pudre-basura-pintadas-quejas-vecinos-132726516.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "Una casa de Mérida escondía una necrópolis y la historia de una niña cristiana fallecida en el año 516",
-      "description": "Arqueólogos en la capital extremeña",
-      "date": "2026-08-07",
-      "url": "https://www.lacronicabadajoz.com/merida/2026/07/22/casa-merida-escondia-necropolis-historia-nina-cristiana-fallecida-ano-516-132707126.html",
-      "source": "La Crónica de Badajoz",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Acueducto de los Milagros acogerá la 39º edición del Festival Folclórico de los Pueblos del Mundo de Extremadura",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/acueducto-milagros-acogera-39-edicion-festival-folclorico-pueblos-mundo-extremadura_202608076a75b7fda046ad6ebca38449.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Javi Areso: \"En un club como el Mérida, la presión es una señal de grandeza\".",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/javi-areso-club-como-merida-presion-senal-grandeza_202608036a7081302fec6e00072f1357.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La piscina municipal del Diocles abre mañana al público tras finalizar las obras de remodelación",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/merida/noticias/piscina-municipal-diocles-abre-manana-publico-finalizar-obras-remodelacion_202608056a73077171b42a0b5ddcabfc.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Extremadura (07/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-extremadura/informativos-matinal-mas-uno-extremadura-070826_202608076a757b87e988610007f578c9.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos matinal Más de Uno Mérida (17/07/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-matinal-mas-uno-merida-170726_202607176a5a175537e4a800076a4888.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (06/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativos-mediodia-merida-060826_202608066a74768020648f000727aa56.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Conoce los secretos de 'Un mundo frágil y maravilloso' donde el amor y la amistad se ven marcados por las circunstancias de un país",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/conoce-secretos-mundo-fragil-maravilloso-donde-amor-amistad-ven-marcados-circunstancias-pais_202608036a707e4620648f000727a168.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "'Cómicos de Roma' donde las risas y el desastre van de la mano",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/comicos-roma-donde-risas-desastre-van-mano_202608056a7323c5e988610007f57488.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "El guitarrista emeritense Nacho Cuadrado se corona en el Festival de Elche",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/guitarrista-emeritense-nacho-cuadrado-corona-festival-elche_202607316a704e62456bb0e42f773583.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (06/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-060826_202608066a7474332fec6e00072f1c4c.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (05/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-050826_202608056a732623bc1eb0e43e174763.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (05/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/informativos-merida/informativos-mediodia-merida-050826_202608056a73260f2fec6e00072f1994.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de uno Extremadura (04/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/mas-uno-extremadura-040826_202608046a71d460bc1eb0e43d144763.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Informativos mediodía Mérida (04/08/26)",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/informativos-mediodia-merida-040826_202608046a71d40e2fec6e00072f16a0.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "Trinidad Nogales, directora del (MNAR): \"Esta medalla es el reflejo de nuestra enorme riqueza patrimonial\"",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/podcast/emisoras/merida/mas-de-uno-merida/trinidad-nogales-directora-mnar-esta-medalla-reflejo-nuestra-enorme-riqueza-patrimonial_202608046a71ce1d456bb0e4517b3583.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "PSOE de Badajoz critica que la piscina climatizada de San Roque siga cerrada tras vencer el plazo para la deshumectadora",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/psoe-badajoz-critica-que-piscina-climatizada-san-roque-siga-cerrada-vencer-plazo-deshumectadora_202607296a69e227a046ad6ebc8e8d09.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "EN DIRECTO: Especial El Transistor desde Badajoz",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/jose-ramon-morena-directo-badajoz_2021051860a37963a8294d0001a693d9.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "La terraza de verano del Teatro López de Ayala de Badajoz abre la temporada el sábado con 'Macarrónicos'",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.ondacero.es/emisoras/extremadura/badajoz/noticias/terraza-verano-teatro-lopez-ayala-badajoz-abre-temporada-sabado-macarronicos_20220606629ddac61d1a970001a0ca1c.html",
-      "source": "Onda Cero Mérida",
-      "location": "Mérida"
-    },
-    {
-      "title": "XX Ciclo Cine Aire Libre: «Los tipos malos 2»",
-      "description": "Título original: The Bad Guys 2 País: Estados Unidos Año: 2025 Duración: 103' Dirección: Pierre Perifel, JP Sans Guión: Elisa Bell, Jessica Bendinger, Greg DePaul. Libro: Aaron Blabey Género: Animación. Comedia Reparto: - Sinopsis: Un genial equipo de animales que no respetan la ley, los ahora mu...",
-      "date": "2026-08-07",
-      "url": "https://merida.es/agenda/xx-ciclo-cine-aire-libre-los-tipos-malos-2/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -723,14 +1051,6 @@
       "location": "Mérida"
     },
     {
-      "title": "El fuego de la sierra de San Serván, ya controlado, quema 107 hectáreas",
-      "description": "",
-      "date": "2026-08-04",
-      "url": "https://www.hoy.es/merida/fuego-sierra-san-servan-controlado-quema-107-20260804111807-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "Educación lanza el ‘Proyecto ZOE’ para estudiantes hospitalizados en Extremadura",
       "description": "Proyecto ZOE: educación para estudiantes hospitalizados La Consejería de Educación y Formación Profesional de Extremadura ha dado un paso importante con la implementación del...",
       "date": "2026-08-04",
@@ -747,27 +1067,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Estabilizado el incendio en la sierra de Arroyo de San Serván",
-      "description": "",
-      "date": "2026-08-03",
-      "url": "https://www.hoy.es/prov-badajoz/declarado-nivel-peligrosidad-incendio-arroyo-san-servan-20260803183607-nt.html",
-      "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
       "title": "La Consejería de Educación de Extremadura Invierte 61.000 Euros en el Programa MUS-E para Promover la Inclusión a Través del Arte",
       "description": "",
       "date": "2026-08-03",
       "url": "https://www.meridadiario.com/2026/08/03/la-consejeria-de-educacion-de-extremadura-invierte-61-000-euros-en-el-programa-mus-e-para-promover-la-inclusion-a-traves-del-arte/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Agusto en Mérida: «Caronte (La rebelión de las almas)»",
-      "description": "Título de la obra: Caronte (La rebelión de las almas) Compañía: Escuela de Teatro TAPTC Sinopsis: ¿Qué ocurre cuando el poder económico cruza las puertas del Hades y se establece como norma? Las almas condenadas tendrán que decidir si se someten a la ley de la moneda o se enfrentan con el olvido....",
-      "date": "2026-08-03",
-      "url": "https://merida.es/agenda/agusto-en-merida-caronte/",
-      "source": "Ayuntamiento - Agenda",
       "location": "Mérida"
     },
     {
@@ -795,11 +1099,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Exposición ‘Tres tiempos, una vida’ del Taller Fotovoz",
-      "description": "El Centro Cultural Alcazaba acoge desde el 28 de julio hasta el 7 de agosto la exposición 'Tres tiempos, una vida' del Taller Fotovoz, desarrollado por el Centro Residencial de Rehabilitación (CRR) de Grupo 5 en Mérida, una propuesta que utiliza la fotografía como herramienta de expresión, comuni...",
+      "title": "Del 30 de julio al 2 de agosto «Mercado de Artesanía de Verano» en el Parque de las Méridas del Mundo",
+      "description": "",
       "date": "2026-07-28",
-      "url": "https://merida.es/agenda/exposicion-tres-tiempos-una-vida-taller-fotovoz/",
-      "source": "Ayuntamiento - Agenda",
+      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
+      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
