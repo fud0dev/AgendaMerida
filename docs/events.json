@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T07:47:14Z",
-  "count": 147,
+  "updated_at": "2026-08-08T13:42:46Z",
+  "count": 145,
   "events": [
     {
       "title": "Las visitas a Mérida crecen un 30% en julio y la ocupación hotelera alcanza el 75%",
@@ -208,6 +208,30 @@
       "date": "2026-08-08",
       "url": "https://www.hoy.es/merida/pasacalles-comico-musical-centro-20260808080800-nt.html",
       "source": "Hoy.es",
+      "location": "Mérida"
+    },
+    {
+      "title": "La Junta de Extremadura Anuncia los Premios de Artesanía para 2026 con una Dotación de 25.000 Euros",
+      "description": "Convocatoria de los Premios de Artesanía de Extremadura 2026La Junta de Extremadura ha puesto en marcha la convocatoria para los prestigiosos Premios de Artesanía...",
+      "date": "2026-08-08",
+      "url": "https://www.meridadiario.com/2026/08/08/la-junta-de-extremadura-anuncia-los-premios-de-artesania-para-2026-con-una-dotacion-de-25-000-euros/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "El tiempo en Mérida hoy, 8 de Agosto de 2026",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.meridadiario.com/2026/08/08/el-tiempo-en-merida-hoy-8-de-agosto-de-2026/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
+      "title": "Extremadura refuerza su atractivo turístico con nuevas iniciativas para observar eclipses",
+      "description": "",
+      "date": "2026-08-08",
+      "url": "https://www.meridadiario.com/2026/08/08/extremadura-refuerza-su-atractivo-turistico-con-nuevas-iniciativas-para-observar-eclipses/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -891,14 +915,6 @@
       "location": "Mérida"
     },
     {
-      "title": "Las Mañanas del Festival: «Yo, Tamayo»",
-      "description": "El sábado 8 de agosto, a las 12:30 horas, La Enredadera acogerá una dramatización teatral y presentación del proyecto teatral escénico sobre la biografía de José Tamayo. \"YO, TAMAYO\" es un proyecto teatral de Javier Llanos inspirada en la biografía profesional de José Tamayo, hasta el año 1963, c...",
-      "date": "2026-08-08",
-      "url": "https://merida.es/agenda/las-mananas-del-festival-yo-tamayo/",
-      "source": "Ayuntamiento - Agenda",
-      "location": "Mérida"
-    },
-    {
       "title": "Pasacalles «Horatius et Arcadia Orchestra»",
       "description": "“Horatius et Arcadia Orchestra” toma como punto de partida al poeta latino Horacio (65 – 8 a. de C.), quien en el primer libro de las Odas aconseja a su amiga Leucone: “Carpe diem, quam minimim credula postero”, que se traduce como: “Aprovecha el día de hoy; confía lo menos posible en el mañana”....",
       "date": "2026-08-08",
@@ -920,22 +936,6 @@
       "date": "2026-08-07",
       "url": "https://www.hoy.es/merida/jornada-disfrutar-tradiciones-peruanas-20260807091649-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "El aislamiento y la precariedad afectan al bienestar de los jóvenes en España",
-      "description": "La Fundación ”la Caixa” recupera varios estudios con motivo del Día Internacional de la Juventud, que se conmemora el 12 de agosto\nCon motivo del...",
-      "date": "2026-08-07",
-      "url": "https://www.meridadiario.com/2026/08/07/el-aislamiento-y-la-precariedad-afectan-al-bienestar-de-los-jovenes-en-espana/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El tiempo hoy 7 de Agosto de 2026 en Mérida según AEMET",
-      "description": "",
-      "date": "2026-08-07",
-      "url": "https://www.meridadiario.com/2026/08/07/el-tiempo-hoy-7-de-agosto-de-2026-en-merida-segun-aemet/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -976,14 +976,6 @@
       "date": "2026-08-06",
       "url": "https://www.hoy.es/merida/120-ninos-aprenden-naturaleza-20260806084339-nt.html",
       "source": "Hoy.es",
-      "location": "Mérida"
-    },
-    {
-      "title": "Más de 50.000 Asesoramientos Empresariales en Extremadura Desde 2024",
-      "description": "",
-      "date": "2026-08-06",
-      "url": "https://www.meridadiario.com/2026/08/06/mas-de-50-000-asesoramientos-empresariales-en-extremadura-desde-2024/",
-      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1075,6 +1067,14 @@
       "location": "Mérida"
     },
     {
+      "title": "La Cripta Arqueológica de Santa Eulalia Vuelve a Abrir con un Nuevo Diseño Museográfico",
+      "description": "",
+      "date": "2026-08-03",
+      "url": "https://www.meridadiario.com/2026/08/03/la-cripta-arqueologica-de-santa-eulalia-vuelve-a-abrir-con-un-nuevo-diseno-museografico/",
+      "source": "Mérida Diario",
+      "location": "Mérida"
+    },
+    {
       "title": "El Plan Infoex Actúa en 14 Incendios Forestales en la Última Semana",
       "description": "",
       "date": "2026-08-02",
@@ -1083,27 +1083,11 @@
       "location": "Mérida"
     },
     {
-      "title": "Avances en la recuperación de la balsa Maricana en Jarandilla de la Vera",
-      "description": "",
-      "date": "2026-07-31",
-      "url": "https://www.meridadiario.com/2026/07/31/avances-en-la-recuperacion-de-la-balsa-maricana-en-jarandilla-de-la-vera/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "La comisaría de Mérida, sin aire en plena ola de calor: “Es imposible trabajar así”",
+      "title": "La oferta cultural de la Sala Trajano se destaca con Cecilia Zango y el circo-teatro ‘Sosiego’ este fin de semana",
       "description": "Denuncia por incidentes en el centro de menores de CaminomoriscoLa Junta de Extremadura ha decidido presentar una denuncia ante la Policía Nacional y la...",
       "date": "2026-07-30",
       "url": "https://www.meridadiario.com/",
       "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "Del 30 de julio al 2 de agosto «Mercado de Artesanía de Verano» en el Parque de las Méridas del Mundo",
-      "description": "",
-      "date": "2026-07-28",
-      "url": "https://www.kia.com/es/concesionarios/gedautoservicios/todo-sobre-kia/quienes-somos/#/",
-      "source": "Mérida y Comarca",
       "location": "Mérida"
     },
     {
@@ -1112,6 +1096,14 @@
       "date": "2026-07-11",
       "url": "https://merida.es/agenda/xx-ciclo-cine-aire-libre-2026/",
       "source": "Ayuntamiento - Agenda",
+      "location": "Mérida"
+    },
+    {
+      "title": "LALIGA firma el mayor crecimiento comercial de las grandes ligas europeas",
+      "description": "Los clubes de LALIGA incrementaron sus ingresos comerciales un 22% durante la temporada 2024/25, el mayor crecimiento registrado entre las cinco grandes competiciones europeas...",
+      "date": "2026-07-10",
+      "url": "https://www.meridadiario.com/2026/07/10/laliga-firma-el-mayor-crecimiento-comercial-de-las-grandes-ligas-europeas/",
+      "source": "Mérida Diario",
       "location": "Mérida"
     },
     {
@@ -1163,18 +1155,10 @@
       "location": "Mérida"
     },
     {
-      "title": "El DOE Anuncia Nuevas Becas y Ayudas para Estudiantes en Acciones Formativas Estratégicas",
-      "description": "El Diario Oficial de Extremadura Publica Convocatoria de AyudasEl Diario Oficial de Extremadura (DOE) ha hecho público el 2 de diciembre de 2025 una...",
-      "date": "2025-12-02",
-      "url": "https://www.meridadiario.com/2025/12/02/el-doe-anuncia-nuevas-becas-y-ayudas-para-estudiantes-en-acciones-formativas-estrategicas/",
-      "source": "Mérida Diario",
-      "location": "Mérida"
-    },
-    {
-      "title": "El Club de Lectura Dramatizada organiza una ficción sonora sobre las más famosas radionovelas de todos los tiempos",
-      "description": "Con la colaboración del actor y productor teatral, Esteban G. Ballesteros, se han programado dos sesiones: hoy lunes y mañana martes El club de lectura...",
-      "date": "2023-06-05",
-      "url": "https://www.meridadiario.com/2023/06/05/el-club-de-lectura-dramatizada-organiza-una-ficcion-sonora-sobre-las-mas-famosas-radionovelas-de-todos-los-tiempos/",
+      "title": "Historia Académica en España: Universidades Pontificia de Salamanca, Deusto, Alfonso X el Sabio y Ramón Llull",
+      "description": "El 44% de las universidades españolas son de carácter privado y casi la mitad de ellas se fundaron a finales del siglo XX.\n...",
+      "date": "2023-10-19",
+      "url": "https://www.meridadiario.com/2023/10/19/historia-academica-en-espana-universidades-pontificia-de-salamanca-deusto-alfonso-x-el-sabio-y-ramon-llull/",
       "source": "Mérida Diario",
       "location": "Mérida"
     }
